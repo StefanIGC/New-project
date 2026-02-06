@@ -279,6 +279,36 @@
       color: var(--text);
     }
 
+    .review-panel {
+      display: grid;
+      gap: 16px;
+    }
+
+    .review-list-container {
+      max-height: 70vh;
+      overflow: auto;
+      display: grid;
+      gap: 16px;
+      padding-right: 4px;
+    }
+
+    .qa-item {
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .qa-item .question {
+      margin: 0 0 8px 0;
+      font-size: 1rem;
+    }
+
+    .qa-item .answer {
+      color: var(--accent-2);
+      font-size: 0.95rem;
+    }
+
     .score {
       font-size: clamp(2.4rem, 2vw + 1.6rem, 3.2rem);
       color: var(--accent-2);
@@ -323,6 +353,9 @@
             <button class="ghost small" id="reset-stats-btn">Resetează statistica</button>
           </div>
           <div class="stats-list" id="stats-list"></div>
+          <div class="actions">
+            <button class="ghost" id="view-questions-btn">Vezi întrebările</button>
+          </div>
         </div>
       </div>
       <div class="actions">
@@ -358,6 +391,16 @@
         <button class="primary" id="menu-btn">Înapoi la meniu</button>
       </div>
     </section>
+
+    <section class="panel hidden" id="qa-panel">
+      <div class="review-panel">
+        <div class="stats">
+          <div class="chip" id="qa-title">Întrebări</div>
+          <button class="ghost small" id="qa-back-btn">Înapoi la meniu</button>
+        </div>
+        <div class="review-list-container" id="qa-body"></div>
+      </div>
+    </section>
   </div>
 
   <script>
@@ -388,6 +431,11 @@
     const testSelect = document.getElementById("test-select");
     const menuCountEl = document.getElementById("menu-q-count");
     const limitSelect = document.getElementById("limit-select");
+    const viewQuestionsBtn = document.getElementById("view-questions-btn");
+    const qaBody = document.getElementById("qa-body");
+    const qaTitle = document.getElementById("qa-title");
+    const qaPanel = document.getElementById("qa-panel");
+    const qaBackBtn = document.getElementById("qa-back-btn");
 
     let quizQuestions = [];
     let currentIndex = 0;
@@ -495,6 +543,7 @@
       quizPanel.classList.add("hidden");
       resultPanel.classList.add("hidden");
       abandonWrap.classList.add("hidden");
+      qaPanel.classList.add("hidden");
       menuPanel.classList.remove("hidden");
       renderStats();
       renderTestSelect();
@@ -705,6 +754,27 @@
       if (activeTestMeta) menuCountEl.textContent = activeTestMeta.count;
     }
 
+    function renderQuestionsModal() {
+      if (!activeTest) return;
+      qaTitle.textContent = `${activeTest.name} — întrebări și răspunsuri`;
+      qaBody.innerHTML = "";
+      activeTest.questions.forEach((q, idx) => {
+        const correctIndices = getCorrectIndices(q);
+        const correctText = correctIndices.map(i => q.options[i]).join(", ");
+        const item = document.createElement("div");
+        item.className = "qa-item";
+        item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}</div><div class=\"answer\">Răspuns corect: ${correctText}</div>`;
+        qaBody.appendChild(item);
+      });
+      menuPanel.classList.add("hidden");
+      qaPanel.classList.remove("hidden");
+    }
+
+    function closeQuestionsPanel() {
+      qaPanel.classList.add("hidden");
+      menuPanel.classList.remove("hidden");
+    }
+
     function renderLimitSelect() {
       const total = activeTestMeta ? activeTestMeta.count : 0;
       limitSelect.innerHTML = "";
@@ -741,6 +811,13 @@
     document.getElementById("next-btn").addEventListener("click", goNext);
     confirmBtn.addEventListener("click", confirmMultiAnswer);
     document.getElementById("menu-btn").addEventListener("click", showMenu);
+    viewQuestionsBtn.addEventListener("click", async () => {
+      if (!activeTest) {
+        await setActiveTest(activeTestMeta?.id || testsIndex[0]?.id);
+      }
+      renderQuestionsModal();
+    });
+    qaBackBtn.addEventListener("click", closeQuestionsPanel);
 
     abandonBtn.addEventListener("click", () => {
       const ok = confirm("Vrei să abandonezi testul? Progresul curent se va pierde.");
