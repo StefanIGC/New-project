@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Test Grilă Medicină</title>
+  <title>Hai Rodica ❤️</title>
   <style>
     :root {
-      --bg1: #0b1f2a;
-      --bg2: #102a3a;
-      --accent: #f29e38;
-      --accent-2: #5eead4;
-      --text: #f2f5f7;
-      --muted: #a8b4bd;
-      --card: rgba(255, 255, 255, 0.06);
-      --ok: #22c55e;
-      --bad: #ef4444;
+      --bg1: #2a0f1e;
+      --bg2: #3a1630;
+      --accent: #f472b6;
+      --accent-2: #f9a8d4;
+      --text: #fff7fb;
+      --muted: #f3cde0;
+      --card: rgba(255, 255, 255, 0.08);
+      --ok: #f472b6;
+      --bad: #fb7185;
       --shadow: 0 20px 60px rgba(0,0,0,0.35);
     }
 
@@ -24,8 +24,8 @@
       margin: 0;
       font-family: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
       color: var(--text);
-      background: radial-gradient(1200px 600px at 10% 10%, #16364a 0%, transparent 60%),
-                  radial-gradient(1000px 800px at 90% 10%, #132f44 0%, transparent 55%),
+      background: radial-gradient(1200px 600px at 10% 10%, #5b1d47 0%, transparent 60%),
+                  radial-gradient(1000px 800px at 90% 10%, #4a1b3c 0%, transparent 55%),
                   linear-gradient(180deg, var(--bg1), var(--bg2));
       min-height: 100vh;
       display: grid;
@@ -235,7 +235,7 @@
 
     button.primary {
       background: var(--accent);
-      color: #1b1b1b;
+      color: #3b0a26;
       border: none;
       border-radius: 999px;
       padding: 12px 20px;
@@ -286,9 +286,9 @@
 <body>
   <div class="app">
     <header>
-      <div class="kicker">Test Grilă</div>
-      <h1>Medic Pro 10</h1>
-      <p class="sub">Alege răspunsul corect pentru fiecare întrebare. Vei primi exact 10 întrebări. La final primești nota și feedback.</p>
+      <div class="kicker">Hai Rodica ❤️</div>
+      <h1>Hai Rodica ❤️</h1>
+      <p class="sub">Testele sunt pentru tine. Alege un test și începe — fiecare răspuns e un pas înainte. Ești foarte bravo! 💖</p>
     </header>
 
     <section class="panel" id="menu-panel">
@@ -371,7 +371,7 @@
     </section>
 
     <section class="panel hidden" id="result-panel">
-      <h2>Rezultat final</h2>
+      <h2>Rezultat final 💗</h2>
       <p class="result">Ai răspuns la toate întrebările.</p>
       <div class="score" id="final-score"></div>
       <p class="result" id="final-message"></p>
@@ -648,12 +648,23 @@
     let activeTest = tests[0];
     let profile = { name: "", avatar: "" };
     let stats = [];
+    const encouragements = [
+      "Rodica, ești foarte bravo! 💖 Stefan te iubește. 🌸",
+      "Rodica, ești foarte bravo! 💗 Stefan te iubește. ✨",
+      "Rodica, ești foarte bravo! 🌷 Stefan te iubește. 💕",
+      "Rodica, ești foarte bravo! 🫶 Stefan te iubește. 🌟",
+      "Rodica, ești foarte bravo! 💞 Stefan te iubește. 🌼"
+    ];
 
     function shuffle(array) {
       return array
         .map(value => ({ value, sort: Math.random() }))
         .sort((a, b) => a.sort - b.sort)
         .map(({ value }) => value);
+    }
+
+    function pickEncouragement() {
+      return encouragements[Math.floor(Math.random() * encouragements.length)];
     }
 
     function loadState() {
@@ -782,12 +793,12 @@
       if (index === correctIndex) {
         score += 1;
         scoreEl.textContent = score;
-        feedbackEl.textContent = "Corect!";
+        feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
         feedbackEl.classList.add("ok");
         setTimeout(goNext, 600);
       } else {
         button.classList.add("wrong");
-        feedbackEl.textContent = `Greșit. Răspuns corect: ${current.options[correctIndex]}`;
+        feedbackEl.textContent = `Greșit. Răspuns corect: ${current.options[correctIndex]}. ${pickEncouragement()}`;
         feedbackEl.classList.add("bad");
         nextBtn.classList.remove("hidden");
       }
@@ -809,13 +820,13 @@
       finalScoreEl.textContent = `Nota: ${score} / ${quizQuestions.length}`;
       const percent = Math.round((score / quizQuestions.length) * 100);
       if (percent >= 90) {
-        finalMessageEl.textContent = "Excelent! Ai o bază solidă de cunoștințe medicale.";
+        finalMessageEl.textContent = `Excelent! ${pickEncouragement()} 🎉`;
       } else if (percent >= 70) {
-        finalMessageEl.textContent = "Foarte bine! Mai rămân câteva detalii de fixat.";
+        finalMessageEl.textContent = `Foarte bine! ${pickEncouragement()} 💪`;
       } else if (percent >= 50) {
-        finalMessageEl.textContent = "Bine. Recomand să mai exersezi subiectele cheie.";
+        finalMessageEl.textContent = `Bine! ${pickEncouragement()} 📚`;
       } else {
-        finalMessageEl.textContent = "Nu te descuraja. Revino după o recapitulare scurtă.";
+        finalMessageEl.textContent = `Nu te descuraja. ${pickEncouragement()} 🌈`;
       }
       addStatEntry();
     }
