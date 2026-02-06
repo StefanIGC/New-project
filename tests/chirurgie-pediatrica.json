@@ -1,0 +1,1908 @@
+{
+  "id": "chirurgie-pediatrica",
+  "name": "Chirurgie pediatrică",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Selectați afecțiunea în care nou - născutul se asfixiază şi respiră greu, iar gura i se umple cu secreţii salivare are:",
+      "options": [
+        "Emfizem lobar congenital acut",
+        "Chist bronhogen tensionat",
+        "Pneumotorax spontan tensionat",
+        "Fistulă eso - traheală",
+        "Atrezie de esofag"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Selectați semnul de certitudine în diagnosticul stenozei hipertrofice congenitale de pilor:",
+      "options": [
+        "Vărsătura de la naştere",
+        "Pliul cutanat leneş",
+        "Scaunul cu caracter de constipaţie",
+        "Palparea olivei",
+        "Stagnarea staturo - ponderală"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Alegeți simptomul principal la debutul stenozei hipertrofice de pilor:",
+      "options": [
+        "Ascensiunea termică",
+        "Agitația copilului",
+        "Vărsătura bilioasă repetată",
+        "Vărsătura “albă”, în get",
+        "Constipația severă"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Alegeți simptomul dominant în atrezia duodenului:",
+      "options": [
+        "Vărsătura de culoarea laptelui ingerat, în get",
+        "Vărsătura bilioasă sau alimentară precoce, repetată",
+        "Vărsătura bilioasă, apoi meconială",
+        "Vărsătura cu aspect meconial, apoi fecaloid",
+        "Abdomenul distensiat"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Indicați simptomul clinic al ocluziei intestinale congenitale înalte:",
+      "options": [
+        "Vărsături alimentare",
+        "Vărsături bilioase, lipsa tranzitului meconial",
+        "Vărsături meconiale, apoi fecaloide",
+        "Vărsături meconiale, apoi fecaloide, lipsa tranzitului meconial",
+        "Vărsături hemoragice"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Numiți diagnosticul la prezența la nou născut a 2 imagini hidroaerice în etajul abdominal superior (de o parte și de alta a coloanei  vertebrale) la radiograma toraco - abdominală simplă în poziție ortostatică:",
+      "options": [
+        "Stenoza hipertrofică congenitală de pilor",
+        "Atrezia duodenului după papila Vateri",
+        "Stenoza duodenului",
+        "Ileusul meconial",
+        "Peritonita meconială"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Selectați simptomul capital în vărsătura bilioasă la nou născut:",
+      "options": [
+        "Stenoza hipertrofică congenitală de pilor",
+        "Spasmul piloric",
+        "Ileus meconial",
+        "Atrezia duodenului după papila Vateri",
+        "Malformaţii cardiotuberozitare (hernie hiatală)"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Selectați simptomul dominant al ocluziei intestinale congenitale înalte:",
+      "options": [
+        "Vărsătura alimentară",
+        "Vărsătura bilioasă",
+        "Vărsătura alimentară cu striuri sanguine",
+        "Tranzitul meconial redus",
+        "Distensia abdominală impresionantă"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Numiți simptomul dominant al ocluziei intestinale congenitale joase:",
+      "options": [
+        "Vărsături bilioase din primele 24 ore de viaţă",
+        "Vărsături bilioase după 24-48 ore de viață, apoi vărsături cu conținut intestinal",
+        "Durere colicativă abdominală",
+        "Rectoragie spontană",
+        "Meconiu foarte vâscos, aderent la peretele intestinului"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Numiți afecțiunea congenitală în care trebuie să fie suspectat orice nou – născut care varsă bilios:",
+      "options": [
+        "Reflux gastro - esofagian",
+        "Stenoză hipertrofică de pilor",
+        "Ocluzie congenitală duodenală sau de intestin subţire",
+        "Peritonita meconială",
+        "Megacolon congenital"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Numiți complicația cea mai frecventă și gravă a malrotației intestinului:",
+      "options": [
+        "Stenoza de ileon",
+        "Invaginaţia întestinală",
+        "Gastrita meconială",
+        "Enterocolita ulceroasă",
+        "Volvulusul intestinului"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Numiți cauza care generează apariția afecțiunii Hirschsprung:",
+      "options": [
+        "Atrezii ano-rectale complecte",
+        "Atrezii ano-rectale cu fistule perirectale",
+        "Fistule congenitale ano-rectale",
+        "Aganglionoza sau hipoganglionoza rectală şi/sau rectosigmoidală",
+        "Alimentaţie incorectă"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Selectați afecțiunea, în care constipația este simptomul principal (cu variații de la caz la caz) în perioada neonatală, de sugar și în restul copilăriei:",
+      "options": [
+        "Stenoză anorectală",
+        "Megacolon idiopatic",
+        "Megacolon simptomatic",
+        "Megacolon congenital",
+        "Malrotaţiile intestinului"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Numiți afecțiunea pentru care sunt caracteristice durerile colicative asociate cu vărsături alimentare în plină stare de sănătate la sugarul trecut la alimentație diversificată:",
+      "options": [
+        "Diverticulită",
+        "Apendicită acută",
+        "Gastroenterită",
+        "Invaginaţie intestinală",
+        "Enterocolită ulcero-necrotică"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Selectați afecțiunea pentru care este caracterizată rectoragia spontană, instalată la 12-24 ore de la debutul bolii la sugarul cu durere  abdominală colicativă şi vărsături alimentare:",
+      "options": [
+        "Diverticulul Meckel",
+        "Enterocolită  ulcero - necrotică",
+        "Polipoza rectocolică",
+        "Polipul rectal",
+        "Invaginaţia intestinală"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 16,
+      "text": "Marcați patologia pentru care este caracterizată triada clasică - dureri abdominale paroxistice în alternanţă cu perioade de acalmie, însoţite de vărsături alimentare, sângerare rectală la sugarul de 7 luni:",
+      "options": [
+        "Apendicită acută",
+        "Volvulus intestinal",
+        "Invaginaţie intestinală",
+        "Enterocolită acută",
+        "Diverticul Meckel hemoragic"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Marcați afirmația referitor la invaginaţia intestinală la sugar:",
+      "options": [
+        "Este  o ocluzie intestinală funcţională",
+        "Debutul afecţiunii este lent",
+        "Se întâlneşte predominant la copilul mare",
+        "Nu se întâlneşte la sugar",
+        "Tratamentul este conservator şi /sau chirurgical"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Selectați afirmația incorectă referitor la sângerarea rectală în invaginația intestinală la sugar:",
+      "options": [
+        "Apare precoce cu ocazia  primelor crize dureroase",
+        "Este un semn tardiv",
+        "În ce priveşte gradul sângerării, sub raport cantitativ, există variaţii",
+        "Aspectul sângelui eliminat este diferit",
+        "Prin tuşeu rectal sângele trebuie căutat nu aşteptat"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Marcați simptomul major al ocluziei intestinale mecanice la sugar:",
+      "options": [
+        "Durerea abdominală colicativă, intermitentă",
+        "Durerea abdominală bontă",
+        "Poate fi oprit tranzitul intestinal pentru materii fecale",
+        "Poate fi oprit tranzitul intestinal pentru gaze",
+        "Hematochezia"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Marcați simptomul principal funcțional al apendicitei acute:",
+      "options": [
+        "Inapetenţa",
+        "Vărsăturile bilioase",
+        "Durerea abdominală continuă",
+        "Durerea abdominală colicativă",
+        "Meteorismul abdominal"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Numiți cea mai frecventă tulburare de tranzit în apendicita acută la nou - născut:",
+      "options": [
+        "Constipaţia",
+        "Diareea",
+        "Rectoragia",
+        "Scaune diareice cu mucozităţi sangvinolente",
+        "Nici un răspuns nu este corect"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Selectați debutul peritonitei primitive la copil:",
+      "options": [
+        "Brutal, cu durere abdominală violentă",
+        "Lent cu durere continuă",
+        "Lent, cu durere difuză ştearsă",
+        "Lent, cu durere colicativă",
+        "Lent, cu durere crescândă"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Marcați complicația cea mai frecventă a enterocolitei ulcero - necrotice la nou -  născut, sugarul mic:",
+      "options": [
+        "Plastronul intraperitoneal",
+        "Invaginaţia intestinală",
+        "Volvulus intestinal",
+        "Peritonita perforativă",
+        "Metastazele septice viscerale"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Numiți cauza predominantă a hemoragiei digestive inferioare la sugar:",
+      "options": [
+        "Sindromul Peutz - Jeggers",
+        "Invaginaţia intestinală acută",
+        "Diverticulul Meckel",
+        "Purpura  Werlhoff",
+        "Volvulusul cronic de intestin subţire"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Precizați cauza hemoragiei digestive la copilul de 1-3 ani cu excepția:",
+      "options": [
+        "Dublicaţii de intestin",
+        "Diverticulită Meckel",
+        "Diverticul Meckel ulcerat",
+        "Hernii hiatale",
+        "Afecţiunea Şereşevschii - Terner."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Numiți afirmația incorectă despre emfizemul lobar congenital sunt false, cu excepţia:",
+      "options": [
+        "În emfizemul lobar congenital manifestările clinice sunt absente în toate formele",
+        "În emfizemul lobar congenital simptomul dominant este starea septică însoţită de febră",
+        "În emfizemul lobar congenital simptomatologia dominantă este dispnea, polipnea, cianoza progresive",
+        "În emfizemul lobar congenital simptomul dominant este tusea însoțită de o spută mucopurulentă",
+        "În emfizemul lobar congenital radiologic se observă o imagine rotundă hidroaerică  în hemitoracele afectat"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Selectați manifestările clinice ale emfizemului mediastinal:",
+      "options": [
+        "Dispnee, tuse uscată chinuitoare",
+        "Durere retrosternală, dispnee, tuse, ascensiune termică",
+        "Durere în hemitorace pe dreapta, dispnee, emfizem subcutanat",
+        "Durere retrosternală, dispnee, voce răguşită, emfizem subcutanat în regiunile suprasternală, supraclaviculare",
+        "Dispnee, tusă uscată, hemoragie pulmonară"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Numiți simptomul permanent al pneumomediastinitei:",
+      "options": [
+        "Tahicardia extremă",
+        "Tusea chinuitoare",
+        "Hemoptizia",
+        "Emfizemul subcutanat supraclavicular şi cervical",
+        "Dispneea"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Numiți simptomul principal, dominant în nefroblastom (tumora Wilms):",
+      "options": [
+        "Disuria",
+        "Retenţia acută de urină",
+        "Incontinenţă de urină",
+        "Tumora abdominală în flanc cu contact lombar",
+        "Durerea abdominală  violentă"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Indicați tumorile maligne mai frecvent întâlnite la sugar:",
+      "options": [
+        "Reticulosarcomul Ewing",
+        "Neuroblastomul",
+        "Sarcomul osteogen",
+        "Limfomul malign Hodgkin",
+        "Limfangiomul"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Selectați simptomul local principal al flegmonului  necrotic extensiv al nou -  născutului:",
+      "options": [
+        "Echimoza",
+        "Limfostaza",
+        "Hiperemia",
+        "Zemuirea cutanată",
+        "Sectorul afectat e strict limitat"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Selectați următoarele afirmaţii despre osteomielita hematogenă acută care sunt adevărate, cu excepţia:",
+      "options": [
+        "Osteomielita hematogenă acută este afecţiune osoasă gravă a organismului în creştere",
+        "Se localizează la nivelul metafizei osoase",
+        "Afectează cu predilecţie oasele plate",
+        "Afectează mai frecvent oasele tubulare lungi",
+        "Mai des se îmbolnăvesc băiţeii"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Următoarele afimații despre osteomielita hematogenă acută la copil sunt adevărate cu excepția: a) [ x] Factorul determinant este traumatismul osteo - articular",
+      "options": [
+        "Factorul determinant este flora microbiană",
+        "Stările de carenţă în hipoalimentaţie favorizează declanşarea procesului osteomieliti",
+        "Afecţiunile infecţioase, stările toxice favorizează apariţia osteomielitei hematogene acute e) [] Evoluţia osteomielitei hematogene acute este gravă cu complicaţii septice"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Numiți malformația congenitală pentru care este caracteristică incontinența urinară permanentă:",
+      "options": [
+        "Extrofia de vezică",
+        "Duplicaţia vezicală",
+        "Sindromul megavezică - megaureter",
+        "Rinichi dublu cu ectopia ureterului",
+        "Fistula de uracă"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 35,
+      "text": "Numiți afirmația incorectă a torsiunii de testicul:",
+      "options": [
+        "Sensul torsiunii se face spre linia mediană a corpului",
+        "Se  întâlneşte la orice vârstă",
+        "Simptomul dominant este durerea violentă şi continuă în hemiscrotul afectat",
+        "Ridicarea scrotului afectat calmează durerea",
+        "Ridicarea scrotului afectat exacerbează durerea"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Numiți afecțiunea în sindromul scrotului acut în care ridicarea scrotului intensifică durerea:",
+      "options": [
+        "Torsiunea hidatidei Morgagni",
+        "Torsiunea de testicul",
+        "Traumatismele scrotale",
+        "Orhiepididimita acută microbiană",
+        "Edemul scrotal acut"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Selectați afecțiunea în care tumora \"fantomă\" abdominală la  nou născut este simptomul    patognomonic în:",
+      "options": [
+        "Volvulus intestinal acut",
+        "Invaginaţia intestinală",
+        "Hidronefroza congenitală",
+        "Sindromul dopului de meconiu",
+        "Chist de mezenter"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Numiți afecțiunea în care tabloul clinic este identic cu inflamaţia diverticului Meckel:",
+      "options": [
+        "Limfadenita  mezenterică",
+        "Ulcerul peptic perforat",
+        "Invaginaţia intestinală",
+        "Apendicita acută",
+        "Pancreatita acută"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Numiți cel mai important semn în hernia inghinală strangulată la sugar:",
+      "options": [
+        "Agitaţia copilului",
+        "Vărsăturile alimentare",
+        "Oprirea tranzitului intestinal",
+        "Tumoră inghinală evidentă, situată la orificiul extern al canalului inghinal, dureroasă la palpare, de mobilitate redusă, ireductibilă",
+        "Tumoră inghinală evidentă, nedureroasă la palpare, cu mobilitate  laterală, ireductibilă"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Selectați simptomul capital al osteomielitei  hematogene acute:",
+      "options": [
+        "Durerea  osoasă vie exacerbată de mișcări",
+        "Durerea nocturnă",
+        "Durerea vie migrătoare",
+        "Durerea continue exacerbată în repaus",
+        "Nici un răspuns nu este corect"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 41,
+      "text": "Selectați simptomatologia dominantă la nou născutul cu atrezie de esofag:",
+      "options": [
+        "Tuse şi cianoză în momentul fiecărei alimentaţii",
+        "Regurgitaţie de alimente",
+        "Hipersalivaţie şi stagnarea bucofaringiană a secreţiilor salivare",
+        "Criză dramatică de asfixie cu tuse şi cianoză la tentativa de a alimenta copilul",
+        "Respiraţie polipneică"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 42,
+      "text": "Numiți semnele perforației esofagiene la copil:",
+      "options": [
+        "Durere retrosternală vie ascuţită",
+        "Durere cu sediu corelabil cu sediul perforaţiei, agravată de deglutiţie",
+        "Disfagie",
+        "Emfizem subcutanat supraclavicular, cervical",
+        "Distensie abdominală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 43,
+      "text": "Selectați semnele concludente pentru stabilirea diagnosticului stenozei congenitale de pilor:",
+      "options": [
+        "Dureri colicative abdominale",
+        "Vărsături bilioase",
+        "Vărsături în get de culoarea laptelui îngerat",
+        "Unde peristaltice vizibile în epigastru",
+        "Prezenţa tumorii pilorice"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 44,
+      "text": "Caracterizați vărsătura în stenoza hipertrofică congenitală de pilor:",
+      "options": [
+        "Este rar întâlnită",
+        "Apare în jurul vârstei de 14-21 zile de viaţă",
+        "Este postprandială (după mâncare)",
+        "Este albă",
+        "Poate conţine striuri de sânge"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 45,
+      "text": "Selectați afirmaţiile corecte referitor la semnele clinice ale stenozei congenitale hipertrofice de pilor:",
+      "options": [
+        "Vărsăturile albe reprezintă simptomul dominant al bolii",
+        "Vărsăturile albe abundente, frecvente de la debutul bolii",
+        "Copilul îşi pierde apetitul de la debutul bolii",
+        "Copilul îşi păstrează apetitul și, imediat ce varsă, este dispus să sugă",
+        "Pe măsura progresării stenozei vărsăturile devin mai frecvente, se produc în jet, la distanță"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 46,
+      "text": "Precizați simptomatologia dominantă la copilul  cu atrezia duodenului:",
+      "options": [
+        "Vărsătura bilioasă sau alimentara",
+        "Vărsătura în get",
+        "Abdomen distensiat cu edem al peretelui abdominal inferior",
+        "Abdomen retractat",
+        "Scaunul meconial scund sau normal"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 47,
+      "text": "Selectați afirmațiile corecte  despre simptomatologia atreziilor duodenale:",
+      "options": [
+        "Simptomul  dominant  este vărsătura alimentară sau bilioasă",
+        "Simptomul  dominant  este voma postprandiala în get",
+        "Scaunul meconial lipseşte",
+        "După stimulări rectale  poate apărea  o cantitate mică  de materii  colorate cenuşiu, murdar",
+        "După stimulări rectale apar eliminări meconiale abundente"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 48,
+      "text": "Numiți simptomatologia dominantă în ocluzia congenitală jejunoileală:",
+      "options": [
+        "Din prima zi după naştere vărsături bilioase frecvente",
+        "Din prima zi după naştere vărsături bilioase frecvente, abundente, apoi vărsături cu aspect meconial",
+        "Abdomen distensiat in etajul interior",
+        "Abdomen  retractat",
+        "Lipsa meconiului sau prezenţa mucozităţilor cu puţine materii de culoare cenuşie"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 49,
+      "text": "Selectați afirmaţiile corecte despre atreziile colonice:",
+      "options": [
+        "Simptomul dominant este vărsătura",
+        "Vărsăturile apar din primele ore de viaţă",
+        "Vărsăturile apar după 24-48 ore de la naştere",
+        "Abdomenul are aspect absolut normal",
+        "Abdomenul este distenziat"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 50,
+      "text": "Selectați afirmaţiile corecte despre afecţiunea Hirschprung:",
+      "options": [
+        "Este o obstrucţie parţială organică",
+        "Este o obstrucţie parţială funcţională",
+        "Este provocată de absenţa celulelor  ganglionare din plexul mienteric Auerbach şi Meissner",
+        "În aproximativ 90 % din cazuri aganglionoza se extinde pe întreg cadrul colic",
+        "În aproximativ 90 % din cazuri aganglionoza se limitează la rect şi zona rectosigmoidului"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 51,
+      "text": "Numiți afirmațiile corecte în forma malignă  de megacolon congenital:",
+      "options": [
+        "Fazele de constipaţie sunt întrerupte de enterocolită",
+        "Scaunele diareice sunt abundente şi putride",
+        "Enterocolita este o complicaţie gravă",
+        "Enterocolita nu agravează starea generală a copilului",
+        "Degradarea stării generale apare rapid, prin deshidratare şi pierderi electrolitice"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 52,
+      "text": "Selectați simptomatologia afecţiunii Hirschprung  în perioada de sugar şi copil:",
+      "options": [
+        "Simptomul principal este constipaţia",
+        "Scaunele spontane sunt frecvente",
+        "Scaunele spontane devin din ce în ce mai rare",
+        "Enterocolita, complicaţie gravă, are frecvenţa şi gravitatea   din perioada neonatală",
+        "Enterocolita, complicaţie gravă, nu mai are frecvenţa şi gravitatea   din perioada neonatală"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 53,
+      "text": "Selectați cauzele favorizante în producerea invaginaţiei intestinale la sugari:",
+      "options": [
+        "Polipozele intestinale",
+        "Virozele sezoniere",
+        "Diversificarea alimentaţiei",
+        "Dezvoltarea anormală  a regiunii ceco-colice în raport cu intestinul subţire",
+        "Lipsa de acolare a ceco - colonului ascendent la peritoneul parietal posterior"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 54,
+      "text": "Selectați simptomele clinice ale invaginaţiei intestinale la sugar în primele 12 ore:",
+      "options": [
+        "Stare de agitaţie",
+        "Abdomen meteorizat",
+        "Vărsături cu conţinut intestinal",
+        "Semnul biberonului",
+        "Vărsături alimentare"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 55,
+      "text": "Numiți simptomele specifice de invaginației intestinale la sugar după 12-24 ore de la debut:",
+      "options": [
+        "Meteorizarea abdomenului",
+        "Vărsături frecvente cu conţinut intestinal",
+        "Vărsături frecvente cu striuri de sânge",
+        "Vărsăturile încetează",
+        "Rectoragia apare spontan"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 56,
+      "text": "Selectați simptomele specifice ale  invaginaţiei intestinale a sugarului la debut:",
+      "options": [
+        "Durere abdominală colicativă",
+        "Durere abdominală continuă",
+        "Vărsături alimentare",
+        "Vărsături albe explozive, în jet",
+        "Scaune cu sânge sau serozităţi sanguinolente"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 57,
+      "text": "Selectați semnele fizice în invaginaţia intestinală acută a sugarului:",
+      "options": [
+        "Apărare musculară",
+        "Contractură musculară",
+        "Se poate palpa tumora de invaginaţie",
+        "Se palpează întotdeaunaa tumora de invaginaţie",
+        "Poare fi prezent semnul fosei iliace drepte goale (semnul Dance)"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 58,
+      "text": "Numiți triada  simptomatică clasică în invaginaţia intestinală acută la sugar:",
+      "options": [
+        "Durere colicativă",
+        "Durere acută continuă",
+        "Vărsături alimentare reflexe",
+        "Scaune diareice sangvinolente",
+        "Rectoragie"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 59,
+      "text": "Selectați manifestările clince în invaginaţia intestinală a sugarului, faza de epuizare,  datorată infarctizării ansei intestinale invaginate:",
+      "options": [
+        "Încetează starea de agitaţie",
+        "Sugarul este palid, somnolent, devine indiferent",
+        "Vărsăturile încetează",
+        "În faza  aceasta se palpează uşor tumora: de invaginaţie",
+        "În faza aceasta tumora de invaginaţie este imposibil de determinat"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 60,
+      "text": "Marcați simptomatologia volvulusului acut la nou născut:",
+      "options": [
+        "Stare de agitaţie",
+        "Vărsături bilioase",
+        "Oprirea tranzitului intestinal",
+        "Abdomenul este destins",
+        "Abdomenul poate fi destins"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 61,
+      "text": "Marcați simptomatologia volvusului cronic la sugar:",
+      "options": [
+        "Vărsături neregulate",
+        "Dureri abdominale de intensitate variabilă",
+        "Poftă de mâncare scăzută",
+        "Stagnare staturo - ponderală",
+        "Radiografia abdominală \"pe gol\" arată o imagine dublă aerică  în talere de  balanţă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 62,
+      "text": "Numiți afecțiunile care pot fi generate de rotaţiile  incomplete de intestin sau lipsa de acolare a intestinului:",
+      "options": [
+        "Volvulus acut sau cronic",
+        "Stenoze de duoden prin compresie extrinsecă",
+        "Hernii srtangulate interne  în diverse fosete mezenterice",
+        "Invaginaţii intestinale",
+        "Megacolon simptomatic"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 63,
+      "text": "Marcați semnele dominante ale apendicitei acute la sugar:",
+      "options": [
+        "Stare de agitaţie neobişnuită cu perturbarea somnului",
+        "Vărsături, refuzul alimentaţiei",
+        "Distensie abdominală",
+        "Sensibilitate dureroasă difuză, mai accentuată periumbilical",
+        "Episoade dureroase intermitente"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 64,
+      "text": "Marcați semnele dominante ale apendicitei acute la copilul de vârstă fragedă:",
+      "options": [
+        "Durere difuză pe tot abdomenul",
+        "Stare febrilă",
+        "Vărsături repetate",
+        "Constipaţie",
+        "Abdomen retractat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 65,
+      "text": "Numiți semnele care sunt apreciate la examenul palpatoriu al abdomenului la copilul de vârstă fragedă cu apendicită acută (la debutul bolii):",
+      "options": [
+        "Formaţiune tumorală dureroasă la palpare",
+        "Contractură musculară generalizată",
+        "Sensibilitate difuză a peretelui abdominal",
+        "Un oarecare grad de rezistenţă a peretelui abdominal",
+        "Flexia coapsei drepte pe abdomen în timpul palpaţiei"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 66,
+      "text": "Selectaţi afirmaţiile corecte referitor la apendicita acută la copil:",
+      "options": [
+        "Este cea mai frecventă afecţiune chirurgicală",
+        "Tabloul clinic şi evoluţia bolii diferă la copilul mic faţă de adult",
+        "Tabloul clinic şi evoluţia bolii nu diferă la copilul mic faţă de adult",
+        "Nu se întâlneşte la nou - născut şi sugar",
+        "Poate evolua imprevizibil şi înşelător"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 67,
+      "text": "Selectați afirmațiile adevărate despre apendicita acută la copil:",
+      "options": [
+        "La copil apendicita acută este cea mai rară afecțiune chirurgicală",
+        "La copil apendicita acută este cea mai frecventă afecţiune chirurgicală",
+        "La copilul nou-născut şi sugar apendicita acută nu se întîlneşte",
+        "Incidenţa maximă a apendicitei acute la copil este între 8 - 15 ani",
+        "Evoluția apendicitei acute la copil este mai rapidă și mai gravă ca la adult"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 68,
+      "text": "Selectați afirmațiile corecte în apendicita acută la copil mic:",
+      "options": [
+        "Starea generală se prăbușește în 12 - 24 ore",
+        "Copilul prezintă (după 12 - 24 ore de la debut) „facies toxic\" ochii încercănați;",
+        "Starea copilului se poate agrava în 12 - 24 ore de la debut",
+        "Examenul palpatoriu al abdomenului evidenţiază  o sensibilitate difuză",
+        "Examenul palpatoriu al abdomenului evidenţiază o formaţiune tumorală moderat sensibilă cu suprafaţa  netedă"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 69,
+      "text": "Selectați simptomele specifice evidențiate la examenul palpatoriu în apendicita acută la copilul mic:",
+      "options": [
+        "Sensibilitate difuză a peretelui abdominal anterior",
+        "Contractură musculară generalizată",
+        "Un oarecare grad de „rezistenţă\" a peretelui abdominal anterior",
+        "Flexia coapsei drepte pe abdomen în timpul examenului palpatoriu",
+        "Durere insuportabilă pe toată aria abdominală"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 70,
+      "text": "Selectați semnele caracteristice ale peritonitei meconiale:",
+      "options": [
+        "Vărsături bilioase precoce și  repetate",
+        "Vărsături alimentare apoi intestinale",
+        "Lipsa tranzitului meconial",
+        "Distensie abdominală importantă",
+        "Edem hipogastric   şi circulaţie colaterală"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 71,
+      "text": "Selectați manifestările clinice ale peritonitei acute primitive la nou - născut:",
+      "options": [
+        "Contractură musculară generalizată",
+        "Meteorism abdominal",
+        "Edem al peretelui abdominal în etajul inferior şi pe flancuri",
+        "Tegumentele abdominale sunt lucioase, destinse",
+        "Este evidentă circulația venoasă în regiunea peretelui abdominal inferior"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 72,
+      "text": "Marcați semnele care permit diferenţierea  purpurei Henoch - Şchonlein de apendicita acută:",
+      "options": [
+        "Durerile abdominale în fosa iliacă dreaptă",
+        "Durerile abdominale difuze",
+        "Vărsăturile",
+        "Uneori rectoragii",
+        "Erupţie purpurică periarticulară"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 73,
+      "text": "Selectați semnele caracteristice pentru sindromul Peitz-Jeggers:",
+      "options": [
+        "Hemoragii digestive superioare, repetate",
+        "Hemoragii digestive joase, repetate",
+        "Lentiginoza cutaneo-mucoasă (pete brune, negricioase, distribuite peribucal, pe mucoasa  bucală)",
+        "Invaginaţii sincrone",
+        "Scaun redus cu caracter de constipaţie"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 74,
+      "text": "Sindromul Peutz - Jeggers  se manifestă prin:",
+      "options": [
+        "Episoade repetate de dureri abdominale",
+        "Durerile abdominale sunt de fapt invaginaţii intestinale",
+        "Adeseori pot surveni hemoragii manifestate prin melenă",
+        "Adeseori pot surveni hemoragii manifestate prin hematemeză",
+        "Pot fi pierderi hemoragice oculte  intestinale"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 75,
+      "text": "Numiți cele mai frecvente cauze ale hemoragiei digestive inferioare la sugar:",
+      "options": [
+        "Sindromul Peutz - Jeggers",
+        "Invaginaţia intestinală acută",
+        "Diverticul Meckel ulcerat",
+        "Volvulusul acut de intestin subţire",
+        "Volvulusul cronic de intestin subţire"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 76,
+      "text": "Selectaţi afirmaţiile corecte referitor la simptomatologia atreziei de căi biliare:",
+      "options": [
+        "Copilul prezintă de la naştere o culoare galbenă a tegumentelor  persistentă, progresivă",
+        "Copilul prezintă, uneori, de la naştere o culoare galbenă a tegumentelor persistentă, progresivă",
+        "Copilul prezintă, uneori, la 10 - 15 zile de la naștere o culoare galbenă a tegumentelor persistentă, progresivă",
+        "Meconiul este  decolorat",
+        "Urina este închisă la culoare"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 77,
+      "text": "Selectați simptomatologia dominantă la nou - născutul cu emfizem lobar congenital include:",
+      "options": [
+        "Dispnee expiratorie progresivă",
+        "Polipnee, cianoză",
+        "Bombarea hemitoracelui afectat cu lărgirea spaţiilor intercostale",
+        "Abdomenul este distenziat",
+        "Abdomenul este fără modificări"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 78,
+      "text": "Selectați simptomatologia în  emfizemul lobar congenital:",
+      "options": [
+        "Dispnee, polipnee",
+        "Cianoză",
+        "Bombarea hemitoracelui respectiv",
+        "Tuse cu spută mucopurulentă",
+        "Stare febrilă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 79,
+      "text": "Numiți afecțiunile cu care se face diagnosticul diferențial al herniei diafragmatice cu manifestări acute:",
+      "options": [
+        "Atelectaziile pulmonare ale nou-născutului",
+        "Emfizemul lobar congenital",
+        "Bronşiectazia congenitală",
+        "Bronhopneumonia nou-născutului",
+        "Malformaţia cardiacă cianogenă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 80,
+      "text": "Numiți simptomatologia flegmonului necrotic extensiv al nou - născutului:",
+      "options": [
+        "Placard roşu cu mărginile proeminente la suprafaţa tegumentului",
+        "Placard roşu cu mărginile neproeminente la suprafaţa tegumentului",
+        "Placard roşu cu marginile bine conturate, reliefate",
+        "Placard roşu cu marginile ne conturate",
+        "Suprafaţa afectată este rece"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 81,
+      "text": "Selectați semnele osteomielitei hematogene acute a perioadei de creştere:",
+      "options": [
+        "Debut brutal cu ascensiune termică",
+        "Durere spontană vie, continuă",
+        "Sediul durerii este metafizar",
+        "Durere suportabilă osoasă cu intensificare în repaos",
+        "Durere osoasă intermitentă cu maximum nocturn"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 82,
+      "text": "Numiți semnele dominate în forma septico-pioemică a osteomielitei hematogene acute:",
+      "options": [
+        "Debut brutal cu ascensiune termică, care poate atinge 39-40 grade C, frison",
+        "Durere violentă localizată la nivelul unui segment de membru",
+        "Durere violentă articulară",
+        "Impotenţă funcţională parţială sau totală a membrului afectat",
+        "Agitaţia sau adinamia bolnavului, tahicardie, respiraţie accelerată"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 83,
+      "text": "Selectați simptomele permanente principale ale osteomielitei epimetafizare la nou-născut la debut:",
+      "options": [
+        "Edem osteoarticular",
+        "Contractură articulară",
+        "Agitaţia copilului la mobilizarea membrului  afectat",
+        "Roşeaţă (hiperemie) locală, periarticulară",
+        "Imobilitatea membrului afectat"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 84,
+      "text": "Selectați adevărate afirmații referitor la evoluţia osteomielitei hematogene acute (după 3-4 zile de la debut):",
+      "options": [
+        "Starea generală se ameliorează",
+        "Persistă şi progresează intoxicaţia",
+        "Starea generală se alterează",
+        "Semnele locale se modifică  în sensul exteriorizării supuraţiei către părţile moi",
+        "Semnele locale se modifică  în sensul micşorării edemului, tumefacţiei, diminuării durerii locale"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 85,
+      "text": "Numiți semnele caracteristice ale teratomului:",
+      "options": [
+        "Sediul mai frecvent este regiunea sacro-coccigiană",
+        "Tumora adultă conţine porţiuni mai din toate foiţele embrionale (ectoderm, mezoderm, endoderm)",
+        "Tumora este încapsulată",
+        "Are un potenţial malign crescut",
+        "Prognostic favorabil întotdeauna"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 86,
+      "text": "Selectați cauzele tumorii palpatorii în abdomen  la copil:",
+      "options": [
+        "Diverticulita",
+        "Hidronefroza",
+        "Rinichi polichistic",
+        "Nefroblastom",
+        "Chist mezenterial"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 87,
+      "text": "Numiți tumorile maligne întâlnite mai fregvent la copil :",
+      "options": [
+        "Cancerul gastric",
+        "Cancerul pulmonar",
+        "Nefroblastomul",
+        "Sarcomul osteogen",
+        "Reticulosarcomul Ewing"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 88,
+      "text": "Selectați caracteristicele nefroblastomului::",
+      "options": [
+        "Formaţiune tumorală de dimensiuni variabile, netedă sau uşor boselată",
+        "Tumoră uşor mobilă cu contact lombar",
+        "Tumoră  cilindrică, elastică, dureroasă la palpare",
+        "Tumora poate creşte exploziv",
+        "Hematurie macroscopică"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 89,
+      "text": "Numiți triada simptomatică clasică a nefroblastomului:",
+      "options": [
+        "Ascensiune termică",
+        "Tumora palpabilă în abdomen",
+        "Durerea abdominală, uneori iradiată spre coapsă",
+        "Oliguria",
+        "Hematuria"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 90,
+      "text": "Selectați caracteristiciile neuroblastomului:",
+      "options": [
+        "Se poate întâlni la copilul foarte mic (de la nou - născut până la 3-4 ani)",
+        "Se localizează numai retroperitoneal",
+        "Se dezvoltă oriunde, dar în majoritatea cazurilor se dezvoltă în spaţiul retroperitoneal",
+        "Este o tumoră neîncapsulată, invazivă",
+        "Este o tumoră încapsulată, neinvazivă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 91,
+      "text": "Selectați simptomele omfalocelului:",
+      "options": [
+        "Hernierea viscerelor abdominale prin inelul ombilical mult lărgit",
+        "Exteriorizarea intestinului subţire printr-un defect paraombilical al peretelui abdominal anterior",
+        "Viscerele  eviscerate sunt acoperite de o membrană avasculară",
+        "Ansele intestinale eviscerate sunt retractate şi edemaţiate",
+        "Ombilicul cu depresiunea sa sunt normale"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 92,
+      "text": "Slectați simptomele laparoschizisului:",
+      "options": [
+        "Hernierea viscerelor abdominale prin inelul ombilical mult lărgit",
+        "Exteriorizarea intestinului subţire printr-un defect paraombilical al peretelui abdominal anterior",
+        "Viscerele  eviscerate sunt acoperite de o membrană avasculară",
+        "Ansele intestinale eviscerate sunt retractate şi edemaţiate",
+        "Ombilicul cu depresiunea sa sunt normale"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 93,
+      "text": "Selectați caracteristicele torsiunii de testicul la copil:",
+      "options": [
+        "Debut brutal în plină stare de sănătate",
+        "Durere violentă şi continuă în hemiscrotul afectat cu iradiere spre regiunea inghinală şi rădăcina coapsei, exacerată la palpare",
+        "Debut lent cu durere moderată în hemiscrotul afectat",
+        "Hemiscrot moderat mărit, edemaţiat",
+        "Palparea evidenţiază o glandă mărită de volum ascensionată spre pube"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 94,
+      "text": "Selectați afirmaţii adevărate despre hemangiom:",
+      "options": [
+        "Hemangiomul cel mai frecvent evoluează spre dispariţie",
+        "Hemangiomul se poate răspândi de pe tegumente şi mucoase pe viscere",
+        "Evoluţia unui hemangiom este de cele mai multe ori imprevizibilă",
+        "Hemangiomul constituie o contraindicaţie pentru imunizare",
+        "Heamgniomul se poate complica prin sângerare şi infectare"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 95,
+      "text": "Selectați simptomotologia dominantă a limfangiomului:",
+      "options": [
+        "Formaţiune tumorală în regiunea cervicală prezentă de la naştere",
+        "Formaţiune tumorală elastică, fluctuentă, nedureroasă la palpare",
+        "Formaţiune tumorală dură, dureroasă la palpare",
+        "Formaţiune tumorală dură de 1-3 cm diametru",
+        "Formaţiuni tumorale dure cu aderarea tegumentului"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 96,
+      "text": "Selectați semnele clinice ale displaziei de şold la sugar:",
+      "options": [
+        "Asimetria pliurilor cutanate  ale coapselor",
+        "Rotaţia internă a membrului inferior",
+        "Rotaţia externă a membrului inferior",
+        "Limitarea de abducţie în articulaţiile de şold",
+        "Limitarea de adducţie în articulaţiile de şold"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 97,
+      "text": "Selectați simptomele specifice în enterocolita ulcero-necrotică cu perforaţie la sugar:",
+      "options": [
+        "Vărsături fecaloide",
+        "Abdomen intens meteorizat cu tegumente lucioase, circulaţie venoasă evidentă",
+        "Scaune diareice abundente, rău mirositoare",
+        "Rectoragie abundentă",
+        "Lipsa tranzitului intestinal pentru gaze şi materii fecale"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 98,
+      "text": "Numiți complicaţiile pneumoniei purulente distructive la copil:",
+      "options": [
+        "Septicopiemia",
+        "Mediastinita",
+        "Emfizemul mediastinal",
+        "Emfizemul lobar",
+        "Hemoragia pulmonară"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 99,
+      "text": "Selectați cauzele pneumomediastinitei la copil:",
+      "options": [
+        "Pneumonii purulente distructive",
+        "Tumori mediastinale",
+        "Bronşiectazii",
+        "Leziuni traumatice ale esofagului",
+        "Leziuni traumatice ale traheei"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 100,
+      "text": "Selectați simptomatologia dominantă la nou - născutul cu hernie diafragmatică pe stînga cu manifestări acute:",
+      "options": [
+        "Dispnee şi cianoză progresive, impresionante cu fiecare oră ce trece",
+        "Respiraţie polipneică cu mare efort",
+        "Regurgitaţii cu sănge modificat",
+        "Disfagie",
+        "Zgomotele cardiace tahicardice se aud pe dreapta"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 101,
+      "text": "Selectați  simptomul principal în atrezia de esofag:",
+      "options": [
+        "Disfagia",
+        "Hipersalivaţia",
+        "Regurgitaţia de alimente",
+        "Cianoza",
+        "Dispnea, polipnea"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 102,
+      "text": "Selectați patologia pentru care este caracteristică secreţia salivară abundentă de la naştere la copilul nou - născut:",
+      "options": [
+        "Fistulă eso - traheală",
+        "Stenoză esofagiană",
+        "Hernie diafragmatică",
+        "Duplicaţie de esofag",
+        "Atrezie de esofag"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 103,
+      "text": "Numiți catacterul vărsăturii în stenoza hipertrofică de pilor:",
+      "options": [
+        "Precoce de la naştere",
+        "Bilioasă",
+        "Albă în jet, explozivă",
+        "Rar întâlnită",
+        "Fără repercusiuni asupra dezvoltării staturo-ponderale a copilului"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 104,
+      "text": "Numiți semnul de certitudine în diagnosticul stenozei hipertrofice congenitale de pilor:",
+      "options": [
+        "Vărsătura de la naştere",
+        "Pliul cutanat leneş",
+        "Scaunul cu caracter de constipaţie",
+        "Palparea olivei",
+        "Stagnarea staturo - ponderală"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 105,
+      "text": "Precizați elementul esenţial care determină apariţia megacolonului congenital:",
+      "options": [
+        "Stenoza rectală  congenitală",
+        "Stenoza anală congenitală",
+        "Aganglionoza, hipoganglionoza",
+        "Cauze funcţionale",
+        "Atrezii  ano-rectale"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 106,
+      "text": "Numiți simptomul cardinal al invaginaţiei intestinale la sugar:",
+      "options": [
+        "Durerea paroxistică în alternanţă cu perioade de acalmie",
+        "Durerea abdominală continuă",
+        "Vărsăturile alimentare repetate",
+        "Scaun diareic la debutul afecţiunii",
+        "Meteorismul abdominal"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 107,
+      "text": "Selectați caracterul vărsăturilor la sugar la debutul invaginaţiei intestinale:",
+      "options": [
+        "Abundente, bilioase",
+        "Cu conţinut intestinal",
+        "Produse de obstrucţia lumenului intestinal",
+        "Reflexe",
+        "Alimentare cu striuri de sânge"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 108,
+      "text": "Numiți cea mai frecventă complicaţie a apendicitei acute la copil:",
+      "options": [
+        "Plastronul apendicular",
+        "Hemoragia internă",
+        "Abcesul periapendicular",
+        "Abcesul hepatic",
+        "Peritonita difuză"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 109,
+      "text": "Numiți cel mai important simptom al apendicitei acute la copil:",
+      "options": [
+        "Tulburările tranzitului intestinal",
+        "Distensia abdominală",
+        "Apărarea musculară cu sediul în fosa iliacă dreaptă",
+        "Edemul  suprapubian şi circulaţia colaterală",
+        "Febra"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 110,
+      "text": "Numiți cauza cea mai frecventă a hemoragiei digestive inferioare la sugar:",
+      "options": [
+        "Sindromul Peutz - Jeggers",
+        "Invaginaţia intestinală acută",
+        "Diverticulul Meckel",
+        "Purpura  Werlhoff",
+        "Volvulusul cronic de intestin subţire"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 111,
+      "text": "Componentele clinice ale piciorului strâmb echino-varus congenital: a) [ x] Echinus al piciorului b) [ x] Supinația piciorului c) [] Pronația piciorului",
+      "options": [
+        "Deformitatea de valgus a piciorului e) [ x] Rotația extenă distală a gambei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 112,
+      "text": "Numiți simptomul capital al osteomielitei hematogene acute:",
+      "options": [
+        "Durerea  osoasă vie exacerbată de mişcări",
+        "Durerea nocturnă",
+        "Durerea vie migrătoare",
+        "Durerea continue exacerbată în repaus",
+        "Nici un răspuns nu este corect"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 113,
+      "text": "Precizați manifestările clinice ale atreziei esofagiene cu fistulă eso-traheală inferioară:",
+      "options": [
+        "Pasaj involuntar al conţinutului gastric în esofag",
+        "Hipersalivaţie",
+        "Stagnarea bucofaringiană a secreţiilor salivare",
+        "La radiograma toraco-abdominală: abdomen opac, neaerat",
+        "La radiograma toraco-abdominală: abdomen aerat (aerarea tubului digestiv)"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 114,
+      "text": "Precizați care afirmaţii despre atrezia de esofag sunt adevărate:",
+      "options": [
+        "Afecţiunea este imcompatibilă cu viaţa",
+        "Frecvent se asociază cu alte malformaţii a organelor de însemnătate vitală",
+        "Pentru stabilirea diagnosticului se utilizează contrastarea esofagului",
+        "Pentru a confirma diagnosticul se foloseşte cateterismul esofagian",
+        "Scena clinică este dominată de imposibilitatea deglutiţiei"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 115,
+      "text": "Enumerați  manifestările clinice ale atreziei de duoden:",
+      "options": [
+        "Vărsături alimentare",
+        "Vărsături bilioase",
+        "Abdomen retractat",
+        "Lipsa tranzitului meconial",
+        "Radiografia toraco - abdominală simplă evidenţiază două imagini hidroaerice  în etajul abdominal superior"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 116,
+      "text": "Enumerați simptomatologia dominantă în ileus meconial:",
+      "options": [
+        "Vărsături bilioase",
+        "Vărsături bilioase, apoi fecaloide",
+        "Abdomen destins",
+        "Abdomen retractat",
+        "Lipsa tranzitului meconial"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 117,
+      "text": "Numiți triada simptomatică principală a atreziei de ileon distal:",
+      "options": [
+        "Vărsătura alimentară",
+        "Vărsătura bilioasă",
+        "Distensia abdominală",
+        "Lipsa tranzitului meconial",
+        "Rectoralgia"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 118,
+      "text": "Numiți simptomele principale în sindromul ocluziv neo-natal jos:",
+      "options": [
+        "Vărsături bilioase, apoi cu conţinut intestinal",
+        "Abdomen meteorizat",
+        "Peristaltica vizibilă la peretele abdominal",
+        "Abdomen retractat",
+        "Melena"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 119,
+      "text": "Numiți triada  simptomatică clasică în invaginaţia intestinală acută la sugar:",
+      "options": [
+        "Durere colicativă",
+        "Durere acută continuă",
+        "Vărsături alimentare reflexe",
+        "Scaune diareice sangvinolente",
+        "Rectoragie"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 120,
+      "text": "Enumerați semnele dominante ale apendicitei acute la copilul mic:",
+      "options": [
+        "Durere difuză pe tot abdomenul",
+        "Stare febrilă",
+        "Vărsături repetate",
+        "Constipaţie",
+        "Abdomen retractat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 121,
+      "text": "Numiți manifestările clinice în emfizemul lobar congenital:",
+      "options": [
+        "Dispnee, polipnee, cianoză, tuse",
+        "Dispnee, polipnee, cianoză, respiraţie şuierătoare",
+        "Stare febrilă",
+        "Nou - născutul este oxigeno - dependent",
+        "Hemitoracele afectat bombează"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 122,
+      "text": "Numiți semnele patognomonice în flegmonul necrotic extensiv al nou - născutului:",
+      "options": [
+        "Placard roşu cu mărginile proeminente la suprafaţa tegumentului",
+        "Placard roşu cu mărginile neproeminente la suprafaţa tegumentului",
+        "Placard roşu cu marginile bine conturate, reliefate",
+        "Placard roşu cu marginile ne conturate",
+        "Suprafaţa afectată este rece"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 123,
+      "text": "Enumerați manifestările caracteristivce pentru teratom:",
+      "options": [
+        "Sediul mai frecvent este regiunea sacro-coccigiană",
+        "Tumora adultă conţine porţiuni mai din toate ţesuturile organismului",
+        "Tumora este încapsulată",
+        "Are un potenţial malign crescut",
+        "Prognostic favorabil întotdeauna"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 124,
+      "text": "Numiți semnele patognomonice pentru torsiunea de testicul la copil:",
+      "options": [
+        "Debut brutal în plină stare de sănătate",
+        "Durere violentă şi continuă în hemiscrotul afectat cu iradiere spre regiunea    inghinală şi rădăcina coapsei, exacerată la palpare",
+        "Debut lent cu durere moderată în hemiscrotul afectat",
+        "Hemiscrot moderat mărit, edemaţiat",
+        "Palparea evidenţiază o glandă mărită de volum ascensionată spre pube"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 125,
+      "text": "Numiți semnele patognomonice pentru hernia inghinală congenitală: [x] Apariția unei tumefacții în regiunea inghinală, accentuată în timpul plânsului, la tuse, efort fizic",
+      "options": [
+        "Variabilitatea dimensiunii tumefacției în timp c) [ x] Dispariția periodică a tumefacției",
+        "Absența durerii (cu excepția situațiilor în care hernia devine ireductibilă sau strangulată ) e) [] În hemiscrotul respectiv nu se palpează testiculul"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    }
+  ]
+}

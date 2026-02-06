@@ -1,0 +1,106 @@
+{
+  "id": "examen-national",
+  "name": "Examen național",
+  "questions": [
+    {
+      "text": "Care este funcția principală a eritrocitelor?",
+      "options": [
+        "Transportul oxigenului",
+        "Coagularea sângelui",
+        "Apărarea imună",
+        "Secreția de hormoni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce structură este afectată în principal în astmul bronșic?",
+      "options": [
+        "Bronhiile",
+        "Alveolele",
+        "Pleura",
+        "Traheea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
+      "options": [
+        "60-100 bătăi/min",
+        "30-50 bătăi/min",
+        "110-130 bătăi/min",
+        "140-160 bătăi/min"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce vitamină este esențială pentru coagularea sângelui?",
+      "options": [
+        "Vitamina K",
+        "Vitamina C",
+        "Vitamina B12",
+        "Vitamina D"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este organul principal pentru detoxifierea medicamentelor?",
+      "options": [
+        "Ficatul",
+        "Rinichiul",
+        "Inima",
+        "Splina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce tip de microorganism cauzează tuberculoza?",
+      "options": [
+        "Bacterie",
+        "Virus",
+        "Fung",
+        "Parazit"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce arteră este implicată în infarctul miocardic?",
+      "options": [
+        "Arterele coronare",
+        "Artera carotidă",
+        "Artera femurală",
+        "Artera renală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este unitatea funcțională a rinichiului?",
+      "options": [
+        "Nefronul",
+        "Neuronul",
+        "Alveola",
+        "Osteonul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce hormon scade glicemia?",
+      "options": [
+        "Insulina",
+        "Glucagonul",
+        "Adrenalina",
+        "Cortizolul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este principalul rol al plămânilor?",
+      "options": [
+        "Schimbul de gaze (O2/CO2)",
+        "Filtrarea sângelui",
+        "Digestia grăsimilor",
+        "Producerea de hormoni"
+      ],
+      "correct": 0
+    }
+  ]
+}

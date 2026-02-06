@@ -1,0 +1,26 @@
+[
+  {
+    "id": "examen-national",
+    "name": "Examen național",
+    "file": "examen-national.json",
+    "count": 10
+  },
+  {
+    "id": "cardiologie",
+    "name": "Cardiologie",
+    "file": "cardiologie.json",
+    "count": 6
+  },
+  {
+    "id": "nefrologie",
+    "name": "Nefrologie",
+    "file": "nefrologie.json",
+    "count": 5
+  },
+  {
+    "id": "chirurgie-pediatrica",
+    "name": "Chirurgie pediatrică",
+    "file": "chirurgie-pediatrica.json",
+    "count": 125
+  }
+]

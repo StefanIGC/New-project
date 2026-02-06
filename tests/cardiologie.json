@@ -1,0 +1,66 @@
+{
+  "id": "cardiologie",
+  "name": "Cardiologie",
+  "questions": [
+    {
+      "text": "Ce arteră este implicată în infarctul miocardic?",
+      "options": [
+        "Arterele coronare",
+        "Artera carotidă",
+        "Artera femurală",
+        "Artera renală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este criteriul principal pentru diagnosticarea hipertensiunii arteriale?",
+      "options": [
+        "Tensiune ≥ 140/90 mmHg la măsurători repetate",
+        "Tensiune < 120/80 mmHg",
+        "Tensiune 100/60 mmHg",
+        "Tensiune 90/50 mmHg"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
+      "options": [
+        "60-100 bătăi/min",
+        "30-50 bătăi/min",
+        "110-130 bătăi/min",
+        "140-160 bătăi/min"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce hormon scade glicemia?",
+      "options": [
+        "Insulina",
+        "Glucagonul",
+        "Adrenalina",
+        "Cortizolul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este principalul rol al plămânilor?",
+      "options": [
+        "Schimbul de gaze (O2/CO2)",
+        "Filtrarea sângelui",
+        "Digestia grăsimilor",
+        "Producerea de hormoni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce tip de șoc se produce în anafilaxie?",
+      "options": [
+        "Șoc distributiv",
+        "Șoc cardiogen",
+        "Șoc hipovolemic",
+        "Șoc obstructiv"
+      ],
+      "correct": 0
+    }
+  ]
+}

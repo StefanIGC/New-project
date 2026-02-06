@@ -133,6 +133,11 @@
       border-color: rgba(239, 68, 68, 0.6);
     }
 
+    .answer-btn.selected {
+      border-color: rgba(255, 255, 255, 0.5);
+      background: rgba(255, 255, 255, 0.14);
+    }
+
     .feedback {
       margin-top: 16px;
       min-height: 24px;
@@ -153,38 +158,7 @@
     .menu-grid {
       display: grid;
       gap: 20px;
-      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    }
-
-    .profile-card {
-      display: grid;
-      gap: 16px;
-    }
-
-    .profile-actions {
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    .avatar {
-      width: 72px;
-      height: 72px;
-      border-radius: 50%;
-      background: rgba(255,255,255,0.12);
-      display: grid;
-      place-items: center;
-      overflow: hidden;
-      border: 1px solid rgba(255,255,255,0.18);
-      font-weight: 600;
-      font-size: 1.1rem;
-      color: var(--accent-2);
-    }
-
-    .avatar img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      grid-template-columns: minmax(0, 1fr);
     }
 
     .field {
@@ -205,10 +179,6 @@
       padding: 10px 12px;
       color: var(--text);
       font-size: 0.95rem;
-    }
-
-    .profile-edit.hidden {
-      display: none;
     }
 
     .stats-list {
@@ -279,7 +249,6 @@
     @media (max-width: 640px) {
       .stats { flex-direction: column; align-items: flex-start; }
       .question { font-size: 1.2rem; }
-      .menu-grid { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -297,45 +266,8 @@
         <div class="chip">Timp: <strong>nelimitat</strong></div>
       </div>
       <div class="menu-grid">
-        <div class="profile-card">
-          <div class="stats">
-            <div class="chip">Profil</div>
-          </div>
-          <div class="stats" style="justify-content:flex-start; gap:16px;">
-            <div class="avatar" id="avatar">
-              <span id="avatar-initials">MP</span>
-            </div>
-            <div>
-              <div class="field">
-                <label>Nume curent</label>
-                <div id="name-display" style="font-weight:600;">-</div>
-              </div>
-            </div>
-          </div>
-          <div class="profile-actions">
-            <button class="ghost" id="edit-profile-btn">Editează profil</button>
-          </div>
-          <div class="profile-edit hidden" id="profile-edit">
-            <div class="field">
-              <label for="name-input">Nume</label>
-              <input id="name-input" type="text" placeholder="Ex: Maria Popescu" />
-            </div>
-            <div class="field">
-              <label for="avatar-input">Imagine profil (jpg/png)</label>
-              <input id="avatar-input" type="file" accept="image/*" />
-            </div>
-            <div class="actions" style="margin-top:8px;">
-              <button class="ghost" id="save-profile-btn">Salvează</button>
-              <button class="ghost" id="reset-profile-btn">Resetează</button>
-              <button class="ghost" id="cancel-profile-btn">Anulează</button>
-            </div>
-          </div>
-        </div>
         <div>
-          <div class="stats">
-            <div class="chip">Alege test</div>
-          </div>
-          <div class="field" style="margin-top:8px;">
+          <div class="field">
             <label for="test-select">Test disponibil</label>
             <select id="test-select" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); border-radius: 10px; padding: 10px 12px; color: var(--text); font-size: 0.95rem;">
             </select>
@@ -362,11 +294,13 @@
         <div class="chip">Întrebarea <strong id="q-index">1</strong> / <span id="q-total">10</span></div>
         <div class="chip">Scor curent: <strong id="score">0</strong></div>
       </div>
+      <div class="sub" id="multi-hint" style="margin-top:12px; display:none;">Selectează toate răspunsurile corecte.</div>
       <div class="question" id="question-text"></div>
       <div class="answers" id="answers"></div>
       <div class="feedback" id="feedback"></div>
       <div class="actions">
         <button class="primary hidden" id="next-btn">Următoarea întrebare</button>
+        <button class="primary hidden" id="confirm-btn">Confirmă răspunsul</button>
       </div>
     </section>
 
@@ -382,236 +316,9 @@
   </div>
 
   <script>
-    const tests = [
-      {
-        id: "examen-national",
-        name: "Examen național",
-        questions: [
-          {
-            text: "Care este funcția principală a eritrocitelor?",
-            options: [
-              "Transportul oxigenului",
-              "Coagularea sângelui",
-              "Apărarea imună",
-              "Secreția de hormoni"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce structură este afectată în principal în astmul bronșic?",
-            options: [
-              "Bronhiile",
-              "Alveolele",
-              "Pleura",
-              "Traheea"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
-            options: [
-              "60-100 bătăi/min",
-              "30-50 bătăi/min",
-              "110-130 bătăi/min",
-              "140-160 bătăi/min"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce vitamină este esențială pentru coagularea sângelui?",
-            options: [
-              "Vitamina K",
-              "Vitamina C",
-              "Vitamina B12",
-              "Vitamina D"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este organul principal pentru detoxifierea medicamentelor?",
-            options: [
-              "Ficatul",
-              "Rinichiul",
-              "Inima",
-              "Splina"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce tip de microorganism cauzează tuberculoza?",
-            options: [
-              "Bacterie",
-              "Virus",
-              "Fung",
-              "Parazit"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce arteră este implicată în infarctul miocardic?",
-            options: [
-              "Arterele coronare",
-              "Artera carotidă",
-              "Artera femurală",
-              "Artera renală"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este unitatea funcțională a rinichiului?",
-            options: [
-              "Nefronul",
-              "Neuronul",
-              "Alveola",
-              "Osteonul"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce hormon scade glicemia?",
-            options: [
-              "Insulina",
-              "Glucagonul",
-              "Adrenalina",
-              "Cortizolul"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este principalul rol al plămânilor?",
-            options: [
-              "Schimbul de gaze (O2/CO2)",
-              "Filtrarea sângelui",
-              "Digestia grăsimilor",
-              "Producerea de hormoni"
-            ],
-            correct: 0
-          }
-        ]
-      },
-      {
-        id: "cardiologie",
-        name: "Cardiologie",
-        questions: [
-          {
-            text: "Ce arteră este implicată în infarctul miocardic?",
-            options: [
-              "Arterele coronare",
-              "Artera carotidă",
-              "Artera femurală",
-              "Artera renală"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este criteriul principal pentru diagnosticarea hipertensiunii arteriale?",
-            options: [
-              "Tensiune ≥ 140/90 mmHg la măsurători repetate",
-              "Tensiune < 120/80 mmHg",
-              "Tensiune 100/60 mmHg",
-              "Tensiune 90/50 mmHg"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
-            options: [
-              "60-100 bătăi/min",
-              "30-50 bătăi/min",
-              "110-130 bătăi/min",
-              "140-160 bătăi/min"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce hormon scade glicemia?",
-            options: [
-              "Insulina",
-              "Glucagonul",
-              "Adrenalina",
-              "Cortizolul"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este principalul rol al plămânilor?",
-            options: [
-              "Schimbul de gaze (O2/CO2)",
-              "Filtrarea sângelui",
-              "Digestia grăsimilor",
-              "Producerea de hormoni"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce tip de șoc se produce în anafilaxie?",
-            options: [
-              "Șoc distributiv",
-              "Șoc cardiogen",
-              "Șoc hipovolemic",
-              "Șoc obstructiv"
-            ],
-            correct: 0
-          }
-        ]
-      },
-      {
-        id: "nefrologie",
-        name: "Nefrologie",
-        questions: [
-          {
-            text: "Care este unitatea funcțională a rinichiului?",
-            options: [
-              "Nefronul",
-              "Neuronul",
-              "Alveola",
-              "Osteonul"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este organul principal pentru detoxifierea medicamentelor?",
-            options: [
-              "Ficatul",
-              "Rinichiul",
-              "Inima",
-              "Splina"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce examen paraclinic confirmă cel mai bine anemia feriprivă?",
-            options: [
-              "Feritină serică scăzută",
-              "Leucocitoză",
-              "Glicemie crescută",
-              "Calcemie crescută"
-            ],
-            correct: 0
-          },
-          {
-            text: "Care este rolul principal al trombocitelor?",
-            options: [
-              "Hemostaza (oprirea sângerării)",
-              "Transportul oxigenului",
-              "Imunitate celulară",
-              "Conducerea impulsurilor nervoase"
-            ],
-            correct: 0
-          },
-          {
-            text: "Ce tip de microorganism cauzează tuberculoza?",
-            options: [
-              "Bacterie",
-              "Virus",
-              "Fung",
-              "Parazit"
-            ],
-            correct: 0
-          }
-        ]
-      }
-    ];
+    const testsIndexUrl = "tests/tests.json";
+    let testsIndex = [];
+    const testsById = new Map();
 
     const menuPanel = document.getElementById("menu-panel");
     const quizPanel = document.getElementById("quiz-panel");
@@ -624,19 +331,13 @@
     const answersEl = document.getElementById("answers");
     const feedbackEl = document.getElementById("feedback");
     const nextBtn = document.getElementById("next-btn");
+    const confirmBtn = document.getElementById("confirm-btn");
+    const multiHintEl = document.getElementById("multi-hint");
     const abandonWrap = document.getElementById("abandon-wrap");
     const abandonBtn = document.getElementById("abandon-btn");
     const finalScoreEl = document.getElementById("final-score");
     const finalMessageEl = document.getElementById("final-message");
 
-    const nameInput = document.getElementById("name-input");
-    const avatarInput = document.getElementById("avatar-input");
-    const avatarEl = document.getElementById("avatar");
-    const avatarInitials = document.getElementById("avatar-initials");
-    const nameDisplay = document.getElementById("name-display");
-    const profileEdit = document.getElementById("profile-edit");
-    const editProfileBtn = document.getElementById("edit-profile-btn");
-    const cancelProfileBtn = document.getElementById("cancel-profile-btn");
     const statsListEl = document.getElementById("stats-list");
     const testSelect = document.getElementById("test-select");
     const menuCountEl = document.getElementById("menu-q-count");
@@ -645,9 +346,11 @@
     let currentIndex = 0;
     let score = 0;
     let answered = false;
-    let activeTest = tests[0];
-    let profile = { name: "", avatar: "" };
+    let activeTest = null;
+    let activeTestMeta = null;
     let stats = [];
+    let storedTestId = null;
+    let selectedIndices = new Set();
     const encouragements = [
       "Rodica, ești foarte bravo! 💖 Stefan te iubește. 🌸",
       "Rodica, ești foarte bravo! 💗 Stefan te iubește. ✨",
@@ -667,66 +370,70 @@
       return encouragements[Math.floor(Math.random() * encouragements.length)];
     }
 
-    function loadState() {
-      try {
-        const storedProfile = JSON.parse(localStorage.getItem("med-quiz-profile"));
-        const storedStats = JSON.parse(localStorage.getItem("med-quiz-stats"));
-        const storedTest = localStorage.getItem("med-quiz-test");
-        if (storedProfile) profile = storedProfile;
-        if (Array.isArray(storedStats)) stats = storedStats;
-        if (storedTest) {
-          const found = tests.find(test => test.id === storedTest);
-          if (found) activeTest = found;
-        }
-      } catch {
-        profile = { name: "", avatar: "" };
-        stats = [];
-      }
+    function getCorrectIndices(question) {
+      if (Array.isArray(question.correct)) return question.correct.slice();
+      if (typeof question.correct === "number") return [question.correct];
+      return [];
     }
 
-    function saveProfile() {
-      localStorage.setItem("med-quiz-profile", JSON.stringify(profile));
+    async function loadTestsIndex() {
+      const res = await fetch(testsIndexUrl, { cache: "no-store" });
+      if (!res.ok) throw new Error("Nu pot încărca lista de teste.");
+      testsIndex = await res.json();
+    }
+
+    async function loadTestById(id) {
+      if (testsById.has(id)) return testsById.get(id);
+      const meta = testsIndex.find(test => test.id === id);
+      if (!meta) return null;
+      const res = await fetch(`tests/${meta.file}`, { cache: "no-store" });
+      if (!res.ok) throw new Error("Nu pot încărca testul selectat.");
+      const data = await res.json();
+      testsById.set(id, data);
+      return data;
+    }
+
+    async function setActiveTest(id) {
+      if (!id) return;
+      const meta = testsIndex.find(test => test.id === id);
+      if (!meta) return;
+      activeTestMeta = meta;
+      localStorage.setItem("med-quiz-test", meta.id);
+      menuCountEl.textContent = meta.count;
+      renderStats();
+      activeTest = await loadTestById(meta.id);
+    }
+
+    function loadState() {
+      try {
+        const storedStats = JSON.parse(localStorage.getItem("med-quiz-stats"));
+        const storedTest = localStorage.getItem("med-quiz-test");
+        if (Array.isArray(storedStats)) stats = storedStats;
+        if (storedTest) storedTestId = storedTest;
+      } catch {
+        stats = [];
+      }
     }
 
     function saveStats() {
       localStorage.setItem("med-quiz-stats", JSON.stringify(stats));
     }
 
-    function setAvatarDisplay() {
-      avatarEl.innerHTML = "";
-      if (profile.avatar) {
-        const img = document.createElement("img");
-        img.src = profile.avatar;
-        img.alt = "Avatar";
-        avatarEl.appendChild(img);
-      } else {
-        const initials = profile.name
-          ? profile.name
-              .split(" ")
-              .filter(Boolean)
-              .slice(0, 2)
-              .map(part => part[0].toUpperCase())
-              .join("")
-          : "MP";
-        avatarInitials.textContent = initials;
-        avatarEl.appendChild(avatarInitials);
-      }
-      nameDisplay.textContent = profile.name || "—";
-    }
-
     function renderStats() {
+      if (!activeTestMeta) return;
+      const filtered = stats.filter(entry => entry.testId === activeTestMeta.id);
       statsListEl.innerHTML = "";
-      if (stats.length === 0) {
+      if (filtered.length === 0) {
         const empty = document.createElement("div");
         empty.className = "stat-item";
-        empty.textContent = "Nu există note salvate încă.";
+        empty.textContent = "Nu există note salvate încă pentru acest test.";
         statsListEl.appendChild(empty);
         return;
       }
-      stats.slice().reverse().forEach(entry => {
+      filtered.slice().reverse().forEach(entry => {
         const item = document.createElement("div");
         item.className = "stat-item";
-        item.innerHTML = `<strong>${entry.score} / ${entry.total}</strong> <span>${entry.test} • ${entry.date}</span>`;
+        item.innerHTML = `<strong>${entry.score} / ${entry.total}</strong> <span>${entry.date}</span>`;
         statsListEl.appendChild(item);
       });
     }
@@ -736,14 +443,15 @@
       resultPanel.classList.add("hidden");
       abandonWrap.classList.add("hidden");
       menuPanel.classList.remove("hidden");
-      nameInput.value = profile.name || "";
-      setAvatarDisplay();
       renderStats();
-      profileEdit.classList.add("hidden");
       renderTestSelect();
     }
 
-    function startQuiz() {
+    async function startQuiz() {
+      if (!activeTest) {
+        await setActiveTest(activeTestMeta?.id || testsIndex[0]?.id);
+      }
+      if (!activeTest) return;
       quizQuestions = shuffle(activeTest.questions);
       currentIndex = 0;
       score = 0;
@@ -759,38 +467,54 @@
 
     function renderQuestion() {
       const current = quizQuestions[currentIndex];
+      const correctIndices = getCorrectIndices(current);
+      const isMulti = correctIndices.length > 1;
       qIndexEl.textContent = currentIndex + 1;
       questionText.textContent = current.text;
       feedbackEl.textContent = "";
       feedbackEl.className = "feedback";
       nextBtn.classList.add("hidden");
+      confirmBtn.classList.add("hidden");
+      multiHintEl.style.display = isMulti ? "block" : "none";
       answered = false;
+      selectedIndices = new Set();
 
       answersEl.innerHTML = "";
       current.options.forEach((option, index) => {
         const btn = document.createElement("button");
         btn.className = "answer-btn";
         btn.textContent = option;
-        btn.addEventListener("click", () => handleAnswer(btn, index));
+        btn.addEventListener("click", () => handleAnswer(btn, index, isMulti));
         answersEl.appendChild(btn);
       });
+      if (isMulti) confirmBtn.classList.remove("hidden");
     }
 
-    function handleAnswer(button, index) {
+    function handleAnswer(button, index, isMulti) {
       if (answered) return;
-      answered = true;
-
       const current = quizQuestions[currentIndex];
-      const correctIndex = current.correct;
+      const correctIndices = getCorrectIndices(current);
       const buttons = Array.from(answersEl.children);
 
+      if (isMulti) {
+        if (selectedIndices.has(index)) {
+          selectedIndices.delete(index);
+          button.classList.remove("selected");
+        } else {
+          selectedIndices.add(index);
+          button.classList.add("selected");
+        }
+        return;
+      }
+
+      answered = true;
       buttons.forEach((btn, idx) => {
-        if (idx === correctIndex) {
+        if (correctIndices.includes(idx)) {
           btn.classList.add("correct");
         }
       });
 
-      if (index === correctIndex) {
+      if (correctIndices.includes(index)) {
         score += 1;
         scoreEl.textContent = score;
         feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
@@ -798,7 +522,44 @@
         setTimeout(goNext, 600);
       } else {
         button.classList.add("wrong");
-        feedbackEl.textContent = `Greșit. Răspuns corect: ${current.options[correctIndex]}. ${pickEncouragement()}`;
+        const correctText = correctIndices.map(i => current.options[i]).join(", ");
+        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}. ${pickEncouragement()}`;
+        feedbackEl.classList.add("bad");
+        nextBtn.classList.remove("hidden");
+      }
+    }
+
+    function confirmMultiAnswer() {
+      if (answered) return;
+      const current = quizQuestions[currentIndex];
+      const correctIndices = getCorrectIndices(current).sort();
+      const selected = Array.from(selectedIndices).sort();
+      const buttons = Array.from(answersEl.children);
+      answered = true;
+
+      buttons.forEach((btn, idx) => {
+        if (correctIndices.includes(idx)) {
+          btn.classList.add("correct");
+        }
+      });
+
+      const isCorrect = correctIndices.length === selected.length &&
+        correctIndices.every((value, idx) => value === selected[idx]);
+
+      if (isCorrect) {
+        score += 1;
+        scoreEl.textContent = score;
+        feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
+        feedbackEl.classList.add("ok");
+        setTimeout(goNext, 600);
+      } else {
+        selected.forEach(i => {
+          if (!correctIndices.includes(i)) {
+            buttons[i].classList.add("wrong");
+          }
+        });
+        const correctText = correctIndices.map(i => current.options[i]).join(", ");
+        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}. ${pickEncouragement()}`;
         feedbackEl.classList.add("bad");
         nextBtn.classList.remove("hidden");
       }
@@ -836,6 +597,7 @@
       const entry = {
         score,
         total: quizQuestions.length,
+        testId: activeTest.id,
         test: activeTest.name,
         date: now.toLocaleDateString("ro-RO", {
           year: "numeric",
@@ -849,41 +611,15 @@
 
     function renderTestSelect() {
       testSelect.innerHTML = "";
-      tests.forEach(test => {
+      testsIndex.forEach(test => {
         const option = document.createElement("option");
         option.value = test.id;
-        option.textContent = `${test.name} (${test.questions.length} întrebări)`;
-        if (test.id === activeTest.id) option.selected = true;
+        option.textContent = `${test.name} (${test.count} întrebări)`;
+        if (activeTestMeta && test.id === activeTestMeta.id) option.selected = true;
         testSelect.appendChild(option);
       });
-      menuCountEl.textContent = activeTest.questions.length;
+      if (activeTestMeta) menuCountEl.textContent = activeTestMeta.count;
     }
-
-    document.getElementById("save-profile-btn").addEventListener("click", () => {
-      profile.name = nameInput.value.trim();
-      saveProfile();
-      setAvatarDisplay();
-      profileEdit.classList.add("hidden");
-    });
-
-    document.getElementById("reset-profile-btn").addEventListener("click", () => {
-      profile = { name: "", avatar: "" };
-      saveProfile();
-      avatarInput.value = "";
-      showMenu();
-    });
-
-    avatarInput.addEventListener("change", event => {
-      const file = event.target.files[0];
-      if (!file) return;
-      const reader = new FileReader();
-      reader.onload = () => {
-        profile.avatar = reader.result;
-        saveProfile();
-        setAvatarDisplay();
-      };
-      reader.readAsDataURL(file);
-    });
 
     document.getElementById("reset-stats-btn").addEventListener("click", () => {
       stats = [];
@@ -891,26 +627,15 @@
       renderStats();
     });
 
-    testSelect.addEventListener("change", event => {
-      const selected = tests.find(test => test.id === event.target.value);
-      if (selected) {
-        activeTest = selected;
-        localStorage.setItem("med-quiz-test", selected.id);
-        menuCountEl.textContent = selected.questions.length;
-      }
+    testSelect.addEventListener("change", async event => {
+      await setActiveTest(event.target.value);
     });
 
-    editProfileBtn.addEventListener("click", () => {
-      nameInput.value = profile.name || "";
-      profileEdit.classList.remove("hidden");
+    document.getElementById("start-btn").addEventListener("click", () => {
+      startQuiz();
     });
-
-    cancelProfileBtn.addEventListener("click", () => {
-      profileEdit.classList.add("hidden");
-    });
-
-    document.getElementById("start-btn").addEventListener("click", startQuiz);
     document.getElementById("next-btn").addEventListener("click", goNext);
+    confirmBtn.addEventListener("click", confirmMultiAnswer);
     document.getElementById("menu-btn").addEventListener("click", showMenu);
 
     abandonBtn.addEventListener("click", () => {
@@ -918,8 +643,20 @@
       if (ok) showMenu();
     });
 
-    loadState();
-    showMenu();
+    async function init() {
+      loadState();
+      try {
+        await loadTestsIndex();
+        const initialId = storedTestId || testsIndex[0]?.id;
+        await setActiveTest(initialId);
+        showMenu();
+      } catch (err) {
+        console.error(err);
+        alert("Nu s-au putut încărca testele. Verifică dacă fișierele există.");
+      }
+    }
+
+    init();
   </script>
 </body>
 </html>

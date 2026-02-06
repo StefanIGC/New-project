@@ -1,0 +1,56 @@
+{
+  "id": "nefrologie",
+  "name": "Nefrologie",
+  "questions": [
+    {
+      "text": "Care este unitatea funcțională a rinichiului?",
+      "options": [
+        "Nefronul",
+        "Neuronul",
+        "Alveola",
+        "Osteonul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este organul principal pentru detoxifierea medicamentelor?",
+      "options": [
+        "Ficatul",
+        "Rinichiul",
+        "Inima",
+        "Splina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce examen paraclinic confirmă cel mai bine anemia feriprivă?",
+      "options": [
+        "Feritină serică scăzută",
+        "Leucocitoză",
+        "Glicemie crescută",
+        "Calcemie crescută"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este rolul principal al trombocitelor?",
+      "options": [
+        "Hemostaza (oprirea sângerării)",
+        "Transportul oxigenului",
+        "Imunitate celulară",
+        "Conducerea impulsurilor nervoase"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce tip de microorganism cauzează tuberculoza?",
+      "options": [
+        "Bacterie",
+        "Virus",
+        "Fung",
+        "Parazit"
+      ],
+      "correct": 0
+    }
+  ]
+}
