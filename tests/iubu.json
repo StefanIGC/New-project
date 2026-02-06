@@ -1,0 +1,143 @@
+{
+  "id": "iubu",
+  "name": "Iubu ❤️",
+  "questions": [
+    {
+      "text": "Cine este iubu? 💞✨",
+      "options": [
+        "Rodica ❤️😍",
+        "Rodelu 🙃",
+        "Dicuța 🙂",
+        "Miau miau 🐱"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cine o iubește pe Rodica mult, mult, mult? 🥰💘",
+      "options": [
+        "Ștefan 💖",
+        "Dudu 🤭",
+        "Surica 🤔",
+        "Miau miau 🐾"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care e cel mai frumos zâmbet? ✨😊",
+      "options": [
+        "Al iubiricii mele ❤️",
+        "Nici nu știu 🙈",
+        "Al lui Bubu 😅",
+        "Al lui Surica 😄"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce spune Ștefan cel mai des, din inimă? 💌💗",
+      "options": [
+        "Te iubesc, Rodica ❤️",
+        "Poate mâine 😴",
+        "Vedem noi 🤷",
+        "Nu știu 🤔"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce descrie perfect o seară ideală împreună? 🌙✨",
+      "options": [
+        "Îmbrățișări și un film frumos 🎬",
+        "Râsete și povești 💬",
+        "Tăcere rece ❄️",
+        "Doar taskuri 📋"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Ce gesturi mici arată iubire zilnică? ☀️💞",
+      "options": [
+        "Un mesaj dulce dimineața 📩",
+        "O îmbrățișare neașteptată 🤗",
+        "Ignorare 🙄",
+        "Critică 😑"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Rodica merită în fiecare zi… 💖🌸",
+      "options": [
+        "Apreciere ✨",
+        "Iubire 💗",
+        "Sprijin 🤝",
+        "Presiune 😬"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Ce vibe are relația ideală? 🌷💕",
+      "options": [
+        "Sprijin și liniște 🌿",
+        "Râsete și respect 🤍",
+        "Tensiune zilnică ⚡",
+        "Distanță 🧊"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Când s-a aprins inima lui Ștefan? 🔥❤️",
+      "options": [
+        "Când a întâlnit-o pe Rodica 💘",
+        "30 februarie 🙃",
+        "Într-o zi oarecare 😅",
+        "Nu știu 🤷"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce nume are testul nostru special? 💗✨",
+      "options": [
+        "Iubu ❤️",
+        "Examen greu 😵",
+        "Test plictisitor 😴",
+        "Random 🎲"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce promisiune contează cel mai mult? 🤝💖",
+      "options": [
+        "Să fiu mereu acolo cu inima ❤️",
+        "Să uit des 🙈",
+        "Să mă cert des 😤",
+        "Să fiu mereu ocupat ⏳"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce face Rodica atât de specială? ✨🌟",
+      "options": [
+        "E caldă și bună 🤗",
+        "E foarte bravo 💪",
+        "Are suflet frumos 💖",
+        "E indiferentă 🧊"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

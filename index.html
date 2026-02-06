@@ -350,10 +350,9 @@
           </div>
           <div class="stats" style="margin-top:16px;">
             <div class="chip">Statistici note</div>
-            <button class="ghost small" id="reset-stats-btn">Resetează statistica</button>
           </div>
-          <div class="stats-list" id="stats-list"></div>
           <div class="actions">
+            <button class="ghost" id="view-stats-btn">Vezi statistici</button>
             <button class="ghost" id="view-questions-btn">Vezi întrebările</button>
           </div>
         </div>
@@ -401,6 +400,19 @@
         <div class="review-list-container" id="qa-body"></div>
       </div>
     </section>
+
+    <section class="panel hidden" id="stats-panel">
+      <div class="review-panel">
+        <div class="stats">
+          <div class="chip" id="stats-title">Statistici</div>
+          <div class="actions" style="margin-top:0;">
+            <button class="ghost small" id="reset-stats-btn">Resetează statistica</button>
+            <button class="ghost small" id="stats-back-btn">Înapoi la meniu</button>
+          </div>
+        </div>
+        <div class="review-list-container" id="stats-body"></div>
+      </div>
+    </section>
   </div>
 
   <script>
@@ -427,15 +439,19 @@
     const finalMessageEl = document.getElementById("final-message");
     const reviewListEl = document.getElementById("review-list");
 
-    const statsListEl = document.getElementById("stats-list");
     const testSelect = document.getElementById("test-select");
     const menuCountEl = document.getElementById("menu-q-count");
     const limitSelect = document.getElementById("limit-select");
+    const viewStatsBtn = document.getElementById("view-stats-btn");
     const viewQuestionsBtn = document.getElementById("view-questions-btn");
     const qaBody = document.getElementById("qa-body");
     const qaTitle = document.getElementById("qa-title");
     const qaPanel = document.getElementById("qa-panel");
     const qaBackBtn = document.getElementById("qa-back-btn");
+    const statsPanel = document.getElementById("stats-panel");
+    const statsBody = document.getElementById("stats-body");
+    const statsTitle = document.getElementById("stats-title");
+    const statsBackBtn = document.getElementById("stats-back-btn");
 
     let quizQuestions = [];
     let currentIndex = 0;
@@ -522,21 +538,7 @@
 
     function renderStats() {
       if (!activeTestMeta) return;
-      const filtered = stats.filter(entry => entry.testId === activeTestMeta.id);
-      statsListEl.innerHTML = "";
-      if (filtered.length === 0) {
-        const empty = document.createElement("div");
-        empty.className = "stat-item";
-        empty.textContent = "Nu există note salvate încă pentru acest test.";
-        statsListEl.appendChild(empty);
-        return;
-      }
-      filtered.slice().reverse().forEach(entry => {
-        const item = document.createElement("div");
-        item.className = "stat-item";
-        item.innerHTML = `<strong>${entry.score} / ${entry.total}</strong> <span>${entry.date}</span>`;
-        statsListEl.appendChild(item);
-      });
+      // no-op in menu now; stats are shown in the stats panel
     }
 
     function showMenu() {
@@ -544,6 +546,7 @@
       resultPanel.classList.add("hidden");
       abandonWrap.classList.add("hidden");
       qaPanel.classList.add("hidden");
+      statsPanel.classList.add("hidden");
       menuPanel.classList.remove("hidden");
       renderStats();
       renderTestSelect();
@@ -775,6 +778,49 @@
       menuPanel.classList.remove("hidden");
     }
 
+    function renderStatsPanel() {
+      if (!activeTestMeta) return;
+      const filtered = stats.filter(entry => entry.testId === activeTestMeta.id);
+      statsTitle.textContent = `Statistici — ${activeTestMeta.name}`;
+      statsBody.innerHTML = "";
+
+      const totalAttempts = filtered.length;
+      const bestScore = totalAttempts ? Math.max(...filtered.map(e => e.score / e.total)) : 0;
+      const avgScore = totalAttempts ? filtered.reduce((sum, e) => sum + (e.score / e.total), 0) / totalAttempts : 0;
+
+      const summary = document.createElement("div");
+      summary.className = "qa-item";
+      summary.innerHTML = `<div class=\"question\"><strong>Rezumat</strong></div>
+        <div class=\"answer\">Încercări: ${totalAttempts}</div>
+        <div class=\"answer\">Media: ${(avgScore * 100).toFixed(1)}%</div>
+        <div class=\"answer\">Cea mai bună notă: ${(bestScore * 100).toFixed(1)}%</div>`;
+      statsBody.appendChild(summary);
+
+      if (totalAttempts === 0) {
+        const empty = document.createElement("div");
+        empty.className = "qa-item";
+        empty.innerHTML = "<div class=\"question\">Nu există note salvate încă pentru acest test.</div>";
+        statsBody.appendChild(empty);
+      } else {
+        const last = filtered.slice().reverse().slice(0, 10);
+        last.forEach((entry, idx) => {
+          const item = document.createElement("div");
+          item.className = "qa-item";
+          item.innerHTML = `<div class=\"question\"><strong>Încercare ${idx + 1}</strong> — ${entry.date}</div>
+            <div class=\"answer\">Nota: ${entry.score} / ${entry.total} (${Math.round((entry.score / entry.total) * 100)}%)</div>`;
+          statsBody.appendChild(item);
+        });
+      }
+
+      menuPanel.classList.add("hidden");
+      statsPanel.classList.remove("hidden");
+    }
+
+    function closeStatsPanel() {
+      statsPanel.classList.add("hidden");
+      menuPanel.classList.remove("hidden");
+    }
+
     function renderLimitSelect() {
       const total = activeTestMeta ? activeTestMeta.count : 0;
       limitSelect.innerHTML = "";
@@ -792,7 +838,7 @@
     document.getElementById("reset-stats-btn").addEventListener("click", () => {
       stats = [];
       saveStats();
-      renderStats();
+      renderStatsPanel();
     });
 
     testSelect.addEventListener("change", async event => {
@@ -818,6 +864,10 @@
       renderQuestionsModal();
     });
     qaBackBtn.addEventListener("click", closeQuestionsPanel);
+    viewStatsBtn.addEventListener("click", () => {
+      renderStatsPanel();
+    });
+    statsBackBtn.addEventListener("click", closeStatsPanel);
 
     abandonBtn.addEventListener("click", () => {
       const ok = confirm("Vrei să abandonezi testul? Progresul curent se va pierde.");
