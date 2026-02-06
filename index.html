@@ -124,8 +124,8 @@
     }
 
     .answer-btn.correct {
-      background: rgba(34, 197, 94, 0.32);
-      border-color: rgba(34, 197, 94, 0.7);
+      background: rgba(34, 197, 94, 0.38);
+      border-color: rgba(34, 197, 94, 0.8);
     }
 
     .answer-btn.wrong {
@@ -138,9 +138,14 @@
       background: rgba(255, 255, 255, 0.14);
     }
 
+    .answer-btn.wrong.selected {
+      background: rgba(239, 68, 68, 0.45);
+      border-color: rgba(239, 68, 68, 0.95);
+    }
+
     .answer-btn.correct.selected {
-      background: rgba(34, 197, 94, 0.18);
-      border-color: rgba(34, 197, 94, 0.45);
+      background: rgba(34, 197, 94, 0.08);
+      border-color: rgba(34, 197, 94, 0.35);
     }
 
     .feedback {
@@ -243,6 +248,12 @@
       justify-content: flex-end;
     }
 
+    .bottom-actions {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 16px;
+    }
+
     .result {
       font-size: 1.2rem;
       line-height: 1.6;
@@ -319,7 +330,7 @@
     </section>
 
     <section class="panel hidden" id="quiz-panel">
-      <div class="top-actions hidden" id="abandon-wrap">
+      <div class="bottom-actions hidden" id="abandon-wrap">
         <button class="ghost" id="abandon-btn">Abandonează</button>
       </div>
       <div class="stats">
@@ -563,7 +574,7 @@
         scoreEl.textContent = score;
         feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
         feedbackEl.classList.add("ok");
-        setTimeout(goNext, 600);
+        nextBtn.classList.remove("hidden");
       } else {
         button.classList.add("wrong");
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
@@ -606,7 +617,7 @@
         scoreEl.textContent = score;
         feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
         feedbackEl.classList.add("ok");
-        setTimeout(goNext, 600);
+        nextBtn.classList.remove("hidden");
       } else {
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
         feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;

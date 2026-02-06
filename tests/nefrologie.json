@@ -3,54 +3,2992 @@
   "name": "Nefrologie",
   "questions": [
     {
-      "text": "Care este unitatea funcțională a rinichiului?",
+      "text": "Semnul morfologic de bază al glomerulonefritei rapid progresive este:",
       "options": [
-        "Nefronul",
-        "Neuronul",
-        "Alveola",
-        "Osteonul"
+        "Proliferarea mezangiului",
+        "Depozite de complexe antigen exogen – anticorp",
+        "Proliferare endocapilară",
+        "Proliferare extracapilară cu formarea “semilunelor” în capsula glomerulară",
+        "Edem interstițial, fibroză"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care grup de preparate contribuie la micșorarea hipertensiunii intraglomerulare în glomerulonefrită cronică?",
+      "options": [
+        "α-adrenoblocanți",
+        "β-adrenoblocanți",
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Antagoniștii canalelor de calciu",
+        "Antiagregantele"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ce grup de medicamente reprezintă tratamentul de bază, destinat pentru cuparea edemelor în glomerulonefrita acută?",
+      "options": [
+        "Antagoniștii aldosteronului",
+        "Antiagregantele",
+        "Diureticele",
+        "Inhibitorii de carboanhidrază",
+        "Anticoagulantele"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Nefroza lipoidă (glomerulonefrita cu modificări minimale) se manifestă prin:",
+      "options": [
+        "Sindrom hipertensiv",
+        "Hematurie recidivantă",
+        "Sindrom nefrotic",
+        "Sindrom nefritic",
+        "Leucociturie"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În hematuria provocată de boala Berger (nefropatia IgA), în imunogramă, cea mai frecventă modificare este:",
+      "options": [
+        "Hipocomplementemie",
+        "Creșterea titrului IgG",
+        "Creșterea titrului IgM",
+        "Creșterea titrului IgA",
+        "Creșterea titrului IgD"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care dintre modificările urinare este caracteristică pentru glomerulonefrita acută?",
+      "options": [
+        "Izostenurie",
+        "Hematurie",
+        "Cilindri leucocitari",
+        "Leucociturie neutrofila",
+        "Limfociturie"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din următoarele grupe de medicamente au efect nefroprotector (antiproteinuric)?",
+      "options": [
+        "Blocanții receptorilor de angiotensină",
+        "Diureticele de ansă",
+        "Antiagregantele",
+        "Antibioticele",
+        "Ketoanalogi"
       ],
       "correct": 0
     },
     {
-      "text": "Care este organul principal pentru detoxifierea medicamentelor?",
+      "text": "Care dintre următoarele nefropatii glomerulare este proliferativă?",
       "options": [
-        "Ficatul",
-        "Rinichiul",
-        "Inima",
-        "Splina"
+        "Cu leziuni glomerulare minime (LGM)",
+        "Hialinoza segmentară și focala (HSF)",
+        "Nefropatia cu Ig A",
+        "Glomerulonefrita extramembranoasa (GEM)",
+        "Glomeruloscleroza focal-segmentară"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "La tratamentul etiologic al glomerulonefritei acute poststreptococice se referă:",
+      "options": [
+        "Prednisolon",
+        "Antibiotice",
+        "Citostatice",
+        "Diuretice",
+        "Antihipertensive"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Terapia patogenetică în glomerulonefrită acută poststreptococică:",
+      "options": [
+        "Este indicată în toate cazurile",
+        "Nu este indicată",
+        "Este indicată, în dependență de debutul bolii",
+        "Este indicată, în dependență de gradul proteinuriei",
+        "Este indicată, dacă este crescut nivelul creatininei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din următoarele grupe de medicamente au efect nefroprotector (antiproteinuric)?",
+      "options": [
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Diureticele de ansă",
+        "Antiagregantele",
+        "Antibioticele",
+        "Ketoanalogi"
       ],
       "correct": 0
     },
     {
-      "text": "Ce examen paraclinic confirmă cel mai bine anemia feriprivă?",
+      "text": "Din punct de vedere etiologic, glomerulonefrita cronică este o maladie:",
       "options": [
-        "Feritină serică scăzută",
-        "Leucocitoză",
-        "Glicemie crescută",
-        "Calcemie crescută"
+        "Poststreptococică",
+        "Exclusiv alergică",
+        "Exclusiv inflamatorie",
+        "Polietiologică",
+        "Neoplastică"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care măsuri dietetice sunt indicate în glomerulonefrită, însoțită de hipertensiunea arterială și edeme?",
+      "options": [
+        "Limitarea consumului de sare pînă la 1,5 g/zi",
+        "Majorarea consumului de sare",
+        "Creșterea cantității de lichid consumat",
+        "Creșterea consumului de produse bogate în calorii",
+        "Limitarea consumului produselor bogate în glucide"
       ],
       "correct": 0
     },
     {
-      "text": "Care este rolul principal al trombocitelor?",
+      "text": "Durata tratamentului în glomerulonefrită cronică constituie:",
       "options": [
-        "Hemostaza (oprirea sângerării)",
-        "Transportul oxigenului",
-        "Imunitate celulară",
-        "Conducerea impulsurilor nervoase"
+        "Cîteva săptămîni",
+        "2-3 luni",
+        "6 luni",
+        "De la 6 luni pînă la 2 ani",
+        "Toată durata vieții"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți forma morfologică a glomerulonefritei, în care tratamentul cu prednisolon are o perspectivă minimală?",
+      "options": [
+        "Cu modificări minimale",
+        "Mezangioproliferativă",
+        "Fibroplastică",
+        "Mezangiomembranoasă",
+        "Membranoasă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care este doza inițială adecvată de prednisolon la 1 kg greutate corporală, utilizată în tratamentul bolnavilor cu glomerulonefrită cronică?",
+      "options": [
+        "0,3 – 0,4 mg",
+        "0,5 – 0,6 mg",
+        "0,7 – 0,8 mg",
+        "1 mg",
+        "2 mg"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "La femeile tinere, glomerulonefrita, de cele mai dese ori, poate fi întâlnită în cadrul:",
+      "options": [
+        "Dermatomiozitei",
+        "Lupus eritmatos sistemic",
+        "Sclerodermiei sistemice",
+        "Poliarteriitei nodoase",
+        "Polimialgiei reumatismale"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicații pentru prescrierea glucocorticoizilor în glomerulonefrită cronică sunt:",
+      "options": [
+        "Sindromul nefrotic",
+        "Sindromul urinar",
+        "Hipertensiunea arterială",
+        "Insuficiență renală",
+        "În calitate de tratament profilactic"
       ],
       "correct": 0
     },
     {
-      "text": "Ce tip de microorganism cauzează tuberculoza?",
+      "text": "La indicarea inhibitorilor enzimei de conversie a angiotenzinei pentru tratamentul glomerulonefritei cronice, se așteaptă un efect pozitiv în evoluția:",
       "options": [
-        "Bacterie",
-        "Virus",
-        "Fung",
-        "Parazit"
+        "Hematuriei",
+        "Proteinuriei",
+        "Hiperkaliemiei",
+        "Hiperlipidemiei",
+        "Edemelor periferice"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care este valoarea”țintă” a TA în tratamentul glomerulonefritei cronice?",
+      "options": [
+        "≤160/80 mmHg;",
+        "˂130/80 mmHg;",
+        "˂110/70 mmHg;",
+        "≤90/60 mmHg;",
+        "˂120/60 mmHg;"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Proteinuria ușoară, hipertensiunea arterială, în combinație cu eritrociturie și edeme, este caracteristică pentru:",
+      "options": [
+        "Glomerulonefrită acută",
+        "Pielonefrită",
+        "Nefrolitiază",
+        "Cistită",
+        "Fibrodisplazia musculară"
       ],
       "correct": 0
+    },
+    {
+      "text": "Insuficiența renală în glomerlonefrita subacută se dezvoltă:",
+      "options": [
+        "Peste 3-5 săptămâni de la debutul bolii",
+        "Peste 1 an de la debutul bolii",
+        "Peste 3 ani de la debutul bolii",
+        "Din primele zile ale bolii",
+        "Perioada apariției depinde de gradul hipertensiunii arterială"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Persistența îndelungată a sindromului urinar în cadrul glomerulonefritei acute ne vorbește, în primul rând, despre:",
+      "options": [
+        "Tendința de trecere a glomerulonefritei acute în cea cronică",
+        "Păstrarea funcției renale",
+        "Dezvoltarea sindromului nefrotic",
+        "Dezvoltarea insuficienței renale cronice",
+        "Este o situație normală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care grupă de vârstă este mai predispusă spre a dezvolta glomerulonefrita acută?",
+      "options": [
+        "Pînă la 2 ani",
+        "De la 2 pînă la 40 de ani",
+        "Perioada climacterică",
+        "Perioada de menopauză",
+        "Perioada pubertară"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Antibioticul de elecție în tratamentul glomerulonefritei acute poststreptococice este:",
+      "options": [
+        "Eritromicina",
+        "Cefazolina",
+        "Imipenem",
+        "Penicilina",
+        "Gentamicina"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Tabloul cel mai caracteristic, depistat la biopsie renală în glomerulonefrită acută, este:",
+      "options": [
+        "Glomerulonefrită mezangioproliferativă",
+        "Edem interstițial",
+        "Modificări fibro-celulare",
+        "Proliferarea focală a celulelor endoteliale",
+        "Glomerulonefrită proliferativă endocapilară"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Pentru faza acută a glomerulonefritei acute este caracteristic:",
+      "options": [
+        "Tahicardie",
+        "Bradicardie",
+        "Extrasistolie",
+        "Bloc atrio-ventricular",
+        "Fibrilație atrială"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Titrul ASLO în glomerulonefrită acută este crescut maximal:",
+      "options": [
+        "În primele 3 săptămâni ale bolii",
+        "În primele 6 luni ale bolii",
+        "În primul an de boală",
+        "În primii doi ani de boală",
+        "În primii trei ani de boală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care patologii glomerulare se includ în noțiunea de “glomerulopatie”?",
+      "options": [
+        "Toate patologiile care afectează cumva glomerulul renal",
+        "Patologiile care nu prezintă leziuni proliferative celulare la biopsie",
+        "Patologiile care prezintă leziuni proliferative celulare la biopsie",
+        "Afectarea glomerulară de cauză infecțioasă",
+        "Afectarea glomerulară de cauză autoimună"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care patologii glomerulare se includ în noțiunea de “glomerulonefrită”?",
+      "options": [
+        "Toate patologiile care afectează cumva glomerulul renal",
+        "Patologiile care nu prezintă leziuni proliferative celulare la biopsie",
+        "Patologiile care prezintă leziuni proliferative celulare la biopsie",
+        "Afectarea glomerulară de cauză infecțioasă",
+        "Afectarea glomerulară de cauză autoimună"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Proliferarea epitelială sub formă de “semilune”, depistată la puncția-biopsie renală, este un semn patognomonic pentru:",
+      "options": [
+        "Glomerulonefrita acută poststreptococică",
+        "Glomerulonefrita rapid progresivă",
+        "Glomerulonefrita mezangioproliferativă",
+        "Glomeruloscleroza focal-segmentară",
+        "Glomerulopatia cu leziuni minime"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din următoarele grupe de medicamente are efect nefroprotector (antiproteinuric)?",
+      "options": [
+        "Blocanții canalelor de calciu (nedihidropiridine)",
+        "Diureticele de ansa",
+        "Antiagregantele",
+        "Antibioticele",
+        "Ketoanalogi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Despre tendința de trecere a glomerulonefritei acute în nefrită cronică ne vorbește:",
+      "options": [
+        "Persistența sindromului urinar",
+        "Reducerea funcției renale",
+        "Apariția sindromului nefrotic",
+        "Macrohematuria",
+        "Hipertensiune din primele zile ale bolii"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Modificările urinare clasice, caracteristice glomerulonefritei acute, sunt:",
+      "options": [
+        "Hiperstenurie",
+        "Hematurie",
+        "Proteinurie subnefrotică",
+        "Cilindrurie",
+        "Bacteriurie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Principiile de tratament al glomerulonefritei acute poststreptococice includ:",
+      "options": [
+        "Regim la pat, limitarea consumului de sodiu și lichide",
+        "Tratamentul factorului etiologic (infecția streptococică)",
+        "Terapia simptomatică a edemelor și hipertensiunii arteriale",
+        "În toate cazurile – tratament patogenetic cu prednisolon",
+        "Tratament antirecidivant cu medicamente nefroprotectoare"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Verigile patogenetice de bază, ce duc la proteinurie glomerulară sunt:",
+      "options": [
+        "Micșorarea sarcinii negative a membranei bazale glomerulare",
+        "Alterarea membranei bazale glomerulare de către fermenții lizozomali",
+        "Hipertensiune glomerulară",
+        "Reducerea presiunii oncotice a plasmei",
+        "Hipoperfuzia glomerulilor renali"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "În hematuria provocată de boala Berger (nefropatia IgA), în imunogramă se pot întâlni următoarele modificări:",
+      "options": [
+        "Hipocomplementemie",
+        "Creșterea titrului IgG",
+        "Creșterea titrului IgA1",
+        "Creșterea titrului IgA",
+        "Creșterea titrului IgE"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Forme neproliferative de glomerulopatii sunt:",
+      "options": [
+        "Nefropatia membranoasă",
+        "Glomerulopatia cu modificări minimale",
+        "Glomeruloscleroza focal-segmentară",
+        "Nefropatia cu IgA",
+        "Glomerulonefrita membranoproliferativă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care modificări imunologice pot fi observate în glomerulonefrita poststreptococică?",
+      "options": [
+        "Titru înalt de anticorpi contra antigenului streptococului",
+        "Creșterea titrului autoanticorpilor renali",
+        "Prezența anticorpilor antinucleari",
+        "Hipocomplementemie",
+        "Hipercomplementemie"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Care este scopul administrării anticoagulantelor și dezagregantelor în glomerulonefrită cronică?",
+      "options": [
+        "Profilaxia trombozei coronariene",
+        "Profilaxia sindromului tromboembolic",
+        "Acțiunea asupra proceselor locale ale coagulării intravasculare intraglomerulare",
+        "Profilaxia trombozei arterei renale",
+        "Majorarea perfuziei glomerulilor ischemiați"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicații pentru prescrierea corticosteroizilor în glomerulonefrită cronică sunt:",
+      "options": [
+        "Activitatea înaltă a procesului inflamator",
+        "Sindrom nefrotic fără hipertensiune și hematurie",
+        "Proteinurie izolată",
+        "Hematurie izolată",
+        "Sindrom hipertensiv"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Manifestările glomerulonefritei rapid progresive se caracterizează prin:",
+      "options": [
+        "Insuficiență renală rapid progresivă",
+        "Insuficiență renală lent progresivă",
+        "Leucociturie",
+        "Hematurie microscopică",
+        "Uneori hematurie macroscopică"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Manifestările glomerulonefritei rapid progresive mai frecvent este caracterizat prin:",
+      "options": [
+        "Proteinurie glomerulară, de obicei, moderată",
+        "Proteinurie, de obicei, masivă",
+        "Hematurie microscopică masivă",
+        "Insuficiență renală rapid progresivă",
+        "Insuficiență renală lent progresivă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "La bolnavii care primesc tratament cu citostatice în glomerulonefrită cronică, este necesar de a supraveghea:",
+      "options": [
+        "Creatinina serică",
+        "Leucocitele sângelui periferic",
+        "Colesterolul",
+        "ECG",
+        "Starea mediilor transparente oculare"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Corticosteroizii, în tratamentul glomerulonefritei cronice, influențează asupra următoarelor verigi patogenetice:",
+      "options": [
+        "Inhibă sinteza anticorpilor",
+        "Inhibă procesele inflamatorii",
+        "Blochează activarea complementului",
+        "Reduc permeabilitatea membranei bazale glomerulare",
+        "Reduc hipercoagularea"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care dintre afirmațiile de mai jos, referitoare la glomerulonefrită acută poststreptococică, sunt corecte?",
+      "options": [
+        "Hipertensiunea nu este caracteristică în debutul bolii",
+        "Encefalopatia este mai frecventă la copii",
+        "Evoluția atipică a bolii se întâlnește mai des la bătrâni",
+        "La bătrâni, în tabloul clinic pot predomina simptomele insuficienței cardiace congestive",
+        "Sindromul nefrotic se întâlnește frecvent"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Modalitățile evolutive ale glomerulonefritei acute poststreptococice sunt:",
+      "options": [
+        "Vindecare",
+        "Cronicizare",
+        "Evoluție rapid progresivă",
+        "Dezvoltarea septicemiei",
+        "Dezvoltarea endocarditei poststreptococice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din medicamentele antihipertensive au și un efect antiproteinuric, util în tratamentul glomerulonefritelor cronice?",
+      "options": [
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Diureticele de ansă",
+        "Antihipertensivele centrale",
+        "Blocanții receptorilor de angiotensină",
+        "β-blocantele"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Prezența cărui semn este cel mai informativ în diferențierea bolii cronice renale cu injuria renală acută?",
+      "options": [
+        "Proteinuria",
+        "Ambii rinichi de dimensiuni mici",
+        "Hipocalciemia",
+        "Hipernatriurie",
+        "Hematuria"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Două cele mai frecvente cauze care duc la dezvoltarea bolii cronice renale terminale sunt:",
+      "options": [
+        "Alergiile și diabetul",
+        "Infecțiile și diabetul",
+        "Diabetul și hipertensiunea arterială",
+        "Infecțiile și hipertensiunea arterială",
+        "Nefrolitiaza și hipertensiunea arterială"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cauza exclusiv genetică care duce la dezvoltarea bolii cronice renale terminale este:",
+      "options": [
+        "Diabetul zaharat",
+        "Pielonefrita cronică",
+        "Boala polichistică renală autozomal dominantă",
+        "Chisturile renale simple",
+        "Hipertensiunea arterială"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cauza principală de deces la pacienții cu boala cronică renală terminală sunt:",
+      "options": [
+        "Complicațiile cardiovasculare",
+        "Anemia",
+        "Insuficiența hepatică",
+        "Uremia",
+        "Sepsis"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Ce stadiu de boala cronică renală conform clasificării KDOQI va avea un bărbat cu rata filtrării glomerulare de 23 ml/min/1.73m2:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pacientul cu boala cronică renală stadiul 4 sau 5 poate necesita administrarea de eritropoietină pentru managementul:",
+      "options": [
+        "Anemiei",
+        "Neutropeniei",
+        "Pancitopeniei",
+        "Trombocitopeniei",
+        "Hipoproteinemiei"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care categorie de medicamente reduc frecvența complicațiilor cardiace, rezistența vasculară periferică și secreția de renină:",
+      "options": [
+        "Diuretice",
+        "β-blocante",
+        "α1-blocante",
+        "Blocanții canalelor de calciu",
+        "Inhibitorii enzimei de conversie angiontenzinici"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Termenul de uremie desemnează în general:",
+      "options": [
+        "Concentrația ureei în plasmă",
+        "Concentrația ureei în sânge",
+        "Creșterea creatininei în sînge",
+        "Sindromul clinic care rezultă din pierderea marcată a funcției renale",
+        "Creșterea acidului uric în sânge"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cauza principală a anemiei la pacienții cu boala cronică renală este:",
+      "options": [
+        "Diminuarea sintezei de eritropoietină",
+        "Prezența inhibitorilor eritropoietinei",
+        "Hemoliza",
+        "Pierderile sangvine gastro-intestinale",
+        "Deficitul de acid folic și de vitamina B12"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Scăderea ratei filtrării glomerulare se consideră fiziologică:",
+      "options": [
+        "La persoanele în etate",
+        "În timpul sarcinii",
+        "După efort fizic intens",
+        "După consumarea excesivă de lichide",
+        "În perioada caniculară"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pentru a stabili diagnosticul de boala cronică renală este nevoie de una din următoarele circumstanțe:",
+      "options": [
+        "Scăderea ratei de filtrare glomerulară <60 ml/min/1.73m2",
+        "Prezența unei leziuni renale demonstrată prin modificări morfopatologice, imagistice sau de laborator (proteinurie)",
+        "Pacientul trebuie să aibă peste 70 de ani",
+        "Să se determine ureea serică crescută",
+        "Pacientul este supus unei metode cronice de suplinire a funcției renale"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Boala cronică renală terminală este stabilită atunci când:",
+      "options": [
+        "Rata filtrării glomerulare este < 15 ml/min/1.73 m2",
+        "Rata filtrării glomerulare este  20-25 ml/min/1.73 m2",
+        "Rata filtrării glomerulare este 30-35 ml/min/1.73 m2",
+        "Pacientul este supus dializei peritoneale cronice",
+        "Pacientul este supus hemodializei cronice"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt contraindicațiile pentru a efectua transplant renal:",
+      "options": [
+        "Hipertensiunea",
+        "Infecția HIV",
+        "Cancer cu metastaze",
+        "Vîrsta >50 ani",
+        "Maladii severe care nu se vor îmbunătăți după transplantul renal"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Într-o sarcină fiziologică, care din următoarele schimbări renale se pot întâlni?",
+      "options": [
+        "Creșterea rata filtrării glomerulare",
+        "Creșterea dimensiunilor renale",
+        "Scăderea fluxului sanguin renal",
+        "Infecții ale tractului urinar mai rare",
+        "Proteinuria până la 500 mg/zi și glicozuria"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Factorii de risc modificabili pentru progresia bolii cronice de rinichi sunt:",
+      "options": [
+        "Sexul și greutatea mică la naștere",
+        "Factorii genetici",
+        "Proteinuria",
+        "Hipertensiunea arterială",
+        "Glicemia și greutatea corporală"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Factori de risc nemodificabili în pentru progresia bolii cronice de rinichi sunt:",
+      "options": [
+        "Sexul",
+        "Factorii genetici",
+        "Proteinuria",
+        "Glicemia",
+        "Vârsta"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Pentru estimarea rata filtrării glomerulare în practica clinică se utilizează:",
+      "options": [
+        "Formula MDRD (Modification of Diet in Renal Disease)",
+        "Formula Cockcroft-Gault",
+        "Formula CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration)",
+        "Estimarea indexului masei corporale",
+        "Măsurarea eliminării prin urină a inulinei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Managementul bolii cronice renale terminale se face prin:",
+      "options": [
+        "Dializă peritoneală",
+        "Hemodializă",
+        "Transplant renal",
+        "Administrarea de hormoni glucorticoizi",
+        "Administrarea de insulină"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt caracteristicele bolii cronice renale:",
+      "options": [
+        "Creșterea creatinei serice",
+        "Scăderea ureei serice",
+        "Diminuarea potasiului seric",
+        "Anemia",
+        "Creșterea potasiului seric"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Pentru managementul anemiei în boala cronică renală se efectuează:",
+      "options": [
+        "Administrarea Eritropoietinei",
+        "Administrarea fierului intravenos",
+        "Administrarea inhibitorilor enzimelor de conversie",
+        "Administrarea potasiului per os",
+        "Administrarea inhibitorilor direcți ai reninei"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Pentru a încetini progresarea bolii cronice renale este important de a:",
+      "options": [
+        "Controla hipertensiunea arterială",
+        "Micșora proteinuria",
+        "Reducere aportului alimentar de proteine",
+        "Administra soluție fiziologică parenteral",
+        "Administra antiinflamatorii nesteroidiene"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele grupe de medicamente sunt considerate nefroprotectoare:",
+      "options": [
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Blocanții receptorilor angiontensinei II",
+        "Blocanții canalelor de calciu dihidropiridinici (ca Amlodpina, Nifedipina)",
+        "Alfa-blocanți",
+        "Blocanții canalele de calciu non-dihidropiridinici (ca verapamil, diltiazem)"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Până la ce nivel se recomandă de a reduce aportul de proteine la un pacient cu boala cronică renală?",
+      "options": [
+        "La 0,8 g/kgc/zi + pierderile urinare",
+        "Nu se recomandă de a reduce aportul de proteine la pacienții cu boala cronică renală și malnutriție severă",
+        "La 1,5 g/kgc/zi + pierderile urinare",
+        "La 2,0 g/kgc/zi + pierderile urinare",
+        "La 3,0 g/kgc/zi + pierderile urinare"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Pentru tratamentul anemiei în boala cronică renală se utilizează:",
+      "options": [
+        "Darbapoietina-α",
+        "C.E.R.A. – Continuous Erythropoietin Receptor Activator",
+        "Eritropoietina recombinată umană (rHuEpo)",
+        "Chelatorii de fosfor",
+        "Inhibitorii enzimei de conversie a angiotensinei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele măsuri se recomandă pentru încetinirea progresiei bolii cronice renale:",
+      "options": [
+        "Controlul tensiunii arteriale",
+        "Restricția aportului de NaCl",
+        "Abandonarea fumatului",
+        "Terapie antiinflamatorie",
+        "Terapie cu corticosteroizi"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt recomandările principale pentru încetinirea progresiei bolii cronice renale:",
+      "options": [
+        "Controlul tensiunii arteriale",
+        "Tratamentul cu inhibitorii enzimei de conversie a angiotensinei",
+        "Reducerea proteinuriei",
+        "Terapie cu alopurinol",
+        "Terapie cu antiinflamatoare nesteroidiene"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt consecințele metabolice ale uremiei:",
+      "options": [
+        "Insulinemie bazala crescută cu tendință la hipoglicemie;",
+        "Scăderea toleranței la glucoză şi hiperglicemii spontane prin rezistență crescută a țesuturilor la acțiunea insulinei;",
+        "Necesitatea dozelor mai mari de insulină",
+        "Hiperlipoproteinemie",
+        "Creșterea acidului uric în urină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Care sunt manifestările respiratorii cele mai frecvente în boala cronică renală sunt:",
+      "options": [
+        "Dispnee acidotică Kussmaul",
+        "Respirație Cheyne-Stokes;",
+        "Pleurezie uremică",
+        "Bronhospasm",
+        "Bronhopneumopatia cronica obstructiva"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt manifestările hematologice cele mai frecvente în boala cronică renală:",
+      "options": [
+        "Anemie normocromă",
+        "Sindrom hemoragipar cauzat de disfuncția trombocitelor",
+        "Trombocitopenia în boala cronică renală terminală",
+        "Leucopenia",
+        "Eozinofilie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt manifestările metabolismului mineral și osos cele mai frecvente în boala cronică renală:",
+      "options": [
+        "Osteita fibroasă, manifestare a hiperparatiroidismului",
+        "Osteomalacia, manifestare a mineralizării defecte",
+        "Osteogeneza imperfectă",
+        "Osteopenia sau osteoporoza",
+        "Cifoza sau lordoza, ca urmare a depozitării ureei în discul intervertebral"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Care sunt manifestările neurologice cele mai frecvente în boala cronică renală:",
+      "options": [
+        "Encefalopatia uremică",
+        "Neuropatie periferică",
+        "Sindromul Ekbom sau sindromul picioarelor neliniștite",
+        "Miastenia gravis",
+        "Sindromul Guillain-Barré"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt manifestările gastrointestinale cele mai frecvente în boala cronică renală:",
+      "options": [
+        "Halena uremică (amoniacală)",
+        "Gastrita uremică cu anorexie, dureri epigastrice, vărsături cu miros amoniacal",
+        "Ulcer peptic datorită creșterii gastrinemiei",
+        "Sindromul Mallory-Weiss",
+        "Acalazie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele puncte sunt caracteristice pentru un pacient cu boala cronică renală la examenul paraclinic:",
+      "options": [
+        "Creatinina crescută",
+        "Ureea crescută",
+        "Anemia normocromă",
+        "Rata filtrării glomerulare crescută",
+        "Hipokaliemie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care tulburări electrolitice pot fi depistate la un pacient cu boala cronică renală?",
+      "options": [
+        "Hipo- sau hipernatremie",
+        "Hiperkaliemie",
+        "Hipokaliemie",
+        "Hipofosfatemie",
+        "Hiperfosfatemie"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care din următoarele puncte se includ în pregătirea pacientului pentru hemodializă cronică:",
+      "options": [
+        "Crearea abordului vascular",
+        "Consiliere psihologică",
+        "Modificarea dietei pentru o balanță corectă a proteinelor, caloriilor, vitaminelor și mineralelor",
+        "Corecția hiperkaliemiei",
+        "Reducerea fosfatemiei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Abordul vascular pentru hemodializă se poate face prin:",
+      "options": [
+        "Fistula arteriovenoasă",
+        "Grefă arteriovenoasă",
+        "Cateter venos central",
+        "Cateter Nelaton",
+        "Cateter Foley"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Se poate stabili diagnosticul de boală cronică renală atunci când se depistează:",
+      "options": [
+        "Scăderea ratei de filtrare glomerulară (rata filtrării glomerulare) sub 60 ml/min/1.73m2 suprafață corporală, persistentă (mai mult de 3 luni), cu sau fără leziune renală",
+        "Prezența unei leziuni renale mai mult de 3 luni demonstrată prin modificări morfopatologice",
+        "Prezența markerilor de leziune (albuminurie/proteinurie, sediment urinar patologic sau modificări renale decelabile imagistic).",
+        "Scăderea ratei de filtrare glomerulară (rata filtrării glomerulare) sub 90 ml/min/1.73m2 suprafață corporală, persistentă (mai mult de 3 luni), cu sau fără leziune renală",
+        "Malformația congenitală fără dereglarea funcției renale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care grupe de pacienți au risc crescut de apariție a bolii cronice renale?",
+      "options": [
+        "Pacienții cu diabet zaharat",
+        "Pacienții hipertensiune arterială",
+        "Pacienții cu unele boli sistemice ca LES",
+        "Pacienții cu istoric familial de injurie renală acută",
+        "Pacienții cu spondilită seronegativă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt metodele de screening la pacienții cu boala cronică renală?",
+      "options": [
+        "Determinarea ureea şi creatinina serică",
+        "Estimarea ratei de filtrare glomerulară",
+        "Ultrasonografia renală",
+        "Estimarea eritropoietinei serice",
+        "Măsurarea hemoglobinei A1C"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Pentru un diagnostic corect al bolii cronice renale este necesar de a:",
+      "options": [
+        "Identifica nefropatia de bază",
+        "Determina stadiul bolii cronice renale după clasificarea KDOQI",
+        "Determina hormonilor tiroidieni",
+        "Efectua radiografia craniului",
+        "Efectua ultrasonografia rinichilor"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care din următoarele manifestări se pot întâlni mai frecvent la pacienții cu boala cronică renală stadiul 3 KDOQI:",
+      "options": [
+        "Hipertensiune renală (de regulă, 50-60%)",
+        "Scăderea absorbţiei calciului",
+        "Reducerea excreţiei fosfatului",
+        "Scăderea parathormonului în ser",
+        "Creșterea fierului seric"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele manifestări se pot întâlni mai frecvent la pacienții cu boala cronică renală stadiul 5 KDOQI nedializați:",
+      "options": [
+        "Alungirea complexului QRS pe ECG",
+        "Undele T înalte pe ECG",
+        "Retenţie hidro-salină",
+        "Eritrocitoza",
+        "Paraproteinemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care sunt obiectivele tratamentului în boala cronică renală:",
+      "options": [
+        "Încetinirea ratei de progresie a bolii cronice renale;",
+        "Profilaxia / terapia complicațiilor;",
+        "Pregătirea pacientului pentru terapia de substituție a funcțiilor renale la pacienții cu boala cronică renală stadiul 3 KDOQI",
+        "Pregătirea pacientului pentru terapia de substituție a funcțiilor renale la pacienții cu boala cronică renală stadiul 2 KDOQI",
+        "Plasarea pacientului cu boala cronică renală stadiul 4 sau 5 KDOQI  în lista de așteptare pentru transplant renal"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Tulburările hematologice tipice din boala cronică renală sunt:",
+      "options": [
+        "Diateza hemoragica",
+        "Anemia microcitara indusă de aluminiu",
+        "Leucocitoza",
+        "Leucopenia",
+        "Anemia normocitară"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul hipervolemiei la pacienții edematoşi cu boala cronică renală se face prin:",
+      "options": [
+        "Administrarea de diuretice la cei nedializaţi",
+        "Restricția aportului de sare şi apă",
+        "Creșterea aportului de apă între dialize",
+        "Administrarea de diuretice concomitent cu creșterea aportului de apă",
+        "La pacienții dializaţi hiperhidrataţi se face ultrafiltrare"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Complicațiile acute ale hemodializei sunt:",
+      "options": [
+        "Tromboza fistulei arterio-venoase",
+        "Convulsiile",
+        "Malnutriția",
+        "Crampe musculare",
+        "Hipotensiunea arterială"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Următoarele afirmații în legătură cu dializa peritoneală sunt adevărate:",
+      "options": [
+        "Poate fi efectuată la domiciliu",
+        "Este cea mai răspândită formă de dializă",
+        "Se efectuează de 4-6 ori pe zi, în fiecare zi",
+        "Este superioară transplantului renal",
+        "Metoda nu se utilizează la pacienții cu aderențe abdominale post chirurgicale"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care dintre următoarele afirmații sunt adevărate:",
+      "options": [
+        "În boala cronică renală rinichii sunt de obicei de dimensiuni normale",
+        "În insuficiența renală acută rinichii se pot depista întotdeauna modificări de dimensiuni și structura la examen ultrasonografic",
+        "Anemia este frecventă în boala cronică renală",
+        "În insuficiența renală acută apar modificări severe de osteodistrofie renală",
+        "În boala cronică renală hipertensiunea arterială este frecventă"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Proteinuria poate fi considerată fiziologică în următoarele cauze:",
+      "options": [
+        "Proteinuria ortostatică",
+        "Proteinuria în febră",
+        "Proteinuria după alergarea unui maraton",
+        "Proteinuria din nefropatiile glomerulare",
+        "Proteinuria din mielom multiplu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "În nefropatiile tubulo-interstiţiale sunt afectate preponderent:",
+      "options": [
+        "Ţesutul interstiţial",
+        "Tubii renali",
+        "Glomerulii renali",
+        "Ţesutul interstiţial şi capilarele peritubulare",
+        "Ţesutul interstiţial şi tubii subiacenţi"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Care este cea mai frecventă cale de infectare a parenchimului renal?",
+      "options": [
+        "Calea hematogenă",
+        "Calea ascendentă",
+        "Calea limfogenă",
+        "Prin contiguitate",
+        "Calea descendentă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Alegeți factorul predispozant extraurinar al pielonefritei cronice:",
+      "options": [
+        "Refluxul vezico-ureteral",
+        "Litiaza renală şi urinară",
+        "Anomaliile intrarenale congenitale",
+        "Diabetul zaharat",
+        "Golirea incompletă a vezicii urinare"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectați agentul cauzal cel mai frecvent al pielonefritei cronice:",
+      "options": [
+        "Escherichia coli",
+        "Streptococul beta-hemolitic",
+        "Mycoplasma",
+        "Proteus mirabilis",
+        "Pseudomonas aeruginosa"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicați agentul cel mai frecvent implicat în etiologia pielonefritei acute şi cronice în acutizare:",
+      "options": [
+        "Proteus",
+        "Enterobacter",
+        "Serratia",
+        "Staphylococcus aureus",
+        "Escherichia coli"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Marcați răspunsul corect cu referire la tabloul clinic caracteristic pielonefritei acute:",
+      "options": [
+        "Debut insidios",
+        "Febră, frisoane, lombalgii",
+        "Edeme palpebrale",
+        "Nicturie",
+        "Manevra Giordano negativă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care test ne permite aprecierea funcţiei renale:",
+      "options": [
+        "Testul Neciporenco",
+        "Testul Zimniţki",
+        "Formula CKD-EPI",
+        "Proba cu trei pahare",
+        "Pierderea nictimerală de proteine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Proteinuria în pielonefrita acută poate fi:",
+      "options": [
+        "≤1g/l",
+        "masivă",
+        "≥2 g/l",
+        "≥3 g/l",
+        "2-3 g/l"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectaţi afirmaţia corectă referitor la urografia intravenoasă:",
+      "options": [
+        "Oferă date generale despre amplasarea rinichilor, bazinetului, ureterelor, vezicii urinare",
+        "Nu oferă date despre funcţia renală",
+        "Este obligatorie pentru stabilirea diagnosticului de pielonefrită cronică",
+        "Nu este contraindicată în boala cronică renală stadiul 4-5 KDOQI",
+        "Nu este contraindicată în caz de alergie la iod"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Aprecierea sensibilităţii florei la preparatele antibacteriene:",
+      "options": [
+        "Are o semnificaţie clinică majoră",
+        "Nu are o semnificaţie clinică importantă",
+        "Are o semnificaţie clinică importantă numai în pielonefrită",
+        "Are o semnificaţie clinică importantă numai în nefrita interstiţială",
+        "Are o semnificaţie clinică importantă numai în glomerulonefrită"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "În cazul pielonefritei cronice, la examen histopatologic, permanent se depistează:",
+      "options": [
+        "Atrofia epiteliului canalicular",
+        "Infiltrat limfohistiocitar al interstiţiului",
+        "Afectarea vaselor renale",
+        "Glomerulonefrită proliferativă",
+        "Scleroză periglomerulară"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "La gravide bacteriuria ≥105 U/ml este indicaţie pentru:",
+      "options": [
+        "Tratament antibacterian, indiferent de tabloul clinic",
+        "Tratament antibacterian numai în cazul prezenţei disuriei",
+        "Tratament antibacterian numai în cazul prezenţei leucocituriei",
+        "Tratament balneo-sanatorial",
+        "În absenţa tabloului clinic nu este indicat careva tratament"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectaţi afirmaţia corectă referitor la creşterea stabilă a tensiunii arteriale la un bolnav cu pielonefrită cronică:",
+      "options": [
+        "Poate avea loc",
+        "Nu se întâlneşte",
+        "Se întâlneşte numai în cazul dereglării funcţiei renale",
+        "Are loc numai în cazul duratei bolii mai mari de 3 ani",
+        "Are loc numai în cazul duratei bolii mai mari de 5 ani"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Afirmaţia ”existenţa mai multor abcese renale cu tendinţă de confluare şi de formare a cavităţii comune” descrie :",
+      "options": [
+        "Abcesul renal cortico-medular",
+        "Necroza papilară acută",
+        "Carbunculul renal",
+        "Pionefroza",
+        "Perinefrita"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Măsura de tratament obligatorie în nefrita interstiţială acută postmedicamentoasă:",
+      "options": [
+        "Sistarea medicamentului care posibil a provocat nefrita",
+        "Administrarea de antiinflamatoare nesteroidiene",
+        "Transfuzia de sânge",
+        "Administrarea preparatelor citostatice",
+        "Tratamentul antibacterian"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Marcați durata tratamentului cu antibiotice în pielonefrita acută necomplicată cu evoluție gravă:",
+      "options": [
+        "3 zile",
+        "7 zile",
+        "14 zile",
+        "21 zile",
+        "6 săptămâni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectaţi care dintre următoarele afecţiuni renale sunt incluse în grupul nefropatiilor tubulointerstiţiale:",
+      "options": [
+        "Nefropatia tubulointerstiţială prin agresiune medicamentoasă cronică",
+        "Nefropatia tubulointerstiţială prin hipersensibilitate la medicamente",
+        "Pielonefrita cronică",
+        "Nefrite tubulointerstiţiale asociate cu boli imunologice",
+        "Sindromul Goodpasture"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care sunt indicaţiile pentru tratament chirurgical în pielonefrita cronică în acutizare:",
+      "options": [
+        "Pionefroză",
+        "Paranefrită",
+        "Abces renal",
+        "Carbuncul renal",
+        "Chist renal neinfectat"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Şocul bacterian din pielonefrita acută se caracterizează prin:",
+      "options": [
+        "Prăbuşirea tensiunii arteriale",
+        "Scăderea diurezei",
+        "Acidoză metabolică",
+        "Alcaloză metabolică",
+        "Hipertensiune arterială"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care dintre următoarele afecţiuni fac parte din grupul nefropatiilor tubulointerstiţiale:",
+      "options": [
+        "Nefropatia tubulointerstiţială acută medicamentoasă",
+        "Nefropatia de reflux",
+        "Necroza tubulară acută toxică",
+        "Nefropatia cu leziuni minime",
+        "Nefropatia obstructivă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Caracteristicile afectării interstiţiale, care permit diagnosticul diferenţial cu glomerulonefritele sunt:",
+      "options": [
+        "Proteinuria ≤ 1 g în 24 de ore",
+        "Absenţa hipoproteinemiei",
+        "Hipertensiunea arterială severă",
+        "Absenţa edemelor",
+        "Prezenţa piuriei sterile şi a cilindrilor leucocitari"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Elemente sugestive pentru prezenţa nefropatiei interstiţiale sunt:",
+      "options": [
+        "Piuria",
+        "Chiluria",
+        "Proteinuria ≤ 1 g/zi",
+        "Proteinuria ≥ 3 g/zi",
+        "Hematuria marcată"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Elemente sugestive pentru diagnosticul de nefropatie interstiţială cronică sunt:",
+      "options": [
+        "Debut insidios",
+        "Evoluţie fulminantă",
+        "Proteinuria ≤ 1 g/zi",
+        "Absenţa hipertensiunii arteriale severe",
+        "Edeme marcate"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Forme etiologice ale nefropatiilor interstiţiale sunt:",
+      "options": [
+        "Infecţioase",
+        "Parazitare",
+        "Medicamentoase",
+        "Asociate cu boli imunologice",
+        "Vasculare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Din grupul infecţiilor urinare joase fac parte:",
+      "options": [
+        "Pielonefrita acută",
+        "Pielonefrita cronică",
+        "Prostatita",
+        "Cistita",
+        "Uretrita"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Din grupul infecţiilor urinare înalte fac parte:",
+      "options": [
+        "Uretrita",
+        "Pielonefrita acută",
+        "Pielonefrita cronică",
+        "Carbuncul renal",
+        "Pionefroza"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Factorii favorizanţi locali (reno-urinari) ai infecţiei de tract urinar sunt:",
+      "options": [
+        "Litiaza renală",
+        "Diabetul zaharat",
+        "Refluxul vezico-ureteral",
+        "Sexul feminin",
+        "Sarcina"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Care din categoriile de persoane de mai jos prezintă riscuri crescute de infecţii de tract urinar:",
+      "options": [
+        "Gravidele",
+        "Transplantaţii renal",
+        "Pacienţii cu litiază renală",
+        "Bărbaţii sub 20 de ani",
+        "Pacienţii cu diabet zaharat"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Dintre circumstanţele care favorizează infecţiile tractului urinar fac parte:",
+      "options": [
+        "Sarcina",
+        "Sexul masculin",
+        "Refluxul vezico-ureteral",
+        "Disfuncţia neurogenă a vezicii urinare",
+        "Cateterele uretrale permanente"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "„Vârstele de risc” pentru pielonefrita cronică sunt:",
+      "options": [
+        "Copii în primii 2-3 ani de viaţă (malformaţii congenitale)",
+        "Persoanele de sex feminin în perioada vieţii sexuale active",
+        "Bărbaţi în perioada vieţii sexuale active",
+        "Femei după menopauză,",
+        "Bărbaţi cu adenom de prostată"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Etiologia pielonefritei acute poate fi:",
+      "options": [
+        "bacteriană Gram-negativă (Escherichia coli, Proteus spp., Klebsiella pneumoniae, Pseudomonas aeruginosa, Enterobacter, Citrobacter etc.)",
+        "medicamentoasă",
+        "fungică",
+        "parazitară",
+        "autoimună"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Germenii incriminaţi cel mai des în infecţiile urinare sunt:",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "E. coli",
+        "Chlamydia trachomatis",
+        "Proteus",
+        "Streptococcus saprophyticus"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt componentele de virulenţă şi uropatogenitate ale tulpinilor de E. coli:",
+      "options": [
+        "Hemolizinele",
+        "Aerobactina",
+        "Ureaza",
+        "Proteaza",
+        "Adezinele"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt factorii de virulenţă bacteriană care influenţează infecţia tractului urinar:",
+      "options": [
+        "Fimbriile",
+        "Pilii P",
+        "Producerea de hemolizine",
+        "Producerea de kinaze",
+        "Rezistenţa la acţiunea bactericidă a serului uman"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt factorii de apărare ai tractului urinar:",
+      "options": [
+        "Flora periureterală saprofită",
+        "Fluxul urinar",
+        "pH-ul bazic vaginal",
+        "Valvele vezico-ureterale",
+        "Activitatea sexuală"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Tabloul clinic în pielonefrita acută poate include:",
+      "options": [
+        "Febră",
+        "Macrohematurie",
+        "Disurie",
+        "Dureri lombare",
+        "Sindrom nefrotic"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pentru confirmarea diagnosticului de pielonefrită cronică sunt utile următoarele investigații:",
+      "options": [
+        "Examenul sumar de urină",
+        "Examen ultrasonografic al rinichilor",
+        "Urografia intravenoasă",
+        "Cistografia",
+        "Biopsia renală"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Urocultura este considerată pozitivă, dacă germenul detectat este în cantitate:",
+      "options": [
+        "≤ 102 (indiferent de agentul patogen şi de existenţa simptomatologiei clinice)",
+        "≥ 105 (indiferent de agentul patogen şi de existenţa simptomatologiei clinice)",
+        "≤ 104 (indiferent de agentul patogen şi de existenţa simptomatologiei clinice)",
+        "≥ 104 şi triada clinică prezentă",
+        "≥ 103 şi manifestările clinice complete la pacienţii cu infecţie urinară complicată (diabet zaharat, sarcină, obstrucţie infrarenală etc.)"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care afirmaţii despre scintigrafia renală dinamică sunt adevărate:",
+      "options": [
+        "Se poate efectua în azotemie",
+        "Este pe larg utilizată în diagnosticul refluxului vezicoureteral",
+        "Determină dereglările funcţionale precoce",
+        "Nu este necesară pregătire specială pentru investigaţie",
+        "Este contraindicată în caz de alergie la iod şi sarcină"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt măsuri generale în tratamentul pielonefritei cronice:",
+      "options": [
+        "Repaos la pat în perioada febrilă",
+        "Hidratare adecvată",
+        "Reglarea tranzitului intestinal",
+        "Antibioticoterapie",
+        "Glucocorticosteroizi"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "În caz de pielonefrită acută, la examenul clinic durerea poate lipsi mai frecvent la următoarele categorii de pacienţi:",
+      "options": [
+        "Copii",
+        "Gravide",
+        "Diabetici",
+        "Etilici denutriţi",
+        "Transplantaţi"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Nefropatia interstiţială acută care generează injuria renală acută, este indusă cel mai frecvent de:",
+      "options": [
+        "Analgezice şi antiinflamatoare nesteroidiene",
+        "Intoxicaţia cu insecticide organoclorurate",
+        "Ceaiuri cu plante chineze",
+        "Litiaza renală bilaterală",
+        "Antigene tumorale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Injuria renală acută de cauza glomerulară se manifestă clinic prin:",
+      "options": [
+        "Oliguria cu purpură şi febra asociată sindromului de injuria renală acută",
+        "Anurie, hiperhidratare, febră, sindrom edematos",
+        "Injuria renală acută asociată cu sindrom  nefritic",
+        "Tromboză bilaterală de venă renală",
+        "Proteinurie, hematurie, anemie şi insuficienţă renală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Injuria renală acută de cauza renală este produsă de:",
+      "options": [
+        "Afectarea unuia din segmentele nefronului sau a vaselor",
+        "Anomalii reversibile ale perfuziei renale",
+        "Polichistoza renală autozomal dominantă a adultului",
+        "Consumul de analgezice",
+        "Tratamentul cu hipotensoare (inhibitorii enzimei de conversei a angiotensinei, sartane, blocanţi de Ca)"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Manifestările clinice ale insuficienţei renale acute din nefropatia interstiţială acută sunt:",
+      "options": [
+        "Edem, proteinurie, hipertensiunea arterială şi injuria renală acută",
+        "Durere lombară unilaterală, febra, polakiurie, leucociturie, hematurie, purpură",
+        "Tuse, febra, sindrom hemoragipar",
+        "Febra, rash cutanat, artralgii, eozinofilie, creşterea creatininei serice şi diureza deseori conservată",
+        "Epigastralgii, leucocitoza, oprirea tranzitului intestinal, stare generală alterată,"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "În care dintre următoarele boli, injuria renală acută poate să se prezinte cu depozite intratubulare obstructive?",
+      "options": [
+        "Diabetul zaharat tip 1",
+        "Sindromul Alport",
+        "Mielomul multiplu",
+        "Hipovolemie",
+        "Lipodistrofia"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Sindromul hepatorenal este o:",
+      "options": [
+        "Formă de insuficienţă renală cronică consecutivă cirozei hepatice",
+        "Formă de insuficienţă renală cronică prin necroză tubulară acută",
+        "Formă de insuficienţă renală acută prerenală",
+        "Intoxicaţie cu o substanţă nefro- si hepatotoxică",
+        "Glomerulonefrita la pacienţii cu hepatită acută"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Din punct de vedere anatomopatologic, leziunea principală din injuria renală acută ischemică/toxică este:",
+      "options": [
+        "Proliferarea extracapilară glomerulară",
+        "Proliferarea tubulară",
+        "Vasculita",
+        "Necroza tubulară acută",
+        "Infiltratul leucocitar în ansele glomerulare"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Hiperkaliemia din injuria renală acută se tratează cu:",
+      "options": [
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Carbonat de calciu",
+        "Hemodializă",
+        "Stoparea administrării de antiacide",
+        "Nutriţie parenterală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care manifestare din următoarele sugerează injuria renală acută:",
+      "options": [
+        "Osteodistrofia renală",
+        "Neuropatia",
+        "Creşterea rapidă a ureei şi creatininei serice",
+        "Rinichii mici sau cicatrici renale evidenţiabile radiologic",
+        "Proteinuria nefrotică"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeţi afirmaţia corectă referitor la funcţia renală în injuria renală acută :",
+      "options": [
+        "Se alterează rapid",
+        "Se alterează lent",
+        "Nu are loc alterarea funcţiei renale",
+        "Nu este însoţită de alterarea structurilor morfologice ale rinichilor",
+        "Creşte marcat"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este cea mai frecvent întâlnită forma a insuficienţei renale acute după clasificarea etiopatogenetică :",
+      "options": [
+        "Intrinsecă",
+        "Prerenală",
+        "Obstructivă",
+        "Toxică",
+        "Infecţioasă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Stadiul de debut a insuficienţei renale acute durează:",
+      "options": [
+        "De la câteva ore pînă la 2-3 zile",
+        "3-4 săptămâni",
+        "10-15 zile",
+        "2-3 luni",
+        "20-30 de minute"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "În care stadiu al tabloului clinic al insuficienţei renale acute apare sindromul de azotemie?",
+      "options": [
+        "Stadiul oligoanuric",
+        "Stadiul de poliurie",
+        "Stadiul de debut",
+        "Stadiul de recuperare",
+        "Stadiul de acutizare"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care indice de laborator este caracteristic pentru începutul stadiului de recuperare al insuficienţei renale acute:",
+      "options": [
+        "Normalizarea azotemiei",
+        "Normalizarea hemoglobinei",
+        "Normalizarea diurezei",
+        "Normalizarea tensiunii arteriale",
+        "Ureea crescută"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi frecvenţa monitorizării diurezei la pacienţi cu insuficienţă renală acută în stadiul incipient:",
+      "options": [
+        "Fiecare 2-3 ore",
+        "Fiecare oră",
+        "Odată în 24 de ore",
+        "Fiecare 4 ore",
+        "Fiecare 12 ore"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care nivel de potasemie prezintă risc vital pentru pacientul cu insuficienţă renală acută:",
+      "options": [
+        "K+ <3,5 mEq/l fără modificări ECG",
+        "K+ >7 mEq/l asociat cu modificări ECG",
+        "K+ 6,5-7 mEq/l fără modificări ECG",
+        "K+ 4 mEq/l fără modificări ECG",
+        "K+ 5 mEq/l fără modificări ECG"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi măsura cea mai rapidă de a micşora K seric la pacientul cu insuficienţă renală acută:",
+      "options": [
+        "Insulină + glucoză, gluconatul de calciu",
+        "Bicarbonat de sodiu",
+        "Hemodializă",
+        "Diuretice de ansă",
+        "Manitol"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tratamentul cel mai eficace al edemului pulmonar acut din cadrul insuficienţe renale acute este:",
+      "options": [
+        "Ultrafiltrarea prin hemodializă de urgenţă",
+        "Oxigenoterapia",
+        "Nitroglicerina",
+        "Diuretice de ansă",
+        "Antibioticoterapia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Etiopatogenetic, injuria renală acută se împarte în :",
+      "options": [
+        "Prerenală",
+        "Intrinsecă",
+        "Postrenală (obstructivă)",
+        "Normovolemică",
+        "Postinfecţioasă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Necroza tubulară acută, drept cauză a insuficienţei renale acute, patogenetic se împarte în :",
+      "options": [
+        "Ischemică",
+        "Toxică",
+        "Alergică",
+        "Infecţioasă",
+        "Infiltrativă"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Nefrita interstiţială acută drept cauză a insuficienţei renale acute, etiopatogenetic se împarte în :",
+      "options": [
+        "Alergică",
+        "Infecţioasă",
+        "Infiltrativă",
+        "Ischemică",
+        "Toxică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Printre semnele de deshidratare se numără:",
+      "options": [
+        "Turgorul cutanat redus",
+        "Hipotensiunea arterială",
+        "Bradicardia",
+        "Scăderea debitului urinar",
+        "Creşterea presiunii venoase centrale"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Care dintre următoarele manifestări se pot întâlni în injuria renală acută obstructivă?",
+      "options": [
+        "Durerea lombară sau suprapubiană",
+        "Oliguria",
+        "Proteinuria masivă",
+        "Hipertensiunea arterială severă",
+        "Hipofosfatemia marcată"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Injuria renală acută intrinsecă poate să apară în:",
+      "options": [
+        "Glomerulonefritele acute",
+        "Sindromul Fanconi",
+        "Nefropatia toxică sau ischemică acută (necroza tubulară acută)",
+        "Nefritele interstiţiale acute",
+        "Glomeruloscleroza segmentală focală"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Azotemia postrenală poate fi determinată de:",
+      "options": [
+        "Obstrucţia acută a arteriolelor aferente",
+        "Obstrucţia unui ureter, dacă rinichiul contralateral este funcţional",
+        "Obstrucţia ambelor uretere",
+        "Obstrucţia unui ureter, dacă rinichiul contralateral este nefuncţional",
+        "Obstrucţia colului vezical"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Obstrucţia subvezicală a tractului urinar poate fi produsă de:",
+      "options": [
+        "Adenomul de prostată",
+        "Carcinomul de prostată",
+        "Vezica neurogenă",
+        "Ligatura accidentală a unui ureter",
+        "Hipovolemie"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Injuria renală acută mioglobinurică se poate întâlni după:",
+      "options": [
+        "Traumatisme extinse",
+        "Ischemie musculară (de ex. după obstrucţii arteriale la nivelul membrelor)",
+        "Hipertensiunea arterială",
+        "Mielomul multiplu",
+        "Hiperuricozurie"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Alterarea funcţiei renale în injuria renală acută duce la :",
+      "options": [
+        "Retenţie azotată",
+        "Dereglări hidroelectrolitice",
+        "Dereglări acido-bazice",
+        "Hipovolemie",
+        "Hidronefroza"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Stadiile evolutive ale insuficienţei renale acute sunt:",
+      "options": [
+        "De debut",
+        "De oligurie",
+        "De restabilire a diurezei",
+        "De recuperare (vindecare)",
+        "Remisie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi fazele stadiului trei al insuficienţei renale acute:",
+      "options": [
+        "Faza diurezei precoce",
+        "Faza poliurică",
+        "Faza de debut",
+        "Faza oligurică",
+        "Faza anurică"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumeraţi principiile de terapie în corijarea dereglărilor hemodinamice la pacienţi cu insuficienţă renală acută prerenală:",
+      "options": [
+        "Hemodiluţie artificială",
+        "Ameliorarea reologică sangvină",
+        "Diureză forţată",
+        "Antibioticoterapie",
+        "Tratament de substituţie funcţiei renale"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Tratamentul nespecific al edemului pulmonar acut în injuria renală acută include:",
+      "options": [
+        "Bronhodilatatoare",
+        "Menţinerea pacientului în poziţia şezândă",
+        "Oxigenoterapia",
+        "Diuretice de ansă",
+        "Nitroglicerina"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Alegeţi indicaţiile absolute pentru iniţierea dializei la pacienţi cu injuria renală acută:",
+      "options": [
+        "Hiperpotasemie > 6,5 mmol/l",
+        "Acidoză metabolică severă (pH < 7,2)",
+        "Anuria > 24 ore",
+        "Hemoglobina serică < 100 g/l",
+        "Diureza ≤ 500 ml/24 ore"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Factorii de risc implicaţi în apariţia insuficienţei renale acute secundară administrării substanţelor de contrast iodate sunt:",
+      "options": [
+        "Boala cronică renală preexistentă",
+        "Nefropatia diabetică",
+        "Cantităţi excesive de substanţă de contrast",
+        "Hipovolemie",
+        "Obezitate"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi cauzele renale (intrinseci) de injurie renală acută (insuficienţă renală acută):",
+      "options": [
+        "Pancreatită acută",
+        "Septicemie cu bacterii gram-negative",
+        "Nefrită interstiţială alergică",
+        "Litiază ureterală",
+        "Glomerulonefrită rapid progresivă"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "În care din următoarele situaţii inhibitorii enzimei de conversie a angiotensinei ar trebui folosiţi cu precauţie specială?",
+      "options": [
+        "Stenoza ureterală unilaterală",
+        "Stenoza unilaterală a arterei renale",
+        "Stenoza unilaterală a arterei renale a unicului rinichi funcţional",
+        "Stenoza bilaterală arterei renale",
+        "Stenoza pielocaliceală unilaterală"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care dintre următoarele medicamente trebuie evitate sau folosite cu precauţie la pacienţii hipovolemici?",
+      "options": [
+        "Diureticele",
+        "Inhibitorii enzimei de conversie a angiotensinei II",
+        "Antiinflamatoarele nesteroidiene",
+        "Vitaminele din grupul B",
+        "Antibioticele"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeţi indicaţiile iniţierii hemodializei în injuria renală acută:",
+      "options": [
+        "Angina pectorală la oligurici",
+        "Hiperhidratarea la oligurici",
+        "Deshidratarea extremă",
+        "Hiperkaliemia severă la oligurici",
+        "Poliuria care nu poate fi controlată medicamentos"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Elemente clinice care sunt în favoarea diagnosticului de injuria renală acută prerenală pot fi:",
+      "options": [
+        "Setea",
+        "Hipertensiunea ortostatică",
+        "Presiunea venoasă jugulară crescută",
+        "Vertijul ortostatic",
+        "Turgorul cutanat scăzut"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Următoarele afirmaţii referitor la complicaţiile insuficienţe renale acute sunt corecte:",
+      "options": [
+        "Alcaloza metabolică poate exacerba hiperkalemia",
+        "Acidoza metabolică este severă în intoxicaţia cu etilenglicol",
+        "Anemie severă în absenţa hemoragiei poate sugera microangiopatie trombotică",
+        "Infecţia poate complica 50-90% dintre cazurile de insuficienţă renală acută",
+        "Potasiul seric scade cu 2 mmol/l/zi în injuria renală acută oligoanurică"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţiile absolute pentru iniţierea dializei în injuria renală acută sunt:",
+      "options": [
+        "Hipocalcemia",
+        "Hiponatremia",
+        "Semnele sindromului uremic",
+        "Hipervolemia severă",
+        "Hiperkaliemia rezistentă la măsurile conservative"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Rabdomioliza în cursul insuficienţe renale acute este sugerată de:",
+      "options": [
+        "Creşterea creatin-kinazei serice (izoenzima MM)",
+        "Hipercalcemie",
+        "Hiperuricemie",
+        "Hiperkaliemie",
+        "Hiperfosfatemie"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Alegeţi afirmaţiile corecte referitoare la necroza tubulară acută :",
+      "options": [
+        "Poate fi determinată de infecţii",
+        "Este, de obicei, cauza bolii cronice renale",
+        "Poate fi determinată de substanţe nefrotoxice",
+        "Este, de obicei, cauza insuficienţei renale rapid progresive",
+        "Este cauza frecventă a insuficienţei renale acute"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Cauzele insuficienţei renale acute prerenale sunt:",
+      "options": [
+        "Hemoragii",
+        "Tratament cu aminoglicozide",
+        "Exces de antihipertensive",
+        "Vome",
+        "Tratament diuretic excesiv"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt situaţiile în care apar edemele generalizate în contextul oliguriei din injuria renală acută:",
+      "options": [
+        "Exces de aport lichidian perfuzabil",
+        "Injuria renală acută dezvoltată pe fundal de glomerulonefrită cronică",
+        "Injuria renală acută dezvoltată pe fundal de pielonefrită cronică",
+        "Injuria renală acută toxică",
+        "Hiperproducţie de apă endogenă > 400ml/zi"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Injuria renală acută cu diureză păstrată se dezvoltă în următoarele cazuri:",
+      "options": [
+        "Injuria renală acută pe fundal de glomerulonefrită acută",
+        "Injuria renală acută din pielonefrita acută",
+        "Injuria renală acută pe fundal obstructiv",
+        "Injuria renală acută prin nefrotoxice",
+        "Injuria renală acută postoperatorie"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Alegeţi manife respiratorii datorate sindromului uremic din cadrul insuficienţei renale acute:",
+      "options": [
+        "Respiraţie Kussmaul",
+        "Edem pulmonar acut",
+        "Dispnee",
+        "Hemoptizii",
+        "Bronhopneumopatia cronică obstructivă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Radiografie panoramică a abdomenului este utilă pentru:",
+      "options": [
+        "Pentru a determina starea vaselor rinichilor",
+        "Pentru caracterizarea maselor intrarenale, cum ar fi tumori, abcese, chisturi",
+        "Pentru a preciza localizarea rinichilor",
+        "Screening pentru boala polichistică",
+        "Pentru a preciza localizarea calculilor"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Care din următoarele manifestări clinice reprezintă o tulburare de micţie de volum?",
+      "options": [
+        "Disuria",
+        "Micţiunea rară",
+        "Micţiunea dureroasă",
+        "Polakiuria",
+        "Poliuria"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Polakiuria reprezintă:",
+      "options": [
+        "Creşterea anormală a numărului de micţii timp de 24 ore",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntară sau inconştientă de urină",
+        "Incontenenţă de urină",
+        "Dificultate a actului micţional"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care din afirmaţiile de mai jos defineşte poliuria:",
+      "options": [
+        "Creşterea anormală a numărului de micţii timp de 24 ore",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntara sau inconştienta de urina",
+        "Incontenenţă de urină",
+        "Dificultate a actului micţional"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Depistarea izolata a cilindrilor hialinici în urină demonstrează:",
+      "options": [
+        "Glomerulonefrita cronică",
+        "Pielonefrita cronică",
+        "Amiloidoza renală",
+        "Patologie renala fără specificarea bolii",
+        "Nu are valoare diagnostică"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Care din afirmaţiile de mai jos defineşte incontinenţa urinară?",
+      "options": [
+        "Creşterea anormală a numărului de micţii timp de 24 ore",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntară sau inconştientă de urină",
+        "Necesitatea imperativă de urinare",
+        "Dificultate a actului micţional"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care din afirmaţiile de mai jos defineşte disuria?",
+      "options": [
+        "Creşterea anormala a numărului de micţii timp de 24 ore",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntara sau inconştientă de urina",
+        "Nevoia de a urina imediat ce a apărut senzaţia pentru micţie",
+        "Dificultate a actului micţional"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Cea mai valoroasa metodă de depistare şi apreciere a bacteriuriei este:",
+      "options": [
+        "Examenul microscopic al urinei",
+        "Cultura urinei",
+        "Examenul macroscopic al urinei",
+        "Examenul urinei cu bandelete urinare",
+        "Calorimetria"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Aprecierea sensibilităţii florei la preparatele antibacteriene:",
+      "options": [
+        "Are semnificaţie clinică importantă în maladiile renale",
+        "Nu are semnificaţie clinică",
+        "Are semnificaţie clinică doar în insuficienţa renală",
+        "Are semnificaţie clinică doar în nefrita interstiţială",
+        "Are semnificaţie clinică doar în glomerulonefrită"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Definiţi noţiunea de anurie:",
+      "options": [
+        "Scăderea diurezei < 100 ml în 24/h sau sub 4ml/h",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntara sau inconştientă de urina",
+        "Nevoia de a urina imediat ce a apărut senzaţia de urinare",
+        "Dificultate a actului micţional"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care din afirmaţiile de mai jos defineşte nicturia:",
+      "options": [
+        "Volumul diurezei nocturne este egal sau îl depăşeşte pe cel diurn",
+        "Scăderea diurezei < 100 ml în 24/h sau sub 4ml/h",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntara sau inconştientă de urina",
+        "Nevoia de a urina imediat ce a apărut senzaţia de urinare"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Opsiuria reprezintă:",
+      "options": [
+        "Eliminarea întârziată de urină de la momentul folosirii lichidelor",
+        "Situaţia când volumul diurezei nocturne este egal sau îl depăşeşte pe cel diurn",
+        "Scăderea diurezei < 100 ml în 24/h sau sub 4ml/h",
+        "Creşterea diurezei peste 2000 ml/24 ore",
+        "Emisia involuntara sau inconştientă de urina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care din afirmaţiile de mai jos defineşte hematuria:",
+      "options": [
+        "Prezenţa unui număr mai mare decât limitele normei a eritrocitelor în urina",
+        "Prezenţa de puroi în urină",
+        "Prezenţa de limfă în urină",
+        "Prezenţa de lipide în urină",
+        "Prezenţa proteinelor în urină"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care din manifestările de mai jos fac parte din sindromul nefritic acut tipic?",
+      "options": [
+        "Hematuria",
+        "Proteinuria",
+        "Azotemia",
+        "Retenţia de sare şi apa",
+        "Piuria"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "La examenul macroscopic al urinei putem determina:",
+      "options": [
+        "Turbiditatea",
+        "Culoarea",
+        "Mirosul",
+        "Cilindrii",
+        "pH-ul urinar"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "La examenul fizico-chimic al urinei putem determina:",
+      "options": [
+        "Densitatea",
+        "Proteinuria",
+        "pH-ul urinar",
+        "Culoarea",
+        "Mirosul"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "La examenul microscopic al urinei se determina:",
+      "options": [
+        "Celule epiteliale",
+        "Leucocite",
+        "Proteinele",
+        "Cilindri (hialini, granuloşi)",
+        "Turbiditatea"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt tulburările de micţiune:",
+      "options": [
+        "Dizuria",
+        "Micţiunea rară",
+        "Micţiunea dureroasă",
+        "Anuria",
+        "Oliguria"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Tulburările de micţiune sunt:",
+      "options": [
+        "Polakiuria",
+        "Retenţia de urină",
+        "Incontinenţa de urină",
+        "Poliuria",
+        "Oliguria"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt tulburările de diureză (în 24 ore):",
+      "options": [
+        "Polakiuria",
+        "Retenţia de urina",
+        "Incontinenta de urina",
+        "Poliuria",
+        "Oliguria"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt tulburările de diureză:",
+      "options": [
+        "Opsiuria",
+        "Leucocituria",
+        "Micţiunea dureroasa",
+        "Anuria",
+        "Nicturia"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt indicaţiile pentru ecografia renală?",
+      "options": [
+        "Pentru a determina dimensiunile rinichilor",
+        "Pentru caracterizarea maselor intrarenale de regulă tumori, abcese, chisturi",
+        "Pentru a preciza localizarea rinichilor",
+        "Screening pentru boala polichistică",
+        "Pentru stadializarea BCR"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificaţi particularităţile durerii în colica renală:",
+      "options": [
+        "Diminuă în clinostatism",
+        "Diminua în ortostatism",
+        "Iradiază spre organele genitale",
+        "Iradiază spre flancurile abdomenului",
+        "Se accentuează la vibraţie"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Durerea colicativă se dezvoltă mai frecvent în caz de:",
+      "options": [
+        "Calculi renali",
+        "Cheaguri de sânge în tractul urinar",
+        "Rinichi polichistic",
+        "Glomerulonefrită",
+        "Pielonefrita cronică"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt preparatele ce pot ameliora colica reno-ureterală:",
+      "options": [
+        "Spasmoliticele",
+        "Antiinflamatoarele",
+        "Diureticele",
+        "Antibioticele",
+        "Analgezicele"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi afirmaţiile corecte ce caracterizează durerea vezicală:",
+      "options": [
+        "Are localizare supra pubiana",
+        "Iradiază spre uretra si perineu",
+        "Nu iradiază spre uretra şi perineu",
+        "Are caracter de jenă dureroasă, arsuri",
+        "Nu cedează niciodată după sondaj vezical"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Care afecţiuni cel mai frecvent provoacă durerea vezicala:",
+      "options": [
+        "Cistite acute si cronice",
+        "Afecţiuni prostatice",
+        "Tumori ale vezicii urinare",
+        "Retenţia acută de urină",
+        "Litiaza uretrala"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi afirmaţiile corecte ce caracterizează durerea pelviperineală:",
+      "options": [
+        "Are caracter de tensiune",
+        "Are caracter de jena dureroasă",
+        "Iradiază spre organele genitale externe",
+        "Nu iradiază spre organele genitale externe",
+        "Este însoţită de tulburări micţionale"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt afecţiunile ce pot  provoaca polakiuria:",
+      "options": [
+        "Procese inflamatorii a vezicii urinare",
+        "Procese tumorale vezicii urinare",
+        "Anomalia colului vezical",
+        "Adenom de prostată",
+        "Insuficienţa renală cronică terminală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care sunt afecţiunile ce provoaca cel mai des disuria?",
+      "options": [
+        "Patologia prostatei",
+        "Afecţiuni a vezicii urinare",
+        "Patologia sistemului cardio-vascular",
+        "Afecţiuni ale uretrei",
+        "Ptoza renală"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi afecţiunile ce pot provoaca micţiunea dureroasă:",
+      "options": [
+        "Cistite",
+        "Uretrite",
+        "Patologia sistemului cardio-vascular",
+        "Afecţiuni de col vezical",
+        "Afecţiuni neurologice centrale"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi afirmaţiile corecte referitor retenţiei urinare?",
+      "options": [
+        "Este definită ca diminuarea incompleta a conţinutului vezical cu apariţia reziduului vezical",
+        "Poate fi completă sau incompletă",
+        "Poate fi acută sau cronică",
+        "Cu distensie vezicală",
+        "Poate fi iniţială sau terminală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Clasificaţi anuria:",
+      "options": [
+        "Parazitară",
+        "Virală",
+        "Cauza prerenală",
+        "Cauza renală",
+        "Cauza postrenală"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Conform clasificării din punct de vedere imunochimic proteinuria poate fi:",
+      "options": [
+        "Selectivă",
+        "Neselectivă",
+        "Tubulară",
+        "Iniţială",
+        "Terminală"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Conform mecanismelor de producere, proteinuria poate fi:",
+      "options": [
+        "Prerenală",
+        "Renală",
+        "Postrenală",
+        "Iniţială",
+        "Terminală"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte ce corespund clasificării proteinuriei glomerulare:",
+      "options": [
+        "Selectivă",
+        "Neselectivă",
+        "Nefrotică",
+        "Subnefrotică",
+        "Iniţială"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Conform clasificării hematuria poate fi:",
+      "options": [
+        "Microscopică",
+        "Macroscopică",
+        "Iniţială /terminală",
+        "Doar microscopică",
+        "Fiziologică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Afecţiunile ce provoacă mai frecvent piuria sunt:",
+      "options": [
+        "Maladii purulente renale",
+        "Maladii a vezicii urinare",
+        "Boli uretro-prostatice",
+        "Hipertensiunea arterială",
+        "Hipotensiunea arterială"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
     }
   ]
 }
