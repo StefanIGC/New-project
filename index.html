@@ -138,6 +138,11 @@
       background: rgba(255, 255, 255, 0.14);
     }
 
+    .answer-btn.correct.selected {
+      background: rgba(34, 197, 94, 0.18);
+      border-color: rgba(34, 197, 94, 0.5);
+    }
+
     .feedback {
       margin-top: 16px;
       min-height: 24px;
@@ -536,7 +541,7 @@
       } else {
         button.classList.add("wrong");
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
-        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}. ${pickEncouragement()}`;
+        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;
         feedbackEl.classList.add("bad");
         nextBtn.classList.remove("hidden");
       }
@@ -549,10 +554,17 @@
       const selected = Array.from(selectedIndices).sort();
       const buttons = Array.from(answersEl.children);
       answered = true;
+      confirmBtn.classList.add("hidden");
 
       buttons.forEach((btn, idx) => {
-        if (correctIndices.includes(idx)) {
+        const isCorrect = correctIndices.includes(idx);
+        const isSelected = selectedIndices.has(idx);
+        if (isCorrect) {
           btn.classList.add("correct");
+          if (isSelected) btn.classList.add("selected");
+        }
+        if (isSelected && !isCorrect) {
+          btn.classList.add("wrong");
         }
       });
 
@@ -566,13 +578,8 @@
         feedbackEl.classList.add("ok");
         setTimeout(goNext, 600);
       } else {
-        selected.forEach(i => {
-          if (!correctIndices.includes(i)) {
-            buttons[i].classList.add("wrong");
-          }
-        });
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
-        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}. ${pickEncouragement()}`;
+        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;
         feedbackEl.classList.add("bad");
         nextBtn.classList.remove("hidden");
       }
