@@ -272,6 +272,11 @@
             <select id="test-select" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); border-radius: 10px; padding: 10px 12px; color: var(--text); font-size: 0.95rem;">
             </select>
           </div>
+          <div class="field" style="margin-top:12px;">
+            <label for="limit-select">Număr întrebări în test</label>
+            <select id="limit-select" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); border-radius: 10px; padding: 10px 12px; color: var(--text); font-size: 0.95rem;">
+            </select>
+          </div>
           <div class="stats" style="margin-top:16px;">
             <div class="chip">Statistici note</div>
           </div>
@@ -341,6 +346,7 @@
     const statsListEl = document.getElementById("stats-list");
     const testSelect = document.getElementById("test-select");
     const menuCountEl = document.getElementById("menu-q-count");
+    const limitSelect = document.getElementById("limit-select");
 
     let quizQuestions = [];
     let currentIndex = 0;
@@ -350,6 +356,8 @@
     let activeTestMeta = null;
     let stats = [];
     let storedTestId = null;
+    const allowedLimits = [10, 20, 50, 100, "toate"];
+    let questionLimit = 20;
     let selectedIndices = new Set();
     const encouragements = [
       "Rodica, ești foarte bravo! 💖 Stefan te iubește. 🌸",
@@ -401,6 +409,7 @@
       localStorage.setItem("med-quiz-test", meta.id);
       menuCountEl.textContent = meta.count;
       renderStats();
+      renderLimitSelect();
       activeTest = await loadTestById(meta.id);
     }
 
@@ -408,8 +417,10 @@
       try {
         const storedStats = JSON.parse(localStorage.getItem("med-quiz-stats"));
         const storedTest = localStorage.getItem("med-quiz-test");
+        const storedLimit = localStorage.getItem("med-quiz-limit");
         if (Array.isArray(storedStats)) stats = storedStats;
         if (storedTest) storedTestId = storedTest;
+        if (storedLimit) questionLimit = storedLimit === "toate" ? "toate" : Number(storedLimit);
       } catch {
         stats = [];
       }
@@ -452,7 +463,9 @@
         await setActiveTest(activeTestMeta?.id || testsIndex[0]?.id);
       }
       if (!activeTest) return;
-      quizQuestions = shuffle(activeTest.questions);
+      const total = activeTest.questions.length;
+      const limit = questionLimit === "toate" ? total : Math.min(questionLimit, total);
+      quizQuestions = shuffle(activeTest.questions).slice(0, limit);
       currentIndex = 0;
       score = 0;
       answered = false;
@@ -621,6 +634,20 @@
       if (activeTestMeta) menuCountEl.textContent = activeTestMeta.count;
     }
 
+    function renderLimitSelect() {
+      const total = activeTestMeta ? activeTestMeta.count : 0;
+      limitSelect.innerHTML = "";
+      allowedLimits.forEach(value => {
+        const option = document.createElement("option");
+        const isAll = value === "toate";
+        option.value = String(value);
+        option.textContent = isAll ? "Toate" : `${value}`;
+        if (!isAll && total && value > total) option.disabled = true;
+        if (String(questionLimit) === String(value)) option.selected = true;
+        limitSelect.appendChild(option);
+      });
+    }
+
     document.getElementById("reset-stats-btn").addEventListener("click", () => {
       stats = [];
       saveStats();
@@ -629,6 +656,12 @@
 
     testSelect.addEventListener("change", async event => {
       await setActiveTest(event.target.value);
+    });
+
+    limitSelect.addEventListener("change", event => {
+      const value = event.target.value;
+      questionLimit = value === "toate" ? "toate" : Number(value);
+      localStorage.setItem("med-quiz-limit", String(value));
     });
 
     document.getElementById("start-btn").addEventListener("click", () => {
@@ -649,6 +682,7 @@
         await loadTestsIndex();
         const initialId = storedTestId || testsIndex[0]?.id;
         await setActiveTest(initialId);
+        renderLimitSelect();
         showMenu();
       } catch (err) {
         console.error(err);

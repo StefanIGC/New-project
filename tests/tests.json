@@ -22,5 +22,11 @@
     "name": "Chirurgie pediatrică",
     "file": "chirurgie-pediatrica.json",
     "count": 125
+  },
+  {
+    "id": "gastrologie",
+    "name": "Gastrologie",
+    "file": "gastrologie.json",
+    "count": 459
   }
 ]

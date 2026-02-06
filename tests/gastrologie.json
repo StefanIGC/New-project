@@ -1,0 +1,6938 @@
+{
+  "id": "gastrologie",
+  "name": "Gastrologie",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Prezenţa cancerului esofagian se confirmă prin:",
+      "options": [
+        "Prezenţa regurgitaţiei",
+        "Prezenţa disfagiei",
+        "Pierderea în greutate",
+        "Anemia",
+        "Rezultatul pozitiv în studiul histologic"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Numiți care țesut este caracteristic pentru mucoasa esofagului:",
+      "options": [
+        "Epiteliu scuamos pluristratificat",
+        "Epiteliu columnar",
+        "Epiteliu glandular",
+        "Ţesut conjunctiv lax",
+        "Ţesut muscular"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Identificați caracteristica care definește odinofagia:",
+      "options": [
+        "Miros neplăcut din cavitatea bucală",
+        "Durerea ce însoţeşte procesul de deglutiţie",
+        "Dificultate de înghiţire alimentelor lichide",
+        "Senzaţie de arsură în proiecţia esofagului",
+        "Durerea retrosternală însoţită de mers pe scări"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Indicați grupul de medicamente necesare pentru tratamentul bolii de reflux gastroesofagian:",
+      "options": [
+        "Antibacteriene pentru eradicarea Helicobacter pylori",
+        "Antisecretorii: IPP",
+        "Colinolitice",
+        "Diuretice",
+        "Beta- adrenoblocante"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Marcați afirmația corectă despre eliminarea globală de rutină a alimentelor care pot cauza refluxul în cazul BRGE:",
+      "options": [
+        "Nu se recomandă în tratamentul bolii de reflux gastroesofagian (BRGE)",
+        "Se recomandă în tratamentul BRGE",
+        "Se recomandă concomitent cu administrarea inhibitorilor pompei de proton (IPP)",
+        "Se recomandă concomitent cu administrarea H2-blocanţilor",
+        "Se recomandă numai în BRGE asociată cu gastrita"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Precizați pentru ce patologie este caracteristică disfagia mai pronunţată la alimentele lichide decât la solide:",
+      "options": [
+        "Acalazia cardiei",
+        "Adenocarcinom esofagian",
+        "Boala de reflux gastroesofagian",
+        "Diverticuli esofagieni",
+        "Esofagul Barrett"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 7,
+      "text": "În care porțiune a esofagului cel mai frecvent sunt situate anastomozele porto-cavale esofagiene?",
+      "options": [
+        "În porţiunea proximală a esofagului",
+        "În treimea medie a esofagului",
+        "În porţiunea distală a esofagului",
+        "Pe tot traiectul esofagului",
+        "La nivelul treimii superioare și medii a esofagului"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Numiți maladia pentru care pirozisul este simptomul tipic:",
+      "options": [
+        "Cancerul gastric",
+        "Acalazia cardiei",
+        "Boala de reflux gastroesofagian",
+        "Gastrita cronică tip A",
+        "Gastrita cronică cauzată de Helicobacter pylori"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 90,
+      "text": "Identificați în ce patologie este prezentă metaplazia intestinală a mucoasei esofagiene:",
+      "options": [
+        "Ulcerul esofagian",
+        "Stenoza esofagiană",
+        "Esofagul Barrett",
+        "Esofagita erozivă",
+        "Esofagita candidozică"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Identificați factorul de agresiune implicat în etiopatogeneza ulcerului peptic:",
+      "options": [
+        "Acidul clorhidric",
+        "Formarea mucusului",
+        "Secreţia de bicarbonaţi",
+        "Prostaglandinele",
+        "Oxidul nitric"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Identificați pentru ce patologie monitorizarea pH esofagian în 24 ore are valoare diagnostică:",
+      "options": [
+        "Hernia gastrică paraesofagienă",
+        "Esofagul Barrett",
+        "Spasmul esofagian difuz",
+        "Acalazia cardiei",
+        "Boala de reflux gastroesofagian"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Identificați testul recomandat pentru confirmarea eradicării Helicobacter Pylori:",
+      "options": [
+        "Cercetarea anticorpilor anti- Helicobacter Pylori Ig G",
+        "Cercetarea anticorpilor anti- Helicobacter Pylori Ig A",
+        "Cercetarea anticorpilor anti- Helicobacter Pylori Ig M",
+        "Cercetarea histologică a bioptatelor",
+        "Testul antigen Helicobacter Pylori din materii fecale cu anticorpi monoclonali"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Selectați care dintre următoarele opțiuni confirmă prezenţa cancerului esofagian:",
+      "options": [
+        "Prezenţa regurgitaţiei",
+        "Prezenţa disfagiei",
+        "Pierderea în greutate",
+        "Anemia",
+        "Rezultatul pozitiv în studiul histologic"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Numiți preparatul la care Helicobacter pylori poate dezvolta rezistenţă:",
+      "options": [
+        "Claritromicina",
+        "Omeprazol",
+        "Preparatele de bismut",
+        "Tetraciclina",
+        "Sucralfat"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Numiți durata terapiei quadruple nonbismut în tratamentul de eradicare a infecției Helicobacter pylori:",
+      "options": [
+        "14 zile",
+        "7 zile",
+        "3 săptămâni",
+        "4 săptămâni",
+        "8 săptămâni"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 16,
+      "text": "Selectați investigația recomandată pentru confirmarea succesului tratamentului infecției cu Helicobacter pylori după terapia de eradicare ?",
+      "options": [
+        "Testul respirator cu uree marcată cu C13",
+        "Determinarea anticorpilor anti-Helicobacter Pylory clasa Ig G în ser",
+        "Coprocultura",
+        "Testul rapid la urează",
+        "Citologia"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Care este cea mai sensibilă metodă de diagnostic al esofagitei herpetice?",
+      "options": [
+        "Radiografiabaritată aesofagului",
+        "Endoscopiadigestivă superioară",
+        "Examencitologic",
+        "Cultură pentruHerpesSimplexVirus",
+        "Test PCR pentru Herpes SimplexVirus"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Numiți maladia pentru care disfagia este simptomul tipic:",
+      "options": [
+        "Ulcerul gastric",
+        "Acalazia cardiei",
+        "Boala de reflux gastroesofagian",
+        "Gastrita cronică tip A",
+        "Gastrita cronică cauzată de Helicobacter pylori"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Selectați care din medicamentele enumerate poate fi utilizat în tratamentul acalaziei cardiei:",
+      "options": [
+        "Rabeprazol",
+        "Nifedipina",
+        "Preparatele de bismut",
+        "Metronidazol",
+        "Domperidon"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Specificați simptomul cel mai caracteristic care ar putea indica malignizarea in esofagita cronică:",
+      "options": [
+        "Disfagie",
+        "Pirozis",
+        "Sughiț",
+        "Arsuri la stomac",
+        "Salivație"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Care medicament este contraindicat pentru tratamentul acalaziei cardiei?",
+      "options": [
+        "Nitroglicerina",
+        "Motilium",
+        "Drotaverina",
+        "Sedative",
+        "Nifedipina"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Selectați patologia pentru care este caracteristic absența peristaltismului în esofagul distal cu motilitate normală în partea proximală?",
+      "options": [
+        "Acalazia esofagului",
+        "Sclerodermie",
+        "Spasm esofagian difuz",
+        "Esofagită",
+        "Esofagul Barrett"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Numiți boala caracterizată prin hipertonusul sfincterului esofagian inferior:",
+      "options": [
+        "Sclerodermia",
+        "Acalazia",
+        "Esofagita de reflux",
+        "Hernie hiatala",
+        "Esofagul Barrett GASTRITA SIMPLU"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Numiți sinonimul noţiunii gastrită cronică tip „B\":",
+      "options": [
+        "Gastrită rigidă",
+        "Gastrită granulomatoasă",
+        "Gastrită autoimună",
+        "Gastrită indusă de Helicobacter pylori",
+        "Gastrită hipertrofică"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Numiți ce fel de gastrită cronică reprezintă Boala Menetrier:",
+      "options": [
+        "Hipertrofică gigantică",
+        "Autoimună",
+        "Granulomatoasă",
+        "Polipoasă",
+        "Indusă de Helicobacter pylori"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Identificați care este factorul etiologic principal al gastritelor cronice hiperacidice la tineri:",
+      "options": [
+        "Refluxul duodeno-gastral",
+        "Infecţia Helicobacter pylori",
+        "Alcoolul",
+        "Acidul acetilsalicilic",
+        "Fumatul"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Identificați care este cea mai răspândită cauză a gastritelor cronice medicamentoase:",
+      "options": [
+        "Colereticele",
+        "Prochineticele",
+        "Steroizii anabolici",
+        "Antiinflamatoarele nonsteroidiene",
+        "Glicozidele"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Indicați durata terapiei quadruple cu bismut în tratamentul de eradicare a infecției Helicobacter pylori:",
+      "options": [
+        "10 zile",
+        "14 zile",
+        "3 săptămâni",
+        "4 săptămâni",
+        "8 săptămâni"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Identificați factorul de protecție a mucoasei gastrice:",
+      "options": [
+        "Prostaglandina E",
+        "Acizii biliari",
+        "Pepsina",
+        "Acidul clorhidric",
+        "Fosfolipaza"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Identificați celulele secretoare de factor intrinsec:",
+      "options": [
+        "Istmice",
+        "Endocrine G",
+        "Parietale",
+        "Principale",
+        "Endocrine D"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Numiți localizarea cea mai frecventă a tumorilor asociate sindromului Zollinger - Ellison:",
+      "options": [
+        "Stomac",
+        "Peretele duodenal sau multifocal",
+        "Ganglionii limfatici",
+        "Splină",
+        "Colon"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Identificați factorul de apărare a mucoasei gastrice:",
+      "options": [
+        "Acidul clorhidric",
+        "Pepsina",
+        "Dereglări de motilitate gastrică",
+        "Acizii biliari",
+        "Prostaglandinele"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Selectați standard-ul de diagnostic al gastritei cronice:",
+      "options": [
+        "Examenul clinic",
+        "Examenul radiologic",
+        "Examenul histologic al bioptatului din mucoasei gastrice",
+        "Examenul biochimic",
+        "Monitorizare a pH-ului gastric"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Identificați cel mai tipic semn clinic al ulcerului duodenal:",
+      "options": [
+        "Durerea",
+        "Greața",
+        "Voma",
+        "Constipația",
+        "Diareea"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 35,
+      "text": "Identificați medicamentul care formează pelicula de protecţie pe suprafața ulcerului:",
+      "options": [
+        "Rabeprazolul",
+        "Cimetidina",
+        "Preparatele de bismut",
+        "Metronidazolul",
+        "Omeprazolul"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Numiți ce include alimentaţia recomandată pacienţilor cu Dumping-sindrom:",
+      "options": [
+        "Dietă cu glucide uşor asimilate",
+        "Alimentaţie lichidă",
+        "Dietă solidă şi semisolidă, bogată în proteine",
+        "Dieta lacto-vegetală",
+        "Dieta îmbogăţită cu fibre vegetale"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Identificați celulele secretoare de gastrină:",
+      "options": [
+        "Enterocromafine",
+        "Endocrine G",
+        "Parietale",
+        "Principale",
+        "Mucoide"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Numiţi formaţiunile care au un potenţial de malignizare înalt:",
+      "options": [
+        "Polipii adenomatoşi",
+        "Polipii hiperplazici",
+        "Hamartomul",
+        "Leiomiomul",
+        "Fibromul"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Selectați examenul de bază în stabilirea diagnosticului de gastrită cronică:",
+      "options": [
+        "Examenul biochimic",
+        "Examenul clinic",
+        "Examenul morfologic",
+        "Examenul radiologic",
+        "Examenul immunologic"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Precizați caracteristicile morfopatologice pentru ulcerul gastric:",
+      "options": [
+        "Pierdere localizată de substanţă ce afecteazăsubmucoasa și musculara propria sau care penetrează întregul perete gastric",
+        "Pierdere localizată de substanță, care afectează epiteliul și stratul superficial al criptelor, dar nu le depășește",
+        "Pierdere localizată de substanță cu respectarea muscularis mucosae",
+        "Pierdere localizată de substanță, care afectează muscularis mucosae și submucoasa, dar nu le depășește",
+        "Peretele gastric este integru"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 41,
+      "text": "Identificați cea mai tipică descriere a sindromului dolor din ulcerul duodenal:",
+      "options": [
+        "Durere epigastrică „pe foame\", dureri nocturne",
+        "Durerepseudo-anginoasă",
+        "Durereepigastrică postprandială",
+        "Durere înetajuluiabdominalsuperiordispusă \"încentură\"",
+        "Durerepermanentă înepigastru"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 42,
+      "text": "Numiți termenul când este necesară verificarea endoscopică a cicatrizării ulcerului gastric:",
+      "options": [
+        "La trei luni",
+        "După un an",
+        "La şase luni",
+        "După opt săptămâni",
+        "La şase săptămâni"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 43,
+      "text": "Selectați calea de transmitere a Helicibacter pylori:",
+      "options": [
+        "Cale orala-orală sau fecal-orala",
+        "Cale parenterală",
+        "Transmitere verticală",
+        "Calea respiratorie",
+        "Prin contact direct"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 44,
+      "text": "Identificați pentru care patologie este caracteristică prezența eroziunilor în antrumul gastric:",
+      "options": [
+        "Gastrită acută",
+        "Gastrită autoimună",
+        "Gastrită granulomatoasă",
+        "Boală Menetrier",
+        "Infecția cu Helicobacter pylori"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 45,
+      "text": "Care este cel mai fiabil test pentru diagnosticarea sindromului Zollinger-Ellison?",
+      "options": [
+        "Secreția gastrică bazală",
+        "Secreția acidă maximă",
+        "Nivelul gastrinei în sânge",
+        "Endoscopia digestivă superioară",
+        "Biopsia mucoasei gastrice"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 46,
+      "text": "Identificați factorii ce stimulează secreția gastric acidă:",
+      "options": [
+        "Gastrina",
+        "Secretina",
+        "Colecistochinina",
+        "Somatostatină",
+        "Serotonina"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 47,
+      "text": "Selectaţi cel mai tipic simptom clinic în stenoza pilorică:",
+      "options": [
+        "Vomă cu bilă",
+        "Garguement gastric",
+        "Vomă cu alimente consumate cu o zi înainte",
+        "Meteorism",
+        "Diaree INTESTIN SIMPLU"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 48,
+      "text": "Indicaţi sinonimul celiachiei:",
+      "options": [
+        "Enteropatia glutenică",
+        "Spru tropicală",
+        "Enteropatia secundară",
+        "Boala Wipple",
+        "Enterita eozinofilică"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 49,
+      "text": "Selectaţi durata tratamentului cu dieta aglutenică în caz de celiachie:",
+      "options": [
+        "Până la ameliorarea clinică",
+        "Până la normalizarea funcţiei intestinului",
+        "Toată viaţa",
+        "Până la normalizarea morfologiei mucoasei intestinale",
+        "Până la normalizarea concentraţiei serice a proteinelor"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 50,
+      "text": "Marcaţi manifestarea clinică a diareei secretorie:",
+      "options": [
+        "Materii fecale cu mucus şi puroi",
+        "Diaree cu polifecalie",
+        "Diaree „falsă\"",
+        "Alternarea constipaţiilor şi diareelor",
+        "Rectoragii"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 51,
+      "text": "Selectaţi medicamentul recomandat pentru încetinirea funcţiei de propulsare a intestinului:",
+      "options": [
+        "Domperidon",
+        "Metoclopramid",
+        "Loperamid",
+        "Trimebutina",
+        "Gluconat de Ca"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 52,
+      "text": "Selectaţi opțiunea ce caracterizează inflamaţia în caz de Boala Crohn:",
+      "options": [
+        "Inflamație difuză a colonului",
+        "Inflamație difuză a ileonului",
+        "Inflamație segmentară a oricărui segment al tractului gastrointestinal",
+        "Inflamație difuză a oricărui segment al tractului gastrointestinal",
+        "Inflamație difuză a esofagului și stomacului"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 53,
+      "text": "Indicaţi elementul caracteristic pentru colita ulcerativă:",
+      "options": [
+        "Fistule",
+        "Stenoze",
+        "Ulceraţii superficiale",
+        "Afte",
+        "Fisuri"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 54,
+      "text": "Numiţi medicamentul recomandat pentru menţinerea remisiunii în colita ulcerativă:",
+      "options": [
+        "Prednisolonul",
+        "Metilprednisolonul",
+        "Mesalazina",
+        "Metronidazol",
+        "Metotrexat"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 55,
+      "text": "Selectați cea mai frecventă patologie a intestinului gros din cele menționate:",
+      "options": [
+        "Diverticuloza intestinului",
+        "Colita pseudomembranoasă",
+        "Colita ulcerativă",
+        "Tumorile intestinului gros",
+        "Sindromul intestinului iritabil"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 56,
+      "text": "Indicaţi simptomul care exclude sindromul de intestin iritabil:",
+      "options": [
+        "Diaree",
+        "Dureri şi disconfort în abdomen",
+        "Eliminarea mucusului la defecaţie",
+        "Hemoragie digestivă inferioară",
+        "Constipaţii"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 57,
+      "text": "Numiţi complicaţiile sindromului de intestin iritabil:",
+      "options": [
+        "Hemoragiile intestinale",
+        "Malignizarea procesului patologic în intestin",
+        "Pseudopolipii intestinului",
+        "Stricturile intestinului",
+        "Complicaţii intestinale nu sunt cunoscute"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 58,
+      "text": "Selectaţi semnul endoscopic al sindromului de intestin iritabil:",
+      "options": [
+        "Pseudopolipoză",
+        "Mucoasă intactă",
+        "Ulceraţii unice",
+        "Erozii unice",
+        "Diverticule intestinale"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 59,
+      "text": "Selectaţi tipul de diaree pentru care este caracteristică proba pozitivă cu foame:",
+      "options": [
+        "Osmotică",
+        "Secretorie",
+        "Inflamatorie",
+        "Exudativă",
+        "Sangvinolentă"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 60,
+      "text": "Numiţi ce este caracteristic pentru steatoree:",
+      "options": [
+        "Fragmente de alimente nedegerate în scaun",
+        "Cantităţi mari de fibre musculare în scaun",
+        "Cantităţi mari de grăsimi în scaun",
+        "Scaun acolic",
+        "Cantităţi mari de amidon în scaun"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 61,
+      "text": "Selectaţi cel mai frecvent simptom în debutul cancerului colorectal:",
+      "options": [
+        "Rectoragii masive",
+        "Rectoragii oculte",
+        "Ocluzie intestinală",
+        "Fisuri anale",
+        "Proctalgii"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 62,
+      "text": "Numiţi măsura terapeutică de bază în diareea acută:",
+      "options": [
+        "Respectarea dietei 0 după Pevzner",
+        "Rehidratarea adecvată",
+        "Administrarea medicamentelor antidiareice",
+        "Tratament antibacterian",
+        "Tratament antiparazitar"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 63,
+      "text": "Selectaţi cel mai caracteristic simptom în colita ulcerativă:",
+      "options": [
+        "Rectoragie masivă",
+        "Rectoragie ocultă",
+        "Diaree sangvinolentă",
+        "Durere abdominală",
+        "Proctalgii"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 64,
+      "text": "Numiţi medicamentul antibacterian de elecţie în diareea acută:",
+      "options": [
+        "Amoxicilina",
+        "Levomicetina",
+        "Rifaximina",
+        "Rifampicina",
+        "Ampicilina"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 65,
+      "text": "Indicaţi markerul de diagnostic al enteropatiei glutenice:",
+      "options": [
+        "Anticorpi antimitoсondriali",
+        "Anticorpi antiendomiziali",
+        "Anticorpi antinucleari",
+        "Anticorpi antimicrosomali",
+        "Anticorpi anti-ADN"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 66,
+      "text": "Numiţi simptomul clinic cel mai frecvent în sindromul de malabsorbţie:",
+      "options": [
+        "Durere abdominală",
+        "Deficit ponderal",
+        "Stomatită aftoasă",
+        "Diaree",
+        "Constipaţie"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 67,
+      "text": "Notați cel mai autentic test pentru diagnosticul sindromului de malabsorbtie?",
+      "options": [
+        "Testul cu D-xiloză",
+        "Testul de toleranță la lactoză",
+        "Examin baritat al tractului gastro-intestinal",
+        "Determinarea elastazei pancreatice în materiile fecale",
+        "Examinarea secreției gastrice"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 68,
+      "text": "Selectați semnul principal al colitei ulceative:",
+      "options": [
+        "Aspect \" pietre de pavaj\"",
+        "Granulom la biopsie",
+        "Inflamație continuă a colonului",
+        "stenoze intetsinale",
+        "Inflamație transmurală"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 69,
+      "text": "Care patologie din cele enumerate mai frecvent și mai rapid se complică cu ocluzie intestinală?",
+      "options": [
+        "Colita ulcerativă",
+        "Colita pseudomembranoasă",
+        "Colita ischemică",
+        "Boala Crohn",
+        "Colita limfocitară"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 70,
+      "text": "Marcați patologia pentru care \"formațiunea abdominală intestinală\" palpabilă reprezintă un semn clinic:",
+      "options": [
+        "Boala Whipple",
+        "Boala Crohn",
+        "Colita cronică din dizenterie",
+        "Boala celiacă",
+        "Colită ulcerativă"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 71,
+      "text": "Precizați agentul etiologic al colitei pseudomembranoase:",
+      "options": [
+        "Clostridium dificille",
+        "Flora cocică nespecifică",
+        "Streptococul hemolitic",
+        "Escherichia coli",
+        "Cauza bolii este necunoscută"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 72,
+      "text": "Care patologie evoluează cu triada de simptome: hipersecreție gastrică persistentă, ulcerații recidivante ale tractului gastrointestinal, diaree?",
+      "options": [
+        "Sindromul Zollinger-Ellison",
+        "Ulcerul peptic gastric",
+        "Colită ulcerativă",
+        "Ulcer cronic postbulbar",
+        "Pancreatita cronică"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 73,
+      "text": "Marcați tipul de alimente ce agravează diareea in enteropatia glutenică:",
+      "options": [
+        "Carnea",
+        "Legumele și fructele crude",
+        "Pesmeți din pîine albă",
+        "Orezul",
+        "Porumbul"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 74,
+      "text": "Marcați locul principal de absorbție a vitaminei B12:",
+      "options": [
+        "Stomacul",
+        "Duodenul",
+        "Jejunul proximal",
+        "Colonul ascendent",
+        "Ileonul distal"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 75,
+      "text": "Selectați o afecțiune caracterizată prin prezența diareei și absența sindromului de malabsorbție:",
+      "options": [
+        "Sindromul intestinului iritabil",
+        "Aclorhidria",
+        "Pancreatita cronică",
+        "Colita granulomatoasă",
+        "Enteropatia glutenică HEPATITA SIMPLU"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 76,
+      "text": "Marcați investigația de prima linie folosită în evaluarea paciențiilor cu icter:",
+      "options": [
+        "Ecografia abdominală",
+        "Tomografia computerizată",
+        "Colangiopancreatografia endoscopică retrogradă",
+        "Examen radiologic abdominal",
+        "Colangiopancreatografia prin rezonanță magnetică"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 77,
+      "text": "Identificați care tip de imunoglobuline serice este elevat în boala alcoolică a ficatului:",
+      "options": [
+        "Ig A",
+        "Ig D",
+        "Ig E",
+        "Ig G",
+        "Ig M"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 78,
+      "text": "Identificați celulele hepatice care funcţionează ca macrofage:",
+      "options": [
+        "Celulele Ito",
+        "Celulele Pit",
+        "Celulele Kupffer",
+        "Plasmocitele",
+        "Macrocitele"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 79,
+      "text": "Care este cauza apariţiei steluţelor vasculare in ciroza hepatica?",
+      "options": [
+        "Hipoestrogenemie",
+        "Hiperglucagonemie",
+        "Hiperestrogenemie",
+        "Hiperaldosteronemie",
+        "Hiperinsulinemia"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 80,
+      "text": "Identificați semnul caracteristic pentru afectarea hepatică:",
+      "options": [
+        "Afte bucale",
+        "Gingivită necrozantă",
+        "Edeme labiale",
+        "Acrocianoză",
+        "Steluţe vasculare"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 81,
+      "text": "Indicați ce poate sugera hiperecogenitatea hepatică difuză la examenul ecografic:",
+      "options": [
+        "Hemangiom hepatic",
+        "Metastaze hepatice",
+        "Steatoză hepatică",
+        "Cancer hepatic",
+        "Chisturi hepatice"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 82,
+      "text": "Identificați markerul sindromului de citoliză hepatică:",
+      "options": [
+        "Scăderea albuminei serice",
+        "Creşterea ALT",
+        "Scăderea colesterolului",
+        "Hipergamaglobulinemia",
+        "Creşterea fosfatazei alcaline"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 83,
+      "text": "Precizați pentru care maladie este caracteristic nivelul de gamaglutamiltranspeptidază (GGT) majorat:",
+      "options": [
+        "Ulcer duodenal Hp+",
+        "Pancreatită cronică",
+        "Hepatopatie alcoolică",
+        "Colecistită cronică",
+        "Gastrita autoimună"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 84,
+      "text": "Indicați semnul caracteristic pentru o hepatopatie induisă de consumul de alcool:",
+      "options": [
+        "Scăderea nivelului de gamaglutamiltransferază",
+        "Scăderea nivelului de aspartataminotransferază",
+        "Creșterea nivelului de IgA serică",
+        "Creșterea nivelului de IgG serică",
+        "Creșterea nivelului de IgM serică"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 85,
+      "text": "Indicați semnul cert de prezență în organism a virusului hepatic B:",
+      "options": [
+        "AgHBs- pozitiv; ADN VHB detectabil prin metoda PCR",
+        "Prezența icterului mai mult de 2 săptămâni",
+        "Transaminazele crescute",
+        "Ac anti-HBc pozitiv",
+        "Ac anti-HBs pozitiv"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 86,
+      "text": "Indicați markerul serologic al infecţiei cu virusul hepatic B, nedetectabil în sânge:",
+      "options": [
+        "HBcorAg",
+        "HBsAg",
+        "Anti-HBcor",
+        "HBeAg",
+        "Anti-HBe"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 87,
+      "text": "Selectați cea mai informativă metodă de diagnostic pentru hepatita autoimună:",
+      "options": [
+        "Biopsia hepatică",
+        "Colangiopancreatografia retrogradă",
+        "Rezonanța magnetică nucleară",
+        "Tomografia computerizată",
+        "Ultrasonografia organelor abdominale"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 88,
+      "text": "Identificați în care caz este indicată terapia antivirală în caz de hepatită cronică virală B:",
+      "options": [
+        "În faza de toleranță imunitară",
+        "În faza de control imunologic",
+        "În faza de reactivare imună",
+        "În faza de purtător inactiv",
+        "Indiferent de faza infecției"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 89,
+      "text": "Identificați semnul care stabileşte defenitiv gradul activităţii necroinflamatorii a hepatitelor cronice:",
+      "options": [
+        "Nivelul albuminei serice elevat",
+        "Markeri autoimuni prezenți",
+        "Aspectul histologic",
+        "Viteza de sedimentare a hematiilor accelerată",
+        "Hipergamaglobulinemie"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 90,
+      "text": "Indicați nivelul minim pe care trebuie să-l depășească bilirubina pentru a determina icterul tegumentar:",
+      "options": [
+        "> 10 mcmol/l",
+        "> 20 mcmol/l",
+        "> 40 mcmol/l",
+        "> 60 mcmol/l",
+        "> 80 mcmol/l"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 91,
+      "text": "Marcați durata minimă de evoluție a hepatitei necesară pentru stabilirea hepatitei cronice:",
+      "options": [
+        "3 luni",
+        "5 luni",
+        "9 luni",
+        "6 luni",
+        "12 luni"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 92,
+      "text": "Selectați afirmația corectă despre hepatita cronică B cu AgHBe negativ:",
+      "options": [
+        "Infecție cronică HBV cu replicarea activă a virusului, ADN VHB detectabil, dar fără AgHBe",
+        "Infecție HBV cronică în faza nonreplicativă, fără HBeAg  și ADN VHB negativ",
+        "Hepatită cronică B cu un nivel ridicat de ADN VHB și prezență de AgHBe și fără anticorpi anti- HBeAg",
+        "Infecție HBV cronică cu AgHBs, anti-HBcor IgG, anti-HBeAg pozitivi și ADN VHB negativ",
+        "Infecție HBV cronică in faza nonreplicativă, fără HBsAg"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 93,
+      "text": "Identificați afirmaţia adevărată despre infecția cu virusul hepatic Delta (VHD):",
+      "options": [
+        "Viremia este asociată direct cu stadiul bolii hepatice",
+        "Presupune coninfectie cu VHC",
+        "Virusul hepatitic Delta este un virus ADN",
+        "Suprainfecţia cu VHD la o persoană cu infecție cronică cu VHB are prognostic bun",
+        "Virusul hepatitic Delta este un virus defectiv"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 94,
+      "text": "Identificați afecțiunea pentru care are valoare diagnostică creșterea nivelului  de γ-globuline și de IgG serică ≥ 1,5 x limita superioară a valorilor  normale:",
+      "options": [
+        "Boala Wilson",
+        "Steatohepatita etanolică",
+        "Hepatita acută virală B",
+        "Hepatita medicamentoasă",
+        "Hepatită autoimună"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 95,
+      "text": "Identificați afecțiunea pentru care are valoare diagnostică creșterea nivelului  de Ig M:",
+      "options": [
+        "Hemocromatoza ereditară",
+        "Steatohepatita alcoolică",
+        "Carcinomul hepatocelular",
+        "Hepatită autoimună",
+        "Colangită biliară primară"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 96,
+      "text": "Identificați afecțiunea pentru care are valoare diagnostica nivelul semnificativ scăzut de ceruloplasmină:",
+      "options": [
+        "Hemocromatoza ereditară",
+        "Steatohepatita alcoolică",
+        "Boala Wilson",
+        "Hepatită autoimună",
+        "Colangita biliară primară"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 97,
+      "text": "Identificați afecțiunea pentru care are valoare diagnostică creșterea nivelului  de Ig A:",
+      "options": [
+        "Steatohepatăta alcoolică",
+        "Boala Wilson",
+        "Steatohepatita nonalcoolică",
+        "Hepatită autoimună",
+        "Colangita biliară primară"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 98,
+      "text": "Identificati schimbările histopatologice care favorizează extinderea fibrozei în steatohepatita non-alcoolică:",
+      "options": [
+        "Canități importante de cupru în hepatocite",
+        "Prezența necrozei și a infiltratului inflamator",
+        "Leziunea ducturilor biliare interlobulare și septale",
+        "Prezența corpilor hialini Mallory",
+        "Balonizarea hepatocitelor"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 99,
+      "text": "Marcați markerul de laborator \"de referință\" în hepatita alcoolică:",
+      "options": [
+        "Transaminazele",
+        "Fosfataza alcalină",
+        "Aldolaza",
+        "Transferina carbohidrat deficientă",
+        "Bilirubina"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 100,
+      "text": "Identificați factorul care se asociază cu prognostic favorabil în hepatita cronică virală B:",
+      "options": [
+        "Sexual masculin a pacientului",
+        "Virus HBV mutant (HBe-negativ)",
+        "Abuzul de alcool",
+        "Durata bolii",
+        "Lipsa fibrozei hepatice"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 101,
+      "text": "Selectați patologia pentru care este caracteristică hepato- și splenomagalia în asociere cu pigmentare brun-verzui pe cornee și tulburările neurologice:",
+      "options": [
+        "Boala Wilson",
+        "Hemocromatoza primară",
+        "Hepatita cronică virală cu manifestări extrahepatice",
+        "Hepatita alcoolică",
+        "Hepatita autoimună"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 102,
+      "text": "Marcați cel mai important test pentru diagnosticul de hemocromatoză primară:",
+      "options": [
+        "Creșterea nivelului de hemoglobină si fier seric",
+        "Creșterea excreției fierului cu urina",
+        "Saturarea transferinei mai mare de 70%",
+        "Saturația transferinei mai mare de 45%",
+        "Ceruloplasmina serică scăzută"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 103,
+      "text": "Specificați combinația optimă, ce constituie tratamentul de bază a pacienților cu hepatită autoimună:",
+      "options": [
+        "Corticosteroizi + interferon",
+        "Citostatice + interferon",
+        "Corticosteroizi + citostatice",
+        "Acidul ursodeoxicolic + Interferon",
+        "Acidul ursodeoxicolic + Desferal"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 104,
+      "text": "Marcați tratamentul optim în hemocromatoza primara:",
+      "options": [
+        "Cresterea aportului de fier în alimentație",
+        "Flebotomii",
+        "Corticosteroizi",
+        "Citostatice",
+        "D-penicilamina"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 105,
+      "text": "Identificați markerul sindromului colestatic hepatic:",
+      "options": [
+        "Scăderea albuminei serice",
+        "Creşterea ALT",
+        "Scăderea colesterolului",
+        "Hipergamaglobulinemia",
+        "Creşterea fosfatazei alcaline"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 106,
+      "text": "Identificați care tip de imunoglobuline serice este elevat în hepatita autoimună:",
+      "options": [
+        "Ig A",
+        "Ig D",
+        "Ig E",
+        "Ig G",
+        "Ig M"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 107,
+      "text": "Selectați criteriul  morfologiccaracteristic pentru steatohepatita non-alcoolică:",
+      "options": [
+        "Nucleele hepatocitelor în formă de \"clepsidră\"",
+        "Incărcare lipidică a hepatocitelor în asociere cu necroză și infiltrat limfohistiocitar",
+        "Remanierea arhitectonicii hepatice și patului vascular",
+        "Distrofie hialinică și/sau proteică hepatică în asociere cu prezența hepatocitelor în sticlă mată",
+        "Prezența nodulilor de regenerare CIROZA SIMPLU"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 108,
+      "text": "Identificați patologia pentru care sunt caracteristici anticorpii antimitocondriali-M2:",
+      "options": [
+        "Hepatita acută A",
+        "Ciroza alcoolică",
+        "Colangita biliară primară",
+        "Boala Wilson",
+        "Colangita sclerozantă primitivă"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 109,
+      "text": "Marcați simptomul care apare precoce în colangita biliară primară:",
+      "options": [
+        "Icter",
+        "Febră",
+        "Prurit cutanat",
+        "Dureri în hipocondrul drept",
+        "Ascită"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 110,
+      "text": "Indicați patologia hepatică care necesită tratament imunosupresiv:",
+      "options": [
+        "Hepatita autoimună",
+        "Colangita biliară secundară",
+        "Hepatită cronică virală",
+        "Adenocarcinom hepatic",
+        "Hemocromatoză"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 111,
+      "text": "Identificați sindromul care reflectă evoluţia hepatitei spre ciroză hepatică:",
+      "options": [
+        "Sindromul asteno-vegetativ",
+        "Sindromul de citoliză",
+        "Sindromul imuno-inflamator",
+        "Sindromul de colestază",
+        "Sindromul de hipertensiune portală"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 112,
+      "text": "Numiți semnul histologic caracteristic pentru ciroza hepatică:",
+      "options": [
+        "Infiltrat inflamator limfo-plasmocitar portal",
+        "Necroză celulară",
+        "Distrofie a hepatocitelor",
+        "Steatoză hepatică",
+        "Noduli de regenerare"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 113,
+      "text": "Selectați sindromul care indică decompensarea cirozei hepatice:",
+      "options": [
+        "Dispeptic",
+        "Imuno-inflamator",
+        "Asteno-vegetativ",
+        "Insuficienţa hepatică celulară",
+        "Colestatic"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 114,
+      "text": "Indicați cauza mai frecventă de hemoragie digestivă superioară în caz de ciroză hepatică:",
+      "options": [
+        "Ruptură de varice esofagiene",
+        "Sindrom Mallory-Weiss",
+        "Ulcer gastric",
+        "Eroziuni esofagiene de reflux",
+        "Gastrită hemoragică"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 115,
+      "text": "Indicați pentru ce patologie este caracteristică hipertensiunea portală la nivel sinusoidal:",
+      "options": [
+        "Ciroza hepatică",
+        "Tromboza venei cave inferioare",
+        "Boala venoocluzivă hepatică",
+        "Pericardita constrictivă",
+        "Sindromul Budd-Chiari"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 116,
+      "text": "Indicați cauza care determinată hipoalbuminemia din ciroza hepatică:",
+      "options": [
+        "Hipocatabolism",
+        "Insuficienţa funcției de sinteză hepatică",
+        "Gastroenteropatie exudativă",
+        "Sindrom de malabsorbţie",
+        "Proteinurie"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 117,
+      "text": "Indicați care din tumorile hepatice maligne este cea mai frecventă:",
+      "options": [
+        "Colangiocarcinomul",
+        "Carcinomul hepatocelular",
+        "Angiosarcomul",
+        "Hepatoblastomul",
+        "Carcinosarcomul"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 118,
+      "text": "Selectați markerul specific pentru cancerul hepatocelular:",
+      "options": [
+        "CEA",
+        "CA 19-9",
+        "alfa-fetoproteina",
+        "PSA",
+        "CA -125"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 119,
+      "text": "Identificați cauza cea mai frecventă a cirozelor hepatice:",
+      "options": [
+        "Alcoolul",
+        "Denutriţia, by-passul",
+        "Factorii toxici industriali",
+        "Parazitozele",
+        "Staza venoasă prelungită"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 120,
+      "text": "Indicaţi care este semnul specific sindromului hipertensiunii portale în ciroza hepatică:",
+      "options": [
+        "Gradientul portal presional< 5 mmhg",
+        "Angioamele vasculare",
+        "Varicele esofagiene",
+        "Unghiile albe",
+        "Epistaxisul"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 121,
+      "text": "Marcați simptomul clinic ce apare ca rezultat al hipertensiunii portale din ciroza hepatică:",
+      "options": [
+        "Angioame stelare",
+        "Hipocratism digital",
+        "Icterul",
+        "Eritroza palmară",
+        "Splenomegalia"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 122,
+      "text": "Marcați metoda de tratament a ascitei:",
+      "options": [
+        "Vitaminoterapia",
+        "Dieta hipoproteică",
+        "Dieta hipoglucidică",
+        "Regim alimentar hiposodat",
+        "Perfuzii cu soluție pentoxifilină"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 123,
+      "text": "Marcați elementul patogenetic ce contribuie la apariția hemoragiilor în ciroză:",
+      "options": [
+        "Hipertensiunea portală",
+        "Leucopenia",
+        "Prezența peptidului vasoactiv intestinal (VIP)",
+        "Hipomagneziemia",
+        "Scăderea nivelului vasopresinei"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 124,
+      "text": "Marcați elementul paraclinic ce contribuie la apariția sindromului hemoragipar în ciroză:",
+      "options": [
+        "Leucopenia",
+        "Prezența peptidului vasoactiv intestinal (VIP)",
+        "Hipomagneziemia",
+        "Scăderea nivelului vasopresinei",
+        "Trombocitopenia secundară"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 125,
+      "text": "Alegeți contraindicația de utilizare a corticosteroizilor în boala alcoolică a ficatului:",
+      "options": [
+        "Encefalopatia severă",
+        "Hepatita alcoolică severă",
+        "Hiperbilirubinemia severă",
+        "Indicele Maddrey > 32",
+        "Steatohepatita cronică alcoolică"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 126,
+      "text": "Selectați testul biologic care este caracteristic pentru hepatita alcoolică severă:",
+      "options": [
+        "Raportul ALT/AST > 2",
+        "Hiperalbuminemia",
+        "Bilirubina serică crescută si nivel AST crescut",
+        "Prezența anticorpilor (antimitocondriali)  AMA M2",
+        "Cuprul urinar crescut"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 127,
+      "text": "Care este tratamentul de elecție în hepatita alcoolică acută cu indice Madrey > 32?",
+      "options": [
+        "Ademetionina",
+        "Prednisolonul",
+        "Fosfolipidele esențiale",
+        "Silimarina",
+        "Vitamina E"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 128,
+      "text": "Pentru femei, care este cantitatea zilnică de alcool pur, inofensivă pentru ficat?",
+      "options": [
+        "50 gr alcool pur/zi",
+        "20 gr alcool pur/zi",
+        "40 gr alcool pur/zi",
+        "60 gr alcool pur/zi",
+        "100 gr alcool pur/zi"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 129,
+      "text": "Care patologie se asociază frecvent la ciroza hepatică indusă de deficitul congenital de α1-antitripsină?",
+      "options": [
+        "Osteomalacie",
+        "Fracturi patologice",
+        "Afectarea fertilitatii",
+        "Boli pulmonare cronice recidivante cu dezvoltarea insuficienței respiratorie",
+        "Encefalopatie progresiva"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 130,
+      "text": "Care este opțiunea de tratament în insuficiență hepatocelulară avansată, progresivă de orice etiologie?",
+      "options": [
+        "Corticoterapie masivă",
+        "Terapia temporară de substituție",
+        "Terapia cu corticosteroizi în combinație cu hepatoprotectori",
+        "Interferon",
+        "Transplantul hepatic"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 131,
+      "text": "Specificați combinația optimă, ce constituie tratamentul de bază al pacienților cu colangită biliară primară:",
+      "options": [
+        "Corticosteroizi + interferon",
+        "Citostatice + interferon",
+        "Corticosteroizi + citotoxice",
+        "Acidul ursodeoxicolic + interferon",
+        "Acidul ursodeoxicolic + colestiramină"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 132,
+      "text": "Identificați care tip de imunoglobuline serice este elevat în colangita biliară primitivă:",
+      "options": [
+        "Ig A",
+        "Ig D",
+        "Ig E",
+        "Ig G",
+        "Ig M"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 133,
+      "text": "Care medicament nu se indică în tratamentul colangitei biliare?",
+      "options": [
+        "Azathioprina",
+        "Colestiramina",
+        "Vitaminele liposolubile (A, D, E, K)",
+        "Acidul ursodeoxicolic",
+        "Silimarina PANCREAS SIMPLU"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 134,
+      "text": "Marcați tratamentul optim în boala Wilson:",
+      "options": [
+        "Corticosteroizi",
+        "Citostatice",
+        "Interferoni",
+        "Desferal",
+        "D-penicilamina"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 135,
+      "text": "Indicați activitatea cărei enzime scade cel mai rapid în conținutul duodenal al personelor cu pancreatită cronică:",
+      "options": [
+        "α-Amilaza",
+        "Lipaza",
+        "Tripsina",
+        "Elastaza",
+        "Chimotripsina"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 136,
+      "text": "Identificați inhibitorul celulelor pancreatice acinoase:",
+      "options": [
+        "Acetilcolina",
+        "Insulina",
+        "Colecistokinina",
+        "Secretina",
+        "Somatostatina"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 137,
+      "text": "Indicați cea mai frecventă cauză etiologică a pancreatitei cronice la adult:",
+      "options": [
+        "Disfuncţia sfincterului Oddi",
+        "Hipercalciemia",
+        "Factorii nutriţionali:alimentaţia bogată în grăsimi şi proteine",
+        "Consumul excesiv de alcool",
+        "Pancreas divisum"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 138,
+      "text": "Identificați scăderea activității cărei enzime pancreatice serice indică insuficiență exocrină pancreatică avansată:",
+      "options": [
+        "Amilaza",
+        "Lipaza",
+        "Tripsinogen",
+        "Elastaza",
+        "Chimotripsina"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 139,
+      "text": "Indicați după conţinutul cărei enzime pancreatice  se face dozarea preparatelor enzimatice cu scop de substituție:",
+      "options": [
+        "Amilaza",
+        "Lipaza",
+        "Tripsina",
+        "Elastaza",
+        "Chimotripsina"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 140,
+      "text": "Identificați manifestarea clasică a insuficienţei exocrine pancreatice:",
+      "options": [
+        "Anemia hemolitică",
+        "Diareea cu steatoree",
+        "Creatorea",
+        "Hemoragiile digestive",
+        "Durerea abdominală"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 141,
+      "text": "Identificați metoda de cercetare utilizată pentru a obiectiviza stetoreea:",
+      "options": [
+        "Dozarea azotului din fecale",
+        "Coloraţie cu Sudan III a materiilor fecale",
+        "Dozarea lactoferinei în materiile fecale",
+        "Cercetarea elastazei-1 specifice pancreatice în fecale",
+        "Dozarea activităţii chimotripsinei în materii fecale"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 142,
+      "text": "Marcați ce afecțiune poate sugera apariția icterului persistent la un pacient ce suferă de pancreatită cronică:",
+      "options": [
+        "Neoplasm la nivelul capului pancreasului",
+        "Anemie hemolitică",
+        "Insuficienţă hepato-celulară",
+        "Sindrom Gilbert",
+        "Stenoză duodenală"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 143,
+      "text": "Indicați standartul de referinta pentru cuantificarea funcţiei exocrine a pancreasului:",
+      "options": [
+        "Testul de toleranţă la glucoza",
+        "Coeficientul amilază serică / creatinină serică",
+        "Studierea activităţii lipazei serice",
+        "Teste directe care necesita colectare sucului duodenal ca raspuns la stimulare cu secretină - pancreozimină",
+        "Cercetarea amilazei în urină"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 144,
+      "text": "Numiți cercetarea cea mai sensibilă, indicată pentru detectarea formelor incipiente de pancreatită cronică:",
+      "options": [
+        "Ultrasonografia transabdominală",
+        "Radiografia abdominală (pe gol)",
+        "Imagistica prin tomografie computerizată abdominală",
+        "Imagistică prin rezonanța magnetică nucleară",
+        "Ultrasonografia endoscopică"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 145,
+      "text": "Numiți semnul patognomonic pentru pancreatita cronica:",
+      "options": [
+        "Modificări canalare neînsemnate",
+        "Test secretinic modificat",
+        "Pseudochisturi pancreatice",
+        "Modificări ale testului de toleranţă la glucoză",
+        "Calcificare pancreatice ductale"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 146,
+      "text": "Identificați forma clinică de pancreatită cronică, asociata cu nivel seric crescut al IgG4:",
+      "options": [
+        "Pancreatită cronicăautoimună, tip 1",
+        "Pancreatita cronică autoimună tip II",
+        "Pancreatita cronică tropicală",
+        "Pancreatita cronică alcoolică",
+        "Pancreatita ereditară"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 147,
+      "text": "Care este cea mai frecventă cauză de pancreatită cronică la copii?",
+      "options": [
+        "Alcoolismul",
+        "Fibroza chistica",
+        "Pancreatita ereditară",
+        "Hipercalcemia",
+        "Pancreas divisum"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 148,
+      "text": "Notați patologia care frecvent se asociază cu insuficiență pancreatica exocrină:",
+      "options": [
+        "Sindromul Down",
+        "Sindromul Marfan",
+        "Amiloidoza primară",
+        "Fibroza cistică (mucoviscidoza)",
+        "Sindromul Felty"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 149,
+      "text": "Precizați tratamentul recomandat pentru inducerea remisiunii in pancreatita autoimuna activa:",
+      "options": [
+        "Regim alimentar cruțăor",
+        "Corticosteroizi",
+        "Preparate enzimatice",
+        "Analgezice",
+        "Sandostatin"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 150,
+      "text": "Notati patologia pentru care este caracteristică creatoreea",
+      "options": [
+        "Pancreatita cronică",
+        "Boala Crohn",
+        "Colita ischemică",
+        "Sindromul intestinului iritabil",
+        "Dischinezia  vezicii biliare"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 151,
+      "text": "Indicați valoarea optimă a pH-ului la care fermenţii pancreatici menţin activitate înaltă:",
+      "options": [
+        "Mai mare de 2",
+        "Mai mare de 3",
+        "Mai mare de 4",
+        "Mai mare de 5",
+        "Mai mare de 6"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 152,
+      "text": "Indicați pierderea cărui procent din parenchimul pancreatic funcţional determină manifestări de maldigestie cu malabsorbţie:",
+      "options": [
+        "10%",
+        "30%",
+        "50%",
+        "90%",
+        "70%"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 153,
+      "text": "Identificați nivelul de elastaza-1 specifică pancreatică în fecale care poate indica insuficienţă exocrină a pancreasului:",
+      "options": [
+        "< 300 μg/g fecale",
+        "< 200 μg/g fecale",
+        "< 500 μg/g fecale",
+        "> 200 μg/g fecale",
+        "> 300 μg/g fecale"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 154,
+      "text": "Marcați sindromul clinic caracteristic perioadei precoce a pancreatitei cronice:",
+      "options": [
+        "Endocrin",
+        "Dolor abdominal",
+        "Al insuficienţei exocrine a pancreasului",
+        "Dispeptic",
+        "Alergic"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 155,
+      "text": "Identificați tratamentul etiopatogenetic în pancreatita cronică autoimună:",
+      "options": [
+        "Antibioticoterapia",
+        "Corticoterapia",
+        "Terapia cu prochinetice",
+        "Terapia cu spasmolitice",
+        "Antidepresante"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "number": 156,
+      "text": "Indicați peste cât timp de la debutul puseului acut al pancreatitei cronice nivelul lipazei serice atinge valori maximale în serul sanguin:",
+      "options": [
+        "La 2 - 4 ore",
+        "La 6 - 8 ore",
+        "La 8-10 ore",
+        "La a II - IV-a zi",
+        "La a II - IV-a săptămână CAILE BILIARE SIMPLU"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 157,
+      "text": "Indicați medicamentul care se indică în terapia de dizolvare a calculilor biliari colesterolici:",
+      "options": [
+        "Drotaverina",
+        "Butilscopalamina",
+        "Mebeverina",
+        "Acidul ursodeoxicolic",
+        "Ulei de măsline"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 158,
+      "text": "Marcați standardul de aur în diagnosticul disfuncţiei sfincterului Oddi:",
+      "options": [
+        "Hepatobilioscintigrafia",
+        "FEGDS",
+        "Manometria sfincterului Oddi",
+        "USG",
+        "Efectuarea testului cu morfină"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 159,
+      "text": "Indicați cea mai frecventă cercetare utilizată pentru identificarea litiazei biliare:",
+      "options": [
+        "Examenul radiologic panoramic al abdomenului",
+        "Colangiografia endoscopică retrogradă",
+        "Colecistografia orală",
+        "Ecografia transabdominală",
+        "Tomografia computerizată abdominală"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 160,
+      "text": "Indicați autoanticorpii care se întâlnesc în 60 - 80% cazuri de colangită sclerozantă primară:",
+      "options": [
+        "Anticitoplasmă a neutrofilelor: p-ANCA",
+        "Anti antigen-solubil hepatic: SLA",
+        "Antinucleari: ANA",
+        "Antimicrosomi hepatici şi renali: anti-LKM-1",
+        "Antimitocondriali: AMA"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 161,
+      "text": "Identificați patologia în care colangiografia retrogradă endoscopică relevă pereţii căilor biliare cu aspect neregulat, de \"arbore mort în picioare\" sau \"şireag de mărgele\":",
+      "options": [
+        "Colangita biliară primară",
+        "Ciroza hepatică de geneză virală",
+        "Colangita sclerozantă primară",
+        "Carcinomul hepatocelular",
+        "Boala alcoolică a ficatului"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 162,
+      "text": "Indicați cel mai caracteristic semn clinic al litiazei biliare:",
+      "options": [
+        "Dispepsia",
+        "Febra",
+        "Eructaţia",
+        "Steatoreea",
+        "Colica biliară"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 163,
+      "text": "Indicați cea mai informativă examinare pentru determinarea nivelului de obstrucţie a circulaţiei portale:",
+      "options": [
+        "Pancreatografia retrogradă endoscopică",
+        "Laparoscopia",
+        "Ecografia abdominală",
+        "Angiografia",
+        "Biopsia hepatică"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 164,
+      "text": "Identificați cel mai frecvent agent patogen cauzal al angiocolitei:",
+      "options": [
+        "Stafilococii",
+        "Pneumococii",
+        "Esherihia coli",
+        "Streptococii",
+        "Fungii"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 165,
+      "text": "Identificați preparatul cu efect litolitic al calculelor biliari colesterolici:",
+      "options": [
+        "Acidul ursodeoxicolic",
+        "Himecromonul",
+        "Pancreatina",
+        "Drotaverina",
+        "Mebeverina"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 166,
+      "text": "Indicați cercetarea care se consideră \"standartul de aur\" în diagnosticul disfuncţiei sfincterului Oddi:",
+      "options": [
+        "Sondajul duodenal polifracţionat",
+        "Ecografia abdominală",
+        "Colecistopancreatografia endoscopică retrogradă",
+        "RMN standard",
+        "Manometria sfincteruli Oddi"
+      ],
+      "correct": [
+        4
+      ]
+    },
+    {
+      "number": 167,
+      "text": "Marcați care dintre maladiile enumerate se asociază mai frecvent cu colangita sclerozantă primară?",
+      "options": [
+        "Artrită reumatoidă",
+        "Sindrom postcolecistectomic",
+        "Alcoolism",
+        "Colită ulceroasă",
+        "Tuberculoză pulmonară"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 168,
+      "text": "Marcați medicația de elecție în tratamentul infecțiilor biliare cronice:",
+      "options": [
+        "Cefalosporinele",
+        "Macrolidele",
+        "Derivații 8-oxichinolinici",
+        "Penicilinele",
+        "Inhibitorii pompei de protoni"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 169,
+      "text": "Care dintre următoarele situații  contribuie la formarea calculilor biliari?",
+      "options": [
+        "Gastroduodetita cronică",
+        "Alergia alimentară",
+        "Icterul hemolitic",
+        "Folosirea în surplus a produselor lactate",
+        "Boala de reflux"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 170,
+      "text": "Identificați varianta clinică a dispepsiei funcţionale:",
+      "options": [
+        "Cu predominarea durerii epigastrice",
+        "Cu predominarea greţei",
+        "Cu predominarea constipației",
+        "Cu predominarea balonării",
+        "Cu predominarea diareei"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 171,
+      "text": "Selectați patologia ce poate contribui la producerea holepatiilor:",
+      "options": [
+        "Patologia duodenului",
+        "Gastrita cronică",
+        "Boala de reflux gastroesofagian",
+        "Tonzilita cronică",
+        "Colonul iritabil"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "number": 172,
+      "text": "Precizați care afirmație caracterizează colangita sclerozantă primară:",
+      "options": [
+        "Predominarea sindromului citolitic maximal",
+        "Afectează numai ducturile biliare intrahepatice",
+        "Histologic se caracterizează prin fibroză periductală în ”foi de ceapă”",
+        "Prevalează la sexul feminin",
+        "Prezența în ser a autoanticorpi AMA M2 (antimitocondriali)"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "number": 173,
+      "text": "Care secțiune a tractului gastrointestinal este responsabilă de reabsorbția bilei?",
+      "options": [
+        "Duodenul",
+        "Jejunul proximal",
+        "Jejunul terminal",
+        "Ileonul distal",
+        "Colonul ESOFAG MULTIPLU"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "number": 174,
+      "text": "Marcați metodele de tratament a acalaziei cardiei:",
+      "options": [
+        "Utilizarea toxinei botulinice",
+        "Blocantele canalelor de calciu",
+        "Cardiodilatare cu balonaș",
+        "Acid ursodeoxicolic",
+        "Prochinetice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 175,
+      "text": "Selectați caracteristicile acalaziei la manometria esofagiană:",
+      "options": [
+        "Lipsa relaxării sfincterului esofagian inferior la deglutiție",
+        "Presiunea crescută la nivelul sfincterului esofagian inferior la deglutiție",
+        "Presiunea scăzută la nivelul  sfincterului esofagian inferior",
+        "Creșterea presiunii intraesofagiene în repaus alimentar",
+        "Metaplazie intestinală"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 176,
+      "text": "Selectați maladiile în care poate să apară disfagia:",
+      "options": [
+        "Sclerodermie sistemică",
+        "Insuficiența cardiacă",
+        "BRGE necomplicată",
+        "Acalazia cardiei",
+        "Cancerul esofagian"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 177,
+      "text": "Identificați afirmațiile care definesc acalazia cardiei:",
+      "options": [
+        "Insuficienţa de relaxare a sfincterului esofagian inferior în timpul deglutiţiei",
+        "Zone de metaplazie a epiteliului malpighian al esofagului",
+        "Mucoasa columnară a esofagului netedă sau cu cicatrice",
+        "Insuficienţa de contracţie a sfincterului esofagian inferior",
+        "Absenţa undelor peristaltice propulsive ale corpului esofagian"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 178,
+      "text": "Marcați complicaţiile posibile ale bolii de reflux gastroesofagian:",
+      "options": [
+        "Esofagul Barrett",
+        "Acalazia cardiei",
+        "Hemoragia digestivă superioară",
+        "Stenoza pilorică",
+        "Cancerul esofagian"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 179,
+      "text": "Numiți metodele informative pentru stabilirea diagnosticului pozitiv al bolii de reflux gastroesofagian endoscopic negativă:",
+      "options": [
+        "Proba pH monitorizare intraesofagiană 24 ore",
+        "Endoscopia digestivă superioară",
+        "Examenul radiologic baritat",
+        "Impedanţa-monitoring esofagiană",
+        "Testul cu inhibitori ai pompei de protoni"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 180,
+      "text": "Marcați medicamentele care provoacă refluxul gastroesofagian:",
+      "options": [
+        "Domperedonul",
+        "Isosorbid dinitrat",
+        "Atropina",
+        "Theophyllina",
+        "Metoclopramidum"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 181,
+      "text": "Indicați examinările informative pentru diagnosticul bolii de reflux gastroesofagian:",
+      "options": [
+        "Monitorizarea pH-ului  esofagian",
+        "Endoscopia digestivă superioară",
+        "Testul ureazic",
+        "Impedansometria esofagiană",
+        "Examenul ecografic"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 182,
+      "text": "Indicați factorii care intervin în producerea herniilor transhiatale prin alunecare:",
+      "options": [
+        "Slăbirea sistemelor de fixare a segmentului eso-cardio-tuberozitar",
+        "Lărgirea hiatusului diafragmatic",
+        "Refluxul gastroesofagian",
+        "Creşterea presiunii abdominale",
+        "Dispepsie funcţională"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 183,
+      "text": "Identificați criteriile distinctive ale sindromului dolor toracic de origine esofagiană față de durerea din angina pectorală:",
+      "options": [
+        "Localizarea retrosternală a durerii",
+        "Încetarea durerii la administrarea antiacidelor",
+        "Apariţia durerilor este în legătură cu stresul psihoemoţional",
+        "Micşorarea durerii la administrarea inhibitorilor pompei de proton",
+        "Calmarea durerilor după administrare de nitroglicerină"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 184,
+      "text": "Identificați caracteristicile sindromului dispeptic funcţional:",
+      "options": [
+        "Disconfort în regiunea epigastrică",
+        "Dureri abdominale, care se ameliorează după defecaţie",
+        "Meteorism",
+        "Saţietate precoce",
+        "Dureri în epigastru"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 185,
+      "text": "Indicați medicamentele de tratare a gastritei de reflux biliar:",
+      "options": [
+        "Inhibitorii pompei de protoni",
+        "Acidul ursodeoxicolic",
+        "Atropina",
+        "H2-blocatorii",
+        "Prednisolonul"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 186,
+      "text": "Identificați semnele caracteristice sindromului Zollinger-Ellison:",
+      "options": [
+        "Diareea",
+        "Ulcerele refractare la tratament standard",
+        "Sindromul algic pronunţat",
+        "Constipaţiile",
+        "Leucopenia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 187,
+      "text": "Identificați complicaţiile posibile ale esofagitelor:",
+      "options": [
+        "Hemoragii digestive superioare",
+        "Stricturi esofagiene",
+        "Boala de reflux gastroesofagian",
+        "Perforaţii de esofag",
+        "Atrezia esofagului"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 188,
+      "text": "Marcați grupele de preparate medicamentoase care se folosesc în tratamentul acalaziei cardiei:",
+      "options": [
+        "Nitrati",
+        "Blocanții canalelor de Ca",
+        "Anestetice locale",
+        "ß-adrenolitice",
+        "α-adrenomimetice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 189,
+      "text": "Selectați afecţiunile care se pot asocia cu spasmul esofagian difuz:",
+      "options": [
+        "Sclerodermia laterală amitrofică",
+        "Acalazia",
+        "Neuropatia diabetică",
+        "Angina pectorală",
+        "Neuropatia etanolică"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 190,
+      "text": "Care sunt caracteristicele endoscopice ale esofagitei de reflux stadiul C (dupa Los-Angeles,1998):",
+      "options": [
+        "Leziuni multiple, ce se extind între pliurile mucoasei",
+        "Leziunile implică >75% din circumferinţa esofagului",
+        "Leziunile implică <75% din circumferinţa esofagului",
+        "Leziuni unice de mucoasă ≤5 mm",
+        "Leziuni unice de mucoasă >5 mm, ce nu se extind între pliurile mucoasei"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 191,
+      "text": "La care pacienți cu boală de reflux gastroesofagian se recomandă iniţierea tratamentului cu inhibitorii pompei de proton în doză matinală fără a efectua endoscopia digestivă prealabilă:",
+      "options": [
+        "Tineri",
+        "Vârstnici",
+        "Cu simptome tipice de reflux",
+        "În lipsa simptomelor de alarmă",
+        "Când există riscul complicațiilor"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 192,
+      "text": "Selectați caracteristicele endoscopice ale esofagitei de reflux stadiul D (dupa Los-Angeles,1998):",
+      "options": [
+        "Leziuni multiple, ce se extind între pliurile mucoasei",
+        "Leziuni multiple, ce nu se extind între pliurile mucoasei",
+        "Leziunile implica >75% din circumferinţa esofagului",
+        "Leziunile implica <75% din circumferinta esofagului",
+        "Leziunile implica >50% din circumerinţa esofagului"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 193,
+      "text": "Selectaţi afirmaţiile corecte despre administrarea inhibitorilor pompei de proton (IPP) în boala de reflux gastroesofagian (BRGE):",
+      "options": [
+        "Efectul clinic pozitiv după o cură empirică de 2 săptămâni cu IPP este în favoarea diagnosticului de BRGE",
+        "Necesită prelungirea supresiei acide pe o perioadă de 8-12 săptămâni",
+        "Nu necesită prelungirea supresiei acide pe o perioada de 8-12 săptămâni",
+        "După 8-12 săptămâni în doza matinală poate fi urmat un tratament de menținere",
+        "Se asociază de obicei cu H2 -blocanţi seara"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 194,
+      "text": "Când se consideră eşec la tratamentul cu inhibitorii pompei de proton (IPP) în boala de reflux gastroesofagian (BRGE):",
+      "options": [
+        "Lipsa răspunsului clinic după 2-4 săptămâni în caz de simptome tipice",
+        "Lipsa răspunsului clinic după 3-6 luni în simptome atipice",
+        "Lipsa răspunsului clinic după 6-8 săptămâni în caz de simptome tipice",
+        "Lipsa răspunsului clinic după 8-12 luni în simptome atipice",
+        "Nici un raspuns"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 195,
+      "text": "Marcați opțiunile de optimizare a tratamentului în caz de raspuns insuficient la terapia standart în boala de reflux gastroesofagian (BRGE):",
+      "options": [
+        "Verificarea administrării corecte a inhibitorilor pompei de proton (IPP) (cu 30-60 min înainte de dejun)",
+        "Dublarea dozei de IPP (suplimentare cu doza de seară) în caz de persistenţă a simptomelor  nocturne",
+        "Înlocuirea IPP cu H2-histaminolitice",
+        "Schimbarea preparatului IPP cu preparate de tipul omeprazol sodium bicarbonat, dexlansoprazol",
+        "Prokineticele obligator se ajustează la IPP"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 196,
+      "text": "Selectați preparatele cu efect antisecretor: a) [] Almagel",
+      "options": [
+        "Esomeprazol",
+        "Famotidina",
+        "Rabeprazol",
+        "Domperidon"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 197,
+      "text": "Selectați afirmațiile corecte ce se referă la diagnosticul bolii de reflux gastroesofagian (BRGE):",
+      "options": [
+        "Anamneza nu este esenţială în diagnosticul BRGE",
+        "Tratamentul empiric cu inhibitorii pompei de proton (IPP) nu se utilizează ca metodă de diagnostic",
+        "Diagnosticul este facilitat de răspunsul clinic la cure scurte de IPP (2 săptămâni)",
+        "Orice test negativ nu exclud BRGE",
+        "Cea mai informativă metodă de diagnostic este asocierea de teste (test IPP, pH-monitoring, endoscopie)"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 198,
+      "text": "Selectați tulburările funcționale ale esofagului conform clasificării Consensus Roma IV, 2016:",
+      "options": [
+        "Pirozisul funcțional",
+        "Acalazia cardiei",
+        "Dispepsia funcțională",
+        "Disfagia funcțională",
+        "Globusul"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 199,
+      "text": "Marcați semnele de alarmă în boala de reflux gastroesofagian pentru care Endoscopia digestiva superioară este obligatorie:",
+      "options": [
+        "Disfagia",
+        "Odinofagia",
+        "Pirozisul",
+        "Pirozisul nocturn",
+        "Anemia"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 200,
+      "text": "Indicați caracteristicele sfincterului esofagian inferior:",
+      "options": [
+        "Corespunde zonei cu presiune crescută în locul trecerii esofagului în stomac",
+        "Conţine fibre musculare striate",
+        "Conţine fibre musculare netede",
+        "Se supune influenţelor neurohormonale",
+        "Are presiune stabilă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 201,
+      "text": "Marcați care caracteristici se referă la monitorizarea pH-ului intraesofagian:",
+      "options": [
+        "Prezintă \"standardul de aur\" în diagnosticul refluxului gastroesofagian patologic",
+        "Poate determina corelaţia dintre simptome şi refluxul gastroesofagian",
+        "La persoanele sănătoase nu înregistrează nici o secvenţă de reflux pe parcursul diurnei",
+        "Apreciază prezenţa complicaţiilor în boala de reflux gastroesofagian",
+        "Determină eficienţa contracţiilor peristaltice esofagiene"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 202,
+      "text": "Marcați contraindicațiile pentru manometria esofagiană:",
+      "options": [
+        "Esofagite acute destructive",
+        "Anevrism de aortă",
+        "Diabet zaharat",
+        "Vomă necontrolată",
+        "Sclerodermie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 203,
+      "text": "Marcați care caracteristicile se referă la diverticulii faringoesofagieni Zenker:",
+      "options": [
+        "Diverticuli de tracţiune",
+        "Diverticuli de pulsiune",
+        "Diverticuli dobândiţi",
+        "Diverticuli congenitali",
+        "Situaţi pe peretele posterior la nivelul joncţiunii faringo-esofagiene"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 204,
+      "text": "Pentru care patologii este caracteristică odinofagia?",
+      "options": [
+        "Boala de reflux gastroesofagian",
+        "Esofagita herpetică",
+        "Pirozis funcțional",
+        "Cancer esofageal",
+        "Esofagita caustică GASTRITA MULTIPLU"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 205,
+      "text": "Identificați criteriile diagnostice pentru gastrita autoimună:",
+      "options": [
+        "Autoanticorpii anti-celule parietale",
+        "Semne endoscopice de gastrită atrofică fundală",
+        "Anemie pernicioasă",
+        "Semne endoscopice de gastrită antrală",
+        "Helicobacter pylori prezent"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 206,
+      "text": "Marcați care afirmații se referă la Gastrita cronică de tip „A\":",
+      "options": [
+        "Gastrita fundală",
+        "Gastrita de reflux biliar",
+        "Gastrita asociată cu Helicobacter pylori",
+        "Gastrita autoimună",
+        "Gastrita limfocitară"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 207,
+      "text": "Indicați ce include tratamentul gastritei de reflux biliar:",
+      "options": [
+        "Inhibitorii pompei de protoni",
+        "Acid ursodeoxicolic",
+        "Atropină",
+        "H2-blocatori",
+        "Prednisolon"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 208,
+      "text": "Identificați semnele caracteristice pentru sindromul Zollinger-Ellison:",
+      "options": [
+        "Diareea",
+        "Ulcerele refractare la tratament standard",
+        "Sindromul algic pronunţat, ce se supune greu tratamentului antiulceros standard",
+        "Constipaţiile",
+        "Leucopenia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 209,
+      "text": "Identificați afecţiunile  stomacului cu risc crescut de transformare în cancer:",
+      "options": [
+        "Gastrita hiperacidă",
+        "Gastrita cronică atrofică cu metaplazie",
+        "Gastrita de reflux biliar",
+        "Boala Menetrier",
+        "Gastrita eozinofilică"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 210,
+      "text": "Selectați ce medicamente include terapia triplă standard pentru eradicarea Helicobacter pylori:",
+      "options": [
+        "Inhibitorii pompei de protoni",
+        "Claritromicina",
+        "Amoxicilina sau Metronidazolul",
+        "Levofloxacina",
+        "Ciprofloxacina"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 211,
+      "text": "Identificați condițiile ce pot determina gastrita granulomatoasă:",
+      "options": [
+        "Boala Crohn",
+        "Refluxul biliar",
+        "Sarcoidoza",
+        "Infecţia cu Helicobacter pylori",
+        "Consumul de alcool"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 212,
+      "text": "Identificați condițiile ce pot determina gastrita granulomatoasă:",
+      "options": [
+        "Consumul de AINS",
+        "Tuberculoza",
+        "Gastrita flegmonoasă",
+        "Gastrita atrofică",
+        "Sifilisul"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "number": 213,
+      "text": "Identificați ce recomandații include tratamentul gastritei acute necomplicate:",
+      "options": [
+        "Medicamente antiinflamatoare nesteroidiene",
+        "Citoprotectori gastrici",
+        "Întrerupea contactului cu substanţe iritante",
+        "Pungă de gheaţă pe regiunea epigastrică",
+        "Inhibitori ai pompei de protoni"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 214,
+      "text": "Identificați simptomele care caracterizează ulcerul duodenal:",
+      "options": [
+        "Dureri epigastrale nocturne",
+        "Ameliorarea durerii după alimentaţie sau după administrare de antiacide",
+        "Ameliorarea durerii după vomă",
+        "Xerostomie",
+        "Diaree"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 215,
+      "text": "Selectați indicațiile pentru fibrogastroduodenoscopie:",
+      "options": [
+        "Suspecţie la abdomen acut",
+        "Suspecţie la hemoragie digestivă superioară",
+        "Suspecţie la ulcer gastric/duodenal",
+        "Suspecţie la gastrită flegmonoasă",
+        "Suspecţie la varice esofagiene"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 216,
+      "text": "Selectați complicaţiile ulcerelor:",
+      "options": [
+        "Perforaţia",
+        "Stenozarea",
+        "Malignizarea",
+        "Esofagita de reflux",
+        "Penetraţia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 217,
+      "text": "Identificați recomandările tratamentului chirurgical în caz de ulcer cronic:",
+      "options": [
+        "Hemoragia digestivă de orice grad",
+        "Perforaţia",
+        "Ulcer postbulbar",
+        "Stenoză decompensată",
+        "Ulcer cronic gastric"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 218,
+      "text": "Numiți caracteristicele din ulcerul gastric observate la radiologia baritată:",
+      "options": [
+        "Proiemină în raport cu conținutul stomacului",
+        "Are forma unei nișe conturate",
+        "Are forma în menisc sau lacună",
+        "Modificări periulceroase: prezent digul ulcerului - linia Hampton",
+        "Este retrasă din contur în raport cu conținutul stomacului"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 219,
+      "text": "Identificați manifestările neoplasmului gastric:",
+      "options": [
+        "Dureri abdominale colicative",
+        "Anorexie selectivă, mai ales pentru carne",
+        "Vărsături cu alimente ingerate în urmă cu mai mult de 24 ore",
+        "Diaree cu polifecalie",
+        "Dureri în epigastru care nu sunt ameliorate de alimentaţie"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 220,
+      "text": "Selectați modificările biologice ce pot apărea în neoplasmul gastric:",
+      "options": [
+        "Prezenţa antigenului carcinoembrionar",
+        "Scăderea hemoglobinei",
+        "Creşterea VSH-ului",
+        "Leucopenie",
+        "Creşterea acidului uric"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 221,
+      "text": "Identificați ce medicamente include terapia quadruplă standart cu preparate de bismut pentru eradicarea infecției Helicobacter pylori:",
+      "options": [
+        "Tetraciclina + Metronidazolul",
+        "Inhibitorii ai pompei de proton",
+        "Preparatele de bismut",
+        "Levomicetina",
+        "Claritromicina"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 222,
+      "text": "Selectați factorii ulcerogeni:",
+      "options": [
+        "Bacteria Helicobacter pylori",
+        "Hipersecreţia de HCl",
+        "Mărirea secreţiei de bicarbonaţi",
+        "Hipersecreţia de pepsină",
+        "Mărirea sintezei de prostaglandine"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 223,
+      "text": "Selectați factorii de protecţie a mucoasei în patogeneza bolii ulceroase:",
+      "options": [
+        "Prostaglandinele",
+        "Pepsina",
+        "Bicarbonaţii",
+        "Gastrina",
+        "Regenerarea normală a mucoasei"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 224,
+      "text": "Marcați semnele caracteristice ulcerului duodenal:",
+      "options": [
+        "Lipsa poftei de mâncare",
+        "Durerea difuză",
+        "Durerea epigastrală localizată",
+        "Ritmicitatea sindromului dolor",
+        "Episodicitatea sindromului dolor"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 225,
+      "text": "Indicați antiacidele neabsorbabile:",
+      "options": [
+        "Bicarbonatul de sodiu",
+        "Carbonatul de magneziu",
+        "Maalox",
+        "Fosfalugelul",
+        "Almagelul"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 226,
+      "text": "Identificați ce medicamente sunt incluse în schemele de eradicare a Helicobacter pylori:",
+      "options": [
+        "Platifilina",
+        "Rifaximina",
+        "Amoxicilina",
+        "Preparatele de bismut",
+        "Metronidazolul"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 227,
+      "text": "Marcați semnele caracteristice pentru dumping-sindrom:",
+      "options": [
+        "Palpitaţii postprandiale",
+        "Disfagie",
+        "Astenie fizică pronunţată postprandială",
+        "Necesitatea în alimentaţie lichidă",
+        "Ameliorarea stării în poziţie verticală"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 228,
+      "text": "Marcați afecțiunile cu risc oncologic majorat:",
+      "options": [
+        "Ulcerul duodenal",
+        "Gastrita cronică a bontului gastric",
+        "Duodenita cronică",
+        "Sindromul de ansă aferentă",
+        "Ulcerul gastric"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "number": 229,
+      "text": "Identificați factorii patogenetici în duodenita cronică:",
+      "options": [
+        "Agresiunea acido-peptică",
+        "Dereglarea troficii mucoasei",
+        "Dispepsia funcţională",
+        "Reflux gastro-esofagian",
+        "Staza duodenală"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 230,
+      "text": "Identificați factorii etiologici ai duodenitei cronice:",
+      "options": [
+        "Helicobacter pylori",
+        "Hipercalcemia",
+        "Hipocalcemia",
+        "Lamblia intestinalis",
+        "Clostridium difficile"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 231,
+      "text": "Identificați simptomele tipice în duodenita cronică:",
+      "options": [
+        "Durerea de tip ulceros",
+        "Colică abdominală",
+        "Durerea de tip dispeptic",
+        "Pierdere ponderală progresivă",
+        "Dispepsia"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 232,
+      "text": "Marcați afecțiunile cu care se face diagnosticul diferenţial al leziunii din ulcerului gastric:",
+      "options": [
+        "Leziunile exulcerate din tumori benigne",
+        "Localizarea gastrică a bolii Crohn",
+        "Cancerul gastric",
+        "Colita ulcerativă",
+        "Formaţiunea protruzivă cu baza mare de implantare"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 233,
+      "text": "Identificați semnele clinice ale gastritei atrofice autoimune:",
+      "options": [
+        "Sindrom anemic",
+        "Fenomene neurologice degenerative",
+        "Sindrom de intoxicaţie",
+        "Sindrom dispeptic",
+        "Diaree hemoragică"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 234,
+      "text": "Menționați recomandările de control pentru evaluarea eradicării infecţiei cu Helicobacter pylori după tratamentul de eradicare:",
+      "options": [
+        "Testul respirator cu uree marcată, peste 4-6 săptămâni după finisarea tratamentului de eradicare",
+        "Testul respirator cu uree marcată imediat după finisarea tratamentului de eradicare",
+        "Testul de determinare a antigenului Helicobacter pylori în materiile fecale peste 4-6 săptămâni după finisarea tratamentului de eradicare",
+        "Testul de determinare a antigenului cu Helicobacter pylori în materiile fecale, imediat după finisarea tratamentului de eradicare",
+        "Testul serologic"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 235,
+      "text": "Marcați influențele antiacidelor, care conţin aluminiu:",
+      "options": [
+        "Induc diaree",
+        "Induc constipație",
+        "Influenţează absorbţia unor medicamente",
+        "Fixează sărurile biliare şi lizolecitina",
+        "Au durata lungă de acţiune - 8-10 ore"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 236,
+      "text": "Marcați particularitățile inhibitorilor pompei de protoni:",
+      "options": [
+        "Reprezintă cele mai active antisecretorii",
+        "Inhibă H+/K+-ATP-aza",
+        "Stimulează H+/K+-ATP-aza",
+        "Au eficienţă maximă, când celula parietală este stimulată",
+        "Au acțiunea la nivelul receptorilor H2 histaminici"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 237,
+      "text": "Selectați criteriile diagnostice pentru gastrita autoimună:",
+      "options": [
+        "Anticorpi serici anti celule parietale",
+        "Gastrita antrală",
+        "Anemie Biermer (pernicioasă)",
+        "Anticorpi anti factor intrinsic",
+        "Prezența Helicobacter pylori"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 238,
+      "text": "Marcați care sunt caracteristicile gastritei cronice tip A:",
+      "options": [
+        "Hiperaciditatea",
+        "Hipoaciditatea",
+        "Anemie B12 dificitară",
+        "Atrofia mucoasei corpului gastric",
+        "Anemie ferodeficitară"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 239,
+      "text": "Indicați medicamentele, la care Helicobacter pylori poate dezvolta rezistenţă:",
+      "options": [
+        "Metronidazolul",
+        "Tetraciclina",
+        "Claritromicina",
+        "Bismut subcitrat",
+        "Levofloxacina"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 240,
+      "text": "Acidul lactic determinat în sucul gastric este sugestiv pentru:",
+      "options": [
+        "Gastrita hipoacidă",
+        "Achilia gastrică",
+        "Neoplasm al stomacului",
+        "Stenoza pilorului",
+        "Gastrită cu aciditate nemodificată"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 241,
+      "text": "Selecați care sunt proprietățile pepsinei:",
+      "options": [
+        "Pentru activitatea pepsinei pH-ul optim este 1.5-3.5",
+        "Este secretată de mucoasa gastrică",
+        "Se activează din pepsinogen la pH >5",
+        "Participă la scindarea proteinelor",
+        "Este transportată în singe legată de antitripsină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 242,
+      "text": "Selectați criteriile ce se referă la gastrita cronică tip B:",
+      "options": [
+        "Cauzată de Helicobacter pylori",
+        "Gastrita atrofică fundală",
+        "Se asociază cu anemie Biermer (pernicioasă)",
+        "Anticorpi anti factor intrinsic prezenți",
+        "Gastrită antrală"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 243,
+      "text": "Precizaţi afirmaţiile corecte pentru ulcerul cronic gastric (UG) și ulcerul cronic duodenal (UD):",
+      "options": [
+        "În orice tip de ulcer este obligatorie biopsia endoscopică pentru a exclude un cancer",
+        "În UD este obligatoriu controlul endoscopic al cicatrizării",
+        "În UG este obligatoriu controlul endoscopic al cicatrizării, cu biopsie",
+        "În UD necomplicat prelungirea inhibării secreției acide cu inhibitori de pompă de protoni nu este recomandată după tratamentul Helicobacter pylori",
+        "În UD complicat și în toate UG, după tratamentul de eradicare a Helicobacter pylori este recomandată prelungirea tratamentului cu inhibitori de pompă de protoni până se realizează vindecarea completă"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 244,
+      "text": "Selectați opțiunile de tratament empiric, de prima linie pentru eradicarea Helicobacter Pyloriîn regiuni sau populațiicu rezistență ridicată la claritromicină:",
+      "options": [
+        "Terapia triplă standard",
+        "Terapia triplă cu conținut de levofloxacină",
+        "Terapia quadruplă ce conține preparate de bismut",
+        "Terapia quadruplă non-bismut",
+        "Terapia secvențială"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 245,
+      "text": "Selectați afirmațiile corecte referitor la eradicarea Helicobacter pylori::",
+      "options": [
+        "Eradicarea H. pylori reduce incidența ulcerului peptic la pacienții care primesc tratament pe termen lung cu AINS",
+        "Eradicarea H pylori este obligatorie înainte de începerea tratamentului cu AINS la pacienții cu antecedente de ulcer peptic",
+        "Eradicarea H. pylori NU este benefică înainte de începerea tratamentului cu AINS",
+        "Pacienții care primesc deja tratament pe termen lung cu AINS nu au nevoie de tratament de eradicare",
+        "Pacienții care primesc deja tratament pe termen lung cu AINS au nevoie de tratament de eradicare"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 246,
+      "text": "Alegeți afirmațile corecte pentru durata tratamentului cu IPP în ulcerul cronic gastric (UG) și ulcerul cronic duodenal (UD):",
+      "options": [
+        "În UD necomplicat și fără risc prelungirea tratamentului cu IPP este recomandată după terapia de eradicare a Helicobacter pylori",
+        "În UD complicat prelungirea tratamentului cu IPP este recomandată după terapia de eradicare a Helicobacter pylori",
+        "În UG necomplicat prelungirea tratamentului cu IPP nu este recomandată după terapia de eradicare a Helicobacter pylori",
+        "În UG necomplicat după tratamentul de eradicare a Helicobacter pylori este recomandată prelungirea tratamentului cu IPP până se realizează vindecarea completă",
+        "În toate ulcerele gastrice, după tratamentul de eradicare a Helicobacter pylori este recomandată prelungirea tratamentului cu IPP până se realizează vindecarea completă"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 247,
+      "text": "Indicați situațiile clinice când trebuie continuat tratamentul cu IPP după tratamentul de eradicare a Helicobacter pylori:",
+      "options": [
+        "Ulcer cronic duodenal necomplicat, fără risc",
+        "Ulcer cronic duodenal complicat",
+        "Ulcer cronic duodenal necomplicat, dar cu risc (aspirină, AINS, anticoagulante, vârsta> 65 ani)",
+        "Toate ulcerele cronice gastrice",
+        "Toate ulcerele cronice duodenale"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 248,
+      "text": "Identificați indicațiile pentru determinarea conţinutului anticorpilor anti-H pylori clasa Ig G în ser în calitate de test diagnostic pentru infecţia cu Helicobacter pylori:",
+      "options": [
+        "Confirmarea eradicării infecţiei cu Helicobacter pylori",
+        "Ulcere cu hemoragie",
+        "Atrofie gastrică",
+        "MALT-limfom gastric",
+        "Ulcerul duodenal necomplicat"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 249,
+      "text": "Selectați teste utile pentru evaluarea eradicării infecţiei cu Helicobacter pylori după tratamentul de eradicare:",
+      "options": [
+        "Testul respirator cu uree marcată cu C13",
+        "Determinarea antigenului Helicobacter pylori în materiile fecale cu utilizarea anticorpilor monoclonali",
+        "Testul rapid la urează",
+        "Cercetarea anticorpilor anti-Helicobacter pylori de clasa IgG prin metoda ELISA",
+        "Cercetarea anticorpilor anti-Helicobacter pylori de clasa IgM prin metoda ELISA"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 250,
+      "text": "Enumerați factorii citoprotectori ai mucoasei gastroduodenale:",
+      "options": [
+        "Pepsina",
+        "Prostaglandinele",
+        "Vascularizarea adecvată și regenararea epiteliului",
+        "Oxidul nitric",
+        "Gastrina"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 251,
+      "text": "Numiți medicamentele care pot determina risc de hemoragie digestivă superioară la pacienții cu antecedente de ulcer peptic sau de hemoragie din ulcer peptic:",
+      "options": [
+        "Antiinflamatoarele nonsteroidiene",
+        "Coxibi",
+        "Aspirina",
+        "Metronidazolul",
+        "Misoprostolul"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 252,
+      "text": "Numiți afirmaţiile corecte referitoare la ulcerul gastric:",
+      "options": [
+        "Antiinflamatoarele non-steroidiene (AINS) reprezintă un factor independent de risc",
+        "Antiinflamatoarele non-steroidiene (AINS) nu sunt implicate în geneza ulcerului gastric",
+        "Helicobacter pylori reprezintă un factor independent de risc",
+        "Repetarea gastroscopiei este necesară după tratament",
+        "Biopsia din ulcerul gastric nu se face"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 253,
+      "text": "Indicați medicamentele la care Helicobacter pylori poate dezvolta rezistenţă:",
+      "options": [
+        "Metronidazol",
+        "Tetraciclină",
+        "Claritromicină",
+        "Bismul subcitrat",
+        "Levofloxacină"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 254,
+      "text": "Marcați mecanismele durerii în ulcerul peptic duodenal:",
+      "options": [
+        "Factorul acido-peptic",
+        "Atrofia gastrică",
+        "Creșterea presiunii în stomac și duoden",
+        "Profunzimea ulcerului",
+        "Prezența. infecției cu Helicobacter pylori"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 255,
+      "text": "Identificați mecanismele de acțiune a fumatului în ulcerul gastric/duodenal:",
+      "options": [
+        "Creştesecreţia de acid clorhidric",
+        "Scade secreţia de mucus gastric",
+        "Stimulează secreţia de prostaglandine",
+        "Stimulează secreţia de bicarbonat",
+        "Crește secreţia de pepsinogen"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 256,
+      "text": "Identificați factorii de risc în ulcerul gastric/duodenal:",
+      "options": [
+        "Predispoziţia genetică",
+        "Fumatul",
+        "Excesul de grăsime în dietă",
+        "Alcoolul",
+        "Excesul de glucide în dietă"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 257,
+      "text": "Identificați factorii endogeni de agresiune a mucoasei gastrice/duodenale:",
+      "options": [
+        "Acidul clorhidric",
+        "Pepsinul",
+        "Mucina",
+        "Histamina",
+        "Bicarbonatul"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 258,
+      "text": "Identificați factorii endogeni de agresiune a mucoasei gastrice/duodenale:",
+      "options": [
+        "Gastrina",
+        "Pepsinul",
+        "Prostaglandinele",
+        "Histamina",
+        "Bicarbonatul"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 259,
+      "text": "Identificați factorii endogeni de protecţie a mucoasei gastrice/duodenale:",
+      "options": [
+        "Gastrina",
+        "Mucusul",
+        "Prostaglandinele",
+        "Histamina",
+        "Bicarbonatul"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 260,
+      "text": "Identificați  rolul prostaglandinelor în boala ulceroasă:",
+      "options": [
+        "Stimulează sinteza de mucus",
+        "Ameliorează microcirculaţia sanguină din stomac şi duoden",
+        "Stimulează secreţia de pepsină",
+        "Stimulează secreţia de gastrină și de HCL",
+        "Stimulează secreţia de bicarbonat"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 261,
+      "text": "Indicați efectele adverse anticolinergice ale preparatelor antispastice:",
+      "options": [
+        "Retenția urinară",
+        "Senzația de gură uscată",
+        "Sindrom de malabsorbție",
+        "Tulburarile de vedere",
+        "Urină de culoare orange"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 262,
+      "text": "Indicați caracteristicile tabloului clinic clasic în ulcerul duodenal:",
+      "options": [
+        "Durerea epigastrică postprandială precoce",
+        "Durera epigastrică „pe foame\"",
+        "Durerea nocturnă",
+        "Lipsa poftei de mâncare",
+        "Sindromul dispeptic"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 263,
+      "text": "Indicați caracteristicile tabloului clinic clasic în ulcerul gastric:",
+      "options": [
+        "Durera epigastrică postprandială",
+        "Durera epigastrică „pe foame\"",
+        "Sindromul dispeptic",
+        "Durerea nocturnă",
+        "Diareea"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 264,
+      "text": "Marcați metodele de diagnostic al infecţiei cu Helicobacter pylori:",
+      "options": [
+        "Testul respirator cu uree marcată",
+        "Aprecierea antigenului Helicobacter pylori în materii fecale",
+        "Testul rapid cu urează",
+        "Testul cu D-xiloză",
+        "Test Schiling"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 265,
+      "text": "Marcați particularitățile inhibitorilor pompei de protoni:",
+      "options": [
+        "Sunt cele mai active antisecretorii",
+        "Inhibă H+/K+-ATP-aza",
+        "Stimulează H+/K+-ATP-aza",
+        "Au eficienţă maximă când celula parietală este stimulată",
+        "Au acțiunea la nivelul receptorilor H2 histaminici INTESTIN MULTIPLU"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 266,
+      "text": "Identificați maladiile pentru care este caracteristică inflamaţia granulomatoasă la afectarea  tractul gastrointestinal:",
+      "options": [
+        "Tuberculoza",
+        "Sarcoidoza",
+        "Boala Crohn",
+        "Enteropatia glutenică",
+        "Amiloidoza"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 267,
+      "text": "Enumeraţi mecanismele patogenetice ale diareei cronice:",
+      "options": [
+        "Aciditatea gastrică majorată",
+        "Mărirea presiunii osmotice intralumenale",
+        "Tranzitul intestinal accelerat",
+        "Hiperexsudaţie intestinală",
+        "Scăderea presiunii osmotice intralumenale"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 268,
+      "text": "Selectaţi maladiile ce decurg cu diaree cronică:",
+      "options": [
+        "Enteropatia glutenică",
+        "Boala Hirschsprung",
+        "Boala Wipple",
+        "Sindromul de intestin scurt",
+        "Colangita biliară primitivă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 269,
+      "text": "Numiţi manifestările clinice ale sindromul de malabsorbţie:",
+      "options": [
+        "Scădere ponderală",
+        "Edeme şi ascită",
+        "Dureri în oase şi parestezii",
+        "Anorexie",
+        "Artrite"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 270,
+      "text": "Indicaţi cauzele posibile ale sindromul de malabsorbţie:",
+      "options": [
+        "Insuficienţa exocrină pancreatică",
+        "Bolile colestatice ale ficatului",
+        "Ischemia cronică a intestinului subţire",
+        "Patologia funcţională a intestinului",
+        "Diverticuloza intestinului gros"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 271,
+      "text": "Selectaţi remediile terapeutice în sindromul de malabsorbţie:",
+      "options": [
+        "Vitamine",
+        "Enzime pancreatice",
+        "Soluţii de aminoacizi",
+        "Prokinetice",
+        "Antiacide"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 272,
+      "text": "Numiţi simptomele sindromului de malabsorbţie:",
+      "options": [
+        "Hiperalbuminemie",
+        "Creşterea ceruloplasminei serice",
+        "Hipovitaminoză",
+        "Steatoree",
+        "Scăderea nivelului fierului seric"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 273,
+      "text": "Enumeraţi formele fiziopatologice ale diareelor cronice:",
+      "options": [
+        "Osmotică",
+        "Secretorie",
+        "Din cadrul bolii Crohn",
+        "Inflamatorie",
+        "Bacteriană"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 274,
+      "text": "Numiţi etiologia posibilă a diareei hemoragice:",
+      "options": [
+        "Shigella",
+        "Helicobacter pylori",
+        "Entamoeba histolitica",
+        "Vibrio cholerae",
+        "Eh. coli enteropatogenă"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 275,
+      "text": "Indicaţi cerealele care se exclud în dieta aglutenică:",
+      "options": [
+        "Grîu",
+        "Orz",
+        "Secară",
+        "Orez",
+        "Hrişcă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 276,
+      "text": "Selectaţi testele paraclinice folosite pentru evaluarea patologiei intestinului subţire:",
+      "options": [
+        "Enterografia prin Rezonanță magnetică",
+        "Determinarea Elastazei-1 în materiile fecale",
+        "Examinare coprologică",
+        "Test de toleranţă la lactoză",
+        "Test cu secretina - pancreozimină"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 277,
+      "text": "Numiţi remediile terapeutice recomandate în tratamentul enterocolitei virale acute:",
+      "options": [
+        "Antivirale (interferone)",
+        "Antibacteriene",
+        "Antifungice",
+        "Hidroelectrolitice",
+        "Loperamid"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 278,
+      "text": "Enumeraţi manifestările extraintestinale în boala Crohn:",
+      "options": [
+        "Diabetul zaharat",
+        "Pioderma gangrenosum",
+        "Spondilita anchilozantă",
+        "Eritemul nodos",
+        "Glomerulonefrita"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 279,
+      "text": "Selectaţi medicamentele utilizate în tratamentul patogenetic al bolii Crohn:",
+      "options": [
+        "Mesalazina",
+        "Corticosteroizii",
+        "Azatioprina",
+        "Platifilina",
+        "Famotidina"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 280,
+      "text": "Indicaţi semnele macroscopice ale colitei ulcerative:",
+      "options": [
+        "Leziuni cu caracter segmentar",
+        "Aspect de „piatră de pavaj\"",
+        "Hemoragii de contact",
+        "Ulceraţii superficiale",
+        "Fistule intestinale"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 281,
+      "text": "Selectaţi semnele endoscopice ale colitei ulcerative:",
+      "options": [
+        "Relief în „piatră de pavaj\"",
+        "Ulceraţii polimorfe superficiale",
+        "Ulcere liniare profunde",
+        "Friabilitatea mucoasei",
+        "Edem, hiperemie difuză a mucoasei"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 282,
+      "text": "Enumeraţi semnele radiologice prezente în stadiile avansate ale colitei ulcerative:",
+      "options": [
+        "Scurtarea colonului",
+        "Dehaustrarea colonului",
+        "Spiculi marginali/pete baritate",
+        "Fistule",
+        "Aspect în piatră de pavaj"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 283,
+      "text": "Numiţi complicaţiile locale în colita ulcerativă:",
+      "options": [
+        "Megacolon toxic",
+        "Hemoragie masivă",
+        "Abces abdominal",
+        "Perforaţia colonului",
+        "Fistule viscero-cutanate"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 284,
+      "text": "Indicaţi formele clinice ale constipaţiei cronice:",
+      "options": [
+        "Constipaţia osmotică",
+        "Constipaţia idiopatică",
+        "Constipaţia secretorie",
+        "Constipaţia prin tulburarea defecaţiei e) [] Constipația neurogenă"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 285,
+      "text": "Enumeraţi cauzele posibile ale сonstipaţiei cronice:",
+      "options": [
+        "Hipotiroidism",
+        "Hiperexudaţie intestinală",
+        "Hipertiroidism",
+        "Sindrom de intestin iritabil",
+        "Dolicocolon"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 286,
+      "text": "Numiţi factorii de risc în dezvoltarea cancerului colorectal:",
+      "options": [
+        "Polipoza familiară multiplă",
+        "Polipii adenomatoşi intestinali",
+        "Diverticulii intestinali",
+        "Sindromul de intestin iritabil",
+        "Colita ulcerativă"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 287,
+      "text": "Indicaţi elementele caracteristice sindromului de intestin iritabil:",
+      "options": [
+        "Dereglarea motilităţii intestinale",
+        "Proces inflamator cronic în intestin",
+        "Prezenţa durerilor şi disconfortului în abdomen",
+        "Proces distrofic în mucoasa intestinului",
+        "Lipsa substratului organic de afectare"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 288,
+      "text": "Selectaţi simptomele care exclud sindromul de intestin iritabil:",
+      "options": [
+        "Diaree cu mucus",
+        "Dureri în abdomen",
+        "Hemoragie intestinală",
+        "Temperatură subfebrilă",
+        "Scădere ponderală progresivă"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 289,
+      "text": "Enumeraţi metodele de tratament al sindromului de intestin iritabil:",
+      "options": [
+        "Psihoterapie",
+        "Tratament de substituţie",
+        "Gimnastică curativă",
+        "Spasmolitice miotrope",
+        "Derivaţii acidului 5-aminosalicilic"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 290,
+      "text": "Numiţi medicamentele recomandate în tratamentul sindromului de intestin iritabil:",
+      "options": [
+        "Mesalazină",
+        "Mebeverină",
+        "Famotidină",
+        "Drotaverină",
+        "Lactuloză"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 291,
+      "text": "Selectaţi medicamentele indicate în caz de sindrom de intestin iritabil cu diaree:",
+      "options": [
+        "Smecta",
+        "Loperamid",
+        "Laculoză",
+        "Carbonat de calciu",
+        "Levomicetină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 292,
+      "text": "Notaţi afecţiunile care evoluează cu diaree:",
+      "options": [
+        "Dizenteria",
+        "Ulcerul duodenal",
+        "Carcinoidul",
+        "Enteropatia glutenică",
+        "Hipotiroidismul"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 293,
+      "text": "Selectaţi afecţiunile care evoluează mai frecvent cu constipaţie:",
+      "options": [
+        "Hipertiroidismul",
+        "Hipotiroidismul",
+        "Diabetul zaharat",
+        "Disfuncţia muşchilor pelvieni",
+        "Boala Hirschsprung"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 294,
+      "text": "Indicaţi cauzele diareei care nu răspunde la proba cu foame:",
+      "options": [
+        "Sindromul carcinoid",
+        "Vipomul",
+        "Deficitul de dizaharidaze",
+        "Carcinomul medular de tiroidă",
+        "Insuficienţa pancreatică exocrină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 295,
+      "text": "Enumeraţi medicamentele care pot modifica culoarea scaunului, conferindu-i aspect pseudomelenic:",
+      "options": [
+        "Cu conţinut de fier",
+        "Cefalosporine",
+        "Cu conţinut de bismut",
+        "Cărbune medical",
+        "Corticosteroizi"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 296,
+      "text": "Numiţi afecţiunile care prezintă risc crescut de malignizare:",
+      "options": [
+        "Colită ulcerativă",
+        "Yersinioză intestinală",
+        "Diverticuloză colonică",
+        "Polipoză intestinală",
+        "Sindrom de intestin iritabil"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 297,
+      "text": "Indicaţi consecinţele clinico-biologice ale steatoreei:",
+      "options": [
+        "Scăderea ponderală",
+        "Hipovitaminoze",
+        "Apariţia edemelor",
+        "Instalarea ascitei",
+        "Icter"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 298,
+      "text": "Selectaţi formele clinice ale sindromului de intestin iritabil:",
+      "options": [
+        "Cu predominarea constipaţiei",
+        "Cu predominarea disfuncţiei vegetative",
+        "Cu predominarea diareei",
+        "Forma mixtă",
+        "Cu predominarea meteorismului"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 299,
+      "text": "Numiţi caracteristicele diareei osmotice:",
+      "options": [
+        "Polofecalie",
+        "Proba cu foame pozitivă",
+        "Proba cu foame negativă",
+        "Diaree apoasă",
+        "Mucus, sânge în materiile fecale"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 300,
+      "text": "Enumeraţi caracteristicele diareei secretorie:",
+      "options": [
+        "Steatoree",
+        "Proba cu foame pozitivă",
+        "Proba cu foame negativă",
+        "Diaree apoasă",
+        "Mucus, sânge în materiile fecale"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 301,
+      "text": "Indicaţi caracteristicele diareei inflamatorie:",
+      "options": [
+        "Steatoree",
+        "Proba cu foame pozitivă",
+        "Proba cu foame negativă",
+        "Diaree apoasă",
+        "Mucus, sânge în materiile fecale"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 302,
+      "text": "Selectaţi bolile pentru care este caracteristică diareea osmotică:",
+      "options": [
+        "Enteropatia glutenică",
+        "Pancreatita cronică cu insuficienţa exocrină",
+        "Carenţa dizaharidazică",
+        "Colita ulcerativă",
+        "Cancer colorectal"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 303,
+      "text": "Numiţi bolile pentru care aste caracteristică diareea secretorie:",
+      "options": [
+        "Enteropatia glutenică",
+        "Pancreatita cronică cu insuficienţa exocrină",
+        "Sindromul Zollinger-Ellison",
+        "Toxicoinfecţia intestinală acută",
+        "Colita ulcerative"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 304,
+      "text": "Indicaţi bolile pentru care este caracteristică diareea inflamatorie:",
+      "options": [
+        "Carenţa dizaharidazică",
+        "Colita ulcerativă",
+        "Colita ischemică",
+        "Diverticulita intestinală",
+        "Enteropatia glutenică"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 305,
+      "text": "Enumeraţi simptomele caracteristice pentru diareea cauzată de afectarea intestinului subţire:",
+      "options": [
+        "Volumul scaunului abundent",
+        "Semnele deshidratării",
+        "Scaunul neformat, apos",
+        "Prezența tenesmelor",
+        "Sânge în materii fecale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 306,
+      "text": "Indicaţi cauzele posibile ale sindromului de malabsorbţie:",
+      "options": [
+        "Insuficiența exocrină pancreatică",
+        "Bolile colestatice ale ficatului",
+        "Ischemia cronică a intestinului subțire",
+        "Patologia funcționala a intestinului",
+        "Diverticuloza intestinuljui gros"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 307,
+      "text": "Selectaţi factorii care influenţează digestia intraluminală:",
+      "options": [
+        "Activitatea enzimelor pancreatice",
+        "Colestază intra- şi extrahepatică",
+        "Secreția de HCl în stomac",
+        "Inflamaţie la nivel de ileon terminal",
+        "Tumori la nivel de colon"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 308,
+      "text": "Numiţi anticorpii caracteristici pentru enteropatia glutenică:",
+      "options": [
+        "Antigliadinici",
+        "Antiendomiziali",
+        "Antitransglutaminaza tisulară",
+        "Anti-DNA",
+        "Antimitocondriali"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 309,
+      "text": "Selectați semnele clinice, observate după rezecția ileonului distal:",
+      "options": [
+        "Insuficiența pancreatică",
+        "Formarea de calculi biliari",
+        "Pierderea de acizi biliari cu materiile fecale",
+        "Diaree",
+        "Constipaţie"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 310,
+      "text": "Identificați semnele clinice ale enteropatiei glutenice:",
+      "options": [
+        "Sînge proaspăt în masele fecale",
+        "Febră",
+        "Diaree",
+        "Polifecalie",
+        "Denutriție"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 311,
+      "text": "Selectați semnele clinice ale bolii Whipple:",
+      "options": [
+        "Diaree",
+        "Febră",
+        "Prurit cutanat",
+        "Poliserosită",
+        "Nefropatie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 312,
+      "text": "Specificați caracteristicile morfologice mai informative ale colitei ischemice:",
+      "options": [
+        "Aranjare oblică a fibrelor muscular printre focarele de atrofie",
+        "Tesut de granulație în craterul ulcerului",
+        "Macrofage încărcate cu hemosiderină în submucoasă",
+        "Prezența neutrofilelor în submucoasă",
+        "Atrofia epiteliului superficial cu depunerea subepitelială a fibrelor de colagen și fibronectină HEPATITA MULTIPLU"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 313,
+      "text": "Enumeraţi stările clinice în cazul cărora se atestă mărirea bilirubinei neconjugate:",
+      "options": [
+        "Icter mecanic",
+        "Anemie hemolitică",
+        "Hepatită alcoolică cu sindromul Zieve",
+        "Hepatită medicamentoasă",
+        "Sindrom Gilbert"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 314,
+      "text": "Enumeraţi stările clinice în cazul cărora se atestă mărirea fracţiei bilirubinei conjugate:",
+      "options": [
+        "Sindromul Gilbert",
+        "Cancerul papilei Vater",
+        "Sindromul Dubin-Djonson",
+        "Anemia B12  - deficitară",
+        "Cancer al capului pancreasului"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 315,
+      "text": "Enumeraţi stările în care este dereglată conjugarea bilirubinei cu acid glucuronic:",
+      "options": [
+        "Icterul fiziologic al nou-născuţilor",
+        "Cure de foame îndelungată",
+        "Sindromul Gilbert",
+        "Sindromul Crigler-Najjar",
+        "Sindromul Dubin - Johnson"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 316,
+      "text": "Numiți marcherii serologici pentru infecția cu virusul hepatic B:",
+      "options": [
+        "Anticorpi anti-HBcor",
+        "Anticorpi anti-HBs",
+        "Anticorpi anti-VHC",
+        "Anticorpi anti-HAV IgM",
+        "Ag Hbe"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 317,
+      "text": "Numiţi afecţiunile care se asociază cu hiperbilirubinemie:",
+      "options": [
+        "Hepatitele acute",
+        "Colestaza medicamentoasă",
+        "Hemangiomul hepatic",
+        "Ciroza hepatică",
+        "Calcinate hepatice"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 318,
+      "text": "Marcați afecțiunile pentru care este caracteristică hepatomegalia:",
+      "options": [
+        "Tromboza venelor hepatice",
+        "Boala Menetrie",
+        "Boala Wilson",
+        "Hemocromatoză",
+        "Hemangiom hepatic"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 319,
+      "text": "Selectați patologiile care sunt incluse în clasificarea etiologică a hepatitelor cronice conform clasificarii Los Angeles:",
+      "options": [
+        "Hepatita autoimună",
+        "Hepatita cronică virală B",
+        "Hepatita alcoolică",
+        "Boala Wilson",
+        "MALT-limfom"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 320,
+      "text": "Marcați afirmațiile corecte despre hepatita cronică virală D:",
+      "options": [
+        "Este necesară cercetarea infecţiei cu VHD în toate cazurile de agravare a cursului infecţiei cu VHB",
+        "VHB susține replicarea VHD prin partajarea proteinelor sale de suprafață",
+        "Hepatita cronică virală D se confirmă prin cercetarea ADN-VHD",
+        "Coinfectia cu alte virusuri hepatice se asociaza cu diverse modele de inhibare reciprocă a replicarii virale",
+        "Ciroza hepatică se dezvoltă mai lent"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 321,
+      "text": "Marcați afecțiunile hepatice, care pot determina pruritul cutanat:",
+      "options": [
+        "Steatoză hepatică",
+        "Chist hidatic hepatic",
+        "Ciroză primară biliară",
+        "Colangită sclerozantă primitivă",
+        "Hemangiom hepatic"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 322,
+      "text": "Marcați afecțiunile care pot determina apariţia febrei:",
+      "options": [
+        "Hemangiomul hepatic",
+        "Hepatita alcoolică acută",
+        "Angiocolita",
+        "Аbcesul hepatic",
+        "Sindromul Pickwick"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 323,
+      "text": "Marcați care din manifestările enumerate pot fi sugestive pentru o hepatopatie cronică:",
+      "options": [
+        "Eritem palmar",
+        "Steluţe vasculare",
+        "Ginecomastie",
+        "Eritem nodos",
+        "Erupţii urticariene"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 324,
+      "text": "Identificați afecțiunile ce determină creşterea evidentă a consistenţei hepatice la palpare:",
+      "options": [
+        "Metastaze hepatice",
+        "Hepatită acută",
+        "Hemangiom hepatic",
+        "Steatoză hepatică",
+        "Ciroza hepatică"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 325,
+      "text": "Identificați indicii sindromului colestatic de labotator:",
+      "options": [
+        "Fosfataza alcalină",
+        "Bilirubina conjugată",
+        "Aspartataminotransferaza",
+        "Gamaglutamiltranspeptidaza",
+        "Alaninaminotransferaza"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 326,
+      "text": "Identificați modificările sugestive pentru sindromul hepatopriv de labotator:",
+      "options": [
+        "Hipersideremia",
+        "Hipoalbuminemia",
+        "Scăderea protrombinei",
+        "Creşterea ceruloplasminei",
+        "Scăderea activității lipazei serice"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 327,
+      "text": "Identificați ce semnificaţie poate avea creşterea fosfatazei alcaline în prezenţa icterului:",
+      "options": [
+        "Sindrom Rotor",
+        "Sindrom Budd-Chiari",
+        "Cancer de cap de pancreas",
+        "Litiază biliară",
+        "Sindrom Gilbert"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 328,
+      "text": "Identificați ce semne întâlniţi mai frecvent în icterul prehepatic:",
+      "options": [
+        "Urina decolorată",
+        "Fecale decolorate",
+        "Fecale intens colorate",
+        "Leziuni de grataj determinate de prurit",
+        "Splenomegalie"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 329,
+      "text": "Identificați semnele ce caracterizează icterul obstructiv:",
+      "options": [
+        "Hiperbilirubinemie din contul fracției indirecte",
+        "Hiperbilirubinemie din contul fracției directe",
+        "Stercobilină prezentă în cantităţi mari în materiile fecale",
+        "Prezenţa bilirubinei în cantităţi mari în urină",
+        "Hipolipidemie"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 330,
+      "text": "Identificați afecţiunile ce pot evolua cu ascită:",
+      "options": [
+        "Hepatita cronică",
+        "Carcinomul hepatocelular",
+        "Pericardita constrictivă",
+        "Pneumonia",
+        "Carcinomatoza"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 331,
+      "text": "Definiți steatoza hepatică alcoolică:",
+      "options": [
+        "Formă benignă",
+        "Formă reversibilă",
+        "Acumulare de lipide în ficat",
+        "Formă malignă, ireversibilă",
+        "Prezenţa depozitelor de Cu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 332,
+      "text": "Marcați caracteristicele afectării etilice a ficatului:",
+      "options": [
+        "Epizoade repetate de „hepatită acută\"",
+        "Manifestări ale hipoavitaminozei",
+        "Etilismul în anamneză",
+        "Autoanticorpi către membrana hepatocitelor",
+        "Prurit cutanat timp îndelungat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 333,
+      "text": "Marcați caracteristicele macroscopice ale ficatului gras:",
+      "options": [
+        "Micşorat în volum",
+        "Mărit în volum",
+        "De culoare roşietică",
+        "De culoare galbenă",
+        "De culoare brună"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 334,
+      "text": "Selectați care semne se referă la steatohepatita alcoolică:",
+      "options": [
+        "Scăderea gama-globulinelor",
+        "Creşterea importantă a IgA",
+        "Creşterea ureei",
+        "Creşterea raportului AST/ALT",
+        "Creşterea importantă a IgM"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 335,
+      "text": "Marcați manifestările clinice din hemocromatoză:",
+      "options": [
+        "Hepatomegalie",
+        "Pigmentare brună sau cenuşie",
+        "Diabet zaharat",
+        "Icter colestatic",
+        "Sindrom extrapiramidal"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 336,
+      "text": "Selectați afirmațiile corecte despre hepatita virală D:",
+      "options": [
+        "Coinfecţie VHB+VHD",
+        "Superinfecţie VHD+VHB",
+        "Coinfecţia VHD+VHC",
+        "Superinfecţia VHD/VHC",
+        "Monoinfecţia VHD"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 337,
+      "text": "Marcați care sunt indicațiile pentru tratamentul antiviral în hepatita cronica B:",
+      "options": [
+        "Nivelul ADN-HBV > 2000 IU/ml",
+        "Nivelul ADN-HBV > 200 IU/ml",
+        "Pacienţii cu ALT mai sus de limita superioară a valorilor normale",
+        "Pacienţii cu activitatea necroinflamatorie de grad moderat sau sever şi / sau fibroză, cel puţin moderată",
+        "Indiferent de activitatea transaminazelor"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 338,
+      "text": "Marcați care sunt contraindicaţiile tratamentului cu alfa-interferon în bolile hepatice virale:",
+      "options": [
+        "Maladiile autoimune",
+        "Ciroza hepatică virală decompensată",
+        "Hepatita virală D",
+        "Depresia",
+        "Ciroza hepatică de etiologie virală compensată"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 339,
+      "text": "Indicați efectele secundare posibile după administrarea corectă a interferonului:",
+      "options": [
+        "Deprimarea măduvei hematoformatoare",
+        "Alopecie",
+        "Endocardită fibrinoasă",
+        "Infiltrate pulmonare tranzitorii",
+        "Labilitate emoţională, depresie"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 340,
+      "text": "Marcați simptomele caracteristice hepatitei autoimune:",
+      "options": [
+        "Fatigabilitate",
+        "Prurit cunatat intens",
+        "Polimialgii, poliartralgii",
+        "Icter",
+        "Hipertensiune arterială"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 341,
+      "text": "Marcați care manifestări extrahepatice autoimune sunt întâlnite în hepatita autoimună:",
+      "options": [
+        "Artralgii şi artrite cu caracter tranzitoriu ce reflectă activitatea bolii",
+        "Inelul Kayser-Fleischer",
+        "Capilarită alergică",
+        "Amenoree",
+        "Periarteriită nodoasă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 342,
+      "text": "Identificați preparatele ce se utilizează în tratamentul hepatitei autoimune:",
+      "options": [
+        "Imunostimulatori",
+        "Glucocorticosteroizi",
+        "Interferoni",
+        "Azatioprina",
+        "Analogi nucleozidici"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 343,
+      "text": "Marcați care elementecaracterizează hepatita autoimună:",
+      "options": [
+        "Hepatită periportală cu infiltrat preponderent limfo-plasmocitar",
+        "Apare mai frecvent la femeile tinere",
+        "Prezența hipergamaglobulinemiei",
+        "Etiologia este predominant medicamentoasă",
+        "Hepatită periportală cu infiltrat preponderent polimorfonuclear"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 344,
+      "text": "Enumeraţi indicii de laborator caracteristici hepatitei autoimune:",
+      "options": [
+        "Ig G crescută",
+        "Hipertransaminazemie",
+        "Hipergamaglobulinemie",
+        "Mărirea evidentă a bilirubinei neconjugate",
+        "Trombocitoza"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 345,
+      "text": "Identificați care sînt preparatele cu acţiune benefică asupra inflamaţiei mezenchimale în hepatitele autoimune:",
+      "options": [
+        "Silimarina",
+        "Vitaminele B6, B12",
+        "Fosfolipidele esenţiale",
+        "Azatioprina",
+        "Prednizolonul"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 346,
+      "text": "Marcați manifestările extrahepatice  ce pot fi întâlnite în hepatita autoimnă:",
+      "options": [
+        "Endocardită",
+        "Pleurită",
+        "Sindromul articular",
+        "Manifestări cutanate (purpură vasculară, etc)",
+        "Astm bronşic"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 347,
+      "text": "Identificați modificările caracteristice pentru hepatita autoimună:",
+      "options": [
+        "Hiperalbuminemia",
+        "Hipoglobulinemia",
+        "Hipergamaglobulinemia",
+        "Ig A - crescută",
+        "Ig G - crescută evident"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 348,
+      "text": "Selectați condițiile prezența concomitentă a căror este necesară pentru inițierea tratamentului antiviral în caz de HCV B:",
+      "options": [
+        "ADN-ul VHB > 2 000 UI/ml și valori persistent elevate ale transaminazelor",
+        "ADN-ul VHB > 200 000 UI/ml și valori persistent normale ale transaminazelor",
+        "Nivel persistent normal al ALT și ADN-ul VHB <2000 UI / ml",
+        "Severitatea bolii hepatice: scorul Metavir > A2 şi/sau F2",
+        "Severitatea bolii hepatice: scorul Metavir < A2 şi F0"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 349,
+      "text": "Numiți indicațiile pentru tratament antiviral în caz de infecție cronică cu VHB:",
+      "options": [
+        "Persoanele cugradul de fibroză ≤2 la adulți, cu nivelul persistent normal al ALT și cu ADN-ul VHB <2000 UI / ml",
+        "Ciroză hepatică compensată, cu ADN-VHB detectabil în ser (chiar < 2 000 UI/ml), independent de ALT",
+        "Ciroză hepatică decompensată",
+        "ADN-VHB > 2 000 UI/ml și creşterea persistentă a ALT, și F2",
+        "ADN-ul VHB > 200 000 UI/ml și valori persistent normale ale transaminazelor și fără fibroză hepatică avansată"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 350,
+      "text": "Indicați analogii nucleozidici/nucleotidici recomandați ca prima linie de monotherapie în tratamentul etiologic al hepatitei cronice virale B:",
+      "options": [
+        "Lamivudina",
+        "Adefovir",
+        "Entecavir",
+        "Telbivudina",
+        "Tenofovir"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 351,
+      "text": "Indicați medicamentele, care pot fi folosite pentru prevenirea transmisiei perinatale şi intrauterine a VHB, în ultimul trimestru de sarcină la pacientele HBsAg-pozitive cu AND-ul seric al VHB>106-7 IU/ml:",
+      "options": [
+        "Imunoglobulina anti VHB",
+        "Entecavir",
+        "Tenofovir",
+        "Adefovir",
+        "Peg-INF"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 352,
+      "text": "Marcați afirmațiile corecte despre hepatita cronică virală D:",
+      "options": [
+        "Este necesară cercetarea infecţiei cu VHD în toate cazurile de agravare a cursului infecţiei cu VHB",
+        "Coinfectia cu alte virusuri hepatice se asociaza cu diverse modele de inhibare reciprocă a replicarii virale",
+        "Hepatita cronică virală D se confirmă prin cercetarea ADN-VHD",
+        "VHB susține replicarea VHD prin partajarea proteinelor sale de suprafață",
+        "Ciroza hepatică se dezvoltă mai lent"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 353,
+      "text": "Indicați condițiile, când fragmentul bioptic hepatic poate fi considerat adecvat:",
+      "options": [
+        "Lungime de 20-25 mm",
+        "Diametru de 1,2-1,3 mm",
+        "Conţine cel puţin 11 spaţii porte complete",
+        "Conţine cel puţin 7 spaţii porte complete",
+        "Diametru de 0,6 - 0,7 mm"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 354,
+      "text": "Identificați pattern-uri histologice specifice HCV C:",
+      "options": [
+        "Prezenţa agregatelor limfoide dense și chiar foliculilor limfoizi în spaţiile porte",
+        "Leziuni ale ducturilor biliare, de tip colangită nesupurativă",
+        "Modificări degenerative hepatocitare - steatoză micro- și macroveziculară",
+        "Corpi Mallory",
+        "Aspectul de sticlă mată al hepatocitelor (ground glass)"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 355,
+      "text": "Identificați pattern-uri histologice specifice HCV B:",
+      "options": [
+        "Aspectul de sticlă mată al hepatocitelor (ground glass)",
+        "Nuclee \"nisipoase\"",
+        "Corpi acidofili Councilman",
+        "Prezenţa agregatelor limfoide dense și chiar foliculilor limfoizi în spaţiile porte",
+        "Corpi Mallory"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 356,
+      "text": "Identificați condițiile care pot induce absența răspunsului la terapia antivirală în hepatita cronică virală B:",
+      "options": [
+        "Rezistența virală",
+        "Încărcătură virală înaltă",
+        "Prezența patologiilor asociate",
+        "Lipsa complianței la tratament",
+        "Administrarea concomitentă a tratamentului antihipertensiv"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 357,
+      "text": "Marcați afirmațiile corecte despre hepatita cronică virală D:",
+      "options": [
+        "Poate fi urmarea suprainfectiei cu VHD la o persoană cu AgHBs pozitiv",
+        "Suprainfecţia se poate manifesta ca o agravare a infecţiei cu VHB",
+        "Ciroza hepatică se dezvoltă mai lent",
+        "Este determinată de un virus cu ARN",
+        "Este determinată de un virus cu ADN"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 358,
+      "text": "Marcați afirmaţiile adevărate despre sindromul Gilbert:",
+      "options": [
+        "Este o afecțiune ereditară, cu transmitere autosomal-recesivă",
+        "Cauza este activitatea redusă a unei enzime, uridin-difosfat-1 A1-glucuroniltransferaza, implicată în procesul de conjugare a bilirubinei, dar și a altor molecule lipofile",
+        "Probele funcţionale hepatice vor fi, de obicei, in limite normale, cu excepția nivelului bilirubinei",
+        "Se caracterizează prin  icter persistent, cu evoluţie progresivă",
+        "Se asociază cu sindrom colestatic persistent"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 359,
+      "text": "Selectați afecțiunile în care ASAT/ALAT >1:",
+      "options": [
+        "Hepatita cronică virală B",
+        "Hemocromatoza",
+        "Amiloidoza",
+        "Steatohepatita alcoolică",
+        "Ciroza hepatică"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 360,
+      "text": "Identificați afecțiunile care pot determina creşterea izolată a fosfatazei alcaline, cu GGTP normală:",
+      "options": [
+        "Steatohepatita alcoolică",
+        "Hepatitele virale",
+        "Steatoza hepatică",
+        "Ciroza biliară primitivă, în debut",
+        "Metastaze osoase"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 361,
+      "text": "Selectați indicațiile de tratament al encefalopatiei hepatice:",
+      "options": [
+        "Antibiotice non-absorbabile",
+        "Limitarea aportului de proteine în alimentație",
+        "Analogii nucleozidici",
+        "Medicamente care sporesc tranzitul intestinal",
+        "Creșterea aportului de proteine în alimentație"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 362,
+      "text": "Indicați situațiile când este necesar aprecierea nivelului ADN VHB:",
+      "options": [
+        "Stabilirea diagnosticului de hepatită",
+        "Inițierea tratamentului antiviral",
+        "Monitorizarea eficacității și aderenței la tratament",
+        "Evidențierea factorilor de risc",
+        "Identificarea tulpinilor virale rezistente"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 363,
+      "text": "Marcați datele de laborator determinate în hepatita autoimună tip 2:",
+      "options": [
+        "Anticorpi anti-microsomali ficat-rinichi în titru înalt",
+        "Anticorpi anti-nucleari în titru înalt",
+        "Elevarea nivelului IgM",
+        "Elevarea nivelului IgG",
+        "Elevarea nivelului IgA CIROZA MULTIPLU"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 364,
+      "text": "Identificați semnele cutanate caracteristice pentru ciroza hepatică virală:",
+      "options": [
+        "Eritem facial",
+        "Eritem palmar",
+        "Acrocianoză",
+        "Steluţe vasculare",
+        "Eritem nodular"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 365,
+      "text": "Marcați indicii ce caracterizează sindromul hepatopriv în ciroza hepatică:",
+      "options": [
+        "Hipoalbuminemie",
+        "Hipergamaglobulinemie",
+        "Scăderea indicelui protrombinic",
+        "Creşterea nivelului lactatdehidrogenazei",
+        "Creşterea fosfatazei alcaline"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 366,
+      "text": "Marcați care sunt semnele morfologice caracteristice cirozei hepatice neactive:",
+      "options": [
+        "Distrofia hepatocitară",
+        "Dilatarea ducturilor portale",
+        "Noduli de regenerare hepatocitară",
+        "Septuri conjunctive aparente, care înconjoară nodulii de regenerare",
+        "Necroze în puncte"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 367,
+      "text": "Marcați care sunt factorii precipitanţi ai encefalopatiei hepatice:",
+      "options": [
+        "Hemoragii digestive",
+        "Tratamentul agresiv cu diuretice",
+        "Administrarea de dizaharide non absorbabile",
+        "Administrarea benzodiazepinelor",
+        "Creşterea catabolismului proteic"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 368,
+      "text": "Selectați contraindicațiile pentru transplantul hepatic în tratamentul cirozei hepatice cu ascită refractară:",
+      "options": [
+        "Abuzulde alcool",
+        "Asocierea hepatocarcinomului",
+        "Herniile ombilicale mari",
+        "Infecțiile",
+        "Pacienții cu șunt transjugular intrahepatic portosistemic"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 369,
+      "text": "Numiți elementele definitorii pentru hipersplenism:",
+      "options": [
+        "Leucocitoză",
+        "Leucopenie",
+        "Anemie normocitară, normoblastică",
+        "Trombocitopenie",
+        "Trombocitoză"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 370,
+      "text": "Identificați manifestările hipertensiunii portale:",
+      "options": [
+        "Splenomegalie",
+        "Dilatarea varicelor esofagiene",
+        "\"Сapul de meduză\"",
+        "Hipertensiunea arterială",
+        "Trombocitoză"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 371,
+      "text": "Identificați atitudinea terapeutică în encefalopatia hepatică:",
+      "options": [
+        "Administrarea de lactuloză",
+        "Administrarea sedativelor",
+        "Perfuzii cu Dextran",
+        "Dieta bogată în proteine",
+        "Administrarea Ornitinei"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 372,
+      "text": "Identificați simptomele caracteristice pentru colangiocarcinom:",
+      "options": [
+        "Pierdere în pondere",
+        "Icter",
+        "Hepatomegalie",
+        "Hemoragie gastrică",
+        "Obezitate"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 373,
+      "text": "Enumerați cauzele ce pot induce ascita:",
+      "options": [
+        "Sindromul Budd-Chiari",
+        "Steatoza hepatică",
+        "Hepatita cronică virală B",
+        "Tromboza venei porte",
+        "Canceromatoza abdominală"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 374,
+      "text": "Care din următoarele afirmaţii referitoare la complicaţiile pleuropulmonare ale cirozei hepatice sunt adevarate?",
+      "options": [
+        "Hidrotoracele este o acumulare de fluid pleural cu conţinut crescut de proteine",
+        "Hipoxemia este legata de prezenţa dilataţiilor vasculare pulmonare şi de şunturi intrapulmonare",
+        "Tratamentul sindromului hepatopulmonar constă în oxigenoterapie şi transplant hepatic",
+        "Hidrotoracele se localizează mai mult pe stânga",
+        "Platipneea reprezintă un element cheie de diagnostic al sindromului hepato-pulmonar"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 375,
+      "text": "Care din nozologiile enumerate pot fi complicații ale cirozei hepatice?",
+      "options": [
+        "Dumping sindrom",
+        "Sindromul hepato-renal",
+        "Sindrom Malory Weis",
+        "Sindromul hepato-pulmonar",
+        "Peritonită bacteriană spontană"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 376,
+      "text": "Selectați indicii de hipertensiune portală vizualizați la ecografia Doppler:",
+      "options": [
+        "Îngustarea venei splenice",
+        "Încetinirea fluxului portal",
+        "Splenomegalia",
+        "Prezența colateralelor porto-sistemice e) [] Dilatarea trunchiului venei Porte"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 377,
+      "text": "Marcați care dintre următoarele afirmații, referitor la hemoragia digestivă din cadrul cirozei hepatice, sunt corecte:",
+      "options": [
+        "Se produce cel mai frecvent prin erodarea arterei coronare gastrice",
+        "Poate duce la decompensarea cirozei si apariţia encefalopatiei",
+        "Este o complicaţie rară",
+        "Necesită tratament diuretic",
+        "Endoscopia digestivă se efectuează de urgenţă, în primele 6 ore"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "number": 378,
+      "text": "Care sunt factorii ce pot declanșa ascita în ciroza hepatică?",
+      "options": [
+        "Hidrotoracele",
+        "Infecția",
+        "Encefalopatia",
+        "Tromboza portală",
+        "Întreruperea tratamentului"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 379,
+      "text": "Selectați semnele de hipertensiune portală în ciroza hepatică?",
+      "options": [
+        "Splenomegalie",
+        "Icter si asterixis posibile in caz de ciroză decompensată",
+        "Hepatomegalia",
+        "Angioame stelare",
+        "Ascita"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "number": 380,
+      "text": "Selectați recomandațiile necesare în tratamentul ascitei din cadrul cirozei hepatice:",
+      "options": [
+        "Regimul hiposodat <5 g/24h",
+        "Utilizarea diureticelor distale în doză progresivă",
+        "Antibioticoterapie combinată",
+        "Ligaturatrea endoscopică",
+        "Efectuarea paracentezei evacuatorii în caz de eșec la tratamentul medicamentos"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 381,
+      "text": "Care afecțiuni sunt considerate cauze rare ale cirozei hepatice?",
+      "options": [
+        "Deficit ereditar de alfa-1-antitripsină",
+        "Colangită sclerozantă primitivă",
+        "Colangita biliară primitivă",
+        "Steatohepatită non-alcoolică",
+        "Boala alcoolică a ficatului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 382,
+      "text": "Notați afecţiunile ce pot evolua cu ascită:",
+      "options": [
+        "Colecistita cronică în faza de acutizare",
+        "Sindromul nefrotic pronunţat",
+        "Canceromatoza abdominală",
+        "Pancreatita cronică recidivantă",
+        "Tuberculoza abdomenală"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 383,
+      "text": "Marcați factorii precipitanţi ai encefalopatiei hepatice:",
+      "options": [
+        "Hemoragiile digestive",
+        "Tratamentul intens cu diuretice",
+        "Administrarea de dizaharide non absorbabile",
+        "Administrarea benzodiazepinelor",
+        "Dieta hipoproteică"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 384,
+      "text": "Care este atitudinea terapeutică în encefalopatia hepatică?",
+      "options": [
+        "Administrarea de lactuloză",
+        "Administrarea sedativelor",
+        "Reducerea consumului de proteine",
+        "Administrarea Ornitinei",
+        "Utilizarea plazmei proaspăt congelate"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 385,
+      "text": "Identificaţi cauzele metabolice ale cirozei hepatice:",
+      "options": [
+        "Ficatul gras non-alcoolic",
+        "Colangita biliară primitivă",
+        "Deficitul de Alfa 1 antitripsină",
+        "Sindromul Budd Chiari",
+        "Hemocromatoza"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 386,
+      "text": "Care sunt consecințele hipertensiunei portale la pacienții cu ciroză hepatică:",
+      "options": [
+        "Hemoragii digestive superioare din varicele gastroesofagiene",
+        "Hemoragii din venele hemoroidale",
+        "Icter",
+        "Ascită",
+        "Apraxie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 387,
+      "text": "Selectați care sunt indicaţiile pentru paracenteza diagnostică:",
+      "options": [
+        "Suspecție la tuberculoză peritoneală",
+        "Abdomen acut",
+        "Suspecţia de peritonită bacteriană spontană",
+        "Apariția semnului de „cap de meduză\"",
+        "Suspecţie de malignizare"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 388,
+      "text": "Selectați complicaţiile posibile ale paracentezei terapeutice",
+      "options": [
+        "Hemoragii",
+        "Icter",
+        "Hemoperitoneum acut",
+        "Perforaţia intestinală",
+        "Hemotorax acut"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 389,
+      "text": "Enumeraţi factorii declanşatori ai insuficienţei hepatice la pacienţii cu ciroză hepatică:",
+      "options": [
+        "Hemoragia din varicele esofagiene",
+        "Consumul de alcool",
+        "Tratamentul diuretic adecvat",
+        "Peritonita bacteriană spontană",
+        "Administrarea inhibitorilor pompei de protoni"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 390,
+      "text": "Selectaţi semnele clinice prezente în ciroza hepatică:",
+      "options": [
+        "Ascită",
+        "Splenomegalie",
+        "Dilatarea varicoasă a venelor stomacului",
+        "Diaree",
+        "Hiperalbuminemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 391,
+      "text": "Notați factorii triggeri ai comei hepatice:",
+      "options": [
+        "Hemoragia din varicele esofagiene",
+        "Apariția ascitei",
+        "Administrarea preparatelor hepatoprotectoare",
+        "Exces de proteine",
+        "Administrarea de durată a barbituricelor"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 392,
+      "text": "Selectați recomandațiile utile în tratamentul hemoragiilor variceale:",
+      "options": [
+        "Vasopresina",
+        "Tamponamentul cu sonda Sengstaken- Blakemore",
+        "Ademetionina",
+        "Papilosfincterotomia",
+        "Sclerozarea endoscopică a venelor dilatate"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 393,
+      "text": "Selectați medicamentele recomandate în tratamentul hepatitei alcoolice severe?",
+      "options": [
+        "Colchicina",
+        "Steroizi anabolizanți",
+        "Glucocorticoizi",
+        "Pentoxifilina",
+        "Propylthiouracil"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 394,
+      "text": "Selectați afirmațiile corecte despre corpusculii Mallory:",
+      "options": [
+        "Sunt specifici pentru steatohepatita non-alcoolică",
+        "Reprezintă incluziuni eozinofile perinucleare",
+        "Sunt sugestivi pentru boala Wilson",
+        "Pot fi identificați la pacienții cu obezitate morbidă și diabet necontrolat",
+        "Sunt sugestivi pentru steatohepatita alcoolică"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 395,
+      "text": "Marcați leziunile histologice caracteristice bolii hepatice alcoolice:",
+      "options": [
+        "Hepatocite în sticlă mată",
+        "Fibroza în spațiul perivenular și perisinusoidal Disse",
+        "Infiltrat periportal inflamator cu neutrofile polimorfonucleare",
+        "Infiltrat periportal cu celulele plasmatice",
+        "Corpi Mallory"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 396,
+      "text": "Notați cauzele sindromului hemoragic cutanat în ciroza alcoolică:",
+      "options": [
+        "Hipersplenism cu trombocitopenie",
+        "Sinteză hepatică scăzută a factorilor de coagulare",
+        "Malabsorbție a vitaminei K",
+        "Sângerare din varicele esofagiene",
+        "Anemie hemolitică"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 397,
+      "text": "Care sunt cauzele anemiei în ciroza alcoolică?",
+      "options": [
+        "Hemoliză",
+        "Deficiente nutritionale coexistente (în special acid folic și vitamina B12)",
+        "Hipersplenism",
+        "Sinteza scăzută a factorilor de coagulare",
+        "Deficit de eritropoietină"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 398,
+      "text": "Selectați cauzele anemiei la pacienții cu ciroză alcoolică:",
+      "options": [
+        "Deficitul de vitamina K",
+        "Deficitul de Kaliu",
+        "Hemoliză",
+        "Hipersplenism",
+        "Efectul direct de supresie al alcoolului asupra măduvei osoase"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 399,
+      "text": "Selectați enzimele implicate în metabolismul alcoolului în ficat:",
+      "options": [
+        "Alcooldehidrogenaza citosolică",
+        "Ciclooxigenaza",
+        "Sistemul de oxidare microsomală (MEOS)",
+        "Catalaza peroxismală",
+        "UDP-glucuroniltransferaza"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 400,
+      "text": "Selectați consecințele metabolice hepatice  сauzate de consumul nociv de alcool:",
+      "options": [
+        "Crește acumularea intrahepatică de trigliceride",
+        "Crește absorbția de acizi grași",
+        "Crește oxidarea acizilor grași în ficat",
+        "Scade oxidarea acizilor grași în ficat",
+        "Crește secreția de lipoproteine"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 401,
+      "text": "Care sunt cei mai importanți factori de risc, implicați în dezvoltarea bolii hepatice alcoolice:",
+      "options": [
+        "Cantitatea consumului de alcool",
+        "Consumul de cafea",
+        "Durata consumului de alcool",
+        "Factorii genetici",
+        "Factorii sociali"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 402,
+      "text": "Selectați factorii de risc pentru boala hepatică alcoolică:",
+      "options": [
+        "Sexul feminin",
+        "Tipul de bautură consumată",
+        "Consumul de cafea",
+        "Malnutriția",
+        "Obezitatea"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 403,
+      "text": "Selectați modificările biologice observate în hepatita alcoolica acută:",
+      "options": [
+        "Raportul AST/ALT > 1,5",
+        "Leucocitoză",
+        "Creșterea Gama-glutamiltranspeptidasei (GGTP) d) [] Creșterea Ig G",
+        "Hiperalbuminemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 404,
+      "text": "Marcațiîn care dintre  afecţiuni se poate întâlni hematemeza:",
+      "options": [
+        "Esofagită catarală",
+        "Varice gastrice",
+        "Colita ulcerativă",
+        "Sindromul Zollinger-Ellison",
+        "Boala Mallory-Weis"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 405,
+      "text": "Marcați care dintre cele enumerate sunt caracteristice pentru colangita biliară primară:",
+      "options": [
+        "Elevarea nivelului IgA",
+        "Elevarea nivelului IgG",
+        "Elevarea nivelului IgM",
+        "Prezenţa anticorpilor anti-LKM1",
+        "Prezenţa anticorpilor antimitocondriali"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 406,
+      "text": "Selectați medicamentele utilizate în tratamentul colangitei biliare primitive:",
+      "options": [
+        "Acidul ursodeoxicolic",
+        "Colestiramina",
+        "Peg-Interferon",
+        "Calciu și vitamina D",
+        "Disferal sau D-penicilamină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 407,
+      "text": "Selectați recomandările terapeutice pentru ficatul gras non-alcoolic:",
+      "options": [
+        "Colestiramina",
+        "Reducerea greutății prin dietă si exercitiu fizic",
+        "Citostatice",
+        "Managementul diabetului zaharat",
+        "Pioglitazonă"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 408,
+      "text": "Selectați metodele de tratament al hipertensiunii portale în ciroza hepatică:",
+      "options": [
+        "Beta-blocanții neselectivi",
+        "Acidul ursodeoxicolic",
+        "Endoligaturarea varicelor esofagiene",
+        "Prednison",
+        "Șuntul transjugular portosystemic intrahepatic"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 409,
+      "text": "Marcați manifestările insuficienței hepatocelulare la pacienții cu ciroză hepatică:",
+      "options": [
+        "Icter",
+        "Tulburări de coagulare",
+        "Dilatarea venei porte",
+        "Hipoalbuminemie",
+        "Peritonita bacteriană spontană PANCREAS MULTIPLU"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 410,
+      "text": "Selectaţi factorii etiologici ai pancreatitei cronice:",
+      "options": [
+        "Alcoolismul",
+        "Hipercalciemia",
+        "Reumatismul",
+        "Disfuncţii ale sfincterului Oddi",
+        "Tireoidita autoimună"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 411,
+      "text": "Menționați factorii implicaţi în patogenia pancreatitei cronice:",
+      "options": [
+        "Activarea enzimelor proteolitice în duoden",
+        "Activarea intracelulara a proteazelor pancreatice cu activarea celulelor pancreatice stelate",
+        "Refluxul colangio-pancreatic",
+        "Activarea enzimelor proteolitice în ducturile pancreatice",
+        "Refluxul duodeno-gastral"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 412,
+      "text": "Indicați semnele clinice caracteristice pentru pancreatita cronică:",
+      "options": [
+        "Dureri abdominale epigastrice (declansate de mese abundente)",
+        "Steatoree",
+        "Simptomul Kernig pozitiv",
+        "Splenomegalia",
+        "Limfadenopatia"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 413,
+      "text": "Marcați manifestările pancreatitei cronice în faza de acutizare:",
+      "options": [
+        "Hiperamilazurie",
+        "Durere epigastrică cu iradiere în centură",
+        "Simptomul Curvuazie pozitiv",
+        "Hiperlipazemie",
+        "Proteinuria"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 414,
+      "text": "Identificați medicamentele utilizate în tratamentul pancreatitei cronice în acutizare:",
+      "options": [
+        "Diuretice",
+        "Antisecretoare",
+        "Antispastice",
+        "Fosfolipide esenţiale",
+        "Analgetice"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 415,
+      "text": "Identificați recomandările necesare pentru tratamentul pancreatitei cronice cu sindrom algic persistent:",
+      "options": [
+        "Dieta cu evitarea prânzurilor abundente bogate în grăsimi şi proteine",
+        "Înlăturarea aportului de alcool",
+        "Terapia analgezică și antisecretoare",
+        "Terapia cu imunostimulatoare",
+        "Evitarea fumatului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 416,
+      "text": "Indicați metodele  utilizate în diagnosticarea pancreatitei cronice:",
+      "options": [
+        "Dozarea elastazei-1 pancreatice umane in materiile fecale",
+        "Ecografia abdominală",
+        "Scintigrafia",
+        "Ultrasonografia endoscopică",
+        "Colecistocolangiografia perorală"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 417,
+      "text": "Selectaţi complicaţiile pancreatitei cronice:",
+      "options": [
+        "Icterul mecanic",
+        "Diabetul zaharat",
+        "Deficitul de vitamine liposolubile",
+        "Sindromul Mallori-Weiss",
+        "Sindromul Zollinger-Ellison"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 418,
+      "text": "Marcați afirmaţiile corecte pentru pancreatita cronică:",
+      "options": [
+        "Insuficienta exocrina a pancreasului  poate conduce spre malnutritie",
+        "Scăderea secreţiei de enzime proteolitice determina steatoree",
+        "Durerea apare pe foame si se ameliorează postalimentar",
+        "Evoluţia bolii poate avea caracter cronic-recidivant",
+        "Diabetul zaharat poate fi o complicaţie a pancreatitei cronice"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 419,
+      "text": "Identificați caracteristicile scaunului pancreatic tipic:",
+      "options": [
+        "Polifecalic, consistenţă păstoasă",
+        "Semiformat, sub formă de terci grăsos",
+        "Culoare galbenă-surie, strălucitor, miros rânced, reacţie alcalină",
+        "Lichid, neabundent, cu sânge şi puroi",
+        "Abundent, apos"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 420,
+      "text": "Indicați mecanismele apariţiei durerii în pancreatita cronică:",
+      "options": [
+        "Creşterea concentraţiei de glucagonă",
+        "Inflamaţia perineurală",
+        "Hiperinsulinemie",
+        "Obstrucţia ductală cu mărirea presiunii intraductale",
+        "Interactiunea neuropeptidelor cu celule inflamate"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 421,
+      "text": "Marcați testele pentru diagnosticarea puseului acut al pancreatitei cronice:",
+      "options": [
+        "Amilaza serică",
+        "Testul Şhilling",
+        "Lipaza serică",
+        "Testul cu D-xiloză",
+        "Amilaza în urină"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 422,
+      "text": "Marcați care caracteristici ale sindromului dolor abdomunal se referă la pancreatita cronică:",
+      "options": [
+        "Durerea frecvent iradiaza in spate",
+        "Sediul durerii epigastric ori în bara",
+        "Ritmicitatea sindromului dolor",
+        "Durerea care se ameliorează după mese",
+        "Durerea persistentă, profundă, sâcâitoare, cu durata de zile, saptamani"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 423,
+      "text": "Marcați complicaţiile timpurii ale pancreatitei cronice:",
+      "options": [
+        "Formarea pseudochisturilor pancreatice",
+        "Icter mecanic (obstructiv)",
+        "Hipertensiune portală, forma prehepatică –ca consecinta a trombozelor in sistemul portal",
+        "Sindromul de malabsorbție",
+        "Peritonită bacteriană spontană"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 424,
+      "text": "Marcați manifestarile sindromului de maldigestie-malabsorbtie în pancreatita cronică:",
+      "options": [
+        "Scaune anormale: polifecalie, consistenţă păstoasă, grăsos",
+        "Pierdere ponderală",
+        "Semne clinice de hipovitaminoze: în particular, pentru vitaminele liposolubile",
+        "Disfagie",
+        "Hemoragie digestivă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 425,
+      "text": "Selectați testele sanguine necesare pentruevaluarea nutrițională în pancreatita cronică:",
+      "options": [
+        "Amilaza",
+        "Creatinina",
+        "Pre-albumina",
+        "Proteina ce leagă retinolul",
+        "Colecalciferol (vit. D)"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 426,
+      "text": "Identificați prezentarea clinică inițială în pancreatita autoimună:",
+      "options": [
+        "Icter obstructiv",
+        "Dureri abdominalede intensitate mica sau chiar absente",
+        "Pierdere în greutate",
+        "Ascită",
+        "Febră"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 427,
+      "text": "Indicați principalele afecțiuni extrapancreatice asociate pancreatitei autoimune, tip I:",
+      "options": [
+        "Colangita sclerozană-IgG4 pozitivă",
+        "Fibroză retroperitoneală",
+        "Sialadenită",
+        "Colita ulceroasă",
+        "Boala Crohn"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 428,
+      "text": "Indicați principalele boli extrapancreatice asociate pancreatitei autoimune, tip II :",
+      "options": [
+        "Colangita sclerozană-IgG4 pozitivă",
+        "Fibroză retroperitoneală",
+        "Nefrita interstitiala",
+        "Colita ulceroasă",
+        "Boala Crohn"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 429,
+      "text": "Indicați cu ce se poate asocia statutul nutrițional deficient din pancreatita cronică:",
+      "options": [
+        "Creșterea mortalității",
+        "Evenimente cardiovasculare",
+        "Risc de fracturi",
+        "Scade riscul de infecții",
+        "Scăderea incidenței episoadelor dolore"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 430,
+      "text": "Selectați testele sangvine necesare pentruevaluarea nutrițională în pancreatita cronică:",
+      "options": [
+        "Magneziu seric",
+        "Ureea",
+        "Albumina, pre-albumina",
+        "Proteina ce leagă retinolul",
+        "Transferina carbohidrat deficientă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 431,
+      "text": "Indicați testele neinvazive utile pentru explorarea funcţiei exocrine a pancreasului:",
+      "options": [
+        "Dozarea elastazei-1 specifice pancreatice în fecale prin ELISA",
+        "Teste cantitative de dozare a steatoreei - metoda van de Kamer(coeficientul de absorbtie a lipidelor)",
+        "Testul respirator cu trigliceride marcate cu izotopul stabil 13C",
+        "Testul cu secretin - pancreozimină",
+        "Dozarea insulinei și a peptide C serice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 432,
+      "text": "Indicați metodele cu sensibilitate înaltă în diagnosticul pancreatitei cronicecu modificări moderate:",
+      "options": [
+        "Ultrasonografia transabdominală",
+        "Scanare prin tomografie computerizată abdominală",
+        "Imagistică prin rezonanța magnetică  in regim colangiopancreatografic",
+        "Ultrasonografia endoscopică",
+        "Testul secretin-pancreoziminic"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 433,
+      "text": "Selectați remediile recomandate în tratamentul durerii din pancreatita cronică:",
+      "options": [
+        "Paracetamol",
+        "Tramadol",
+        "Analgezice opioide",
+        "Spasmolitice miotrope",
+        "M-Colinolitice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 434,
+      "text": "Stabiliți conduita eficientă a durerii din pancreatită cronică:",
+      "options": [
+        "Excluderea consumului de alcool",
+        "Renunţ total la fumat",
+        "Complianța la tratament",
+        "Micșorarea cotei de proteine din alimentație sub 20 grame/zi",
+        "Renunț treptat la fumat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 435,
+      "text": "Marcați caracteristicile sindromului dolor abdominal din  pancreatita cronică:",
+      "options": [
+        "Durerea este declanşată în mod tipic de mese şi/sau de ingestia de alcool",
+        "Sediul durerii: epigastric, cu iradiere în spate sau \"în centură\"",
+        "Durerea se ameliorează șezând cu trunchiul aplecat înainte",
+        "Durerea se ameliorează în decubit dorsal",
+        "Durerea se ameliorează după prânzuri, dar revine după câteva ore"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 436,
+      "text": "Numiți cauzele benigne ale icterului de origine extrahepatică:",
+      "options": [
+        "Litiază biliară",
+        "Pancreatită cronică",
+        "Colangită sclerozantă primitivă",
+        "Ampulom vaterian",
+        "Colangiocarcinom"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 437,
+      "text": "Identificați cauzele benigne ale colestazei extrahepatice:",
+      "options": [
+        "Litiaza căii biliare principale",
+        "Pancreatită cronică",
+        "Colangită sclerozantă primitivă",
+        "Cancerul pancreatic",
+        "Ampulom vaterian"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 438,
+      "text": "Indicați cauzele posibile ale colestazei extrahepatice:",
+      "options": [
+        "Hepatopatie alcoolică",
+        "Colangita biliară primitivă",
+        "Coledocolitiaza",
+        "Pancreatită cronică",
+        "Cancer pancreatic cefalic"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 439,
+      "text": "Numiți maladiile în care se pot observa dureri abdominale postrprandiale recidivante:",
+      "options": [
+        "Pancreatita cronică",
+        "Angor mezenteric",
+        "Neoplasm mucinos papilar intraductal al pancreasului",
+        "Ulcer duodenal",
+        "Boala de reflux gastroesofagian"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 440,
+      "text": "Marcați formele de pancreatită cronică conform clasificării etiologice Tigar-O:",
+      "options": [
+        "Pancreatită interstițială",
+        "Pancreatita toxico-metabolică",
+        "Pancreatita edematoasă",
+        "Pancreatită acută recurentă și severă",
+        "Pancreatita obstructivă CAILE BILIARE MULTIPLU"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 441,
+      "text": "Notați complicațiile posibile ale colangitei sclerozante primitive:",
+      "options": [
+        "Malabsorbţia vitaminelor: A, D, E, K",
+        "Ciroza biliară secundară",
+        "Colangiocarcinom",
+        "Cancer pancreatic",
+        "Adenocarcinom"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 442,
+      "text": "Indicați complicaţiile acute ale litiazei biliare veziculare:",
+      "options": [
+        "Colecistita acută",
+        "Pancreatita acută",
+        "Hepatita acută",
+        "Litiaza coledocului, angiocolita (colangita) acută",
+        "Colangita sclerozantă IgG4 pozitivă"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 443,
+      "text": "Enumeraţi factorii etiopatogenetici ai colangitei:",
+      "options": [
+        "Diabetul zaharat",
+        "Ulcerul cronic",
+        "Ischemia acută a peretelui veziculei biliare",
+        "Contaminarea cu germeni bacterieni a căilor biliare",
+        "Obstrucţia completă sau parţială a căilor biliare"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 444,
+      "text": "Marcați medicația indicată în tratamentul colicei biliare:",
+      "options": [
+        "Colekinetice",
+        "Antispastice",
+        "Antiacide",
+        "Analgezice",
+        "Coleretice"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 445,
+      "text": "Marcați factorii ce participă la formarea calculelor biliari:",
+      "options": [
+        "Staza biliară",
+        "Infecţia cronică a căilor biliare",
+        "Prezenţa ulcerului duodenal",
+        "Schimbările litogenice ale bilei",
+        "Prezenţa ulcerului stomacal"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 446,
+      "text": "Indicați mecanismele ce participă în dezvoltarea litiazei colesterolice:",
+      "options": [
+        "Creşterea concentraţiei de colesterol în bilă",
+        "Reducerea transformării colesterolului intrahepatocitar în acizi biliari primari",
+        "Scăderea secreţiei biliare de acizi biliari şi fosfolipide",
+        "Creşterea cantităţii de bilirubină neconjugată în bilă",
+        "Hiperfermentemie pancreatică"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 447,
+      "text": "Marcați manifestările clinice ale sindromul postcolecistectomic:",
+      "options": [
+        "Dureri de tip biliar",
+        "Intoleranţa faţă de alimentele colecistochinetice",
+        "Ascită",
+        "Hemoragie digestivă",
+        "Diabetul zaharat"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 448,
+      "text": "Indicați factorii predispozanţi ai litiazei biliare:",
+      "options": [
+        "Obezitatea",
+        "Hipercolesterolemia",
+        "Administrarea de hormoni androgeni",
+        "Tratamentul cronic cu glucocorticoizi",
+        "Sindromul Gilbert"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 449,
+      "text": "Indicați manifestările colicei biliare tipice:",
+      "options": [
+        "Iradierea durerii în spate și sub rebordul costal stâng",
+        "Iradierea durerii spre vârful scapulei",
+        "Debut brusc al durerilor",
+        "Localizare paraombilicală",
+        "Localizare în hipocondrul drept sau în epigastru"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 450,
+      "text": "Marcați complicaţiile litiazei biliare  veziculare:",
+      "options": [
+        "Neoplasmul vezicular",
+        "Pancreatita acută",
+        "Hidrops vezicular",
+        "Colesteroloza veziculară",
+        "Tulburări funcționale ale colecistului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 451,
+      "text": "Identificați medicaţia pentru durerile colicative biliare:",
+      "options": [
+        "Acidul ursodeoxicolic",
+        "Cefalosporine din generaţia a III-a",
+        "Antispastice",
+        "Analgetice",
+        "Anticolinergice"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 452,
+      "text": "Care sunt particularităţile evoluţiei colangitei cronice septico-lente:",
+      "options": [
+        "Dureri surde permanente în hipocondru drept",
+        "Leucocitoză",
+        "Hiperglicemie",
+        "Frisoane și subfebrilitate",
+        "Ascita"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 453,
+      "text": "Care este importanța fiziologică a bilei?",
+      "options": [
+        "Activarea enzimelor pancreatice pe vilozitățile intestinului",
+        "Neutralizarea HCl și pepsinei",
+        "Emulgarea grăsimilor în duoden",
+        "Digestia proteinelor",
+        "Micșorarea peristalticii și tonusului intestinal"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 454,
+      "text": "Indicați caracteristicele hipertonusului veziculei biliare:",
+      "options": [
+        "Pirozisul",
+        "Colicele biliare frecvente",
+        "Gustul amar",
+        "Greţurile, vomele bilioase",
+        "Constipaţia"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 455,
+      "text": "Indicaţi simptomele clasice caracteristice pentru acutizarea colangitei cronice:",
+      "options": [
+        "Dureri în hipocondrul drept",
+        "Febră",
+        "Icter",
+        "Pirozis",
+        "Dureri retrosternale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 456,
+      "text": "Selectați simptomele caracteristice pentru colangita parazitară:",
+      "options": [
+        "Anemie progresivă",
+        "Dureri în hipocondrul drept",
+        "Artralgii",
+        "Trombocitoză",
+        "Grețuri ,vomă, scădere ponderală"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 457,
+      "text": "Marcați care caracteristici se referă la colangita infecțioasă:",
+      "options": [
+        "Febră cu frison",
+        "Dureri în hipocondrul drept",
+        "Spenomegalie",
+        "Pirozis",
+        "Icter tegumentar"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 458,
+      "text": "Selectați caracteristicile colangitei sclerozante primitive:",
+      "options": [
+        "Inflamație difuză și fibroză ce implică întreg arborele biliar",
+        "Colestază cronică",
+        "Obliterarea căilor biliare intra- și extrahepatice",
+        "Obliterarea doar a căilor biliare extrahepatice",
+        "Obliterarea doar a căilor biliare intrahepatice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 459,
+      "text": "Identificați  afirmațiile corecte pentru colangita sclerozantă primară:",
+      "options": [
+        "Prezența autoanticorpilor serici LKM-1, ANA, SMA",
+        "Ingroșarea în formă de \"mărgele\" / îngustarea ducturilor biliare atât intrahepatice, cât și extrahepatice c) [x ] Prezența sindromului colestatic d) [x ] Asocierea  cu colita ulcerativa",
+        "Prezența calculilor biliari"
+      ],
+      "correct": [
+        1
+      ]
+    }
+  ]
+}
