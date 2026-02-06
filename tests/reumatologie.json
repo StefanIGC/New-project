@@ -1,0 +1,1817 @@
+{
+  "id": "reumatologie",
+  "name": "Reumatologie",
+  "questions": [
+    {
+      "text": "Care patologie reumatică se poate manifesta cu artrită mutilantă?",
+      "options": [
+        "Lupusul eritematos sistemic",
+        "Artrita reumatoidă",
+        "Artrita reactivă",
+        "Artrita psoriazică",
+        "Guta"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Criteriile de diagnostic CASPAR sunt utilizate în diagnosticul:",
+      "options": [
+        "Artritei reumatoide",
+        "Artritei psoriazice",
+        "Lupusului eritematos sistemic",
+        "Artritei reactive",
+        "Gutei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pentru afectarea axială a artritei psoriazice este caracteristică:",
+      "options": [
+        "Sacroiliita unilaterală/asimetrică",
+        "Sacroiliita simetrică",
+        "Afectarea atlanto-occipitală",
+        "Absenţa afectării sacroiliace",
+        "Afectarea uniformă a coloanei vertebrale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Distrofia unghială psoriazică poate fi manifestată prin:",
+      "options": [
+        "Pitting (eroziune punctiformă)",
+        "Fuziune solidă",
+        "Infecţii fungice",
+        "Fisurare progresivă",
+        "Hemoragii intraunghiale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Osteoliza articulaţiilor interfalangiene distale, leziunile cutanate extinse şi distrofia unghială ne sugerează diagnosticul de:",
+      "options": [
+        "Lupus eritematos sistemic",
+        "Gută",
+        "Artrită psoriazică",
+        "Osteoartroză",
+        "Artrită reumatoidă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diagnosticul de artrită psoriazică este stabilit cu ajutorul criteriilor:",
+      "options": [
+        "CASPAR",
+        "BASDAI",
+        "EULAR",
+        "ACR",
+        "Ducket Jones"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Criteriile CASPAR sunt folosite pentru diagnosticul:",
+      "options": [
+        "Artritei reumatoide",
+        "LES",
+        "Osteoartozei",
+        "Atritei psoriazice",
+        "Sclerodermiei"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Afectarea falangelor cu aspect de “creion cu capac” este caracteristică pentru:",
+      "options": [
+        "Lupus eritematos sistemic",
+        "Gută",
+        "Osteoartroză deformantă",
+        "Artrită reumatoidă",
+        "Artrită psoriazică"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Conform criteriilor CASPAR pentru artrita psoriazică, scorul maximal aparţine următorului criteriu:",
+      "options": [
+        "Istoric personal sau familial de psoriazis",
+        "Psoriazis curent",
+        "Test negativ pentru factorul reumatoid",
+        "Distrofie unghială psoriazică la examenul curent",
+        "Dovadă radiografică de formare a osului nou juxtaarticular"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din următoarele clase de medicamente AINS sunt recomandate pacienţilor cu artrită psoriazică?",
+      "options": [
+        "Coxibii",
+        "Salicilaţii",
+        "Pirazolii",
+        "Indolicele",
+        "Oxicamii"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "În care din următoarele boli reumatismale tratamentul imunosupresiv este considerat obligator?",
+      "options": [
+        "Artrita psoriazică",
+        "Guta",
+        "Artrita reumatoidă",
+        "Osteoartroza",
+        "Bursita"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele manifestări extraarticulare sunt caracteristice artritei psoriazice?",
+      "options": [
+        "Amiloidoza AA",
+        "Uveita anterioară",
+        "Meningita",
+        "Esofagita de reflux",
+        "Nefropatia Ig A"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "În criteriile de diagnostic al artritei psoriazice se includ:",
+      "options": [
+        "Psoriazisul pielii",
+        "Factorul reumatoid negativ",
+        "Factorul reumatoid pozitiv",
+        "Istoricul de dactilită stabilită de reumatolog",
+        "Manifestările radiologice caracteristice"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "În artrita psoriazică tratamentul include:",
+      "options": [
+        "Kinetoterapie",
+        "Terapie imunosupresivă",
+        "Tratament antibacterian",
+        "Terapie manuală",
+        "Tratament simptomatic"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt testele de laborator ce permit aprecierea activităţii artritei psoriazice?",
+      "options": [
+        "Hemoleucograma",
+        "VSH",
+        "Factorul reumatoid",
+        "Fibrinogenul",
+        "Proteina C-reactivă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Complicaţiile specifice ale infiltraţiilor cu corticosteroizi în artrita psoriazică sunt următoarele:",
+      "options": [
+        "Artrita septică",
+        "Hiperkeratoză locală",
+        "Ruptură tendinoasă",
+        "Hiperpigmentare locală",
+        "Artrită acuta microcristalină"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Sunt recunoscute următoarele forme de artrită psoriazică:",
+      "options": [
+        "Oligoartrita simetrică",
+        "Artrita axială",
+        "Artrita mutilantă",
+        "Osteoartroza",
+        "Entezopatia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Dintre trăsăturile distinctive ale artritei psoriazice, deosebim:",
+      "options": [
+        "Entezopatiile",
+        "Ulceraţiile mucoaselor",
+        "Dactilita",
+        "Irita",
+        "Trombocitopenia"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "În criteriile de diagnostic al artritei psoriazice se includ:",
+      "options": [
+        "Ulceraţiile orale",
+        "Febra",
+        "Psoriazisul în antecedente",
+        "Factorul reumatoid negativ",
+        "Manifestările radiologice specifice"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Pentru forma mutilantă a artritei psoriazice sunt caracteristice următoarele semne radiologice:",
+      "options": [
+        "Osteoliza",
+        "Osteosinteza",
+        "Anchiloza osoasă",
+        "Osteomalacia",
+        "Pseudofracturile"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Marcaţi afirmaţiile corecte pentru artrita psoriazică:",
+      "options": [
+        "Entezita este o trăsătură caracteristică importantă",
+        "Afectarea oculară se manifestă frecvent prin uveită anterioară",
+        "Entezita nu este caracteristică",
+        "Afectarea cardiacă se manifestă frecvent prin afectarea valvei aortice",
+        "Afectarea oculară nu este caracteristică"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Printre criteriile de diagnostic al artritei psoriazice (CASPAR) se numără:",
+      "options": [
+        "Afectarea psoriazică a unghiilor",
+        "Dactilita cu tumefierea falangelor",
+        "Cracmentul articular",
+        "Uveita",
+        "Psoriazisul pielii"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul remisiv (de fond) utilizat în artrita psoriazică include:",
+      "options": [
+        "Acidul alendronic",
+        "Metotrexatul",
+        "Diclofenacul",
+        "Indometacina",
+        "Sulfasalazina"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Activitatea artritei psoriazice poate fi monitorizată prin:",
+      "options": [
+        "VSH",
+        "Proteina C-reactivă",
+        "Fibrinogen",
+        "Prezenţa HLA-B27",
+        "Fosfataza alcalină"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Care dintre următoarele afirmaţii privind manifestările extraarticulare din artrita reumatoidă este FALSĂ?",
+      "options": [
+        "A. Apar înaintea manifestărilor articulare",
+        "B. Sunt determinate de infiltrate limfoplasmocitare şi/sau procese vasculitice",
+        "C. Apar în cazurile severe de boală",
+        "D. Se acompaniază constant de titre mari  de factori reumatoizi",
+        "E. Concentraţia complexelor imune circulante, în general, este crescută"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care regiune articulară este, de regulă, afectată în artrita reumatoidă:",
+      "options": [
+        "Articulaţiile interfalangiene distale",
+        "Articulaţia sacroiliacă",
+        "Articulaţiile interapofizare ale coloanei lombare",
+        "Articulaţia atlantoaxială",
+        "Articulaţia acromio-claviculară"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Afectarea articulară din artrita reumatoidă are următoarele caracteristici:",
+      "options": [
+        "Simetrică",
+        "Oligoarticulară",
+        "Migratorie",
+        "Monoartriculară",
+        "Reversibilă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care este cel mai frecvent efect advers al tratamentului cu AINS?",
+      "options": [
+        "Afectarea tractului gastro-intestinal",
+        "Dereglările hematopoietice",
+        "Acţiunea nefrotoxică",
+        "Acţiunea neurotoxică",
+        "Reacţiile alergice"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "8. Care DMARD este considerat „standardul de aur” în tratamentul artritei reumatoide?",
+      "options": [
+        "Sulfasalazina",
+        "Metotrexat",
+        "Azatioprina",
+        "Hidroxiclorochina",
+        "Ciclofosfamida"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care complicaţie reno-urinară poate apărea în evoluţia severă şi îndelungată a artritei reumatoide:",
+      "options": [
+        "Pielonefrita",
+        "Amiloidoza renală",
+        "Micronefrolitiaza",
+        "Pielonefrita",
+        "Uretrita"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Agentul infecţios implicat în etiologia artritei reumatoide poate fi:",
+      "options": [
+        "Virusul Epstein-Barr",
+        "Virusul hepatitei B",
+        "Mycoplasma hominis",
+        "Staph. aureus",
+        "Chlamydia trachomatis"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Populaţia majoritară celulară în sinovita reumatoidă este reprezentată de:",
+      "options": [
+        "Limfocite NK",
+        "Limfocite B",
+        "Limfocite T CD8",
+        "Limfocite T CD4 cu memorie",
+        "Macrofage"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Modificarea radiologică caracteristică artritei reumatoide este:",
+      "options": [
+        "Sindesmofitele",
+        "Osteoscleroza subcondrală",
+        "Osteofitele",
+        "Eroziunile osoase",
+        "Sechestrele osoase"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care din următoarele modificări radiologice apar în artrita reumatoidă?",
+      "options": [
+        "Sindesmofite",
+        "Osteoporoză juxtaarticulară",
+        "Îngroşare periostală",
+        "Eroziuni marginale",
+        "Anchiloze osoase"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Vasculita reumatoidă poate avea următoarele expresii:",
+      "options": [
+        "Purpură",
+        "Polineuropatie",
+        "Infarct miocardic",
+        "Ulceraţii cutanate",
+        "Keratodermie blenoragica"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "24. Care articulaţii se afectează în artrita reumatoidă?",
+      "options": [
+        "Articulaţiile interfalangiene distale",
+        "Articulaţiile interfalangiene proximale",
+        "Prima articulaţie tarso-metatarsiană",
+        "Articulaţiile vertebrale cervicale",
+        "Articulaţiile vertebrale lombare"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Simptome specifice pentru artrita reumatoidă sunt:",
+      "options": [
+        "Afectarea poliarticulară",
+        "Afectarea simetrică",
+        "Debutul brutal în 90% de cazuri",
+        "Anorexia",
+        "În debutul acut – febra, splenomegalia"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Următoarele corelaţii dintre sexe sunt veritabile pentru artrita reumatoidă:",
+      "options": [
+        "A. Raportul femei : bărbaţi este de 2,2-2,5:1",
+        "B.  Raportul femei : bărbaţi este de 5:1",
+        "C.  Raportul femei : bărbaţi este de 1: 2,2-2,5",
+        "D. Către vârsta de 70 ani raportul femei : bărbaţi se egalează",
+        "E.  Raportul femei : bărbaţi este egal la toate vârstele"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Dovezi ale autoimunităţii în artrita reumatoidă sunt:",
+      "options": [
+        "A. Antigenele de histocompatibilitate HLA clasa II DR8",
+        "B. Factorul reumatoid",
+        "C. Antigenele de histocompatibilitate HLA clasa II DR5",
+        "D. Anticorpii anti peptidă ciclică citrulinată",
+        "E. Antigenele de histocompatibilitate HLA clasa II DR1 şi DR7"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Care antigene ale complexului major de histocompatibilitate sunt exprimate în artrita reumatoidă?",
+      "options": [
+        "A. HLA-B27",
+        "B. HLA-DR1",
+        "C. HLA-A",
+        "D. HLA-C",
+        "E. HLA-DR4"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Următoarele afirmaţii privind modificările imunologice în artrita reumatoidă sunt veritabile:",
+      "options": [
+        "Factorul reumatoid este pozitiv la 100% din pacienţi",
+        "Factorul reumatoid pozitiv este absolut necesar pentru stabilirea diagnosticului de artrită reumatoidă",
+        "Factorul reumatoid, deşi posedă o sensibilitate înaltă nu este la fel de specific ca anti-CCP",
+        "Anti-CCP posedă o specificitate de 95%",
+        "Depistarea anti-CCP este obligatorie pentru stabilirea diagnosticului de artrită reumatoidă"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care preparate încetinesc progresia radiologică a afectării articulare în artrita reumatoidă:",
+      "options": [
+        "Aspirina",
+        "Leflunomida",
+        "Metotrexatul",
+        "Diclofenacul",
+        "Glucocorticosteroizii"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care simptome pot fi prezente în artrita reumatoidă?",
+      "options": [
+        "Redoarea matinală",
+        "Dureri la palparea tendonului Achile",
+        "Diminuarea forţei de strângere a mâinii",
+        "Tumefierea articulaţiilor interfalangiene distale",
+        "Tumefierea articulaţiilor interfalangiene proximale"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care articulaţii sunt interesate în procesul patologic în artrita reumatoidă?",
+      "options": [
+        "Articulaţiile sinoviale",
+        "Manubrio-sternală",
+        "Simfiza pubiană",
+        "Articulaţiile discovertbebrale",
+        "Articulaţiile interfalangiene proximale"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "48. Metodele imagistice utile pentru diagnosticul artritei reumatoide sunt:",
+      "options": [
+        "Radiografia articulaţiilor palmo-plantare",
+        "Osteodensitometria DXA",
+        "Ultrasonografia articulară",
+        "Examenul articular prin Rezonanţă Magnetică Nucleară",
+        "Angiografia"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Administrarea de metotrexat în artrita reumatoidă se face:",
+      "options": [
+        "Oral",
+        "Intramuscular",
+        "Intravenos",
+        "În spray nazal",
+        "Subcutanat"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "1. Care este cea mai frecventă manifestare extraarticulară în artrita reactivă?",
+      "options": [
+        "A. Insuficienţa aortică",
+        "B. Insuficienţa cardiacă congestivă",
+        "C. Balanita circinată",
+        "D. Tulburările de conducere atrioventriculară",
+        "E. Uveita acută anterioară"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "2. Care marker imunogenetic joacă rol important în patogenia artritei reactive?",
+      "options": [
+        "A. HLA B27",
+        "B. HLA DR3",
+        "C. HLA DR4",
+        "D. HLA B17",
+        "E. HLA B23"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "3. Care articulaţie cel mai frecvent este afectată în artrita reactivă?",
+      "options": [
+        "A. Sacroiliacă",
+        "B. Radiocarpiană",
+        "C. Interfalangiană distală",
+        "D. Interfalangiană proximală",
+        "E. Metacarpofalangiană"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "4. Testul Schöber reprezintă:",
+      "options": [
+        "A. O metodă de apreciere a extensiei coloanei lombare.",
+        "B. Apreciază mişcările de rotaţie ale coloanei lombare.",
+        "C. Apreciază extensia coloanei dorsale.",
+        "D. O metodă de apreciere a gradului de mobilitate a coloanei lombare.",
+        "E. Stabileşte gradul de mobilitate al şoldurilor."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "5. Selectaţi tratamentul etiologic în artrita reactivă:",
+      "options": [
+        "A. Corticosteroizii",
+        "B. Citostaticele",
+        "C. Antibioticele",
+        "D. Antimalaricele de sinteză.",
+        "E. Sărurile de aur."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "6. Artritele reactive se întâlnesc mai frecvent:",
+      "options": [
+        "A. La indivizi cu vârsta peste 60 ani.",
+        "B. La copii sub 5 ani.",
+        "C. La indivizi cu vârsta între 18-40 ani.",
+        "D. În perioada de pubertate.",
+        "E. În decada de vârstă între 50-60 ani."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "9. Menţionaţi manifestarea oculară care poate fi observată în cadrul artritei reactive:",
+      "options": [
+        "A. Conjunctivita",
+        "B. Ulcerul cornean",
+        "C. Cataracta",
+        "D. Retinita",
+        "E. Distrofia maculară"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "10. Alegeţi afirmaţia corectă în tratamentul artritelor reactive:",
+      "options": [
+        "A. Sulfasalazină până la 3 g/zi poate fi benefică la pacienţii cu artrită reactivă persistentă.",
+        "B. Agenţii imunosupresivi se administrează în stadiul precoce",
+        "C. În cazurile severe se foloseşte methotrexat 150 mg/săptămână.",
+        "D. Sărurile de aur sunt utile ca primă indicaţie de tratament.",
+        "E. Administrarea  sistemică de glucocorticoizi este indicată în tendinite"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "11. Care este forma cea mai frecventă de afectare articulară în artrita reactivă?",
+      "options": [
+        "A. Poliarticulară simetrică",
+        "B. Axială cu anchiloză lombară",
+        "C. Axială cu anchiloză cervicală",
+        "D. Oligoarticulară asimetrică",
+        "E. Mutilantă"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "2. Menţionaţi care din următoarele afirmaţii sunt adevărate pentru afectarea coloanei vertebrale în artrita reactivă:",
+      "options": [
+        "A. Durere spinală inflamatorie",
+        "B. Durere cu caracter mecanic",
+        "C. Pacienţii cu debut recent dezvoltă rapid limitarea mobilităţii coloanei",
+        "D. Se pot forma sindesmofite",
+        "E. Nu se ajunge la aspectul de coloană de bambus"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "3. Pacienţilor cu artrita reactivă refractară la terapia cu AINS şi sulfasalazină li se recomandă tratament remisiv cu:",
+      "options": [
+        "A. Infliximab",
+        "B. Fenilbutazonă",
+        "C. D-Penicilamină",
+        "D. Ciclosporină",
+        "E. Metotrexat"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "5. Alegeţi afirmaţiile adevărate cu referire la artrita reactivă:",
+      "options": [
+        "A: Este o afecţiune articulară supurativă",
+        "B: Să dezvoltă la persoane cu predispoziţie genetică",
+        "C: Se dezvoltă în rezultatul unor infecţii artritogene",
+        "D: Se dezvoltă pe fundalul traumatismulul articular",
+        "E: Se caracterizează prin proces autoimun"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "6. Menţionaţi metodele care pot evidenţia modificările din artrita reactivă:",
+      "options": [
+        "A: Radiografia simplă articulară",
+        "B: Tomografia computerizată",
+        "C: Rezonanţa magnetică nucleară",
+        "D: Densitometria",
+        "E: Ecografia organelor interne"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "7. Artrita reactivă este:",
+      "options": [
+        "A: Consecutivă unei infecţii enterale, care apare predominant la sexul masculin",
+        "B: Consecinţa infecţiilor uro-genitale, care apare predominant la sexul masculin",
+        "C: Consecutivă unei infecţii enterale, care apare în mod egal la ambele sexe",
+        "D: Postveneriană şi apare în mod egal la ambele sexe",
+        "E: Postveneriană şi apare predominant la sexul feminin"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "8. Artrita reactivă uro-genitală se caracterizează prin:",
+      "options": [
+        "A: Răspuns pozitiv la antibioticoterapie",
+        "B: Durere de spate frecventă",
+        "C: Asociere cu uretrită",
+        "D: Interesare frecventă a membrelor superioare",
+        "E: Interesare frecventă a membrelor inferioare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "9. ”Degetul în cârnaţi/crenvuşti” este întîlnit în următoarele situaţii:",
+      "options": [
+        "A: Artrita reactivă",
+        "B: Guta",
+        "C: Artrita psoriazică",
+        "D: Artrita reumatoidă",
+        "E: Osteoartroza deformantă"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "10. Care metode sunt folosite pentru determinarea agentului cauzal în artrita reactivă?",
+      "options": [
+        "A: Frotiu ureteral sau cervical prin reacţia de polimerizare în lanţ",
+        "B: Hemoculturi",
+        "C: Însămânţări ale lichidului sinovial",
+        "D: Serologice: aprecierea anticorpilor specifici în sânge",
+        "E: Cultura maselor fecale pentru agenţi enterali"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "12. Care dintre următoarele aspecte radiologice se întîlnesc în formele iniţiale ale artritei reactive?",
+      "options": [
+        "A: Eroziunile marginale;",
+        "B: Absenţa modificărilor radiologice;",
+        "C: Pensarea spaţiului articular;",
+        "D: Pinteni la inserţia fasciei plantare;",
+        "E: Osteoporoza juxtaarticulara"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "13. Articulaţiile cel mai frecvent afectate în artrita reactivă sunt:",
+      "options": [
+        "A: Şold şi umeri (articulaţiile centurilor)",
+        "B: Talocrurale",
+        "C: Coloana cervicala",
+        "D: Genunchiul",
+        "E: Degetele mâinii"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "14. Leziunile cutaneo-mucoase din artrita reactivă sunt următoarele:",
+      "options": [
+        "A: Ulceraţii orale profunde, dureroase",
+        "B: Keratodermia blenoragică palmo-plantară",
+        "C: Keratodermia blenoragică cu leziuni extinse la pacienţii imunocompetenţi",
+        "D: Balanita circinata",
+        "E: Ulcere trofice ale membrelor inferioare"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "15. Care dintre următoarele elemente în artrita reactivă permit evaluarea progresiei bolii:",
+      "options": [
+        "A. Examenul radiologic al articulaţiilor periferice",
+        "B. Testarea marcherilor inflamatorii",
+        "C. Determinarea antigenului HLA-B27",
+        "D. Dinamica testului Schober.",
+        "E. Apariţia de sindesmofite asimetrice la nivelul coloanei vertebrale"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "18. Afectarea renală în cadrul artritei reactive se poate prezenta prin:",
+      "options": [
+        "A. Pielonefrită cronică",
+        "B. Insuficienţă renală acută",
+        "C. Nefropatie IgA",
+        "D. Sindrom Fanconi",
+        "E. Amiloidoză renală"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "29. Enumeraţi manifestările extraarticulare ale artritelor reactive:",
+      "options": [
+        "A. Insuficienţa aortică",
+        "B. Fibroza pulmonară",
+        "C. Tulburările de conducere atrioventriculare",
+        "D. Sindromul nefrotic",
+        "E. Leziunile mucoaselor"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "30. Durerea la nivelul scheletului axial în artrita reactivă poate fi cauzată de:",
+      "options": [
+        "A. Entezite",
+        "B. Spasm muscular",
+        "C. Sacroiliită",
+        "D. Suprasolicitare mecanică în absenţa inflamaţiei",
+        "E. Modificarea proprietăţilor biomecanice ale osului subcondral"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţia care caracterizează afectarea oculara în gută:",
+      "options": [
+        "Sclerita",
+        "Episclerita",
+        "Glaucom",
+        "Nu este caracteristică",
+        "Cataracta"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care afectare renală poate fi observată în gută?",
+      "options": [
+        "Glomerulonefrita mesangială",
+        "Glomerulonefrita proliferativă focală",
+        "Displazia chistică renală",
+        "Nefrolitiaza",
+        "Sindromul nefrotic"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care regiune articulară este cea mai frecvent afectată în gută?",
+      "options": [
+        "Articulaţiile interfalangiene distale",
+        "Articulaţiile interfalangiene proximale",
+        "Articulaţiile metacarpofalangiene",
+        "Articulaţia genunchiului",
+        "Prima articulaţie metatarsofalangiană"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Manifestarea musculară întâlnită în gută este:",
+      "options": [
+        "Durerea musculară spontană",
+        "Nu este caracteristică",
+        "Atrofia musculară",
+        "Calcinoza intramusculară",
+        "Flegmonul intramuscular"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "În mecanismul de instalare a gutei rol primordial îl are:",
+      "options": [
+        "Afectarea iniţială a celulei endoteliale",
+        "Penetrarea uraţilor în lichidul sinovial",
+        "Secreţia excesivă de către fibroblaşti a fibronectinei",
+        "Inhibarea fibroblaştilor de către mastocite",
+        "Împiedicarea dezvoltării fibrozei de către monocite"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Printre criteriile diagnostice pentru gută se numără:",
+      "options": [
+        "Limitarea mişcărilor în articulaţiile afectate",
+        "Poliartrita simetrică",
+        "Prezenţa tofilor, ce conţin microcristale de acid uric (confirmată microscopic)",
+        "Durerile lombare joase",
+        "Durerile calcanee"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În tratamentul gutei sunt utilizate următoarele preparate, cu excepţia:",
+      "options": [
+        "Antiinflamatoarelor steroidiene",
+        "Antiinflamatoarelor nesteroidiene",
+        "Imunosurpesoarelor",
+        "Colchicinei",
+        "Allopurinolului"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Artralgiile în gută pot fi explicate prin:",
+      "options": [
+        "Colagenarea sinovialei",
+        "Degenerarea proteoglicanilor cartilajului articular",
+        "Depunerea cristalelor de acid uric în articulaţii",
+        "Depunerea cristalelor de apatită în articulaţii",
+        "Osteoporoză subcondrală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Guta este o maladie determinată de anomalia înnăscută sau dobândită a metabolismului:",
+      "options": [
+        "a)  Glucidic",
+        "b). Purinic",
+        "c).  Hidric",
+        "d).  Electrolitic",
+        "e).  Energetic"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Eroziunea osoasă „punched-out”, confirmată radiologic, este observată în:",
+      "options": [
+        "a).  Spondilită anchilozanta",
+        "b).  Lupus eritematos sistemic",
+        "c).  Artrită reumatoidă",
+        "d).  Artrită reumatismală",
+        "e).  Gută"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Care preparate se folosesc în tratamentul accesului acut de gută?",
+      "options": [
+        "Antiinflamatoare nesteroidiene",
+        "Antibacteriene",
+        "Colchicină",
+        "Imunosupresoarele",
+        "Metilprednizolon"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care dintre următoarele reprezintă criterii de diagnostic ale gutei acute elaborate de către Colegiul American de Reumatologie (2002)?",
+      "options": [
+        "Prezenţa cristalelor caracteristice de acidul uric în lichidul sinovial",
+        "Artrita simetrică: interesarea simultană bilaterală a aceloraşi articulaţii cu durata de cel puţin 6 săptămâni",
+        "Inflamaţie articulară care atinge apogeul într-o singură zi",
+        "Prezenţa factorului reumatoid",
+        "Modificări radiografice demonstrând osteoporoza difuză"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Tumefierea articulară în gută apare datorită:",
+      "options": [
+        "Leziunilor microvasculare",
+        "Inflamaţiei sinovialei cu proliferarea sinoviocitelor",
+        "Osteoporozei epifizare",
+        "Permeabilităţii vasculare crescute cu acumulare de lichid sinovial bogat în uraţi",
+        "Lezării cartilajului articular"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Cele mai frecvente localizări ale tofusurilor gutoşi sunt:",
+      "options": [
+        "Bursa olecraniană a cotului",
+        "Pleura",
+        "Pericardul",
+        "Parenchimul pulmonar",
+        "Pavilionul urechii"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Ce este caracteristic pentru artrita gutoasă cronică?",
+      "options": [
+        "Afectarea poliartriculară",
+        "Afectarea simetrică",
+        "Afectarea articulaţiilor sacroiliace",
+        "Afectarea articulaţiilor carpo-metacarpiene",
+        "Deformităţile labei piciorului „picior gutos”, ale mâinilor – „mâna pseudoreumatoidă”"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul uricodepresiv în guta include administrarea de:",
+      "options": [
+        "D-penicilamină",
+        "Colchicină",
+        "Allopurinol",
+        "Propranolol",
+        "Febuxostat"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Afectarea neurologică la pacienţii cu gută este cauzată de:",
+      "options": [
+        "Ateroscleroză a vaselor cerebrale",
+        "Chist popliteu disecant",
+        "Parapareză prin tofi în spaţiul extradural sau ligamentele galbene",
+        "Sindrom de canal carpian sau tarsian",
+        "Insuficienţă vertebro-bazilară"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pentru diagnosticul gutei explorările esenţiale sunt:",
+      "options": [
+        "Electromiografia",
+        "Scintigrafia osoasă",
+        "Microscopia lichidului sinovial",
+        "Tomografia computerizată",
+        "Aprecierea acidului uric în ser şi urină"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care dintre cele enumerate sunt manifestări extraarticulare ale gutei?",
+      "options": [
+        "Fibroza pulmonară",
+        "Glomerulonefrita",
+        "Hipertensiunea arterială",
+        "Tulburările de conducere (blocuri AV)",
+        "Nefrolitiaza"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul uricozuric în gută include:",
+      "options": [
+        "D-penicilamină",
+        "Colchicină",
+        "Azatioprină",
+        "Benzbromaronă",
+        "Probenecid"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Afectarea tegumentară în gută include următoarele:",
+      "options": [
+        "Tofi subcutanaţi",
+        "Echimoze",
+        "Telangiectazii",
+        "Tofi intradermici",
+        "Erupţii papuloase"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Criteriile diagnostice în gută sunt următoarele:",
+      "options": [
+        "Prezenţa cristalelor de uraţi în lichidul sinovial",
+        "Conjunctivita",
+        "Glomerulonefrita",
+        "Mai mult de 1 acces de artrită acută în anamneză",
+        "Tumefierea asimetrică a unei articulaţii"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care preparate se folosesc în tratamentul accesului acut de gută?",
+      "options": [
+        "Antiinflamatoare nesteroidiene",
+        "Antibacteriene",
+        "Colchicină",
+        "Imunosupresoare",
+        "Corticosteroizi"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Contraindicaţii pentru tratamentul cu Allopurinol sunt:",
+      "options": [
+        "Vârsta copilului",
+        "Perioada de alăptare",
+        "Hipertensiunea arterială",
+        "Tromboflebita acută",
+        "Sarcina"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care valve cardiace se afectează mai frecvent în lupusul eritematos sistemic?",
+      "options": [
+        "Aortice",
+        "Mitrale",
+        "Tricuspide",
+        "Pulmonare",
+        "Mitrale şi tricuspide"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Semnul urinar al glomerulonefritei lupice, conform criteriilor diagnostice, este:",
+      "options": [
+        "Hematuria",
+        "Leucocituria",
+        "Proteinuria",
+        "Uraturia",
+        "Bacteriuria"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Celulele lupice reprezintă:",
+      "options": [
+        "Macrofage, ce au fagocitat nucleele leucocitelor degradate",
+        "Aglomerări de limfocite",
+        "Polinucleare mature ce au fagocitat nucleele leucocitelor degradate",
+        "Aglomerări de nuclee ale leucocitelor degradate",
+        "Celule spumoase degradate"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ce afirmaţie este caracteristică lupusului eritematos?",
+      "options": [
+        "IgG serică scade",
+        "Complexe imune circulante în limite normale",
+        "Titrul anticorpilor ANA creşte",
+        "IgM serică scade",
+        "Prezenta anticorpilor anti-CCP"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Diagnosticul pozitiv de lupus eritematos sistemic necesită cel puţin câte criterii ACR (1997)?",
+      "options": [
+        "3 criterii",
+        "4 criterii",
+        "6 criterii",
+        "8 criterii",
+        "11 criterii"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi doza de corticosteroizi unui bolnav cu nefropatie lupică severă:",
+      "options": [
+        "0,1-0,5 mg/kg/zi",
+        "0,75 mg/kg/zi",
+        "1,0-2,0 mg/kg/zi",
+        "3,0-4,0 g/kg/zi",
+        ">4 g/kg/zi"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care fenomen este caracteristic lupusului eritematos sistemic?",
+      "options": [
+        "Activarea limfocitelor T-helper",
+        "Activarea limfocitelor T-supresor",
+        "Inhibarea limficitelor B",
+        "Inhibarea limfocitelor T-kiler",
+        "Activarea limfocitelor T-citotoxice"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Manifestarea cardiacă cea mai frecventă în lupusul eritematos sistemic este:",
+      "options": [
+        "Miocardita",
+        "Endocardita lupică",
+        "Valvulopatiile",
+        "Pericardita",
+        "Aritmiile cardiace"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Riscul de a dezvolta nefropatie lupică au pacienţii cu:",
+      "options": [
+        "Anomalii urinare periodice",
+        "Titrul crescut de anticorpi anti ADNdc",
+        "Hipercomplementemie",
+        "VSH foarte crescut",
+        "Trombocitopenie"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Manifestările pleuropulmonare ale lupusului eritematos sistemic se caracterizează prin:",
+      "options": [
+        "Pneumonită",
+        "Pleurezie",
+        "Pneumonie lobară",
+        "Vasculită pulmonară",
+        "Insuficienţă respiratorie obstructivă"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Tratamentul lupusului eritematos sistemic prevede următoarele obiective:",
+      "options": [
+        "Ameliorarea manifestărilor clinice",
+        "Ameliorarea manifestărilor hematologice",
+        "Corecţia perturbărilor imune",
+        "Intervenţiile chirurgicale urgente",
+        "Prevenirea perturbărilor hemostatice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Manifestările neurologice în lupusul eritematos sistemic se caracterizează prin următoarele:",
+      "options": [
+        "Polineuropatie",
+        "Hemipareze",
+        "Convulsii",
+        "Pseudoepilepsie",
+        "Electroencefalogramă normală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Sindromul antifosfolipidic din lupusul eritematos sistemic se caracterizează prin următoarele:",
+      "options": [
+        "Avorturi spontane repetate",
+        "Test la lues fals pozitiv",
+        "Tromboze venoase şi arteriale",
+        "Titru crescut al anticorpilor anticardiolipinici IgG sau IgM",
+        "Titru scăzut al anticorpilor anti ADNdc"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Următoarele afirmaţii cu referire la prezenţa anticorpilor în lupusul eritematos sistemic sunt corecte:",
+      "options": [
+        "Titrul anticorpilor antinucleari (ANA) este crescut",
+        "Titrul anti-ADNdc este crescut, frecvent se asociază cu nefropatia lupică",
+        "Anticorpii anti Ro (SS-A) apar în sindromul Sjögren şi lupusul neonatal",
+        "Anticorpii marker pentru lupus eritematos sistemic sunt anti-ADNdc şi anti-Sm",
+        "Anticorpii anti histone nu se asociază cu lupus medicamentos"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care din următoarele afirmaţii despre manifestările musculoscheletice ale lupusului eritematos sistemic sunt adevărate:",
+      "options": [
+        "Osteoporoza nu este caracteristică lupusului eritematos sistemic",
+        "Există o proporţionalitate între manifestările articulare şi gradul de activitate a lupusului eritematos sistemic",
+        "Deformările articulare nu sunt caracteristice lupusului eritematos sistemic",
+        "Necroza aseptică osoasă poate fi rezultatul tratamentului îndelungat cu corticosteroizi",
+        "Deformarea articulaţiilor falangiene în forma de „gât de lebădă” este frecventă"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Manifestările pleuropulmonare caracteristice lupusului eritematos sistemic sunt:",
+      "options": [
+        "Alveolita alergică",
+        "Pneumonita",
+        "Pleurezia",
+        "Bronhopneumonia bacteriană",
+        "Pneumonia fungică"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Pericardita lupică se manifestă prin:",
+      "options": [
+        "Acumulări de lichid pericardic cu caracter de transsudat",
+        "Lichidul pericardic conţine mai mult de 20000 leucocite/mm3",
+        "Lichidul pericardic conţine CIC",
+        "Lichidul pericardic are culoare galbenă-verzuie",
+        "Evoluează în pericardita constrictivă"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Anomaliile hematologice în lupusul eritematos sistemic sunt:",
+      "options": [
+        "Leucocitoza",
+        "Leucopenia",
+        "Trombocitoza",
+        "Trombocitopenia",
+        "Limfocitoza"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Complicaţiile puls-terapiei în lupusul eritematos sistemic pot fi:",
+      "options": [
+        "Creşterea tensiunii arteriale",
+        "Miopatia",
+        "Crizele convulsive",
+        "Edemul tisular periferic",
+        "Agravarea evoluţiei lupusului eritematos sistemic"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "49. Preparatele imunosupresive recomandate în tratamentul lupusului eritematos sistemic sunt:",
+      "options": [
+        "Ciclofosfamida",
+        "Metotrexatul",
+        "Azatioprina",
+        "Mofetil micofenolatul",
+        "Vincristina"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "50. Tratamentul de menţinere a remisiunii lupusului eritematos sistemic include:",
+      "options": [
+        "Prednisolon 20-30 mg/zi",
+        "Prednisolon 5-10 mg/zi",
+        "Metotrexat 7,5-20 mg/săptămână",
+        "AINS timp îndelungat",
+        "Ciclofosfamidă 1,0 gr i/v o dată în lună"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "1. Osteoporoza este definită drept scăderea scorului T la DXA mai jos decât:",
+      "options": [
+        "1.0 DS",
+        "1.1 DS",
+        "-1.5 DS",
+        "-2.0 DS",
+        "-2.5 DS"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "2. Aprecierea riscului de fracturi osteoporotice majore se efectuează cu ajutorul:",
+      "options": [
+        "a. Examenului clinic",
+        "b. Instrumentului FRAX",
+        "c. Densitometriei DeXA",
+        "d. Densitometriei ultrasonografice",
+        "e. Radiografiei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "3. Indicaţi expresia clinică a osteoporozei:",
+      "options": [
+        "a. febra",
+        "b. fracturile de fragilitate",
+        "c. durere la percuţia osoasă",
+        "d. tetania",
+        "e. slăbiciunea pronunţată"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "4. Un scor T de -1.1 DS la densitometrie DXA a unei paciente de 65 ani corespunde:",
+      "options": [
+        "a. valorilor normale",
+        "b. osteopeniei",
+        "c. osteoporozei",
+        "d. osteoporozei severe",
+        "e. valorilor crescute"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "5. Necesitatea zilnică a vitaminei D la persoane cu vârstă >50 ani este de:",
+      "options": [
+        "a. 600 unităţi internaţionale",
+        "b. 700 unităţi internaţionale",
+        "c. 800 unităţi internaţionale",
+        "d. 900 unităţi internaţionale",
+        "e. 1000 unităţi internaţionale"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "6. Mecanismul de acţiune al denosumabului este:",
+      "options": [
+        "a. blocant al TNF-α",
+        "b. antagonist IL-a",
+        "c. inhibitorul RANKL",
+        "d. modulator al acţiunii RANKL",
+        "e. antagonist al osteoprotegerinei"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "7. Scorul T la densitometria DXA este:",
+      "options": [
+        "a. masa totală a ţesutului osos",
+        "b. riscul de fracturi de fragilitate în următorii 10 ani, exprimat în procente",
+        "c. numărul de deviaţii standard ale densităţii minerale osoase (DMO) faţă de valoarea de vârf la un individ tânăr sănătos",
+        "d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex",
+        "e. doza de iradiere utilizată"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "8. Scorul Z la densitometria DEXA este:",
+      "options": [
+        "a. masa totală a ţesutului osos",
+        "b. riscul de fracturi de fragilitate în următorii 10 ani, exprimat în procente",
+        "c. numărul de deviaţii standard ale densităţii minerale osoase (DMO) faţă de valoarea de vârf la un individ tânăr sănătos",
+        "d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex",
+        "e. doza de iradiere utilizată"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "9. Selectaţi care din următoarele poate fi o localizare a fracturilor osteoporotice majore:",
+      "options": [
+        "a. claviculă",
+        "b. calcaneu",
+        "c. mandibulă",
+        "d. 1/3 proximală a femurului",
+        "e. stern"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "14.  Măsuri nefarmacologice de tratament al osteoporozei sunt:",
+      "options": [
+        "a. activitatea fizică adecvată",
+        "b. excluderea fumatului, reducerea consumului de alcool şi cafea",
+        "c. reducerea exerciţiilor fizice",
+        "d. prevenirea căderilor",
+        "e. reducerea masei corporale"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "15. Grupuri de preparate folosite în tratamentul osteoporozei:",
+      "options": [
+        "a. modulatorii selectivi ai receptorilor pentru estrogeni",
+        "b. condroprotectoarele orale şi locale",
+        "c. antiinflamatoare nesteroidiene",
+        "d. preparate biologice - antagoniştii RANKL",
+        "e. bisfosfonaţii"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "16. Selectaţi factorii de risc modificabili în osteoporoză:",
+      "options": [
+        "a. sexul feminin",
+        "b. aportul insuficient de calciu",
+        "c. vârsta >65 ani",
+        "d. deficitul de vitamina D",
+        "e. fumatul"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "17. Selectaţi afirmaţii corecte referitoare la bisfosfonaţi:",
+      "options": [
+        "a. au şi efect anabolic asupra osului",
+        "b. se acumulează puternic în ţesutul osos şi inhibă funcţia osteoclastelor",
+        "c. la nivel tisular are loc reducerea numărului şi activităţii unităţilor de remodelare osoasă",
+        "d. biodisponibilitate redusă la administrare orală",
+        "e. sunt preparate de primă intenţie în tratamentul osteoporozei"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "18. Selectaţi bisfosfonaţii utilizaţi mai frecvent în tratamentul modern a osteoporozei:",
+      "options": [
+        "a. alendronat",
+        "b. etidronat",
+        "c. zoledronat",
+        "d. clodronat",
+        "e. ibandronat"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "19. Instrumentul de calculare a riscului de fracturi FRAX ia în calcul:",
+      "options": [
+        "a. Anamnesticul pozitiv de fractură de şold la părinţi",
+        "b. datele antropometrice",
+        "c. durata menopauzei",
+        "d. cauze care ar putea duce la osteoporoză secundară",
+        "e. densitatea minerală osoasă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "20. Care sunt afirmaţiile corecte pentru vârful masei osoase:",
+      "options": [
+        "a. reprezintă masa osoasă acumulată în timpul creşterii organismului",
+        "b. factorul genetic este principalul determinant al ei",
+        "c. este atinsă în a 3-a decada de viaţă",
+        "d. depinde în primul rând de factorii de mediu",
+        "e. deobicei este mai joasă la bărbaţi"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "21. Selectaţi afirmaţiile corecte despre denosumab:",
+      "options": [
+        "a. este un agent biologic",
+        "b. poate fi folosit drept agent de primă linie în tratamentul osteoporozei",
+        "c. are complianţă înaltă datorată regimului de administrare",
+        "d. are rată redusă a reacţiilor adverse",
+        "e. este contraindicat în perioada postmenopauzală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "24. Activitatea osteoclastelor este stimulată de:",
+      "options": [
+        "a. RANKL",
+        "b. osteoprotegerina",
+        "c. parathormon",
+        "d. IL-1, IL-6",
+        "e. testosteron"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "25. Selectaţi afirmaţiile corecte referitor la osteoporoză:",
+      "options": [
+        "a. incidenţa creşte odată cu vârsta",
+        "b. preponderent sunt afectaţi bărbaţii",
+        "c. diagnosticul precoce se stabileşte cu ajutorul datelor radiologice",
+        "d. densitatea minerală osoasă creşte",
+        "e. expresia clinică a bolii sunt fracturile de fragilitate"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "26. Osteoporoza se poate manifesta prin:",
+      "options": [
+        "a. Accentuarea cifozei toracice",
+        "b. Dureri pe parcursul coloanei vertebrale",
+        "c. Tumefierea articulară",
+        "d. Scăderea în înălţime cu 2,5 cm în decurs de un an",
+        "e. Dezvoltarea anemiei feriprive"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "27. Selectaţi afirmaţiile corecte referitoare la fracturile vertebrale din osteoporoză:",
+      "options": [
+        "a. în cele mai multe cazuri pacienţii pot identifica momentul fracturii",
+        "b. durerea poate fi de intensitate joasă",
+        "c. netratată, durerea cedează de obicei după 2-6 săptămâni",
+        "d. pot duce la accentuarea cifozei toracice, scăderi în înălţime",
+        "e. pot fi tratate cu injecţii de polimetilmetacrilat în corpurile vertebrale"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care medicamente osteoformatoare cunoaşteţi?",
+      "options": [
+        "a) Parathormonul",
+        "b) Vitamina D",
+        "c) L-tiroxina",
+        "d) Steroizii anabolizanţi",
+        "e) Glucocorticosteroizii"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    }
+  ]
+}

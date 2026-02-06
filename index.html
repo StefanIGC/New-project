@@ -289,6 +289,7 @@
     @media (max-width: 640px) {
       .stats { flex-direction: column; align-items: flex-start; }
       .question { font-size: 1.2rem; }
+      .stats button.ghost.small { align-self: flex-start; }
     }
   </style>
 </head>
@@ -572,7 +573,7 @@
       if (correctIndices.includes(index)) {
         score += 1;
         scoreEl.textContent = score;
-        feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
+        feedbackEl.textContent = "Corect!";
         feedbackEl.classList.add("ok");
         nextBtn.classList.remove("hidden");
       } else {
@@ -615,7 +616,7 @@
       if (isCorrect) {
         score += 1;
         scoreEl.textContent = score;
-        feedbackEl.textContent = `Corect! ${pickEncouragement()}`;
+        feedbackEl.textContent = "Corect!";
         feedbackEl.classList.add("ok");
         nextBtn.classList.remove("hidden");
       } else {

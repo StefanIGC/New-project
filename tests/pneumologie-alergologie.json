@@ -1,0 +1,2856 @@
+{
+  "id": "pneumologie-alergologie",
+  "name": "Pneumologie Alergologie",
+  "questions": [
+    {
+      "text": "Standardul de aur pentru stadializarea cancerului pulmonar este",
+      "options": [
+        "Biopsia pulmonară transbronșică",
+        "CT",
+        "PET CT",
+        "Biopsia pulmonară videoasistată",
+        "RMN"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cel mai frecvent metastazele extrapulmonare din cancerul pulmonar sunt la nivel",
+      "options": [
+        "Adrenal",
+        "Splenic",
+        "Cerebral",
+        "Hepatic",
+        "Osos"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cel mai important factor de risc asociat cancerului pulmonar este",
+      "options": [
+        "Vârsta",
+        "Fumatul",
+        "Asbestul",
+        "Ereditatea",
+        "Radonul"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Metoda de elecție pentru bioptarea cancerului pulmonar periferic",
+      "options": [
+        "Transcutanată",
+        "Toracoscopie videoasistată",
+        "Transbronșic",
+        "Toracotomie deschisă",
+        "Transtraheal"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tratamentul cancerului pulmonar fără celule mici stadiul II TNM include",
+      "options": [
+        "Chimioterapie adjuvantă",
+        "Rezecție chirurgicală",
+        "Radioterapie",
+        "Tratament paliativ",
+        "Chimioterapie neoadjuvantă"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Tratamentul cancerului pulmonar cu celule mici include",
+      "options": [
+        "Chimioterapie",
+        "Rezecție chirurgicală",
+        "Radioterapie",
+        "Tratament paliativ",
+        "Rezecție toracoscopică"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Tratamentul cancerului pulmonar cu celule mici stadiul IV TNM include",
+      "options": [
+        "Chimioterapie",
+        "Rezecție chirurgicală",
+        "Imunoterapie",
+        "Tratament paliativ",
+        "Rezecție toracoscopică"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Formele histologice incluse grupul cancerului pulmonar fără celule mici sunt",
+      "options": [
+        "Scuamos",
+        "Cu celule medii",
+        "Cu celule mari",
+        "Adenocarcinom",
+        "Nediferențiat"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați factorii de risc pentru cancerul pulmonar",
+      "options": [
+        "Consumul excesiv de alcool",
+        "Fumatul",
+        "Asbestul",
+        "Vârsta",
+        "Hipercolesterolemia"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Prezentări radiologice  sugestive pentru cancerul pulmonar sunt",
+      "options": [
+        "Nodulul pulmonar solitar",
+        "Modificări de tip \"fagure de miere\"",
+        "Modificări de tip „ram înmugurit\"",
+        "Masa centrală cu atelectazie",
+        "Semnul S a lui Golden"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Hipercapnia este caracteristica definitorie a insuficienței respiratorii",
+      "options": [
+        "Acută",
+        "Cronică",
+        "Tip II",
+        "Tip I",
+        "Trenantă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Saturația oxigenului țintă (SaO2) recomandată pentru oxigenoterapia la pacienții IR acută cu risc de hipercapnie este",
+      "options": [
+        "94-96%",
+        "70-75%",
+        "88-92%",
+        "80%",
+        "65%"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Mecanismul patogenetic de bază al insuficienței respiratorii la pacienții cu pneumopatii interstițiale difuze este:",
+      "options": [
+        "Dereglarea echilibrului ventilație-perfuzie",
+        "Hipoventilația",
+        "Reducerea FiO2",
+        "Reducerea difuziunii",
+        "Reducerea perfuziei"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Mecanismul patogenetic de bază al insuficienței respiratorii în emfizemul pulmonar este:",
+      "options": [
+        "Dereglarea echilibrului ventilație-perfuzie",
+        "Hipoventilația",
+        "Reducerea FiO2",
+        "Micșorarea difuziunii",
+        "Reducerea perfuziei"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Mecanismul patogenetic de bază al insuficienței respiratorii în pneumonia lobară este:",
+      "options": [
+        "Dereglarea echilibrului ventilație-perfuzie",
+        "Hipoventilația",
+        "Reducerea FiO2",
+        "Micșorarea difuziunii",
+        "Reducerea perfuziei"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Managementul hipercapniei se face prin",
+      "options": [
+        "Ventilație asistată",
+        "Oxigenoterapie",
+        "Oxigenoterapie de lungă durată",
+        "Baroterapie",
+        "Reabilitare respiratorie"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cărui tip de insuficiență respiratorie corespund rezultatele gazimetriei PaO2 = 40 mm Hg, Pa = CO2  41 mm Hg",
+      "options": [
+        "Acută",
+        "Tip I",
+        "Tip II",
+        "Cronică",
+        "Subacută"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Următorii indici ai indicatorilor gazimetrici PaO2 = 48 mm Hg, PaCO2  = 60 mm Hg corespund insuficienței respiratorii:",
+      "options": [
+        "Acută",
+        "Tip I",
+        "Tip II",
+        "Cronică",
+        "Subacută"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Următorii indici ai indicatorilor gazimetrici PaO2 = 82 mm Hg, PaCO2 = 55 mm Hg corespund insuficienței respiratorii:",
+      "options": [
+        "Acută",
+        "Tip I",
+        "Tip II",
+        "Cronică",
+        "Subacută"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați indicațiile pentru oxigenoterapia de lunga durată",
+      "options": [
+        "PaO2 <55 mmHg",
+        "pH< 7,25",
+        "VEMS< 1,5 l/s",
+        "SaO2 < 88%",
+        "PaCO2 ≥ 45 mm Hg"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Selectați indicațiile pentru oxigenoterapia de lungă durată",
+      "options": [
+        "PaO2 56-59 mm Hg asociat cu insuficienţă cardiacă dreaptă",
+        "DLCO 20% din valoarea prezisă",
+        "PaCO2 ≥ 45 mm Hg",
+        "PaO2 56-59 mmHg asociat cu policitemie (Ht > 56%)",
+        "SaO2 < 90%"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Selectați interfețele cu flux fix al O2",
+      "options": [
+        "Mască facială simplă",
+        "Mască facială cu reinhalare",
+        "Cortul facial",
+        "Canula nazală",
+        "Mască facială cu valvă Venturi"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectați interfețele cu flux variabil al O2",
+      "options": [
+        "Mască facială simplă",
+        "Mască facială cu reinhalare",
+        "Cortul facial",
+        "Canula nazală",
+        "Mască facială cu valvă Venturi"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Selectați contraindicațiile pentru ventilația noninvazivă",
+      "options": [
+        "Arsuri sau traume faciale",
+        "Chirurgie recenta a feţei sau cailor respiratorii",
+        "Obstrucţie fixă a căilor respiratorii superioare",
+        "Edemul Pulmonar",
+        "Gradient alveolo-capilar mic"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați modificările echilibrului acido-bazic asociate acidozei respiratorii",
+      "options": [
+        "pH ↓",
+        "CO2↑",
+        "CO2↓",
+        "pH ↑",
+        "HCO3 ↑"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Selectați modificările echilibrului acido-bazic asociate acidozei metabolice",
+      "options": [
+        "pH ↓",
+        "CO2↑",
+        "CO2↓",
+        "pH ↑",
+        "HCO3 ↓"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectați modificările echilibrului acido-bazic asociate alcalozei respiratorii",
+      "options": [
+        "pH ↓",
+        "CO2↑",
+        "CO2↓",
+        "pH ↑",
+        "HCO3 ↓"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați modificările echilibrului acido-bazic asociate alcalozei metabolice",
+      "options": [
+        "pH ↓",
+        "CO2↑",
+        "CO2↓",
+        "pH ↑",
+        "HCO3 ↑"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați caracteristicile insuficienței respiratorii tip I",
+      "options": [
+        "PaO2 <60 mmHg",
+        "PaCO2 normal sau micşorat",
+        "pH normal sau crescut",
+        "PaCO2 crescut",
+        "pH micșorat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați caracteristicile insuficienței respiratorii tip II",
+      "options": [
+        "PaO2 micșorat sau normal",
+        "PaCO2 normal sau micşorat",
+        "pH micșorat",
+        "PaCO2 crescut",
+        "pH crescut"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați bolile cu risc sporit de hipercapnie în caz de instalare a IR acute",
+      "options": [
+        "BPOC",
+        "Pneumonia",
+        "Boli neuromusculare cronice",
+        "Obezitatea morbidă",
+        "Astmul bronșic"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați complicațiile induse de insuficiența respiratorie",
+      "options": [
+        "Hipertensiunea pulmonară",
+        "Pneumonia",
+        "Poliglobulia",
+        "Denutriţia",
+        "BPOC"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați indicațiile pentru ventilația mecanică invazivă",
+      "options": [
+        "pH < 7.25",
+        "Periclitarea permiabilităţii căilor respiratorii",
+        "Dereglări de conştiinţă",
+        "SaO2 < 90%",
+        "VEMS 1,2 l"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care dintre următoarele reprezintă cauză de tuse cronică cu radiografie toracică anormală",
+      "options": [
+        "Embolia pulmonară",
+        "Infecţia căilor aeriene superioare",
+        "Corpi străini",
+        "IECA",
+        "Sarcoidoza"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Într-o fibroză pulmonară idiopatică, în mod tipic:",
+      "options": [
+        "Debutul este brusc, cu tuse şi expectorație mucopurulentă",
+        "Apar frecvent semne extrarespiratorii",
+        "Vârsta medie de apariție este de 20 de ani",
+        "Evoluția este favorabilă, spre vindecare",
+        "La HRCT este prezentă imaginea în fagure de miere"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Pentru sindromul Heerfordt-Waldenström sunt corecte toate cu excepția",
+      "options": [
+        "Este o formă acută a sarcoidozei",
+        "Adenopatie hilară",
+        "Uveită",
+        "Parotidită",
+        "Pareză de nerv facial"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Sarcoidoza poate afecta următoarele organe:",
+      "options": [
+        "Plămâni",
+        "Ganglioni limfatici",
+        "Piele",
+        "Ficat",
+        "Sarcoidoza poate afecta orice organ și sistem"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Care test este utilizat pentru monitorizarea pacienților cu sarcoidoză pulmonară?",
+      "options": [
+        "Biopsia pulmonară",
+        "Teste funcționale pulmonare",
+        "Testul HIV",
+        "BAAR",
+        "Hemograma"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din următoarele organe este cel mai puțin probabil să fie afectat afectat de sarcoidoză?",
+      "options": [
+        "Plămâni",
+        "Ganglioni limfatici",
+        "Stomac",
+        "Piele",
+        "Ficat"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care tip de afectare din sarcoidoză are cel mai bun prognostic pentru remisiune?",
+      "options": [
+        "Sindromul Löfgren",
+        "Neurosarcoidoza",
+        "Sarcoidoza cu implicarea cordului",
+        "Lupus pernio",
+        "Uveita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diagnosticul de tulburare ventilatorie restrictivă are la bază următoarele modificări ale testelor funcționale respiratorii",
+      "options": [
+        "Diminuarea CPT",
+        "VEMS/CVF micșorat",
+        "Diminuarea CVF",
+        "Creșterea CVF",
+        "Creşterea CPT"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Fibroza pulmonara idiopatică se caracterizează prin:",
+      "options": [
+        "Debut insidios cu tuse seacă",
+        "Debut acut cu tuse mucopurulentă",
+        "Dispnee de efort cu agravare progresivă",
+        "Pleurezie bilaterală",
+        "Vârsta medie apariţie ~ 50 ani"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Sindromul Löfgren este caracterizat de",
+      "options": [
+        "Debut insidios",
+        "Adenopatie hilară",
+        "Dispnee de efort cu agravare progresivă",
+        "Eritem nodos",
+        "Artralgii/artrite"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Pentru sindromul Heerfordt-Waldenström sunt corecte următoarele afirmații",
+      "options": [
+        "Este o formă acută a sarcoidozei",
+        "Adenopatie hilară",
+        "Uveită",
+        "Parotidită",
+        "Pareză de nerv facial"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care medicamente pot fi utilizate în tratamentul sarcoidozei",
+      "options": [
+        "Meloxicam",
+        "Prednizolon",
+        "Metotrexat",
+        "Fluconazol",
+        "Pentoxifilină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care din următoarele afirmații sunt corecte pentru sarcoidoză?",
+      "options": [
+        "letalitatea 5%",
+        "Atingerea cardiacă are un prognostic nefavorabil",
+        "Stadiul I radiologic de sarcoidoză are cel mai bun prognostic",
+        "Letalitatea 25%",
+        "Adenopatia hilară are cel mai nefavorabil prognostic"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din următoarele modificări sunt în favoarea diagnosticului de sarcoidoză?",
+      "options": [
+        "Hipercalcemie",
+        "Hipocacalcemie",
+        "Creșterea nivelului seric al angiotenzinconvertazei serice",
+        "Hipercalciurie",
+        "Micșorarea nivelului seric al angiotenzinconvertazei serice"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care investigații sunt utilizate pentru stabilirea diagnosticului de sarcoidoză?",
+      "options": [
+        "Radiografia oaselor tubulare",
+        "Radiografia toracelui",
+        "HRCT pulmonară",
+        "Biopsia organelor afectate",
+        "Scintigrafia osoasă"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Medicamente utilizate în tratamentul fibrozei pulmonare idiopatice sunt:",
+      "options": [
+        "Diclofenac",
+        "Meloxicam",
+        "Pirfenidonă",
+        "Nintedanib",
+        "Omalizumab"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pentru tratamentul fibrozei pulmonare idiopatice sunt acceptate:",
+      "options": [
+        "Oxigenoterapia de lungă durată",
+        "Omalizumab",
+        "Pirfenidonă",
+        "Nintedanib",
+        "Transplant pulmonar"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care variante din grupul pneumonitelor interstiţiale idiopatice au o evoluţie cronică progresivă?",
+      "options": [
+        "Pneumonita organizantă criptogenică",
+        "Pneumonita interstiţială acută",
+        "Pneumonita interstiţială nespecifică",
+        "Fibroza pulmonară idiopatică",
+        "Pneumonita interstiţială descuamativă"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care variante din grupul pneumonitelor interstiţiale idiopatice sunt asociate fumatului?",
+      "options": [
+        "Bronșiolita respiratorie asociată pneumopatiei interstițiale difuze",
+        "Pneumonita interstiţială acută",
+        "Pneumonita interstiţială nespecifică",
+        "Fibroza pulmonară idiopatică",
+        "Pneumonita interstiţială descuamativă"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Etiologia hipertensiunii pulmonare arteriale:",
+      "options": [
+        "Idiopatică",
+        "Familială",
+        "Asociată cu diferite colagenoze, hipertensiune portală, infecţie HIV, medicamente etc",
+        "Asociată cu modificări semnificative capilare sau venoase",
+        "Toate cele menţionate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Mecanismul prin care hipotiroidia induce HTP este:",
+      "options": [
+        "Hipotiroidia induce creşterea stresului de forfecare exercitat de eritrocite în microvascularizarea pulmonară",
+        "Mecanisme imune",
+        "Hipotiroidia contribuie la creşterea duratei de viaţă a hematiilor şi activarea plachetară",
+        "Distrucţia patului pulmonar",
+        "Hipotiroidia induce anomalii ale activităţii fibrinolitice"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care este metoda cea mai exactă de apreciere a presiunii în artera pulmonară:",
+      "options": [
+        "Scintigrafia de ventilaţie-perfuzie",
+        "Echocardiografia cu doppler",
+        "Angiografia pulmonară",
+        "Cateterismul cardiac",
+        "Bodypletismografia"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care dintre cele enumerate contribuie la apariţia cordului pulmonar cronic:",
+      "options": [
+        "Boli pulmonare obstructive şi restrictive",
+        "Tulburări ale centrului de control respirator",
+        "Hipoxia cronică de altitudine",
+        "Bolile pulmonare vasculare",
+        "Toate cele enumerate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Prin ce mecanism bolile pulmonare obstructive determină apariţia cordului pulmonar cronic:",
+      "options": [
+        "instalarea mecanismului adaptativ de vasoconstricţie pulmonară hipoxică secundară hipoxiei alveolare",
+        "Îngustarea şi obliterarea vaselor pulmonare",
+        "Îngroşarea vaselor datorită hipertrofiei stratului muscular",
+        "Microtromboze multiple",
+        "Trombembolii repetate"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care sunt complicaţiile cordului pulmonar cronic:",
+      "options": [
+        "Trombembolismul pulmonar",
+        "Aritmiile",
+        "Insuficienţa tricuspidiană",
+        "Disfuncţia organelor parenchimatoase",
+        "Toate cele enumerate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Hipertensiunea pulmonară asociată cu bolile pulmonare şi /sau hipoxia este cauzată de următoarele:",
+      "options": [
+        "BPOC",
+        "Bolile pulmonare interstiţiale",
+        "Apneea în somn",
+        "Expunere cronică la altitudini crescute",
+        "Expunere la raze UV"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care sunt mecanismele care contribuie la apariţia hipertensiunii pulmonare idiopatice:",
+      "options": [
+        "Vasoconstricţie excesivă şi obstrucţia de la nivelul arterelor pulmonare de calibru mic",
+        "Remodelarea vasculară",
+        "Fenomenele inflamatorii şi trombotice din patul vascular pulmonar",
+        "Activarea limfocitelor şi macrofagelor cu eliberarea de TNF-α declanşate de infecţia HIV",
+        "Nici unul din cele enumerate"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Mecanismele prin care infecţia HIV ar induce hipertensiunea pulmonară",
+      "options": [
+        "Acţiunea directă a virusului la creşterea rezistenţei şi remodelării vasculare",
+        "Acţiune indirectă determinată de activarea limfocitelor şi macrofagelor cu eliberarea de TNF-α cu efect proliferativ asupra celulelor endoteliale şi muscular netede pulmonare",
+        "Acţiunea indirectă a virusului HIV se realizează prin afectarea disfuziunii gazelor",
+        "Defect de producere a substanţelor vasoconstrictoare",
+        "Fenomene de tromboză in situ"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Mecanismele prin care bolile pulmonare produc hipertensiune pulmonară sunt",
+      "options": [
+        "Hipoxie",
+        "Inflamaţie",
+        "Pierdere de vase pulmonare",
+        "Tromboză in situ",
+        "Proliferare intimală şi modificări ale matricei extracelulare prin depozite de colagen şi elastină"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Simptomele clasice ale hipertensiunii pulmonare sunt",
+      "options": [
+        "Dispneea",
+        "Durerea toracică de tip anginos",
+        "Sincopa la efort",
+        "Moartea subită",
+        "Edemele suborbitale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Cum se clasifică cordul pulmonar cronic după criteriul etiologic",
+      "options": [
+        "Vascular",
+        "Bronhopulmonar",
+        "Toracodiafragmal",
+        "Interstiţial",
+        "Anatomic"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Cum se clasifică cordul pulmonar în funcţie de stadiul bolii",
+      "options": [
+        "Cord pulmonar compensat",
+        "Hipertensiune pulmonară tranzitorie, doar cu semne paraclinice de suprasolicitare a ventriculului drept",
+        "Hipertensiune pulmonară stabilă cu semne clinice de suprasolicitare a ventriculului drept",
+        "Decompensarea ventriculului drept, asociată cu insuficienţa respiratorie",
+        "Toate cele enumerate sunt false"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care afirmaţii referitoare la prognosticul pacienţilor cu cord pulmonar cronic sunt adevărate",
+      "options": [
+        "Media supravieţuirii la pacienţii cu edeme marcate constituie aproximativ 4 ani",
+        "Rata supravieţuirii la 2 ani a pacienţilor care anterior nu au avut edeme depăşeşte 70%",
+        "Rata supravieţuirii la 2 ani a pacienţilor cu semne clinice manifeste de insuficienţă ventriculară dreaptă constituie 40-45%",
+        "Media supravieţuirii la pacienţii cu edeme marcate constituie aproximativ 7 ani",
+        "Toate cele enumerate sunt adevărate"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Bărbat de 37 ani acuză durere toracică violentă pe dreapta cu debut brusc asociată cu dispnee. Alte simptome nu prezintă, iar anterior era sănătos. Nu menţionează traumatism toracic. Durerea toracică este acută, se înrăutăţeşte în inspir, fără hemoptizie, tuse sau spută, fără simptome de impregnare infecţioasă. Respiraţia este superficială, rapidă, frecvenţa 24/min, afebril. FCC - 108/min., SaO2 - 92%, TA 120/80. Traheea este situată median. Auscultativ: murmur vezicular diminuat pe dreapta, fără crepitaţii sau raluri. Percutor - sunet timpanic. Care este diagnosticul mai probabil?",
+      "options": [
+        "Pericardită",
+        "Pneumonie",
+        "Pneumotorax",
+        "Embolie pulmonară",
+        "Fracturi de coaste"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectaţi afirmaţiile adevărate",
+      "options": [
+        "Sindromul pleural se prezintă cu matitate deplasabilă la percuţie",
+        "Sindromul pleural se poate prezenta fără modificări percutorii",
+        "Sindromul pleural poate fi asociat cu sunet timpanic la percuţie",
+        "Sindromul pleural este reprezentat de matitate fixă la percuţie",
+        "Toate cele enumerate sunt adevărate"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care dintre cele enumerate cauzează transudat pleural",
+      "options": [
+        "Artrita reumatoidă",
+        "Embolia pulmonară",
+        "Pancreatita",
+        "Insuficienţă cardiacă congestivă",
+        "Obstrucţia de venă cavă superioară"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Următoarele afirmaţii sunt adevărate",
+      "options": [
+        "Hemotoraxul este revărsatul pleural sanguinolent al cărui hematocrit este cel puţin 50% din hematocritul sîngelui periferic",
+        "Chilotoraxul este revărsatul pleural format prin acumulare de limfă în urma afectării ductului limfatic toracic",
+        "Mai des chilotoraxul se observă pe stînga",
+        "Pleurezia din tuberculoza primară este provocată de colonizarea primară a Mycobacteriei pe pleură",
+        "Empiemul tuberculos este o complicaţie frecventă a tuberculozei netratate"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Care afirmaţii referitoare la examenul citologic al lichidului pleural sunt corecte",
+      "options": [
+        "Creşterea hematiilor peste 10 000/mm3 este caracteristică pleureziilor hemoragice din traumatism, neoplazice sau trombembolice",
+        "Creşterea neutrofilelor peste 10 000/mm3 este caracteristică pentru exudatele parapneumonice, tuberculoase, neoplazice",
+        "Predominarea limfocitelor orientează spre etiologia tuberculoasă, neoplazică sau virală",
+        "Eozinofilele în proporţie mai mare de 10% este caracteristică afecţiunilor asociate cu eozinofilie sanguină",
+        "Celulele atipice în lichidul pleural sunt sugestive de infecţie cu germeni atipici"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care afirmaţii referitoare la pleureziile neoplazice sunt adevărate",
+      "options": [
+        "Este una dintre cauzele frecvente de pleurezie masivă la vîrstnici",
+        "Geneza cea mai frecventă este din răspîndirea la pleură a carcinomului bronşic",
+        "Investigaţiile complexe pentru găsirea tumorii primare este o prerogativă în conduita pacientului",
+        "Pleurodeza nu este o opțiune de tratament",
+        "Puncţia evacuatorie este unica soluţie în acest caz"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Următoarele afirmaţii sunt false despre colecțiile pleurale lichidiene:",
+      "options": [
+        "Hemotoraxul este revărsatul pleural sanguinolent al cărui hematocrit este cel puţin 50% din hematocritul sîngelui periferic",
+        "Chilotoraxul este revărsatul pleural format prin acumulare de limfă în urma afectării ductului limfatic toracic",
+        "Mai des chilotoraxul se observă pe stînga",
+        "exudatul pleural din tuberculoză este preponderent neutrofilic",
+        "Empiemul tuberculos nu necesită drenare"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care dintre cele enumerate cauzează exudatul pleural",
+      "options": [
+        "Artrita reumatoidă",
+        "Embolia pulmonară",
+        "Pancreatita",
+        "Insuficienţă cardiacă congestivă",
+        "Obstrucţia de venă cavă superioară"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Afirmaţiile corecte referitoare la mezotelioam",
+      "options": [
+        "Mai frecvent apare la bărbaţi, după vîrsta de 60 ani",
+        "Mai frecvent apare la femei, după vîrsta de 60 ani",
+        "Există o legătură directă cu expunerea profesională îndelungată la azbest",
+        "La examenul lichidului pleural se constată lichid serohemoragic cu o cantitate sporită de acid hialuronic",
+        "Confirmarea histopatologică a mezoteliomului pleural se obţine prin biopsia pleurei"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Criteriile de diagnostic ale stării de rău astmatic sunt",
+      "options": [
+        "Criza de astm bronșic e însoțită de hipotonie",
+        "La pacient se dezvoltă bradicardia",
+        "Accesul se dezvoltă pe fundal de febră",
+        "Există dependența de corticosteroizi",
+        "Criza de astm bronșic durează peste 24 ore"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Selectați medicamentul cu efect bronholitic folosit în tratamentul astmului bronsic:",
+      "options": [
+        "Antihistaminicele",
+        "Antibioticele",
+        "Sulfanilamidele",
+        "Eufilina",
+        "Vitaminele"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Factorii principali în etiopatogeneza astmului bronsic sunt",
+      "options": [
+        "Factorii alergici",
+        "Factorii nonalergici",
+        "Hiperreactivitatea bronșică",
+        "Factorii genetici",
+        "Toate cele enumarate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Factorii care provoaca accesele astmatice sunt:",
+      "options": [
+        "Factorii alergici",
+        "Infecțiile virale",
+        "Efortul fizic",
+        "Refluxul gastroesofagian",
+        "Toate cele enumarate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Un loc primordial în investigația bolnavului astmatic ocupă",
+      "options": [
+        "Explorarea funcțională respiratorie",
+        "Examenul radiologic toracic",
+        "Examenele de laborator al sputei",
+        "Examenul de laborator al sângelui",
+        "Analiza gazelor sanguine"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Medicatia de elecție a accesului de astm sunt",
+      "options": [
+        "Medicamente anticolinergice",
+        "Corticosteroizii sistemici",
+        "Metilxantinele (teofilina)",
+        "Cromoglicatul disodic",
+        "Agoniști beta 2- adrenergici"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Mecanismul de acțiune a aminofilinei în tratamentul astmului bronșic este condiționat de",
+      "options": [
+        "Creșterea producerii de fosfodiesteraza",
+        "Inhibarea producerii de fosfodiesteraza",
+        "Creșterea eliberarii de Ca++ intracelular",
+        "Micșorarea eliberării de catecolamine",
+        "Micșorarea AMPc intracelular"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cauza majoră a hiperreactivității bronșice la persoanele atopice cu astm bronșic",
+      "options": [
+        "Efortul fizic",
+        "Stresul psihoemotional",
+        "Infecțiile respiratorii",
+        "Alergenii din mediu",
+        "Aerul rece"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Pentru astmul bronșic este caracteristică variabilitatea zilnică a debitului expirator de vârf",
+      "options": [
+        "Sub 1%",
+        "Peste 5%",
+        "Peste 15%",
+        "Sub 10%",
+        "Nu este variabilitate"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pentru astmul bronșic sunt valabile următoarele devieri ale parametrilor ventilației pulmonare",
+      "options": [
+        "Creșterea volumelor expiratorii forțate",
+        "Creșterea volumului expirator forțat în prima secundă",
+        "Scăderea volumului expirator forțat în prima secundă",
+        "Scăderea volumului expirator forțat în primul minut",
+        "Nici una din aceste afirmații nu este corectă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alergenele ce pot provoca astmul bronșic atopic sunt",
+      "options": [
+        "Praful de casă-acarieni",
+        "Polenurile",
+        "Sporii fungici",
+        "Alergenele bacteriene",
+        "Alergene epidermale"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Evaluarea severității astmului bronșic se efectuează conform următoarelor criterii:",
+      "options": [
+        "Citologia sputei",
+        "Valoarea VEMS-ului",
+        "variabilitatea circadiană a PEF-ului",
+        "Frecvența acceselor nocturne și diurne de astm bronsic",
+        "PEF-ul"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Astmul bronșic este o afecțiune cronică la baza căreia se află un proces",
+      "options": [
+        "Inflamator cronic al căilor respiratorii",
+        "Însoțit de remodelare a peretelui bronșic",
+        "La care participă multiple celule, în deosebi, mastocitele si eozinofilele",
+        "La care participă multiple celule, în deosebi, limfocitele",
+        "Caracterizat de dilatare a lumenului bronșic"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Astmul bronșic ușor, intermitent se caracterizează prin",
+      "options": [
+        "Crize de astm rare < 1 data pe saptamâna",
+        "Exacerbările pot afecta activitatea fizică și somnul",
+        "Exacerbări scurte",
+        "VEMS > 80% din prezis",
+        "Variabilitatea PEF-ului constituie <20%"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Astmul bronșic persistent ușor se caracterizează prin",
+      "options": [
+        "Accese  nocturne  mai frecvente de 1 data pe saptamâna",
+        "Exacerbările pot afecta activitatea fizică și somnul",
+        "VEMS > 80% din prezis",
+        "PEF < 60% din prezis",
+        "Variabilitatea PEF-ului constituie 20-30%"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Astmul bronșic persistent sever se caracterizează prin",
+      "options": [
+        "Crize permanente, rău astmatic",
+        "Exacerbări frecvente",
+        "VEMS 60-80% din prezis",
+        "PEF < 60% din prezis",
+        "Variabilitatea PEF-ului constituie >30%"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Pentru tratamentul de fond al astmului persistent ușor sunt folosite",
+      "options": [
+        "Agonisti beta2 - adrenergici cu acțiune rapidă",
+        "Corticosteroizii în doze mici",
+        "Metilxantinele (teofilina)",
+        "Antileucotriene",
+        "Anticolinergice"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Pentru tratamentul de urgență al astmului bronșic sunt folosite",
+      "options": [
+        "Agonisti beta2 - adrenergici cu acțiune rapidă",
+        "Corticosteroizii inhalatori",
+        "Metilxantinele (teofilina)",
+        "Cromoglicatul disodic",
+        "Anticolinergice"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul astmului acut grav (stare de rău astmatic) include:",
+      "options": [
+        "Medicația bronhodilatatorie",
+        "Administrarea de oxigen",
+        "Corticosteroizi sistemici",
+        "Medicamente sedative sau tranchilizante",
+        "Antihistaminice H2"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Examenul sputei în astmul bronșic relevă următoarele elemente caracteristice",
+      "options": [
+        "Eozinofile",
+        "Fibre elastice",
+        "Spirale Curschmann",
+        "Celule atipice",
+        "Leucocite"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Ce reprezintă starea de rău astmatic (status asmaticus)?",
+      "options": [
+        "Acces de astm cu o durată de cîteva ore",
+        "Acces de astm cu o durată lungă (peste 24 ore)",
+        "Nu răspunde la tratamentul uzual cu bronhodilatatoare",
+        "Se jugulează spontan sau la tratamentul cu bronhodilatatoare",
+        "Este însoțit de tulburări gazometrice"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Starea de rău astmatic este condiționată de:",
+      "options": [
+        "Întreruperea tratamentului cu corticosteroizi",
+        "Folosirea abuzivă a beta2 - agoniștilor",
+        "Infecțiile virale acute respiratorii",
+        "Contact cu alergenul",
+        "Insuficiența acută a ventriculului drept"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Explorarea spirografică a astmului bronșic relevă următoarele perturbări caracteristice",
+      "options": [
+        "Creșterea ușoară a capacității pulmonare totale",
+        "Creșterea volumului rezidual",
+        "Scăderea capacității reziduale funcționale",
+        "Scăderea VEMS proporțional cu severitatea astmului",
+        "Scăderea indicelui Tiffeneau"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Astmul bronșic este o boala a căilor respiratorii manifestată prin",
+      "options": [
+        "Creșterea reactivității traheobronșice la diferiți stimuli",
+        "Tulburări ale sistemului de reglare a respirației",
+        "Obstrucție respiratorie reversibilă",
+        "Obstrucție difuză ireversibilă și progresivă a căilor respiratorii",
+        "Dischinezie traheobronșică"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Astmul bronșic non-alergic este caracterizat prin",
+      "options": [
+        "Este generat de un mecanism imunologic tip I",
+        "Debutul bolii se înregistrează după 30-35 ani",
+        "Istoricul personal și/sau familial identifică anamneza alergologică agravată",
+        "Teste cutanate negative la alergeni",
+        "Teste cutanate pozitive la alergeni"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Efectele mediatorilor inflamației în căile aeriene în cazul astmului bronșic sunt",
+      "options": [
+        "Micșorarea permeabilității vasculare",
+        "Contracția mușchilor netezi",
+        "Hiposecreție mucoidă",
+        "Hipertrofia masei musculare",
+        "Atrofia epitelilului ciliar"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "În astmul bronșic se produc următoarele modificări morfologice",
+      "options": [
+        "Infiltrate cu celule inflamatorii",
+        "Hipertrofia glandelor submucoase",
+        "Hipertrofia musculaturii netede a căilor aeriene",
+        "Hiperplazia glandelor submucoase",
+        "Atrofia glandelor mucoasei"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Valorile VEMS si PEF sunt folosite pentru",
+      "options": [
+        "Aprecierea severității astmului bronșic",
+        "Aprecierea reversibilității obstrucției bronșice",
+        "Evaluarea hiperreactivității bronșice",
+        "Determinarea forței de contracție a mușchilor ventilatori",
+        "Aprecierea severității pleuropneumoniei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Factorii declanșatori (triggeri) pentru astmul bronșic sunt",
+      "options": [
+        "Efortul fizic",
+        "Factorul psihologic",
+        "Refluxul gastroesofagian",
+        "Boli nazale sau sinusale",
+        "Vitaminele"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Complicațiile posibile în timpul unui acces de astmului bronșic sunt:",
+      "options": [
+        "Cord pulmonar acut",
+        "Emfizem pulmonar",
+        "Fracturarea coastelor",
+        "Pneumotorax spontan",
+        "Atelectazie pulmonară"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Complicațiile astmului bronșic între accese sunt",
+      "options": [
+        "Pneumonii",
+        "Pneumotorax spontan",
+        "Aspergiloza bronhopulmonară alergică",
+        "Emfizem pulmonar",
+        "Bronșiectazii"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Diagnosticul diferențial în astmul bronșic se va face cu",
+      "options": [
+        "Insuficiența ventriculară dreaptă",
+        "Bronșita cronică obstructivă",
+        "Sindromul de hiperventilație",
+        "Bronșiolita acută",
+        "Astmul cardiac"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Obiectivele tratamentului antiasmatic sunt",
+      "options": [
+        "Controlul manifestărilor acute cu doze mari de beta2 -agoniști",
+        "Controlul manifestărilor acute cu doze mici de beta2 -agoniști",
+        "Prevenirea exacerbărilor",
+        "Menținerea funcției pulmonare joase",
+        "Reacții adverse medicamentoase minime"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care este tratamentul răului astmatic",
+      "options": [
+        "Spitalizarea în secția de terapie intensivă",
+        "Tratament ambulator",
+        "Administrarea de O2",
+        "Corticosteroizi inhalator în doze medii",
+        "Corticosteroizi sistemici"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Ventilația mecanică în răul astmatic este indicată în caz de:",
+      "options": [
+        "Amelioarea simptomelor",
+        "Travaliu expirator excesiv cu epuizare musculară",
+        "Tensiune arterială sistolică < 90 mmHg",
+        "pH 7,40",
+        "PaCO2 >55 mmHg"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "În starea de rău astmatic:",
+      "options": [
+        "Tahicardia se va trata cu β-blocante",
+        "Acidoza respiratorie se va corecta cu bicarbonat de Na",
+        "Acidoza respiratorie nu se va corecta cu bicarbonat de Na",
+        "Tahicardia nu se va trata cu β-blocante",
+        "Expectorantele, mucoliticele nu au beneficiu în răul astmatic"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Explorarea funcțională respiratorie apreciază:",
+      "options": [
+        "Gradul obstrucției",
+        "Variabilitatea obstrucției",
+        "Reversibilitatea obstrucției bronșice",
+        "Se va efectua doar în timpul accesului de astm",
+        "Gradul de control al astmului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Notați afirmația caracteristică abceselor pulmonare primare",
+      "options": [
+        "constituie complicații ale unei leziuni locale preexistente (cancer, corpi străini, chisturi, stenoză bronșică etc.)",
+        "se dezvoltă pe teritorii pulmonare anterior sănătoase, etiologic aparținând infecțiilor cu bacterii anaerobe",
+        "constituie modalități evolutive ale pneumoniilor cu anumiți germeni (stafilococi, Klebsiela, Pseudomonas) - așa zisele pneumonii necrozate",
+        "reprezintă dilatații permanente și ireversibile ale bronhiilor subsegmentare sugerate de consecințele  clinice ale infecției cronice sau recurente în căile respiratorii dilatate",
+        "sunt favorizate de preexistența stenozelor bronșice (tumorale, inflamatorii, cicatriceale sau din corpi străini), a bronșiectaziilor sau chisturilor"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Debutul bronșiectaziilor de obicei este",
+      "options": [
+        "acut la contactul cu anumiți alergeni",
+        "acut, rapid și progresiv în in infecțiile cu germeni anaerobi",
+        "lent, cu stări de acutizări în perioada rece și umedă a anului: tuse, frecvent mucopurulentă, preponderent dimineața, periodic cu striuri de sânge, simptome de impregnare infecțioasă",
+        "lent, prin embolizarea trunchiului arterei pulmonare sau a uneea din cele două ramuri ale sale, sau a multiplelor ramificații mici",
+        "lent, cu febră foarte înaltă și frison solemn"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Notați afirmația caracteristică tabloului radiologic în gangrena pulmonară",
+      "options": [
+        "o zonă de opacitate în interiorul căreia se găsește o hipertransparență circumscrisă",
+        "opacități inelare sau curvilinii, opacități în bandă (\"tuburi pline\"), \"linii de tramvai\", formațiuni chistice dispuse în rozete, formațiuni chistice sau hidroaerice de dimensiuni mici",
+        "opacitate omogenă, densă, cu limita superioară concavă, deplasabilă cu poziția bolnavului",
+        "opacitate masivă cu transparențe multiple de forme neregulate, uneori cu nivel de lichid",
+        "opacitate cu hipertransparență circumscrisă și cu nivel lichidian în interiorul ei (imagine hidroaerică), care rămâne orizontal la schimbarea poziției corpului"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Notați afirmația caracteristică tabloului radiologic al unui abces drenat complet",
+      "options": [
+        "o zonă de opacitate în interiorul căreia se găsește o hipertransparență circumscrisă",
+        "opacități inelare sau curvilinii, opacități în bandă (\"tuburi pline\"), \"linii de tramvai\", formațiuni chistice dispuse în rozete, formațiuni chistice sau hidroaerice de dimensiuni mici",
+        "opacitate omogenă, densă, cu limita superioară concavă, deplasabilă cu poziția bolnavului",
+        "opacitate masivă cu transparențe multiple de forme neregulate, uneori cu nivel de lichid",
+        "opacitate cu hipertransparență circumscrisă și cu nivel lichidian în interiorul ei (imagine hidroaerică), care rămâne orizontal la schimbarea poziției corpului"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Notați afirmația caracteristică tabloului radiologic al unui abces cu evacuare incompletă a secrețiilor",
+      "options": [
+        "zonă de opacitate în interiorul căreia se găsește o hipertransparență circumscrisă",
+        "opacități inelare sau curvilinii, opacități în bandă (\"tuburi pline\"), \"linii de tramvai\", formațiuni chistice dispuse în rozete, formațiuni chistice sau hidroaerice de dimensiuni mici",
+        "opacitate omogenă, densă, cu limita superioară concăvă, deplasabilă cu poziția bolnavului",
+        "opacitate masivă cu transparențe multiple de forme neregulate, uneori cu nivel de lichid",
+        "opacitate cu hipertransparență circumscrisă și cu nivel lichidian în interiorul ei (imagine hidroaerică), care rămâne orizontal  la schimbarea poziției corpului"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Notați afirmația caracteristică tabloului radiologic în cazurile avansate de bronșiectazii",
+      "options": [
+        "o zonă de opacitate în interiorul căreia se găsește o hipertransparență circumscrisă",
+        "opacități inelare sau curvilinii, opacități în bandă (\"tuburi pline\"), \"linii de tramvai\", formațiuni chistice dispuse în rozete, formațiuni chistice sau hidroaerice de dimensiuni mici",
+        "opacitate omogenă, densă, cu limita superioară concavă, deplasabilă cu poziția bolnavului",
+        "opacitate masivă cu transparențe multiple de forme neregulate, uneori cu nivel de lichid s",
+        "opacitate cu hipertransparență circumscrisă și cu nivel lichidian în interiorul ei (imagine hidroaerică), care rămâne orizontal  la schimbarea poziției corpului"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Notați afirmația ce caracterizează evoluția unui abces pulmonar în condițiile unui tratament medical corect instituit precoce",
+      "options": [
+        "tratamentul cu antibiotice este mai puțin eficient, iar evoluția de mai lungă durată",
+        "evoluția este, de regulă, favorabilă, procesul supurativ regresează, iar cavitatea devine din ce în ce mai mică până dispare (în 5-6 săptămâni)",
+        "poate avea loc extinderea locală a infecției (empiem, piopneumotorace, pericardită, mediastenită)",
+        "poate avea loc generalizarea procesului infecțios (septicemie, abcese metastatice, șoc toxicoseptic)",
+        "se poate complica cu hemoragie pulmonară, cronicizare, scleroză pulmonară, bronșiectazii, amiloidoză"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Notați afirmația incorectă în tratamentul antimicrobian pentru abcesele pulmonare produse de agenți anaerobi",
+      "options": [
+        "tratamentul antimicrobian este îndelungat, cu doze mari de antibacteriene",
+        "sunt acceptate trei scheme de tratament antibacterial: cu penicilină; cu clindamicină; cu penicilină plus metronidazol",
+        "regimul tratamentului intravenos antimicrobian continuă până se ameliorează starea generală, dispare febra și nivelul hidroaeric pe radiogramă",
+        "regimul tratamentului intravenos antimicrobian continuă 3-5 zile după normalizarea temperaturii",
+        "tratamentul intravenos este urmat de aplicarea perorală a antimicrobienelor, care va continua până la dispariția totală a semnelor radiologice, sau până rămân doar niște leziuni reziduale mici și stabile"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Notați afirmațiile caracteristice abceselor pulmonare secundare",
+      "options": [
+        "constituie complicații ale unei leziuni locale preexistente (cancer, corpi străini, chisturi, stenoză bronșică etc.)",
+        "se dezvoltă pe teritorii pulmonare anterior sănătoase, etiologic aparținând infecțiilor cu bacterii anaerobe",
+        "constituie modalități evolutive ale pneumoniilor cu anumiți germeni (stafilococi, Klebsiela, Pseudomonas) - așa zisele pneumonii necrozate",
+        "reprezintă dilatații permanente și ireversibile ale bronhiilor subsegmentare sugerate de consecințele  clinice ale infecției cronice sau recurente în căile respiratorii dilatate",
+        "sunt favorizate de preexistența stenozelor bronșice (tumorale, inflamatorii, cicatriceale sau din corpi străini), a bronșiectaziilor sau chisturilor"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Incidența supurațiilor pulmonare este sporită",
+      "options": [
+        "în timpul epidemiilor de gripă (pneumonii stafilococice postvirale)",
+        "la pacienții cu statusul atopic (alergic) mărit",
+        "la pacienții cu deficiență de α1-antitripsină",
+        "în condițiile de imunitate compromisă (diabet zaharat, ciroză hepatică, alcoolism, malignități, tratament imunosupresiv etc.)",
+        "la pacienții cu risc de aspirație (tulburări de conştienţă, tulburări de deglutiţie, reflux gastro-esofagian, micşorarea activităţii motorii esofagiene)"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați cei doi factori patogenetici de bază, coexistența cărora este necesară pentru formarea abcesului pulmonar primar",
+      "options": [
+        "vasculita cu patogenia neclară, care afectează vasele pulmonare și bronhiale",
+        "infecția gingivală (gingivita sau pioreea), care asigură germenii",
+        "aspirația, care asigură accesul spre parenchimul pulmonar",
+        "tromboza extensivă în vasele pulmonare și bronhiale, care duce la sfacelarea țesutului",
+        "slăbiciunea congenitală a peretelui bronșic, care duce la dilatarea ireversibilă a lor"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Debutul unui abces pulmonar acut de obicei este",
+      "options": [
+        "insidios în infecțiile cu bacterii aerobe",
+        "acut, rapid și progresiv în in infecțiile cu germeni anaerobi",
+        "lent, cu stări de acutizări în perioada rece și umedă a anului: tuse, frecvent mucopurulentă, preponderent dimineața, periodic cu striuri de sânge, simptome de impregnare infecțioasă",
+        "insidios în infecțiile cu germeni anaerobi",
+        "acut, rapid și progresiv în in infecțiile cu bacterii aerobe"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Dacă focarul unui abces pulmonar acut este situat aproape de periferia plamânului, în faza de constituire (faza pneumonică a abcesului pulmonar), obiectiv se atestă",
+      "options": [
+        "freamăt vocal accentuat",
+        "freamăt vocal diminuat/abolit",
+        "matitate/submatitate fixă",
+        "suflu tubar patologic",
+        "bronhofonie, pectorilocvie afonă"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Dacă focarul unui abces pulmonar acut este situat aproape de periferia plamânului, în faza de drenare bronșică, obiectiv se atestă",
+      "options": [
+        "freamăt vocal accentuat",
+        "hipersonoritate timpanică",
+        "frotație pleurală",
+        "suflu cavernos",
+        "crepitație"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Tusea la un pacient cu abces pulmonar drenat incomplet are următoarele caracteristici",
+      "options": [
+        "se accentuează când bolnavul stă culcat în poziția ce favorizează mobilizarea secrețiilor din cavitatea abcesului și eliminarea lor",
+        "este supărătoare, cu spută în cantitate variată: de la abundentă la nesemnificativă (ori de câte ori drenarea focarului se întrerupe)",
+        "poate fi cu spută mucopurulentă, purulentă sau piosanguinolentă, adesea fetidă",
+        "este sezonieră, fiind însoțită de rinită și de raluri sibilante",
+        "este sezonieră, fiind însoțită de rinită și de raluri sibilante"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Notați formele clinice particulare de abces pulmonar",
+      "options": [
+        "abcesul pulmonar primitiv (de aspirație)",
+        "abcesul pulmonar \"decapitat\"",
+        "abcesul pulmonar \"descălțat\"",
+        "abcesul pulmonar secundar",
+        "abcese pulmonare mari (gigante)"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile caracteristice abceselor pulmonare primitive (de aspirație)",
+      "options": [
+        "constituie complicații ale unei leziuni locale preexistente (cancer, corpi străini, chisturi, stenoză bronșică etc.)",
+        "se dezvoltă pe teritorii pulmonare anterior sănătoase",
+        "constituie modalități evolutive ale pneumoniilor cu anumiți germeni (stafilococi, Klebsiela, Pseudomonas) - așa zisele pneumonii necrozate",
+        "la acești pacienți se atestă surse endogene de anaerobi (periodontite, gingivite etc.)",
+        "la acești pacienți se atestă afecțiuni, care favorizează aspirația (tulburări de conştienţă, tulburări de deglutiţie, reflux gastro-esofagian, micşorarea activităţii motorii esofagiene)"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile caracteristice abcesului pulmonar cronic",
+      "options": [
+        "decurge mai mult de 3 luni, cu perioade de remisie și acutizări",
+        "decurge mai puțin de 2 luni, rezolvându-se prin autolimitare",
+        "în perioada de acutizări bolnavii acuză dispnee, tuse cu eliminări de spută purulentă cu miros fetid, periodic hemoptizie, subfebrilitate",
+        "se pot constata pierderea ponderală, anemia, hipocratismul digital, splenomegalia",
+        "se tratează cu doze mici de antibiotice de spectru larg, timp de 7-10 zile"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notați afirmațiile caracteristice abceselor pulmonare hematogene (embolice)",
+      "options": [
+        "apar drept complicații ale emboliilor septice (de exemplu, în tromboflebitele purulente ale venelor bazinului)",
+        "se pot dezvolta în cadrul unor septicemii (cu stafilococ auriu, Klebsiella, streptococi, bacili Gram negativi etc.)",
+        "pot apare din endocardita inimii drepte la consumatorii de droguri intravenos",
+        "debutul bolii este de obicei brusc, cu frison, iar evoluția mult mai rapidă (fulminantă) cu lipsa expectorației fetide și a factorilor predispozanți către aspirația cu anaerobi",
+        "pleureziile sunt foarte rare, iar empiemul pleural practic nu se asociază"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notați examenele paraclinice necesare pentru diagnosticul supurațiilor pulmonare",
+      "options": [
+        "testele cutanate alergice",
+        "examene radiologice ale cutiei toracice",
+        "examenul sputei (analiza generală, sputocultura etc.)",
+        "examenul hematologic (inclusiv hemoculturile)",
+        "bronhoscopia"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile corecte caracteristice pentru evoluția unui abces pulmonar de dimensiuni mari diagnosticat tardiv, cu țesut de scleroză din jur mai dezvoltat",
+      "options": [
+        "tratamentul cu antibiotice este mai puțin eficient, iar evoluția de mai lungă durată",
+        "evoluția este, de regulă, favorabilă, procesul supurativ regresează, iar cavitatea devine din ce în ce mai mică până dispare (în 5-6 săptămâni)",
+        "poate avea loc extinderea locală a infecției (empiem, piopneumotorace, pericardită, mediastenită)",
+        "poate avea loc generalizarea procesului infecțios (septicemie, abcese metastatice, șoc toxicoseptic)",
+        "se poate complica cu hemoragie pulmonară, cronicizare, scleroză pulmonară, bronșiectazii, amiloidoză"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile corecte caracteristice pentru tratamentul antimicrobian în abcesele pulmonare produse de agenți anaerobi",
+      "options": [
+        "tratamentul antimicrobian este îndelungat, cu doze mari de antibacteriene",
+        "sunt acceptate trei scheme de tratament antibacterial: cu penicilină; cu clindamicină; cu penicilină plus metronidazol",
+        "regimul tratamentului intravenos antimicrobian continuă până se ameliorează starea generală,   dispare febra și nivelul hidroaeric pe radiogramă",
+        "regimul tratamentului intravenos antimicrobian continuă 3-5 zile după normalizarea temperaturii",
+        "tratamentul intravenos este urmat de administrarea perorală a antimicrobienelor, care va continua până la dispariția totală a semnelor radiologice, sau până rămân doar niște mici și stabile leziuni reziduale"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Dilatările în bronșiectazii pot fi clasificate în următoarele tipuri:",
+      "options": [
+        "cilindrice (tubulare, fusiforme)",
+        "centrale (în bronhiile principale, lobare și segmentare), cu celule scuamoase",
+        "varicoase (moniliforme)",
+        "periferice, cu celule mici (\"în boabe de ovăz\")",
+        "saculare (chistice, ampulare)"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile corecte caracteristice pentru debutul bolii bronșiectatice",
+      "options": [
+        "în lipsa infecției bolnavul mult timp nu-și cunoaște suferința",
+        "debutul maladiei este lent, în perioada rece și umedă a anului",
+        "boala debutează acut, cu un frison \"solemn\" și \"junghi \" toracic",
+        "boala debutează cu tuse, frecvent mucopurulentă, preponderent dimineața, periodic cu striuri de sânge sau miros fetid",
+        "deseori se asociază simtome de impregnare infecțioasă: astenie nemotivată, indispoziție, febră, cefalee, vertij, anorexie"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile corecte caracteristice pentru tabloul clinic al bolii bronșiectatice avansate",
+      "options": [
+        "simptomul de bază este tusea chinuitoare (continuă), preponderent dimineața (\"toaleta bronșică matinală\")",
+        "sputa este purulentă, cu miros fetid, expectorându-se în cantități mari (de la 20-30 ml până la sute mililitri - vomica)",
+        "sputa, de obicei, se depune în 4 straturi - spumos și aerat, mucopurulent, mucos, purulent",
+        "tusea, deobicei, este neproductivă, chinuitoare (\"spastică\"), uneori  însoțindu-se de expectorație în cantitate mică, dificilă, sub formă de mulaj bronșic",
+        "periodic poate apărea hemoptizia - spută uniform colorată (din vasele bronșice) sau sub aspect de striuri sanguinolente"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Notați afirmațiile corecte caracteristice pentru tabloul clinic obiectiv în bronșiectaziile avansate",
+      "options": [
+        "acrocianoza",
+        "hiperemia obrazului pe partea afectată",
+        "scăderea ponderală",
+        "hipocratismul digital",
+        "retard fizic (în cazurile cu debut din copilărie)"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Tabloul clinic \"tipic\" (debut brusc, tuse productivă cu spută purulentă, durere toracică de tip pleural, semne de condensare pulmonară) este mai des observat în pneumoniile cauzate de",
+      "options": [
+        "Streptoccocus pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Pneumocystis jiroveci",
+        "Coxiella burnetti",
+        "Chlamydophila psittaci"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tabloul clinic \"atipic\" este mai des observat în pneumoniile comunitare cauzate de",
+      "options": [
+        "Mycoplasma pneumoniae",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Pneumocystis jiroveci",
+        "Bacili enterici aerobi Gram negativi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pneumoniile, survenite la pacienții cu infecții pe catetere intravenoase, sunt cel mai frecvent determinate de",
+      "options": [
+        "Staphylococcus aureus",
+        "Mycoplasma pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Anaerobi orali",
+        "Haemophylus influenzae"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pneumonia nosocomială este definită ca pneumonia care:",
+      "options": [
+        "s-a dezvoltat după 12 ore de la internare",
+        "s-a dezvoltat după 24 ore de la internare",
+        "s-a dezvoltat după 48 ore de la internare",
+        "s-a dezvoltat după 72 ore de la internare e) [] s-a dezvoltat după 36 ore de la internare"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care din agentii patogeni enumerați nu pot fi cultivaţi pe medii de cultură obişnuite?",
+      "options": [
+        "Mycoplasma pneumoniae",
+        "Chlamydophila pneumoniae",
+        "Pneumocystis jiroveci",
+        "micobacteriile",
+        "toate microorganismele de mai"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Tabloul clinic \"atipic\" al pneumoniei la un pacient HIV seropozitiv mai des sugerează infecţia cu",
+      "options": [
+        "Legionella pneumophila",
+        "Chlamydophila pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Pneumocystis jiroveci",
+        "Haemophylus influenzae"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Durata tratamentului în pneumonia prin Legionella este de",
+      "options": [
+        "1 săptămînă",
+        "4 săptămîni",
+        "minim 3 săptămîni",
+        "minim 3 săptămîni",
+        "4-5 săptămîni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Medicamentul de elecţie în tratamentul pneumoniei prin Pneumocystis jiroveci este",
+      "options": [
+        "AMO/AC",
+        "ceftriaxon",
+        "trimetoprim-sulfametoxazol",
+        "ceftazidim",
+        "amikacină"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Antibioticele de elecţie în tratamentul pneumoniei prin micoplasmă sau chlamidie sunt",
+      "options": [
+        "penicilinele",
+        "macrolidele",
+        "aminoglicozidele",
+        "cefalosporinele",
+        "carbapenemii"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Pacienta C., 18 ani, prezintă dispnee, tuse cu spută ruginie, durere în hemitoracele stîng, febră 38-39˚C. La examenul obiectiv, pe stânga subscapular se determină matitate și suflu tubar. În hemoleucogramă se evidențiază leucocitoza 17,0x109/l și VSH - 36 mm/h. Care este diagnosticul prezumtiv?",
+      "options": [
+        "Pneumonie pneumococică",
+        "Pneumonie nosocomială",
+        "Abces pulmonar",
+        "Pleurezie exsudativă",
+        "Bronşită acută"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Criteriile de spitalizare la pacienții cu pneumonii sunt: a) [ x] vârsta peste 60 ani",
+      "options": [
+        "comorbidități importante",
+        "imposibilitatea de îngrijire la domiciliu",
+        "etiologie necunoscută",
+        "dorința pacientului"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "La pacienţii spitalizaţi în secția terapie intensivă pentru pneumonie comunitară cei mai frecvenţi patogeni sunt",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Streptoccocus pneumoniae",
+        "Klebsiella pneumoniae",
+        "Haemophilus influenzae",
+        "Legionella pneumophila"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Pneumonia nosocomială cu debut tardiv mai des este cauzată de",
+      "options": [
+        "Bacilii enterici Gram negativi",
+        "Mycoplasma pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Streptoccocus pneumoniae",
+        "Staphylococcus aureus (MRSA)"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Particularităţile evoluţiei pneumoniei prin Staphylococcus aureus sunt",
+      "options": [
+        "pneumatocelele",
+        "empiemul",
+        "evoluţia uşoară",
+        "opacităţile rotunde",
+        "hemoleucograma neschimbată"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Terapia antimicrobiană orală empirică folosită în tratamentul ambulator al pacienţilor cu pneumonie comunitară vizează următorii agenți patogeni",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pneumonia",
+        "Chlamydophila pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Agenţii patogeni incriminați infecției pulmonare la un pacient cu neutropenie severă (< 500 neutrofile/mm3) și febră persistentă pe fondalul antibioterapiei sunt",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Candida spp.",
+        "Mycoplasma pneumoniae",
+        "Criptoccocus neoformans",
+        "Haemophylus influenzae"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Factorii incriminaţi în ineficiența antibioterapiei empirice a pneumoniei comunitare sunt",
+      "options": [
+        "bronşiectaziile",
+        "agentul etiologic rezistent",
+        "obstrucţia endobronsică",
+        "vârsta peste 65 ani",
+        "empiemul"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "La persoanele infectate cu virusul imunodeficientei umane de tip 1 (HIV-1) infecțiile pulmonare sunt determinate mai frecvent de",
+      "options": [
+        "Chlamydophila psittaci",
+        "Pneumocystis jiroveci",
+        "Mycobacterium tuberculosis",
+        "Streptococcus pneumoniae",
+        "Mycoplasma pneumoniae"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Diagnosticul etiologic al pneumoniei prin Legionella pneumophila în practica medicală se poate realiza prin",
+      "options": [
+        "microscopia frotiului colorat după Gram",
+        "hemoculturi",
+        "sputoculturi pe agar-ciocolată",
+        "determinarea antigenului urinar",
+        "determinarea anticorpilor serici prin testul ELISA"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt cauzele neinfecţioase ale cavităților pulmonare",
+      "options": [
+        "diabetul zaharat",
+        "] insuficiența renală",
+        "aspergiloza pulmonară",
+        "neoplasmul pulmonar",
+        "granulomatoza Wegener"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Antibacterienele cu activitate antipiocianică sunt",
+      "options": [
+        "piperacilină/tazobactam",
+        "ticarcilină/clavulanat",
+        "metronidazol",
+        "amoxicilină/clavulanat",
+        "ceftazidim"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Factorii de risc sporit ai pneumoniei cu Pseudomonas aeruginosa sunt",
+      "options": [
+        "fibroza chistică",
+        "bronşiectaziile",
+        "finisarea recentă a cursului de antibioterapie cu spectru larg",
+        "cașexie",
+        "contractarea la domiciliu a pneumoniei"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Criteriile CURB-65 includ",
+      "options": [
+        "alterarea statutului mental",
+        "tensiunea arteriala diastolică ≤ 60 mmHg",
+        "tahicardie 125 b/min",
+        "nivelul ureei serice sporit",
+        "tensiunea arteriala sistolică ≤ 90 mmHg"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Criteriile CURB-65 includ",
+      "options": [
+        "leucopenia (sub 4000/ml)",
+        "comorbidităţile importante",
+        "tensiunea arteriala diastolică ≤ 65 mmHg",
+        "nivelul ureei serice sporit",
+        "tensiunea arteriala sistolică ≤ 90 mmHg"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Măsurile eficiente de profilaxie a pneumoniei comunitare includ",
+      "options": [
+        "sistarea fumatului",
+        "antibioticele betalactamice",
+        "evitarea suprarăcelii",
+        "vaccinarea antipneumococică",
+        "vaccinarea contra virusului gripei"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care dintre următoarele explorări nu fac parte din diagnosticul BPOC",
+      "options": [
+        "Radiografia toracică",
+        "Probe funcționale respiratorii",
+        "Electrocardiogramă",
+        "Gazometria",
+        "Ecografia Doppler vascular"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Bronşita cronică obstructivă se caracterizează prin",
+      "options": [
+        "este asociată unei hipoxemii de repaus",
+        "este asociată unei reversibilităţi parţiale",
+        "apare dispnee de repaus",
+        "VEMS < 35%",
+        "expectoraţie zilnică timp de de cel puţin 3 luni în cursul a cel puţin 2 ani consecutive"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Hipoxia însoțită de hipercapnie se întâlnește în:",
+      "options": [
+        "Decompensarea BPOC",
+        "Embolia pulmonară",
+        "Criza de astm",
+        "EPA",
+        "Insuficienţa renală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "În BPOC cu PaO2 < de 60 mmHg, oxigenoterapia nu este necesară în caz de",
+      "options": [
+        "Desaturări la efort",
+        "Desaturări nocturne",
+        "Semne de IVD",
+        "Poliglobulie importantă",
+        "HTA"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "BPOC necesită ventilaţie asistată dacă",
+      "options": [
+        "FC peste 110/min",
+        "FR peste 25/min",
+        "SaO2 sub 90%",
+        "PaO2 sub 60 mmHg",
+        "PaCO2 peste 70 mmHg"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Un pacient diagnosticat cu BPOC, care prezintă VEMS/CV < 0,70, VEMS < 50% din valorile prezise si dispnee in repaus se încadreaza în",
+      "options": [
+        "stadiul A",
+        "stadiul B",
+        "stadiul C",
+        "stadiul D",
+        "nici una din variantele de mai sus"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Monitorizarea BPOC pe termen lung include următoarele:",
+      "options": [
+        "Diminuarea mortalităţii",
+        "Tratarea factorilor de risc",
+        "Ameliorarea toleranţei la efort",
+        "Tratarea simptomelor",
+        "toate enumerate"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Diagnosticul de BPOC se realizeaza prin",
+      "options": [
+        "explorari funcționale respiratorii (PFR) cu test de reversibilitate bronșică",
+        "măsurarea volumelor și debitelor pulmonare: prin bodypletismografie și diluție (obligatoriu)",
+        "documentarea disfuncției ventilatorii obstructive",
+        "evaluarea severitatii bolii in functie de raportul VEMS/CV",
+        "doar examen clinic"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Care dintre următorii sunt factori de risc pentru BPOC",
+      "options": [
+        "Fumatul",
+        "Deficit de alfa 1 antitripsină",
+        "SO2",
+        "Polen",
+        "Fumul de ardere din biomasă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Reprezintă criterii de exacerbare în BPOC",
+      "options": [
+        "creșterea volumului de expectorație b) [x ] agravarea dispneii c) [ x] febra d) [] pH<7.2",
+        "PaO2>60%"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care dintre următoarele variante sunt semne de alarmă la un pacient cu BPOC care impun ventilaţie mecanică asistată?",
+      "options": [
+        "somnolenţa",
+        "scăderea vigilenţei",
+        "tuse ineficientă",
+        "stop respirator",
+        "absenţa ameliorării rapide în ciuda oxigenoterapiei"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Disfuncţia ventilatorie obstructivă din cadrul BPOC este caracterizată de",
+      "options": [
+        "Test pozitiv cu metacolină",
+        "VEMS redus",
+        "Test cu bronhodilatator negativ",
+        "VEMS/CV < 70%",
+        "VEMS/CV < 80%"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Dacă un pacient prezintă dispnee expiratorie cu wheezing şi/sau raluri ronflante, diagnosticul mai probabil ar putea fi",
+      "options": [
+        "Edem pulmonar acut",
+        "Decompensare acută a BPOC",
+        "Pneumonie franc lobară",
+        "Embolie pulmonară",
+        "Pneumopatie de hipersensibilitate"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Chirurgia în BPOC este contraindicata in caz de",
+      "options": [
+        "PaCO2 >60 mmHg",
+        "HTP",
+        "tabagism persistent",
+        "corticoterapie continuă cu doze mai mari de 10 mg/zi",
+        "CPT >125%, PaO2 în jur de 60 mmHg, VEMS aproximativ 25%"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Complicații ale sindromului de apnee în somn sunt",
+      "options": [
+        "Moarte subită in somn",
+        "HTP",
+        "Atacuri ischemice cerebrale sau coronariene",
+        "Bronșita cronică",
+        "Hipertensiune arteriala sistemica"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "In emfizemul pulmonar la radiografia toracica se observa",
+      "options": [
+        "hipertransparența cîmpurilor pulmonare",
+        "elevarea diafragmului",
+        "mărirea spațiilor intercostale",
+        "inimă în picătură",
+        "desen pulmonar accentuat"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "În tratamentul BPOC se utilizează următorii bronhodilatatori cu acţiune scurtă",
+      "options": [
+        "Formoterol",
+        "Bromură de ipratropium",
+        "Bromură de tiotropium",
+        "Salmeterol",
+        "Fenoterol"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Ventilaţia mecanică asistată în BPOC se impune dacă",
+      "options": [
+        "FR mai mare de 25/min",
+        "Există confuzie",
+        "pH sub 7,30",
+        "PaCO2=70 mmHg",
+        "PaO2=60 mmHg"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care dintre următoarele nu cauzează anafilaxie severă",
+      "options": [
+        "Medicamentele",
+        "Latexul",
+        "Polenul",
+        "Înţepăturile de insecte",
+        "Efortul fizic"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "La pacienţii cu risc de reacţii anafilactice severe nu se recomandă",
+      "options": [
+        "Purtarea brăţării de alertă",
+        "Evitarea alergenilor care pot cauza simptomele",
+        "Să poarte autoinjector de adrenalină",
+        "Să ştie sa utilize un autoinjector de adrenalină",
+        "Expunerea cît mai frecventă la alergen cu scop de hiposensiblizare"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Mecanismele de acțiune a corticosteroizilor în tratamentul astmului bronsic sunt",
+      "options": [
+        "Reducerea producerii de citokine",
+        "Creșterea transudării microvasculare",
+        "Asigurarea migrării și activării celulelor inflamatorii",
+        "Creșterea nivelului de citokine",
+        "Inhibiția eliberarii de mediatori din mastocite"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Manifestările clinice sistemice ale alergiei medicamentoase pot fi",
+      "options": [
+        "Şoc anafilactic",
+        "Vertije",
+        "Erupții cutanate",
+        "Halucinatii",
+        "Nefrită"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tratamentul alergiei medicamentoase include",
+      "options": [
+        "Beta-adrenoblocatori",
+        "Penicilina",
+        "Vitamine",
+        "Preparate sedative",
+        "Corticosteroizi"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Rinita alergică este o afectiune alergica conditionata de hipersensibilitatea la alergenii",
+      "options": [
+        "Inhalatori",
+        "Alimentari",
+        "De menaj si epidermali",
+        "Medicamentosi",
+        "Infectiosi"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Criteriile de diagnostic a rinitei alergice sunt, cu exceptia",
+      "options": [
+        "Anamneza alergologică agravată",
+        "Manifestările clinice",
+        "Testele cutanate pozitive",
+        "Depistarea anticorpilor IgE-specifici",
+        "Depistarea polenului în frotiul nazal"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Următoarele caracteristici determină angioedemul, cu excepția",
+      "options": [
+        "Este un echivalent clinic și histopatologic al elementului urticarian extins în suprafață și profunzime",
+        "Este o urticarie gigantă asimetrică cu o senzație tipică de arsură",
+        "Se dezvoltă preponderent în țesuturile profunde ce conțin țesut lax afectând mai des buzele, zona periorbitală, limba, organele genitale, membrele",
+        "Afecteaza mucoasele faringelui, glotei, tractului gastrointestinal",
+        "Regresează prompt la diuretice"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Standardul de aur pentru diagnosticarea hipersensibilității la medicamente este",
+      "options": [
+        "Hemoleucograma",
+        "Testele epicutane",
+        "Testele cutanate prin scarificare",
+        "Testul de provocare",
+        "IgE specifice"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Teste utilizate pentru diagnosticul pozitiv al alergiei alimentare sunt, cu excepţia",
+      "options": [
+        "IgE specifică la alimentul incriminat",
+        "Teste de provocare",
+        "Hemoleucograma",
+        "Teste cutanate prin scarificare",
+        "Teste cutanate prin înțepare"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "NU este o caracteristică a sindromului de alergie orală",
+      "options": [
+        "este un tip de reactivitate încrucişată",
+        "este un tip de alergie alimentară",
+        "reprezintă o varietate de manifestări localizate la nivelul cavităţii bucale",
+        "Este provocat de contactul cavităţii bucale cu fructe sau legume proaspete",
+        "Angioedemul localizat strict la nivelul cavitatii bucale"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Animalele de casă pot provoca reacţii alergice prin alergenii prezenţi în",
+      "options": [
+        "Salivă",
+        "Sânge",
+        "Materii fecale",
+        "Blană",
+        "Urină"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Simptomele cauzate de expunerea la pneumoalergeni sunt",
+      "options": [
+        "Obstrucţie nazală",
+        "Tuse",
+        "Prurit cutanat",
+        "Strănut",
+        "Rinoree apoasă"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Următorii alergeni pot produce reacţii anafilactice",
+      "options": [
+        "Exerciţiile fizice",
+        "Latexul",
+        "Înţepăturile de himenoptere",
+        "Alunele",
+        "Blana de pisică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Șocul anafilactic necesită diagnostic diferențial cu",
+      "options": [
+        "Lipotimia",
+        "Hipertensiunea arterială",
+        "Epilepsia",
+        "Şocul cardiogen",
+        "Şocul traumatic"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Tipurile reacțiilor alergice sunt următoarele",
+      "options": [
+        "Reacția nespecifică",
+        "Reacția citotoxică",
+        "Reacția prin complexe imune",
+        "Reacția de hipersensibilizare de tip întârziat",
+        "Reacția anafilactică"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Alergenii ce pot provoca astmul bronșic atopic sunt",
+      "options": [
+        "Praful de casa-acarieni",
+        "Polenurile",
+        "Sporii fungici",
+        "Alergenii bacterieni",
+        "Alergeni epidermali"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "În reacția urticariană participă următoarele elemente celulare",
+      "options": [
+        "Mastocitul",
+        "Eozinofilul",
+        "Bazofilul",
+        "Neutrofilul",
+        "Fagocitul"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Urticaria alergică poate avea la baza următoarele mecanisme patofiziologice",
+      "options": [
+        "Tipul I de reacții imunologice",
+        "Este mediată de IgE",
+        "Este mediată de bradikinină",
+        "Insuficienta inhibitorului C1",
+        "Tipul IV de reactii imunologice"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "În cazul urticariei, mecanismele activării mastocitelor sunt",
+      "options": [
+        "Reacția de tip imediat",
+        "Insuficiența inhibitorului C1 al complementului",
+        "Activarea sistemului kininic al plasmei",
+        "Activarea directă a mastocitelor",
+        "Activarea complementului pe calea alternă"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Din formele imune ale urticariei fac parte",
+      "options": [
+        "Urticaria colinergica",
+        "Urticaria de contact la caldura",
+        "Dermografismul",
+        "Urticaria atopica",
+        "Urticaria în boala serului"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Urticaria colinergica este indusa de",
+      "options": [
+        "Efort fizic",
+        "Aport masiv de alimente bogate în tiramina",
+        "Stres",
+        "Iradierea ultravioleta",
+        "Mediu ambiant cald"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "În diagnosticul urticariei de geneză alimentară o importanță primordială are",
+      "options": [
+        "Anamneza (efectul de eliminare)",
+        "Respectarea dietei hipoalergice de bază",
+        "Efectuarea zilnicului alimentar",
+        "Efectuarea testelor cutanate cu alergeni alimentari",
+        "Ultrasonografia organelor abdominale"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Preparatele de elecție în controlul simptomatic al urticariei sunt",
+      "options": [
+        "Colinomimeticele",
+        "Adrenomimeticele",
+        "Ganglioblocatorii",
+        "Antihistaminicele",
+        "Adrenoblocatorii"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Simptomele clinice în rinită alergică sezonieră se manifestă",
+      "options": [
+        "Numai în anotimpul rece",
+        "Numai în anotimpul de toamnă",
+        "Nu este caracteristică manifestarea sezonieră",
+        "Au caracter sezonier",
+        "Diminuează după ploaie"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care manifestări clinice cel mai frecvent se întâlnesc în rinită alergică",
+      "options": [
+        "Rinoree, congestie nazală și strănut indusă de polen",
+        "Conjunctivita alergica sezoniera indusă de polen",
+        "Astm bronșic atopic indus de polen",
+        "Dermatita atopică",
+        "Alveolită alergică"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Ce grup de preparate include tratamentul medicamentos al rinitei alergice?",
+      "options": [
+        "Antibiotice",
+        "Antihistaminice",
+        "Sedative",
+        "Antileucotrienele",
+        "Corticosteroizi topici"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Principiile de bază în tratamentul rinitei alergice sunt",
+      "options": [
+        "Eliminarea alergenului",
+        "Efectuarea imunoterapiei alergenspecifice",
+        "Medicația antihistaminică",
+        "Antibioticoterapia",
+        "Colinomimeticele"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Severitatea exacerbărilor sezoniere în rinita alergică depinde de",
+      "options": [
+        "Concentrația polenului în aer",
+        "Genul plantelor",
+        "Gradul sensibilității individuale",
+        "Durata sezonului de polenizare",
+        "Presiunea barometrică Teste Alergologie Alergia la proteinele laptelui de vaca este mai frecventa la: copii pana la 5 ani, adulți >25 ani, adulți 30-40 ani adulți >65 ani, pacienți imunocompromiși raspuns A Alergiile alimentare non-IgE-mediate sunt: întâlnite îndeosebi în cazul copiilor, întâlnite mai rar în cazul copiilor, produc simptome de natură gastrointestinală (diaree, vărsături, constipaţie, flatulenţă) produc simptome cardiovasculare  (palpitații, vertij, lipotimie, hipotensiune) sunt însoțite de anafilaxie Raspuns AC Anafilaxia se consideră deseori letală, deoarece are loc: Bronhospasmul Dilatarea vaselor sangvine Bronhodilatarea Constricția vaselor sangvine Poate evolua sub formă de șoc Raspuns a, b, e Anemia hemolitică autoimună (AHA) este un exemplu de: Hipersensibilitate de tip I Hipersensibilitate de tip II Hipersensibilitate de tip III Hipersensibilitate de tip IV Niciuna dintre cele enumerate Raspuns :b Care alergeni provoacă rinita sezonieră? Praful din casă Acarienii din praf de casă Polen de buruieni Polenul ierburilor de luncă Polenul arborilor Raspuns C, D, E Care anticorp mediază reacțiile de hipersensibilitate de tip imediat la medicamente? IgE IgG IgM IgA IgG4 Raspuns A Care din aceste categorii de persoane este cea mai expusă riscului de a dezvolta anafilaxia? Persoanele înaintate în vârstă Femeile însărcinate Persoanele cu astm Persoanele cu epilepsie Persoane cu antecedente de anafilaxie Raspuns c, e Care din cele enumerate este cea mai bună modalitate de a preveni rinita alergică? Administrarea tratamentului hipoglicemiant Spray-uri nazale Vaccinuri antialergice Evitarea alergenilor cunoscuți Toate răspunsurile sunt corecte Raspuns D Care din cele enumerate este un simptom al rinitei alergice care apare de obicei imediat după expunerea la un alergen? Cefalee Hipoglicemie Prurit, ochi lăcrimați Tahipnee Niciuna dintre cele enumerate Raspuns C Care din următoarele afirmații sunt corecte? Anamneza este abordarea de primă intenție în diagnosticul reacțiilor de hipersensibilitate la medicamente. evaluarea mediatorilor (histamină, triptază, leucotriene) eliberați în sângele periferic, secrețiile nazale sau bronșice sau în urină pot fi utile în diagnosticul reacțiilor alergice de hipersensibilitate tip imediat. Testul de transformare a limfocitelor (LTT) s-a dovedit a fi util în diagnosticul reacțiilor de hipersensibilitate tip imediat. Testul de transformare a limfocitelor (LTT) s-a dovedit a fi util în diagnosticul reacțiilor de hipersensibilitate întârziate mediate de limfocitele T Măsurarea mediatorilor (histamină, triptază, leucotriene) eliberați în sângele periferic, secrețiile nazale sau bronșice sau în urină pot fi utile în diagnosticul reacțiilor alergice de hipersensibilitate tip întârziat. Raspuns A, B, D Care din următoarele pot fi indicate pentru tratamentul rinitei alergice sezoniere moderată până la severă? Glucocorticosteroizi nazali Antihistaminice sistemice Bromură de ipratropiu Antihistaminice locale Niciuna dintre cele enumerate Raspuns A, B, C, D Care din următoarele reprezintă manifestări clinice ale alergiei medicamentoase? manifestările cutanate sunt cele mai comune ( aprox. 80-90%) manifestări hematologice afectarea hepatică afectarea splinei manifestări sistemice Raspuns A, B, C, E Care din următoarele se referă la sindromul Lyell? cea mai gravă reacție cutanată medicamentoasă, care poate fi fatală caracterizat printr-o evoluție cronică rata de mortalitatea variază între 1- 5% caracterizată prin necroliză acută epidermală afectează peste 30% din suprafața corpului raspuns A, D, E Care din următoarele simptome descriu o reacție anafilactică severă? Xerostomie, ochi lăcrimați Angioedem, stridor, hipotensiune erupție pruriginoasă pe piept Balonare, pierderea poftei de mâncare și letargie nici una din cele menționate raspuns B Care din următorii factori NU sunt legați de riscul sau severitatea reacțiilor alergice la medicamente: doza și durata expunerii prezența alelelor (HLA) determinate genetic se dezvoltă mai frecvent la pacienții atopici în comparație cu nonatopicii pacienții cu istoric de alergie la medicamente par să aibă un risc crescut de reacții adverse la alți agenți farmacologici calea de administrare raspuns C Care dintre cele enumerate este un alergen comun? Praful de casă Plastic Păianjeni Băuturile gazoase Toate răspunsurile sunt corecte Raspuns A Care dintre următoarele afirmaţii referitor la sindromul DRESS este adevărată? apare, de regulă, după câteva zile de tratament evoluează cu afectare multiplă de organ debutează, de obicei, tardiv, după 2-12 săptămâni de la inițierea tratamentului poate exacerba chiar și după întreruperea administrării medicamentului apar frecvent reactivări ale virusuilor herpetice, Ebstein Barr și citomegalovirusul raspuns B, C, D, E Care dintre următoarele afirmații despre medicamentele utilizate pentru rinita alergică sezonieră sunt adevărate? Decongestionantele intranazale trebuie utilizate numai pe termen scurt Corticosteroizii orali pot fi utilizați pe durata sezonului de polen Injecțiile parenterale cu corticosteroizi nu sunt, în general, recomandate Anticolinergicele intranazale pot fi eficiente în reducerea rinoreei Cromoglicatul de sodiu intranazal este mai eficient decât corticosteroizii intranazali. Raspuns A, C, D Care dintre următoarele afirmații despre rinita alergică sezonieră sunt FALSE? Rinita alergică este un factor de risc semnificativ pentru astm Dacă oamenii sunt alergici la alergenii din interior (de exemplu, acarienii de praf), de obicei nu sunt alergici la alergenii de mediu (de exemplu, polenul) Testarea cutanată este esențială pentru diagnosticul rinitei alergice sezoniere Simptomele se agravează adesea spre sfârșitul sezonului de polen Istoricul familial de atopie este un factor de risc Raspuns B, C Care dintre următoarele afirmații NU sunt adevărate în cazul sindromului Steven Johnson: medicamentele incriminate frecvent sunt anticolinergicele reprezintă forma mai severă de eritem polimorf are potențial fatal suprafața de afectare a tegumentului este sub 10% semnul Nikolsky este pozitiv raspuns B, C, D, E Care dintre următoarele nu declanșează simptomele rinitei alergice? Polenul arborilor Ambrozie Fânul Gramineele Toți sunt alergeni declanșatori. Raspuns E Care dintre următoarele nu provoacă șocul anafilactic? Medicamente Polen Latex Căldura Înțepături de insecte Raspuns b, d Care dintre următoarele reacții de hipersensibilitate este rezultatul depunerii masive a complexului imun în diferite țesuturi? Hipersensibilitate de tip I Hipersensibilitate de tip II Hipersensibilitate de tip III Hipersensibilitate de tip IV toate Raspuns :c Care este cel mai bun mod de a determina dacă aveți rinită alergică? Sezonalitatea simptomelor Istoric medical și examen fizic testele de IgE specifice la alergeni Niciuna dintre cele enumerate Toate cele de mai sus Raspuns E Care este o cauză potențială a anafilaxiei? Mușcătură sau înțepătura de insectă Alimente Medicamente Terenul atopic Toate răspunsurile sunt incorecte Raspuns a, b, c, Care este rata de manifestări cutanate în cazurile de anafilaxie ? 50% 30% 80% 10% 70% Raspuns C Care manifestari clinice pot aparea in alergia alimentara adevarata? scaune diareice, cu mucus şi/sau striuri sangvinolente; alteori scaune păstoase, lucioase; colici abdominale, meteorism abdominal (mărirea volumului abdomenului); urticarie și/sau angioedem falimentul creșterii la copii; febra Raspuns A, B, C, D Care reacție de hipersensibilitate (RHS) explică fiziopatologia unei reacții anafilactice? Tip I: reacție imediată mediată de IgE Tip II: Reacție citotoxică mediată de anticorpi (anticorpi IgG sau IgM) Tipul III: Reacție mediată de complexe imune Tipul IV: reacție de hipersensibilitate întârziată, mediată de celule Nici una dintre cele de mai sus Raspuns A Care sunt antihistaminicele de generația a doua? Clemastina Loratadină Cetirizina Cloropiramină Bilastina Raspuns B, C, E Care sunt antihistaminicele de prima generatie? Clemastina Loratadină Cetirizina Cloropiramină Fexofenadină Raspuns A, D Care sunt cei mai frecventi factori declanșatori ai alergiilor la medicamente? Penicilina și antibacterienele înrudite Antibiotice sulfonamide Anticonvulsivante Nistatina Aspirina, ibuprofenul și alte AINS Raspuns A, B, C, E Care sunt semnele și simptomele anafilaxiei? Debut acut Dispnee, respirație șuierătoare, stridor Tahicardie, hipotensiune arterială Urticarie, angioedem Oricare dintre cele de mai sus Raspuns E Care sunt semnele/simptomele rinitei alergice? Mâncărime în nas Strănut Secreții nazale apoase abundente Îngreunarea respirației nazale Nici unul dintre cei enumerați Raspuns A, B, C, D Ce alergeni cauzează rinita perenă? Praful din casă Acarienii din praf de casă Polen de buruieni Polenul ierburilor de luncă Polenul arborilor Raspuns A, B Ce este anafilaxia? Anafilaxia este o reacție alergică sistemică de hipersensibilitate imediată, potențial fatală, mediată de IgE și eliberării masive de mediatori conținuți în principal în mastocite și în bazofile Anafilaxia este o reacție alergică sistemică de hipersensibilitate tardivă, potențial fatală, mediată de IgE și eliberării masive de mediatori conținuți în principal în mastocite și în bazofile Cauzele comune includ mușcături și înțepături de insecte, alimentele, medicamentele Simptomele apar de obicei în câteva minute până la câteva ore Nici una dintre cele de mai sus RASPUNS A, C, D Ce semne clinice sunt caracteristice pentru rinita alergică: Strănut Rinoreea Congestie nazală Lichenificarea Prurit cutanat Raspuns A, B, C Cel mai frecvent factor etiologic al rinitei alergice este: Epiderma animalelor Medicamente Praful de uz casnic și acarieni Polenul de plante Sporii de mucegaiuri nepatogene Raspuns D Cele mai frecvente cauze ale alergiei alimentare sunt: Carne de iepure Pește Lapte Arahide Cartofi Raspuns B, C, D Celulele efectorii primare ale răspunsului de hipersensibilitate de tip I sunt: monocite. mastocitele. neutrofile. celule citotoxice. Limfocitele B ANS: B Cofactorii anafilaxiei induse de efort pot fi: grâul carne de porc pește arahidele țelina Raspuns A,C, D, E Conform căror tipuri de reacții descrise de Gell și Coombs se desfășoară recțiile de hipersensibilitate la medicamente? Tip I sau reacții anafilactice Tip II sau reacții citotoxice Tip III sau reacții prin complexe imune Tip IV sau reacții mediate celular nici una din cele menționate Raspuns A, B, C, d Congestie nazală timp de 5 luni, scurgeri nazale scunde. Aceste simptome au apărut după apariția unei pisici în casă. Diagnosticul preliminar? Rinosinusită polipoasă Rinita alergică sezonieră Alergia alimentară Rinita alergică perenă Rinita vasomotorie Raspuns D Dacă un pacient cu simptome severe de rinită alergică sezonieră nu poate evita alergenul și tratamentul medicamentos cu corticosteroizi, antihistaminice și/sau decongestionante este ineficient, care dintre cele enumerate mai jos este cel mai potrivit pas în management? Terapia cu anticorpi anti-IgE Imunoterapia de desensibilizare Terapia cu blocante H1 Stabilizatori de mastocite Niciuna dintre cele enumerate Raspuns B Dezavantajele antihistaminicelor de prima generație: Capacitatea de a traversa bariera hemato-encefalică Sedare Scăderea capacităţii de învăţare Efect cardiotoxic Efect mucolitic Raspuns A, B, C Diagnosticul specific al rinitei alergice include: Antecedente alergice Teste cutanate cu alergeni Teste de provocare RAST Toate cele de mai sus sunt adevărate Raspuns E Diagnosticul specific al rinitei alergice include: Antecedente alergice Teste cutanate cu alergeni Teste de provocare RAST Toate cele de mai sus sunt adevărate Raspuns E După administrarea medicamentului, la cât timp pot apărea reacții de hipersensibilitate de tip imediat? <6 ore 6–8 ore 8–12 ore 12–24 h 1-2 săptamâni raspuns:A Epinefrina este indicată ca tratament de primă linie în cazul anafilaxiei, deoarece: Epinefrina este un antihistaminic Epinefrina este un bronhodilatator Epinefrina este un vasoconstrictor Epinefrina este un medicament din clasa antileucotrienelor Toate răspunsurile sunt corecte Raspuns b, c Etapele răspunsului imun alergic (hipersensibilitate de tip I) sunt: Sensibizarea și memoria Faza tardivă Reacția imediată Reacția acută Faza acută raspuns a,b,c Expunerea timpurie la potenţialii alergeni alimentari: scăde riscul de a dezvolta alergia respectivă în viitor Crește riscul de a dezvolta alergia respectivă în viitor Nu influențează la toleranță alimentară Alergenele alimentare trebuie introduse devreme în alimentație Induce dezvoltarea toleranței imunologice Raspuns A, D, E Fenotipuri clinice ale reacțiilor de hipersensibilitate la medicamente generalizate sau diseminate sunt: Urticarie, angioedem Macule eritematoase și papule infiltrante care se pot răspândi cu diferite grade de confluență Anafilaxie AGEP hematoame Raspuns A, B, C, D Fenotipuri clinice ale reacțiilor de hipersensibilitate la medicamente generalizate sau diseminate sunt: sindromul DRESS: afecțiune severă care debutează adesea cu exantem maculo papulos cu implicarea și organele interne conjunctivită alergică SSJ și NET rinită alergică Vasculita: puprpură palpabilă, peteșii, bule carese pot complica cu necroza și  și nu se distinge de vasculită din alte cauze. Fenotipuri clinice ale reacțiilor de hipersensibilitate la medicamente localizate sunt: Erupție medicamentoasă fixă Reacții fotoalergice sistemice Lupus eritemtos sistemic (LES) sindromul DRESS Boala serului Raspuns A, B Hipersensibilitatea de tip III este cunoscută și ca: Niciunul dintre răspunsuri nu este corect O reacție de tip întârziat O reacție alergică sau imediată Citotoxicitate dependentă de anticorpi O reacție complexă imună raspuns :d Hipersensibilitatea de tip III include: Ac(Ig E sau Ig G) O reacție de tip întârziat Ac (Ig M sau Ig G) Citotoxicitate dependentă de anticorpi O reacție complexă imună ANS: c,d Hipersensibilitatea de tip IV se mai numește: Hipersensibilitate imediată Hipersensibilitate întârziată Hipersensibilitate citotoxică Hipersensibilitate indusă de complexe imune reactivitate încrucișată raspunsul : B Hipersensibiltatea de tip IV este: mediat celular de LT O reacție de tip întârziat O reacție alergică sau imediată se declanșeaza la 24-48 ore sau la 3-21 zile de la contactul cu alergenul. se declanseaza la 1-2 ore de la contactul cu alergenul. Raspuns: a,b,d Imunoterapia specifică este indicată pacienților cu rinită alergică Ale căror simptome nu sunt controlate de agenți farmacologici In combinatie cu astmul atopic sever Au nevoie de utilizarea continuă a farmacoterapiei pentru a controla simptomele rinitei Pe tot parcursul anului sau sezonier cu sezon lung de polenizare în combinație cu dermatita atopică Niciuna dintre cele enumerate Raspuns A, C În cadrul rinitei alergice, corticosteroizii topici pot: Opri faza tardivă a inflamației Reducere inflamația alergică (forme precoce și tardive) Eliminara congestia nazală Inhiba eliberarea mediatorilor din mastocit și elimina simptomele rinitei alergice acute Reduce hipersecreția Raspuns A, B, C În polinoză, alergenul este: Polenul arborilor Polenul buruienilor Polenul de luncă Mucegaiurile Praful de casă Raspuns A, B, C În tratamentul simptomelor ușoare sau episodice ale rinitei alergice sezoniere, se recomandă: Antihistaminice H1 nesedative Betablocante Glucocorticosteroizi intranazali Antihistaminice intranazale locale Cromoglicat de sodiu Raspuns A, C Indicați cel mai frecvent agent incriminat în alergia medicamentoasă? Penicilina Opioide Metoclopramid Insulina Acid tranexanic raspuns A Indicații pentru prescrierea de antihistaminice: Dermatita atopică Urticaria colinergică Angioedem Urticarie dermografică Toate cele de mai sus Raspuns A, B, C, D Indicații pentru prescrierea de antihistaminice: Rash cutanat Rinite perene Urticarie Ulcer gastric Infarctul miocardic Raspuns A, B, C Manifestări gastrointestinale în alergia alimentară sunt reprezentate de: senzaţia de balonare vărsături greaţă diaree melena Raspuns A, B, C, D Manifestarile clinice ale alergiei medicamentoase pot fi: [x] soc anafilactic [x] Vertij [x] Eruptii cutanate [ ] Halucinații [x] Hipotensiune Raspuns A, B, C, E Manifestarile clinice ale reacției de hipersensibilitate tip I: urticarie, angioedemul, prurit bronchospasm, dispnee, stridor sindroame gastrointestinale persistente șoc anafilactic Agitație raspuns a,b,c,d Manifestările clinice mediate de IgE în alergia alimentara sunt: Urticaria angioedemul sindrom de alergie orala palpitații tremor Raspuns A, B, C Manifestarile cutanate în alergia alimentară sunt: prurit, erupţie cutanată, urticarie dermatită de contact livedo reticularis Raspuns A, B, C, D Mariei i s-a prescris codeină pentru durerile de spate. După două zile de tratament apare constipație și greață. Cel mai probabil, Maria se confruntă cu: intoleranță medicamentoasă un efect secundar al medicamentului o reacție alergică anafilaxie nici una din cele menționate raspuns B Mecanismul imunologic care stă la baza dezvoltării rinitei alergice este: Reacție alergică imunologică (tip III) Reacție alergică întârziată (tip II) Mecanismul rinitei alergice nu este mediat imun Reacție alergică imediată (tip I) Reacție toxică Raspuns D Mediatorul cel mai important al reacții de hipersensibilitate de tip I este completul. complexe imune antigen-anticorp. limfocitele T. histamina. troponinele ANS: D Metode de tratament specific al rinitei alergice sunt: Îndepărtarea alergenului Acupunctura Imunoterapie specifică Farmacoterapia Tratament chirurgical Raspuns A, C Multe persoane cu alergii sezoniere pot avea și una dintre următoarele boli: Astm Conjunctivită bacteriană Bronsită Infecții ale sinusurilor paranazale Niciuna dintre cele enumerate Raspuns A O femeie de 20 de ani se plânge de luni de zile de rinoree, pe care o descrie ca fiind apoasă și limpede, precum și de congestie nazală bilaterală. În plus, ea raportează lăcrimare și mâncărime frecvente a ochilor, precum și strănut zilnic. Temperatura ei este 36,8 °C, tensiunea arterială este de 120/70 mmHg, pulsul este de 70/min, iar respirațiile sunt 15/min. Care dintre următoarele este un tratament optim pentru starea pacientei? Penicilina intravenos Amoxicilină per oral Acetaminofen per oral Fluticazonă intranazală Vancomicină intravenos Raspuns D O reacție IgE mediată suspectată la penicilină poate fi confirmată/infirmată prin: Testele de sange Testare cutanată, urmată de o provocare orală dacă testul cutanat este negativ Doar istoricul bolii Toate menționate Nici una din cele prezente Raspuns B O tânără de 25 de ani se prezintă la unitatea de primire urgențe pentru tuse în ultimele 5 zile. Ea s-a mutat recent într-o zonă nouă și nu și-a stabilit încă un medic de familie. În ultimele zile, ea a observat o sporire a curgerii nasului însoțită de congestie, strănut și hiperlacrimare. Ea a crezut inițial că se datorează doar prafului de la mutarea cutiilor în noul ei apartament, dar simptomele ei nu s-au îmbunătățit după ce și-a curățat bunurile și făcut ordine. Ea simte o oarecare ușurare după ce stropește fața cu apă rece, dar simptomele ei reapar în 10 minute. Nu are animale de companie și nu ia medicamente. Examenul obiectiv prurit ocular, hiperlacrimație. La auscultatia pulmonara nu se apreciaza nici zgomote patologice sau wheezing. Pacienta a venit la volan si urmează să conducă și la întoarcere. Care este cel mai bun pas inițial în management? Loratadină per os Corticosteroizi intranazali Difenhidramină intravenos Oseltamivir sublingual Montelukast per os Raspuns B Organul cel mai frecvent inplicat în reacțiile de hipersensibilitate la medicamente (RHM) este: Pielea Rinichii Cordul Plămînii Ficatul Raspuns A Pacient de 32 ani ce prezintă strănut în salve, rinoree, mâncărime în nas, ochi lăcrimați. Acuzele au caracter sezonier de la sfârșitul lunii iulie până în septembrie. Care este diagnosticul preliminar? Durere în gât Alergia alimentară Rinita alergică Exacerbarea amigdalitei cronice Laringita acuta Raspuns C Pacienții care au prezentat amețeli și vertij după administrarea unui anestezic local la dentist, ar trebui să urmeze următoarele acțiuni: Folosirea anesteziei generale pentru toate procedurile [x] Efectuarea testării cutanate și/sau provocării la anestezicul local Evitarea anestezicelor locale pe toată viața Nici una din menționate Toate menționate Raspuns B Pacienții cu rinită alergică sezonieră care prezintă simptome în primăvară sunt cel mai probabil alergici la: Ierburi Fân Ambrozie Copaci Niciuna dintre cele enumerate Raspuns D Pentru tratamentul rinitei alergice se folosesc: Antihistaminice Glucocorticosteroizi Cromoglicat de sodiu Nodocromil sodic Niciuna dintre cele enumerate Raspuns A, B, C, D Principala componentă alergenă a prafului din casă este reprezentată de: Microbi Sporii de mucegai Acarienii din genul dermatophagoides Polen de pelin Alimente Raspuns C Principale verigi în tratamentul alergiei alimentare sunt: Tratament medicamentos Corticoterapie Dieta Psihoterapie Reflexoterapie Raspuns A,B, C Principalele metode profilactice în alergia alimentară sunt: evitarea alergenilor alimentari cunoscuţi consumarea cumpătată a alimentelor potenţial alergene Consum de alimente gătite în casă Autoinjectorul de adrenalina în caz de antecedente cu reacții severe Alimentare în restaurante Raspuns A, B, C Principalele simptome ale rinitei alergice includ: Mâncărime în nas Strănut Secreții nazale apoase abundente Îngreunarea respirației nazale Nici unul dintre cei enumerați Raspuns A, B, C, D Principalele tipuri de anticorpi implicați în hipersensibilitatea de tip III sunt: IgE și IgA IgD și IgN IgA și IgN IgG și IgM IgD și IgM raspuns: d Principalele tipuri de anticorpi implicați în hipersensibilitatea de tip III sunt: IgE IgD IgM IgG IgD raspuns: c, d Principalul mediator al reacțiilor de hipersensibilitate de tip I este: IgA. IgG. IgM. IgE. IgG4 ANS:  D Reacția alergică poate fi descrisă cel mai bine ca: Strănut, mâncărime, ochi lăcrimați O reacție excesivă a sistemului imunitar la o substanță străină Debutul unei răceli O reacție la virusul gripal în lunile de primăvară toate menționate raspuns B Reacția de hipersensibilitate tip I poate fi indusă de: transfuzii de sânge alergeni inhalatori medicamente alergeni alimentari venin de himenoptere raspuns b, c, d, e Reacțiile adverse la medicamente includ: Supradozare intoleranță la medicamente efecte secundare alergie medicamentoasă toate menționate Raspuns E Reacțiile de hipersensibilitate (RHS) care implică producția de anticorpi sunt de tip: RHS tip I. RHS tip II. RHS tip III. RHS tip IV. Toate reacțiile de hipersensibilitate ANS: a,b,c Selectați care dintre următoarele afirmaţii sunt false: exantemul sau erupția morbiliformă fenotipic este asemănatoare cu infecția herpetică reacția medicamentoasă fixă e caracterizată prin recidivare în același loc la re-expunere la un anumit medicament leziunile cutanate în țintă se prezintă cu un aspect de inele concentrice, cu purpură centrală erupția vasculitică se prezintă ca o purpură palpabilă cu peteșii și leziuni buloase ce pot evolua spre necroză apariția sindromului DRESS se manifestă doar în primele zile de la administrarea medicamentului raspuns A, E Selectați doza și calea optimă de administrare a adrenalinei unui pacient adult cu anafilaxie: 300 micrograme (0,3 ml de 1:1000) IM 500 micrograme (0,5 ml de 1:1000) IM 200 micrograme (0,2 ml de 1:1000) IM 500 micrograme (0,6 ml de 1:1000) IV 700 micrograme (0,7 ml de 1:1000) IV Raspuns B Simptomele rinitei alergice cronice sunt mediate de: Eozinofile Mastocitele Bazofili Neutrofile Niciuna dintre cele enumerate Raspuns A, B, C Simptomele rinitei alergice în faza acută sunt mediate de: Eozinofile Neutrofile Bazofile Mastocite Monocite Raspuns D Simptomele rinitei alergice sunt mediate de: Eozinofile IgE Bazofile Mastocite Toate cele de mai sus sunt adevărate Raspuns E Sindromul de alergie orală este: Manifestare a reactivitații încrucișate în alergia la polen Alergie alimentara cu manifestari gastrointestinale Orice angioedem al limbei Urticarie generalizată Șoc anafilactic Raspuns A Testul de provocare poate fi utilizat în următoarele cazuri: Pentru a exclude hipersensibilitatea la medicamente atunci când istoricul nu este sugestiv sau simptomele sunt nespecifice Pentru a asigura medicamente sigure din punct de vedere farmacologic și/sau structural nelegate cu medicamentele incriminate din cazurile de hipersensibilitate dovedită (de exemplu, antibiotice beta-lactamice) Pentru a exclude reactivitatea încrucișată a medicamentelor înrudite Pentru a definitiva diagnosticul de alergie medicamentoasă atunci când istoricul clinic este sugestiv, dar testele alergologice sunt negative, neconcludente sau indisponibile toate cele menționate Raspuns E Toleranţa imunologică este: Lipsa răspunsului imun local sau sistemic la expunerea la antigene alimentare Lipsa IgG4 la antigene alimentare Imunodeficiența primară Absența simptomelor sistemice in presenţa manifestarilor locale alergiei alimentare Niciuna dintre cele enumerate Raspuns A Unde NU poate fi injectat auto-injectorul cu epinefrină EpiPen? Coapsă Mână Gât Intraarticular Intramuscular Raspuns b, c, d"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    }
+  ]
+}

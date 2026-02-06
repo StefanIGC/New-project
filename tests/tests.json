@@ -9,7 +9,7 @@
     "id": "cardiologie",
     "name": "Cardiologie",
     "file": "cardiologie.json",
-    "count": 6
+    "count": 169
   },
   {
     "id": "nefrologie",
@@ -28,5 +28,35 @@
     "name": "Gastrologie",
     "file": "gastrologie.json",
     "count": 459
+  },
+  {
+    "id": "pneumologie-alergologie",
+    "name": "Pneumologie Alergologie",
+    "file": "pneumologie-alergologie.json",
+    "count": 210
+  },
+  {
+    "id": "reumatologie",
+    "name": "Reumatologie",
+    "file": "reumatologie.json",
+    "count": 137
+  },
+  {
+    "id": "chirurgie",
+    "name": "Chirurgie",
+    "file": "chirurgie.json",
+    "count": 663
+  },
+  {
+    "id": "obstetrica-ginecologie",
+    "name": "Obstetrică și ginecologie",
+    "file": "obstetrica-ginecologie.json",
+    "count": 450
+  },
+  {
+    "id": "pediatria",
+    "name": "Pediatria",
+    "file": "pediatria.json",
+    "count": 335
   }
 ]

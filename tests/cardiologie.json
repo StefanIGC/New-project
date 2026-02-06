@@ -3,64 +3,2158 @@
   "name": "Cardiologie",
   "questions": [
     {
-      "text": "Ce arteră este implicată în infarctul miocardic?",
+      "text": "Notați semnul ECG caracteristic în bradicardia sinusală",
       "options": [
-        "Arterele coronare",
-        "Artera carotidă",
-        "Artera femurală",
-        "Artera renală"
+        "intervalul PQ 0,22 mm/sec",
+        "intervalele R-R neregulate",
+        "frecvența atrială și ventriculară > 70 b/min",
+        "complexul QRS peste 0,14 mm/sec",
+        "frecvența atrială și ventriculară < 50 b/min"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "În tahicardia sinusală sunt prezente toate semnele ECG cu exepția:",
+      "options": [
+        "intervale R-R egale",
+        "frecvența atrială și ventriculară > 100 b/min",
+        "intervalul PQ 0.2 mm/sec",
+        "complexul QRS cu durata 0,1 mm/sec",
+        "prezența undelor P înaintea fiecărui complex QRST"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizați semnul ECG caracteristic în aritmia respiratorie:",
+      "options": [
+        "complexul QRS este peste 0,1 mm/sec",
+        "unda P înaintea complexului QRS lipseşte",
+        "prezente unde „f” între complexele ORST cu FCC 400-700 b/min",
+        "scurtarea ciclică a intervalelor R - R la inspiraţie",
+        "alungirea ciclică a intervalelor R - R la inspiraţie"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "cs. Menționați semnul clinic care nu este caracteristic în tahicardia supraventriculară",
+      "options": [
+        "paroxistică:",
+        "frecvență cardiacă înaltă",
+        "accesul de tahicardie începe brusc",
+        "accesul de tahicardie începe lent",
+        "manevrele ”vagale” opresc accesul de tahicardie",
+        "accesul de tahicardie se oprește brusc"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Notați semnul ECG caracteristic în tahicardia atrioventriculară reciprocă cu căi accesorii:",
+      "options": [
+        "interval P-Q 0,2 mm/sec",
+        "unde P negative în DII, DIII, aVF şi pozitive în aVR în urma complexului QRS",
+        "interval R-R neregulat",
+        "durata complexului QRS > 0,14 sec.",
+        "complex QRS de regulă aberant"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Notați semnul ECG caracteristic în tahicardia ventriculară paroxistică:",
+      "options": [
+        "complexe QRS anormale, cu modificări secundare S-T, T",
+        "undă P negativă înaintea complexului QRS",
+        "prezenţa undei delta",
+        "interval P-Q <0,12 sec",
+        "unde P negative după complexul QRS"
       ],
       "correct": 0
     },
     {
-      "text": "Care este criteriul principal pentru diagnosticarea hipertensiunii arteriale?",
+      "text": "Mențioanați semnul ECG caracteristic pentru extrasistolia atrială:",
       "options": [
-        "Tensiune ≥ 140/90 mmHg la măsurători repetate",
-        "Tensiune < 120/80 mmHg",
-        "Tensiune 100/60 mmHg",
-        "Tensiune 90/50 mmHg"
+        "unde „f” între intervalele R-R",
+        "interval P-Q sub 0,12 sec",
+        "prezența unei contracții premature PQRST",
+        "pauză compensatorie completă",
+        "unda P negativă înaintea complexului QRST"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În extrasistolia ventriculară identificăm semnele ECG caracteristice cu exepția:",
+      "options": [
+        "interval P-Q în limite normale",
+        "segmentul ST şi unda T sunt de sens opus faţă de deflexiunea principală a QRS",
+        "pauză compensatorie completă",
+        "unda P negativă după complexul QRS",
+        "durata complexului QRS > 0,12 sec."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Metoda de elecție în paroxismul de tahicardie ventriculară cu instabilitate",
+      "options": [
+        "hemodinamică gravă este:",
+        "aplicarea șocului electric 200 J",
+        "administrarea intravenoasă a Sol.  Novocainamidă",
+        "administrarea intravenoasă a Sol Digoxină",
+        "aplicarea șocului electric 50 J",
+        "administrarea intramusculară a Sol. Lidocaină"
       ],
       "correct": 0
     },
     {
-      "text": "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
+      "text": "cm. Menționați afirmațiile corecte în fibrilația atrială paroxistică „vagală”:",
       "options": [
-        "60-100 bătăi/min",
-        "30-50 bătăi/min",
-        "110-130 bătăi/min",
-        "140-160 bătăi/min"
+        "A.   se întâlneste mai frecvent la femei",
+        "B.   se declanșează în stare de repaus",
+        "C.   este întâlnită mai frecvent la bărbați",
+        "D.   apare în timpul stresului emoțional",
+        "E.   se declanșează postprandial sau în timpul somnului"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "cm.  Menționați medicamentele care inhibă conducerea impulsului prin nodul",
+      "options": [
+        "atrioventricular:",
+        "Digoxina",
+        "Propronalolul",
+        "Amiodarona",
+        "Verapamila",
+        "Nifedipina"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "cm.  Indicați medicamentele administrate pentru restabilirea ritmului sinusal la un pacient cu fibrilație atrială:",
+      "options": [
+        "Digoxina",
+        "Novocainamida Metoprolol",
+        "Amiodarona",
+        "Propafenona",
+        "Sotalolul"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "cm. Menționați caracteristicele clinice și ECG în flutter-ul ventricular:",
+      "options": [
+        "A. stare sincopală",
+        "B. unde „F” cu aspect „dinţi de ferestrău”",
+        "C. absența pulsului la vasele mari",
+        "D. sinusoidă la ECG formată din excitații ventriculare regulate",
+        "E.  frecvența contracțiilor cardiace 250-300b/min"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "cm.Tahicardia sinusală se caracterizează prin:",
+      "options": [
+        "A.  modificare lentă a frecvenței cardiace",
+        "B.  reacție fiziologică normală la efort",
+        "C.  complexe QRS normale",
+        "D.  interval P-Q peste 0,20 sec",
+        "E.   reacție fiziologică la stres"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "cm. Tahicardia atrioventriculară joncțională nonparoxistică este cauzată de:",
+      "options": [
+        "A.  intoxicații cu glicozide cardiace",
+        "B.  infarct miocardic inferior",
+        "C.  hipocaliemie",
+        "D.  intervenții chirurgicale pe cord",
+        "E.  hipocalciemie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "cm. Extrasistolia ventriculară ECG se manifestă prin:",
+      "options": [
+        "A.  complex QRS patologic",
+        "B.  pauză compensatorie completă",
+        "C. interval P- Q sub 0,12 sec",
+        "D. undă P negativă, ce succedează QRS",
+        "E.  lipsa undei P"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "cm. Menționați afirmațiile incorecte pentru fibrilația atrială paroxistică „vagală”:",
+      "options": [
+        "A.   se întâlneste mai frecvent la femei",
+        "B.   se declanșează în stare de repaus",
+        "C.   este întâlnită mai frecvent la bărbați",
+        "D.   apare în timpul stresului emoțional",
+        "E.   se declanșează postprandial sau în timpul somnului"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Afirmația incorectă în fibrilația atrială paroxistică ”adrenergică” este:",
+      "options": [
+        "apare în timpul efortului fizic",
+        "este provocată de situații stresante",
+        "preponderent dimineața",
+        "se întâlneste mai frecvent la femei",
+        "se declanșează în stare de repaus"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicați medicamentul care nu se administrează pentru restabilirea ritmului sinusal la un pacient cu fibrilație atrială:",
+      "options": [
+        "Digoxina",
+        "Novocainamida",
+        "Amiodarona",
+        "Propafenona",
+        "Sotalolul"
       ],
       "correct": 0
     },
     {
-      "text": "Ce hormon scade glicemia?",
+      "text": "cs.   Pentru calcularea scorul thromboembolic la un pacient cu fibrilație atrială nu este nevoie de un indice, notează-l:",
       "options": [
-        "Insulina",
-        "Glucagonul",
-        "Adrenalina",
-        "Cortizolul"
+        "vârsta > 65 ani",
+        "hipertensiunea arterială",
+        "diabetul zaharat",
+        "sexul feminin",
+        "supraponderea"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "cm. Menționați caracteristicele clinice și EKG în flutter-ul ventricular:",
+      "options": [
+        "A. Interval PQ în limite normale",
+        "B. unde „F” cu aspect „dinţi de ferestrău”",
+        "C. unde ”f” cu distanțe RR inegale",
+        "D. sinusoidă ECG formată din exitații ventriculare regulate",
+        "E.  frecvență contracțiilor cardiace 250-300b/min"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "cs.Tahicardia sinusală se caracterizează prin:",
+      "options": [
+        "A.  frecvență cardiacă în limite 60 – 80 bătăi pe minut",
+        "B.  reacție fiziologică normală la efort",
+        "C.  complexe QRS anormale",
+        "D.  interval P-Q peste 0,20 sec",
+        "E.   ritmul se reduce la efort"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "cm. Numiți cauzele fiziologice ale bradicardiei sinusale",
+      "options": [
+        "A.  intoxicații cu glicozide cardiace",
+        "B.  somn fiziologic",
+        "C.  sportiv antrenat",
+        "D.  intervenții chirurgicale pe cord",
+        "E.  hipocalciemii"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Mecanismul tahicardiei joncționale atrioventriculare este cauzat de:",
+      "options": [
+        "dereglarea conducerii impulsului prin mecanismul „re-entry”",
+        "dereglarea automatismului prin mecanismul „trigerr”",
+        "creșterea automatismului normal",
+        "insuficiența de automatism",
+        "mecanismul parasistolic"
       ],
       "correct": 0
     },
     {
-      "text": "Care este principalul rol al plămânilor?",
+      "text": "Medicamentul de elecție în tahicardiile atrioventriculare reciproce este:",
       "options": [
-        "Schimbul de gaze (O2/CO2)",
-        "Filtrarea sângelui",
-        "Digestia grăsimilor",
-        "Producerea de hormoni"
+        "Digoxina",
+        "Etacizina",
+        "Sol. Adenozintrifosfat 10 mg în 1 secundă intravenos",
+        "Amiodarona",
+        "Sotalol"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Medicamentul de elecție în tahicardia sinusală este:",
+      "options": [
+        "Digoxina",
+        "Sol. Adenozintrifosfat 10 mg în 1 secundă intravenous",
+        "Metoprolol",
+        "D.  Amiodarona",
+        "E.  Sotalol"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeți medicamentul antiaritmic de elecție în tahicardia ventriculară:",
+      "options": [
+        "Digoxina",
+        "Nifedipina",
+        "Amiodarona",
+        "Verapamil",
+        "Diltiazem"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "cs. Extrasistolia ventriculară ECG se manifestă prin:",
+      "options": [
+        "A. complex QRS normal",
+        "B. pauză compensatorie incompletă",
+        "C. interval P - Q sub 0,12 sec",
+        "D. undă P negativă, ce succedează QRS",
+        "E.  lipsa undei P"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "În extrasistolia atrioventriculară superioară pe ECG se înregistrează:",
+      "options": [
+        "interval P-Q peste 0,20 sec",
+        "complex QRS anormal",
+        "undă P negativă în DII,DIII ce precedează complexul QRS",
+        "undă P negativă în DII,DIII ce succede QRS",
+        "pauză compensatorie completă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Notați manifestările EKG în extrasistolia atrioventriculară medie:",
+      "options": [
+        "complex QRS anormal",
+        "undă P negativă în DII,DIII ce succede QRS",
+        "unda P este înglobată în complexul QRS",
+        "pauză compensatorie completă",
+        "undă P negativă în DII,DIII ce precedează QRS"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În extrasistolia atrioventriculară inferioară pe EKG se înregistrează:",
+      "options": [
+        "lipsa undei P",
+        "complex QRS anormal",
+        "pauză compensatorie completă",
+        "undă P negativă după complexul QRS",
+        "interval PQ peste 0,2 sec"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți mecanismul medicamentelor antiaritmice din clasa I",
+      "options": [
+        "blocatorii canalelor de potasiu",
+        "blocatorii canalelor de natriu",
+        "blocatorii canalelor de calciu",
+        "beta - blocatori",
+        "blocatorii canalelor de caliu"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți mecanismul medicamentelor antiaritmice din clasa II",
+      "options": [
+        "blocatorii canalelor de potasiu",
+        "blocatorii canalelor de natriu",
+        "blocatorii canalelor de calciu",
+        "beta - blocatori",
+        "blocatorii canalelor de caliu"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți mecanismul medicamentelor antiaritmice din clasa IV",
+      "options": [
+        "blocatorii canalelor de potasiu",
+        "blocatorii canalelor de natriu",
+        "blocatorii canalelor de calciu",
+        "beta - blocatori",
+        "blocatorii canalelor de caliu"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți medicamentul antiaritmic, care acționează asupra canalelor IF",
+      "options": [
+        "Amiodarona",
+        "Sotalol",
+        "Ivabradina",
+        "Metoprolol",
+        "Nicorandil",
+        "Răspuns C",
+        "cm. Numiți medicamentele antiaritmice din clasa I",
+        "Lidocaina",
+        "Propafenona",
+        "Chinidina",
+        "Novocainamida",
+        "Amiodarona"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "cm Tratamentul pacienților cu fibrilație atrială cronică necesită administrarea următoarelor preparate:",
+      "options": [
+        "A. Amiodarona",
+        "B. Sotalol",
+        "C. Bisoprolol",
+        "D. Warfarină",
+        "E. Amlodipină"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pacienții cu paroxisme de tahicardie ventriculară frecventă necesită:",
+      "options": [
+        "Implantare de cardiostimulator",
+        "Stimulare transesofagiană",
+        "Ablație",
+        "Implantare de cardiodefibrilator",
+        "Transplant de cord"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CM. Numiți indicii care sunt incluși în scorul CHADS2, după care se stabilește riscul trombo - embolic la un pacient cu fibrilație atrială:",
+      "options": [
+        "A. Hipertensiune arterială",
+        "B. Insuficiență cardiacă",
+        "C. Acccident cerebrovascular",
+        "D. Vârsta mai mare de 65 ani",
+        "E.  Boală, arterială periferică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM. Numiți indicii care sunt incluși în scorul CHA2DS2-VASC, după care se stabilește riscul trombo - embolic la un pacient cu fibrilație atrială",
+      "options": [
+        "A. Diabet zaharat",
+        "B. Insuficiență cardiacă",
+        "C. Acccident cerebrovascular",
+        "D. Vârsta mai mare de 75 ani",
+        "E.  Hepatită virală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM. Numiți indicii care diferențiază scorul CHADS2 și CHA2DS2-VASC, după care se stabilește riscul trombo - embolic la un pacient cu fibrilație atrială",
+      "options": [
+        "A. Infarctul miocardic",
+        "B. Insuficiență cardiacă",
+        "C. Acccidentul cerebrovascular",
+        "D. Vârsta",
+        "E. Boală, arterială periferică"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip bigiminie:",
+      "options": [
+        "A. fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. duplete",
+        "E. triplete"
       ],
       "correct": 0
     },
     {
-      "text": "Ce tip de șoc se produce în anafilaxie?",
+      "text": "CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip trigiminie:",
       "options": [
-        "Șoc distributiv",
-        "Șoc cardiogen",
-        "Șoc hipovolemic",
-        "Șoc obstructiv"
+        "A. fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. duplete",
+        "E. triplete"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip cvadrigiminie:",
+      "options": [
+        "A. fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. duplete",
+        "E. triplete"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 3 extrasistole:",
+      "options": [
+        "A. fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. duplete",
+        "E.  triplete"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 2 extrasistole",
+      "options": [
+        "A. fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. duplete",
+        "E. triplete"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin triplete extrasistolice:",
+      "options": [
+        "A.fiecare a 2-a bătaie este o extrasistolă",
+        "B. fiecare a 3-a bătaie este o extrasistolă",
+        "C. fiecare a 4-a bătaie este o extrasistolă",
+        "D. la EKG sunt prezente 2 extrasistole succesive",
+        "E. la EKG sunt prezente 3 extrasistole succesive"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Ce dereglare de conductibilitate nu poate fi diagnosticata electrocardiografic:",
+      "options": [
+        "Blocul atrioventricular de gr.I",
+        "Blocul complet de ramură dreaptă a fascicolului His",
+        "Blocul sinoatrial de gr. I",
+        "Blocul atrioventricular de gr. III",
+        "Blocul sinoatrial de gr. II"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Blocul sinoatrial de gradul II, electrocardiografic, se manifestă prin:",
+      "options": [
+        "lipsa periodică a 1,2,3 complexe PQRS",
+        "lipsa periodică a complexelor QRS",
+        "pauze compensatorii complete după complexul PQRST",
+        "contracții atriale și ventricularare frecvente",
+        "alungirea intervalului PQ"
       ],
       "correct": 0
+    },
+    {
+      "text": "Numiți dereglarea de conductibilitate caracterizată ECG prin perioade Wenckebach:",
+      "options": [
+        "bloc atrioventricular gradul II, tip II (Mobitz II)",
+        "bloc  sinoatrial gradul II, tip I (Mobitz I)",
+        "bloc atrioventricular gradul III",
+        "bloc complet de ramură dreaptă a fasciculului His",
+        "bloc de ramură stângă a fasciculului His"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Semnul clinic al blocurilor sinoatrial și atrioventricular de gr. II tip II (Mobitz II) avansat este:",
+      "options": [
+        "Palpitații",
+        "Dispnee de tip mixt la efort moderat",
+        "Fatigabilitate",
+        "Stări sincopale",
+        "Dureri retrosternale constrictive cu iradiere sub omoplatul drept"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Blocul atrioventricular gr.I se manifestă electrocardiografic prin:",
+      "options": [
+        "Interval QRS alungit",
+        "Unde P negative înaintea complexului QRST",
+        "Intervale egale PQ sau PR cu durata peste 0,2sec",
+        "Intervale PQ diferite",
+        "Unde delta"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În blocul atrioventricular gr.II, electrocardiografic, se atestă:",
+      "options": [
+        "lipsa periodică a complexului PQRST",
+        "lipsa undei P",
+        "lipsa periodică a complexelor QRS",
+        "prezența undelor ”f”",
+        "prezența undelor ”F”"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți semnul caracteristic pentru blocul atrioventricular de gradul III:",
+      "options": [
+        "Nici unul din impulsurile atriale nu se propagă spre ventricule",
+        "Încetinirea treptată a propagării impulsurilor spre ventricule",
+        "Leziune organică a sistemului His-Purkinje",
+        "Oprirea temporară a activității electrice a nodului sinusal",
+        "Impulsurile sunt conduse retrograd de la ventricule la atrii"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Blocul  atrio-ventricular de gradul III electrocardiografic se manifestă prin:",
+      "options": [
+        "raportul contracțiilor atriale și celor ventriculare este de 3:1",
+        "contracții atriale și ventriculare independente",
+        "pauze sinusale fără unda P",
+        "lipsa periodică a complexelor PQRST",
+        "lipsa periodică a complexelor QRST"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați semnul ECG carcateristic blocului complet de ramură dreaptă a",
+      "options": [
+        "fasciculului His:",
+        "A.  prezența undelor R largi, croșetate în III, AVF, V1, V2",
+        "alungirea intervalului PQ",
+        "C.  scurtarea intervalului PQ",
+        "D.  unde R largi, croșetate în I, AVL, V5, V6",
+        "E.  unde S largi în III, AVF, V1, V2"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați semnul ECG carcateristic blocului complet de ramură stângă a",
+      "options": [
+        "fasciculului His:",
+        "A.  prezența undelor R largi, croșetate în III, AVF, V1, V2",
+        "alungirea intervalului PQ",
+        "C.  scurtarea intervalului PQ",
+        "D.  unde R largi, croșetate în I, AVL, V5, V6",
+        "E.  unde S largi în I, AVL, V5, V6"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Menționați indicația directă a cardioverterului-defibrilatorului implantabil:",
+      "options": [
+        "Recidive de fibrilație ventriculară la intervale variabile de timp",
+        "Bloc atrioventricular complet",
+        "Fibrilație atrială",
+        "Flutter atrial",
+        "Bloc sinoatrial complet"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "CM. În blocul complet de ramură stângă a fasciculului His pe ECG se atestă:",
+      "options": [
+        "A. durata QRS depășește 0,12 sec.",
+        "B. complexe ventriculare de tip S în III, AVF, V1, V2",
+        "C. complexe ventriculare de tip S în I, AVL, V5, V6",
+        "D.  complexe ventriculare de tip R în I, AVL, V5, V6",
+        "E.  durata QRS 0,10 - 0,12 sec."
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CM. Menționați afirmaţiile corecte pentru sindromul Wolff-Parkinson-White:",
+      "options": [
+        "A. Prezența unei căi ascesorii care leagă direct atriul de ventricul",
+        "B. Impulsului atrial se propagă concomitent pe calea nodohisiană și a f.Kent",
+        "C. Depolarizarea precoce a ventriculelor",
+        "D. Prezența undei delta pe traseul ECG",
+        "E. Intervalul P-Q în limitele 0,12- 0,20 sec"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM. Blocul incomplet de ramură stângă anterior a  fasciculului His se caracterizează prin:",
+      "options": [
+        "complexe de tip R în I, AVL, V5, V6",
+        "axă electrică deviată brusc în stânga",
+        "complexe de tip S în III, AVF,V1, V2",
+        "D. durata QRS 0,1- 0,12 sec",
+        "E.  ritm joncțional"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți cauza asistoliei:",
+      "options": [
+        "blocul atrioventricular gr.III",
+        "flutterul atrial",
+        "ritm ectopic din joncțiunea atrioventriculară de mijloc",
+        "blocul sinoatrial gr.I",
+        "fibrilația atrială cronică"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați potențialul de repaus a automatismului normal:",
+      "options": [
+        "Extensiunea fibrelor miocardice",
+        "Schimbările echilibrului electrolitic",
+        "Acțiunea catecolaminelor",
+        "Infarctul miocardic",
+        "Potențial de membrană - 90 mV"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Menționați mecanismele electrofiziologice a tulburărilor de ritm cu excepția",
+      "options": [
+        "Automatism normal",
+        "Automatism normal crescut",
+        "Automatism patologic",
+        "Postdepolarizări precoce",
+        "Posdepolarizări tardive"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Blocurile sinoatriale gradul II tip II (Mobitz II), electrocardiografic prezintă",
+      "options": [
+        "perioade P-P egale",
+        "pauze compensatorii incomplete după complexul PQRST",
+        "pauze ”sinusale” cu unda P fără complex QRS",
+        "durata pauzei corespunde cu 2,3 sau mai multe intervale P-P normale",
+        "pauza este precedată de descreșterea progresivă a intervalelor P-P"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sindromul Morgani – Adams – Stockes se întâlnește la pacienții cu :",
+      "options": [
+        "tahiaritmie",
+        "fibrilație atrială",
+        "bloc atrioventricular de gr. III",
+        "flutter ventricular",
+        "tahicardie ventriculară"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați afirmația corectă pentru blocul atrioventricular de gr. I",
+      "options": [
+        "Nu toate impulsurile atriale sunt conduse la ventricule",
+        "Interval PQ sau PR peste  0,2 sec",
+        "Se înregistrează frecvent la copiii",
+        "Interval PQ sau PR sub 0,12 sec.",
+        "Alungirea treptată a intervalului PQ"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți semnul electrocardiografic caracteristic blocului atrioventricular gr. II tip I (Mobitz I):",
+      "options": [
+        "Pauză compensatorie completă",
+        "Omiterea a 2,3 contracții ventriculare cu păstrarea contracției atriale",
+        "Prezența perioadelor Samoilov-Wenckebach",
+        "Intervale PQ regulate",
+        "Intervale RR regulate"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În blocul atrioventricular gr. II tip II (Mobitz II) sunt caracteristice:",
+      "options": [
+        "Perioade Samoilov-Wenckebach",
+        "Intervale PP diferite",
+        "Toate impulsurile atriale sunt propagate spre ventricule",
+        "Pe traseul ECG se înregistrează lipsa a 1,2,3 complexe QRS",
+        "Este prezentă o dereglare funcțională a sistemului His-Purkinje"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Sindromul tahi – bradi necesită implantare de:",
+      "options": [
+        "Cardioverter-defibrilator",
+        "Cardiostimulator",
+        "Valvă cardiacă",
+        "Stent bar-metalic",
+        "Stent cu impregnare medicamentoasă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați medicamentul care poate induce sindromul Frederic:",
+      "options": [
+        "Digoxina",
+        "Metoprololul",
+        "Amiodarona",
+        "Amlodipina",
+        "Spironolactona",
+        "Răspuns A.",
+        "CM. Notați dereglările de ritm care se manifestă prin dereglări severe ale hemodinamicii:",
+        "Fibrilația ventriculară",
+        "Tahicardia joncțională cu frecvență înaltă",
+        "Flutterul ventricular",
+        "Tahicardia ventriculară",
+        "Blocul atrioventricular gr. I"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM. În blocul incomplet de ramură stângă a fasciculului His pe EKG se atestă:",
+      "options": [
+        "A. durata QRS depășește 0,12 sec.",
+        "B. complexe ventriculare de tip S în III, AVF, V1, V2",
+        "C. complexe ventriculare de tip S în I, AVL, V5, V6",
+        "D.  complexe ventriculare de tip R în I, AVL, V5, V6",
+        "E.  durata QRS 0,10 - 0,12 sec."
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CS. Menționați afirmaţiile corecte pentru sindromul Wolff-Parkinson-White, cu excepția:",
+      "options": [
+        "A. Prezența unei căi ascesorii care leagă direct atriul de ventricul",
+        "B. Impulsului atrial se propagă concomitent pe calea nodohisiană și a f.Kent",
+        "C. Depolarizarea precoce a ventriculelor",
+        "D. Prezența undei delta pe traseul ECG",
+        "E. Intervalul P-Q în limitele 0,12- 0,20 sec"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Menționați indicațiile pentru implantarea cardiostimulatorului permanent, cu excepția:",
+      "options": [
+        "Blocul atrioventricular complet asociat cu bradicardie simptomatică",
+        "Sindrom Frederica",
+        "Sincope recurente asociate cu pauze sistolice de peste 3 sec",
+        "Bloc atrioventricular de gr. II persistent după infarct miocardic anterior acut",
+        "Fibrilație ventriculară"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicați dereglările de ritm în care veți folosi electrocardiostimulare transesofagiană:",
+      "options": [
+        "Flutter  atrial",
+        "Tahicardie ventriculară",
+        "Fibrilație ventriculară",
+        "Flutter ventricuar",
+        "Bloc bifascicular"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Endocardita infecțioasă este o maladie:",
+      "options": [
+        "Degenerativă",
+        "Distructivă",
+        "Infecțioasă",
+        "Congenitală",
+        "Ereditară"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți autorul cărui îi aparțineprima descriere detaliată a endocarditei infecțioase:",
+      "options": [
+        "E. Libman",
+        "W. Osler",
+        "H. Schottmuller",
+        "W. Thayer",
+        "S. Jaccoud"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Tratamentul endocarditei infecțioase include următoarele medicamente în afară de:",
+      "options": [
+        "Antibiotice",
+        "Antimicotice",
+        "Glicozide cardiace",
+        "Anticoagulante",
+        "Β blocante"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți doza profilactică de Amoxacilină la pacienții cu risc înalt pentru dezvoltarea endocarditei infecțioase.",
+      "options": [
+        "500 mg/zi cu 2 ore înainte de procedura stomatologică",
+        "500 mg/zi după procedura stomatologică",
+        "2-3g cu 1 oră înainte de procedura stomatologică",
+        "1g/zi cu 2 ore înainte de procedura stomatologică",
+        "500 mg/zi în 4 prize"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați la ce interval se permite extirparea dinților la pacienții cu endocardită infecțioasă în anticedență, pentru a preveni recurența unui nou epizod:",
+      "options": [
+        "2 dinți în zi",
+        "3 dinți în zi",
+        "1 dinte în zi",
+        "1 dinte în 3 zile",
+        "1 dinte în 10 zile"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Endocardita infecțioasă streptococică meticilin - rezistentă se tratează în exclusivitate cu:",
+      "options": [
+        "Penicilină G",
+        "Ceftriaxonă",
+        "Vancomicină",
+        "Gentamicină",
+        "Amoxacilină"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți cea mai frecventă și mai gravă complicație a endocarditei infecțioase:",
+      "options": [
+        "Evenimente embolice",
+        "Insuficiență cardiacă „osleriană”",
+        "Glomerulonefrită",
+        "Encefalită",
+        "Hepatită toxică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți cea mai informativă analiză de laborator în endocardită infecțioasă:",
+      "options": [
+        "Analiza generală a sângelui",
+        "Urea",
+        "Proteina C reactivă",
+        "Hemocultura",
+        "Urocultura"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți agentul infecțios predominant în endocardita infecțioasă la pacienții care nu respectă igiena dentară:",
+      "options": [
+        "Streprococcus virdans",
+        "Streptococcus bovis",
+        "Enterococul faecalis",
+        "Staphiylococcus epidermidis",
+        "Staphiylococcus aureus",
+        "Răspuns A",
+        "CM. Notați savanții care s-au ocupat cu cercetări în domeniu endocarditei infecțioase:",
+        "E. Libman",
+        "W. Osler",
+        "H. Schottmuller",
+        "L. Nicolaev",
+        "V. Socoteanu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiți doza de tratament și calea de administrarea a Daptomicinei la pacienții cu endocardită infecțioasă provocată de  Staphylococcus aureus:",
+      "options": [
+        "300-500 mg/zi intravenos perfuzie",
+        "1gr/zi intravenos bolus",
+        "3 g/zi per os",
+        "1 g/zi per os",
+        "500 mg/zi în 4 prize intramuscular"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiți doza de tratament a Vancomicinei la pacienții cu endocardită infecțioasă provocată de stafilococii meticilinrezistenți :",
+      "options": [
+        "500 mg/zi intravenos perfuzie",
+        "1 g/zi intravenos perfuzie",
+        "2 g/zi intravenos perfuzie în 2 prize",
+        "500 mg/zi intravenos bolus",
+        "1 g/zi intravenos bolus"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Grefa microbiană în endocardita infecțioasă se localiazează pe următoarele valve cu excepția:",
+      "options": [
+        "Valvele native",
+        "Valva Eustache",
+        "Valva ileocecală",
+        "Protezele valvulare",
+        "Valve intacte"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicați ce embolii predomină în endocardita infecțioasă de cord drept:",
+      "options": [
+        "Pulmonare cu pneumonii septice",
+        "Coronariene",
+        "Cerebrale",
+        "Mezinteriale",
+        "Splenice"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Notați complicațiile embolice specifice pentru endocardita infecțioasă de cord stâng cu excepția:",
+      "options": [
+        "Embolii renale",
+        "Embolii cerebrale",
+        "Embolii splenice",
+        "Embolii coronariene",
+        "Embolii pulmonare"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți afirmațiile corecte pentru endocardita infecțioasă de proteză tardivă:",
+      "options": [
+        "Agențiii infecțiosi predominanți sunt stafilococii și streptococii",
+        "Complicațiile embolice constituie un procent înalt și cauza mortalității",
+        "Se dezvoltă în primele 6 luni după protezare",
+        "Poartă denumirea de endocardită infecțioasă comunitară",
+        "Se mai numește endocardită infecțioasă nozocomială"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți formele noi ale endocarditei infecțioase cu excepția :",
+      "options": [
+        "Endocardita infecțioasă a dispozitivelor intracardiace",
+        "Endocardita infecțioasă a adolescenților",
+        "Endocardita infecțioasă la vârstnici",
+        "Endocardita infecțioasă a utilizatorilor de droguri intravenoase",
+        "Endocardita infecțioasă a pacienților supuși hemodializei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți factorul cardiac predispozanți pentru dezvoltarea endocarditei infecțioase la populația Republicii Moldova:",
+      "options": [
+        "Valve intacte",
+        "Valvulopatii reumatismale",
+        "Miocardită",
+        "Hipertensiune arterială",
+        "Cardiomiopatie hipertrofică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți factorul predispozant pentru dezvoltarea endocarditei infecțioase de cord drept:",
+      "options": [
+        "Extracții dentare",
+        "Hepatită virală",
+        "Cardiopatie hipertrofică",
+        "Utilizarea drogurilor intravenos",
+        "Cardiopatie reumatismală"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți cea mai frecventă partă de intrare a  endocarditei infecțioase de cord drept:",
+      "options": [
+        "Infecții respiratorii",
+        "Extracții dentare",
+        "Utilizarea drogurilor intravenos",
+        "Igienă dentară precară",
+        "Vârsta inaintată"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați căte săptămâni de terapie antimicrobiană necesită pacientul cu endocardită infecțioasă de proteză de etiologie stafilococică:",
+      "options": [
+        "1 săptămână",
+        "2 săptămâni",
+        "4 săptămâni",
+        "6 săptămâni",
+        "8 săptămâni",
+        "Răspuns E",
+        "CM. Menționați afirmațiile corecte pentru endocardita infecțioasă vindecată:",
+        "Iradicarea definitivă a infecţiei",
+        "Temperatură corporală normală",
+        "VSH în limite normale şi hemoculturi negative în decurs de 1 an după finisarea curei de  tratament",
+        "VSH în limite normale şi hemoculturi negative în decurs de 1 lună după finisarea curei de  tratament",
+        "VSH în limite normale şi hemoculturi negative în decurs de 6 luni după finisarea curei de  tratament"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiți cea mai frecventă cardiomiopatie",
+      "options": [
+        "Aritmogenă",
+        "Dilatativă",
+        "Hipertrofică",
+        "Restrictivă",
+        "Alcoolică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați care componentă se înrăutățește preponderent în cardiomiopatia dilatativă:",
+      "options": [
+        "Sistola",
+        "Diastola",
+        "Tensiunea arterială",
+        "Pulsul",
+        "Rezistența periferică"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați valorile fracției de ejecție caracteristice pentru pacienții cu cardiomiopatie dilatativă:",
+      "options": [
+        "25-39 %",
+        "50%",
+        "60%",
+        "70%",
+        "100%"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați modificărea ecocardiografică caracteristică pentru cardiomiopatia dilatativă:",
+      "options": [
+        "Dilatarea tuturor cavităţilor cordului",
+        "Dilatarea izolată a ventriculului stâng",
+        "Majorarea fracției de ejecție",
+        "Dilatarea izolată a ventriculului drept",
+        "Hipertofia  septului interventricular"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați componenta care se înrăutățește preponderent în cardiomiopatia hipertrofică:",
+      "options": [
+        "Sistola",
+        "Diastola",
+        "Tensiunea arterială",
+        "Pulsul",
+        "Rezistența periferică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați modificarea ecocardiografică caracteristică pentru cardiomiopatia hipertrofică:",
+      "options": [
+        "Dilatarea tuturor cavităţilor cordului",
+        "Dilatarea atriului stâng",
+        "Majorarea fracției de ejecție",
+        "Dilatarea izolată a ventriculului drept",
+        "Hipertofia  septului interventricular"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți substratul morfologic caracteristic cardiomiopatiei restrictive:",
+      "options": [
+        "Îngroșarea marcată, difuză a endocardului parietal a VS, uneori a VD",
+        "Hipertrofia miocardului VS",
+        "Dezvoltarea cardiomegaliei",
+        "Efilarea (subțierea) pereților VD",
+        "Miocard spongios"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiți substratul morfologic caracteristic cardiomiopatiei aritmogene de ventricul drept:",
+      "options": [
+        "Îngroșarea marcată, difuză a endocardului parietal a VS, uneori a VD",
+        "Hipertrofia miocardului VS",
+        "Dezvoltarea cardiomegaliei",
+        "Efilarea (subțierea) pereților VD",
+        "Miocard spongios"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Menționați cardiomiopatia în care tratamentul este efectiv şi prognosticul favorabil:",
+      "options": [
+        "Cardiomiopatie hipertrofică",
+        "Cardiomiopatie alcoolică",
+        "Cardiomiopatie dilatativă",
+        "Cardiomiopatia restrictivă",
+        "Cardiomiopatia aritmogenă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicați ce medicamente nu veți administra în cardiomiopatia dilatativă:",
+      "options": [
+        "Diuretice",
+        "Inhibitori ai enzimei de conversie",
+        "Antiaritmice",
+        "Anticoagulante",
+        "Antipiretice"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Menționați cea mai severă formă a cardiomiopatiei hipertrofice:",
+      "options": [
+        "Obstructivă",
+        "Neobstructivă",
+        "Apicală",
+        "Restrictivă",
+        "Dilatativă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați complicația severă a pacienților cu cardiomiopatie hipertrofică cu obstrucția tractului de ejecție:",
+      "options": [
+        "Tahicardia ventriculară",
+        "Fibriația atrială",
+        "Stări sincopale",
+        "Fluterul atrial",
+        "Anasarca"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați modificarea EKG caracteristică pacienților cu  cardiomiopatie dilatativă?",
+      "options": [
+        "Bloc atrioventricular complet",
+        "Bloc sinoatrial complet",
+        "Fibrilație atrială",
+        "Unde Q patologice inexplicabile în derivațiile pectorale",
+        "Voltaj scăzut"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ce metodă chirurgicală nu se utilizează în tratamentul pacienților cu cardiomiopatie hipertrofică obstructivă semnificativă",
+      "options": [
+        "Mioectomia parțială",
+        "Ablația septală cu alcool",
+        "Embolizarea primei septale",
+        "Implantarea defibrilatorului – cardiovertel",
+        "Mioectomia totală"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți cele mai frecvent întâlnite și studiate miocardite:",
+      "options": [
+        "Virale",
+        "Fungice",
+        "Toxice",
+        "Bacteriene",
+        "Prin iradiere"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați cea mai utilă și informativă metodă pentru diagnosticarea funcției miocardului în miocardite:",
+      "options": [
+        "Electrocardiografia",
+        "Ecocardiografia",
+        "Radiografia cordului",
+        "Coronarografia",
+        "Fonocardiografia"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți „marca” histologică a miocarditei virale - infiltratul inflamator cu predominarea:",
+      "options": [
+        "Monocitelor",
+        "Limfocitelor",
+        "Eozinofilelor",
+        "Celulelor polimorfonucleare",
+        "Neutrofilelor"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați semnul electrocardiografic caracteristic pentru miocardite:",
+      "options": [
+        "unda T negativă în toate derivațiile",
+        "Hipertrofie VS și VD",
+        "voltajul mic al complexului QRS",
+        "Hipertrofie AS și AD",
+        "Bloc complet de ram drept a fascicolului His"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți criteriul standard de diagnostic al miocarditelor:",
+      "options": [
+        "Ecocardiografia",
+        "Biopsia endomiocardică",
+        "Coronarografia",
+        "Scintigrafia miocardului cu Technețiu – 99",
+        "Teste farmacologice"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați preparatul medicamentos contraindicat în miocardita acută:",
+      "options": [
+        "Diureticele",
+        "Inhibitorii enzimei de conversie a angiotenzinei II",
+        "Preparate antiaritmice",
+        "Antiinflamatoarele nesteroidiene",
+        "Imunoglobulina"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "c.s  Numiți cea mai valoroasă metoda de evidențiere a lichidului în pericardita exudativă:",
+      "options": [
+        "Ecocardiografia",
+        "Electrocardiografia",
+        "Coronarografia",
+        "Doppler intima media",
+        "Scintigrafia cordului"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Menționați câți milimetri de lichid se pot vizualiza în normă în cavitatea pericardului la EcoCG:",
+      "options": [
+        "1 mm",
+        "5 mm",
+        "10 mm",
+        "50 mm",
+        "100 mm"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți cea mai  informativă investigație paraclinică pentru stabilirea diagnosticului de valvulopatie reumatismală:",
+      "options": [
+        "Electrocardiografia",
+        "Ecocardiografia",
+        "Fonocardiografia",
+        "CT cordului",
+        "RMN a cordului"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți complicația necaracteristică pentru insuficiența mitrală:",
+      "options": [
+        "Fibrilație atrială",
+        "Edem pulmonar",
+        "Embolii sistemice",
+        "Hemoragie gastrică",
+        "Astm cardiac"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ce medicamente nu include tratamentul insuficienței mitrale manifeste:",
+      "options": [
+        "Inhibitorii enzimei de conversie",
+        "Beta blocanți",
+        "Diuretice",
+        "Glicozide cardiace",
+        "Alfa mimetice"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți cea mai frecventă cauză în dezvoltarea stenozei mitrale la populația din Republica Moldova:",
+      "options": [
+        "Pneumonia",
+        "Scarlatina",
+        "Febra reumatismală acută",
+        "Endocardita infecțioasă",
+        "Lupusul eritematos sistemic"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți cea mai frecventă dereglare de ritm în stenoza mitrală:",
+      "options": [
+        "Bradicardia sinusală",
+        "Extrasistolia ventriculară",
+        "Fibrilația atrială",
+        "Fibrilația ventriculară",
+        "Bloc atrioventricular de gr.II"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți cauza apariției crizelor anginoase tipice în stenoza mitrală",
+      "options": [
+        "Afluxul sanguin mărit către cord",
+        "Mărirea bruscă a tensiunii în capilare",
+        "Stază în circuitul mic",
+        "Comprimarea arterei coronariene stângi de către AS mărit",
+        "Comprimarea arterei coronariene drepte de către AD mărit"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Menționați suprafața normală a orificiului aortic",
+      "options": [
+        "1,5 – 2,0 cm2",
+        "2,0 – 2,5 cm2",
+        "2,5 – 3,0 cm2",
+        "3,0 – 4,0 cm2",
+        "4,0 – 5,0 cm2"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați valvulopatia care provoacă hipertrofie concentrică severă de VS:",
+      "options": [
+        "Stenoza mitrală",
+        "Stenoza aortică",
+        "Insuficiența valvei mitrale",
+        "Insuficiența valvei aortice",
+        "Insuficiența valvei arterei pulmonare"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menționați valvulopatia în care tensiunea arterială diastolică  poate atinge  valori de 60 - 0 mmHg",
+      "options": [
+        "Stenoza aortică",
+        "Stenoza mitrală",
+        "Stenoza arterei pulmonare",
+        "Insuficiența valvei mitrale",
+        "Insuficiența valvei aortale"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Menționați valorile normale ale fracției de ejecție",
+      "options": [
+        "20 – 30 %",
+        "40 – 60 %",
+        "50 – 80 %",
+        "80 – 100%",
+        "90 – 95 %"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați valorile normale a atriului drept.",
+      "options": [
+        "10 – 20 mm",
+        "15 – 20 mm",
+        "20 – 40 mm",
+        "40 – 50 mm",
+        "50 – 60 mm"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați valorile normale a atriului stâng.",
+      "options": [
+        "10 – 20 mm",
+        "15 – 20 mm",
+        "20 – 40 mm",
+        "40 – 50 mm",
+        "50 – 60 mm"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați cel mai caracteristic semn auscultativ în stenoza aortica:",
+      "options": [
+        "Diminuarea zgomotuluiI la apex",
+        "Accentuarea zgomotuluiI la apex",
+        "Suflu sistolic de ejectie la aortă cu propagarea pe arterele carotide",
+        "Suflu diastolic de ejectie la aortă",
+        "Suflu sistolic de regurgitare la apex"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți cea mai frecventă cauză a apariției anginei pectorale",
+      "options": [
+        "Aterocleroza",
+        "Tromboza",
+        "Hemoragia",
+        "Stenoza arterei carotide",
+        "Restenoza",
+        "Răspuns A",
+        "Cm. Enumerați formele dureroase ale cardiopatiei ischemice:",
+        "Moartea subită fără șoc cardiogen",
+        "Infarctul miocardic vechi",
+        "Angina pectorală silențioasă",
+        "Angina pectorală vasospastică",
+        "Angina pectorală tardivă postinfarct",
+        "Răspuns DE.",
+        "Cm. Menționați formele nedureroase ale cardiopatiei ischemice:",
+        "Moartea subită fără șoc cardiogen",
+        "Infarctul miocardic vechi",
+        "Angina pectorală silențioasă",
+        "Angina pectorală vasospastică",
+        "Angina pectorală tardivă postinfarct",
+        "Răspuns ABC",
+        "Cm. Enumerați formele dureroase ale cardiopatiei ischemice:",
+        "Moartea subită fără șoc cardiogen",
+        "Infarctul miocardic",
+        "Angina pectorală silențioasă",
+        "Angina pectorală vasospastică",
+        "Angina pectorală tardivă postinfarct",
+        "Răspuns BDE",
+        "Cm. Din formele nedureroase ale cardiopatiei ischemice nu fac parte:",
+        "Moartea subită cu șoc cardiogen",
+        "Infarctul miocardic acut",
+        "Angina pectorală silențioasă",
+        "Angina pectorală vasospastică",
+        "Angina pectorală tardivă postinfarct",
+        "Răspuns ABDE",
+        "Cm. Menționați formele dureroase ale cardiopatiei ischemice:",
+        "Moartea subită cu șoc cardiogen",
+        "Infarctul miocardic acut",
+        "Angina pectorală silențioasă",
+        "Angina pectorală stabilă",
+        "Aritmiile și blocurile de origine ischemică",
+        "Răspuns ABD",
+        "Cm  Numiți afirmațiile corecte pentru angina pectorală agravată",
+        "Accesele de durere sunt mai frecvente ca în zilele precedente",
+        "Accesele de durere sunt de o durată mai lungă ca în zilele precedente",
+        "Accesele de durere apar la un efort mai mic si in repaus ca în zilele precedente",
+        "Accesele de durere se suprimă în repaus",
+        "Accesele de durere apar la un efort mai mare ca în zilele precedente",
+        "Răspuns ABC",
+        "Cm  Numiți afirmațiile corecte pentru angina pectorală vasospastică",
+        "Accesele de durere sunt condiționate de stress",
+        "Accesele de durere sunt de o durată mai lungă de 15 minute",
+        "Accesele de durere sunt condiționate obligator de efort fizic",
+        "Accesele de durere sunt condiționate de temperature reci",
+        "Accesele de durere apar la un efort mai mare ca în zilele precedente",
+        "Răspuns ABD.",
+        "Cs  Numiți afirmația corectă pentru angina pectorală precoce postinfarct",
+        "Accesele de stenocardie au apărut pentru prima dată de 3 săptămâni",
+        "Accesele de stenocardie au apărut pentru prima dată de 14 săptămâni",
+        "Accesele de stenocardie au apărut în a 10 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut  în a 20 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut în a 30 zi după infarct miocardic acut",
+        "Răspuns C",
+        "Cm  Numiți afirmațiile corecte pentru angina pectorală tardivă postinfarct",
+        "Accesele de stenocardie au apărut pentru prima dată de 3 săptămâni",
+        "Accesele de stenocardie au apărut pentru prima dată de 14 săptămâni",
+        "Accesele de stenocardie au apărut în a 10 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut  în a 20 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut în a 30 zi după infarct miocardic acut",
+        "Răspuns DE.",
+        "Cs  Numiți afirmația corectă pentru angina pectorală „de novo”",
+        "Accesele de stenocardie au apărut pentru prima dată de 3 săptămâni",
+        "Accesele de stenocardie au apărut pentru prima dată de 14 săptămâni",
+        "Accesele de stenocardie au apărut în a 10 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut  în a 20 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut în a 30 zi după infarct miocardic acut",
+        "Răspuns A",
+        "Cm  Numiți afirmațiile incorecte pentru angina pectorală „de novo”",
+        "Accesele de stenocardie au apărut pentru prima dată de 3 săptămâni",
+        "Accesele de stenocardie au apărut pentru prima dată de 14 săptămâni",
+        "Accesele de stenocardie au apărut în a 10 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut  în a 20 zi după infarct miocardic acut",
+        "Accesele de stenocardie au apărut în a 30 zi după infarct miocardic acut",
+        "Răspuns BCDE",
+        "CM. Menționați ce patologii  include sindromul coronarian acut:",
+        "Angina pectorală de efort",
+        "Angina instabilă",
+        "Infarctul miocardic acut",
+        "Moartea subită",
+        "Angina stabilă"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM. Care afirmaţii caracterizează cardiopatia ischemică?",
+      "options": [
+        "proces patologic localizat în endocard",
+        "afecţiune întotdeauna acută",
+        "proces patologic în sistemul arterelor coronariene",
+        "în peste 90% cazuri este expresia unui proces aterosclerotic",
+        "reducerea circulaţiei sangvine în miocard"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CS. Menționați afirmația necaracteristică pentru angina pectorală:",
+      "options": [
+        "expresia clinică a ischemiei miocardice tranzitorii",
+        "modificări patologice ireversibile",
+        "schimbări patologice reversibile",
+        "manifestată prin crize dureroase, localizate retrosternal",
+        "cauzată de tulburări ale circulaţiei coronariene"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CM. Notați afirmațiile adevărate pentru angina pectorală de efort:",
+      "options": [
+        "A. crize de durere tranzitorie",
+        "B. durerile sunt provocate de schimbarea poziţiei corpului",
+        "C. durerile se intensifică la palpaţia regiunii precordiale",
+        "D. durerile sunt cauzate de creşterea necesităţilor metabolice ale miocardului",
+        "E. durerile se jugulează timp de 5 min după administrarea nitroglicerinei sau repaus"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CM Indicați ce reprezintă angina pectorală de novo:",
+      "options": [
+        "A. variantă clinică a anginei pectorale instabile",
+        "B. variantă clinică a infarctului miocardic acut",
+        "C. manifestată timp de o lună din momentul apariţiei primei crize",
+        "D. sindromul dureros este mai intens",
+        "E. poate regresa, stabiliza sau progresa"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CS. Menționați afirmația corectă pentru stabilirea clasei funcţionale a anginei pectorale de efort:",
+      "options": [
+        "A. vârsta pacientului",
+        "B. durata bolii",
+        "C. toleranţa la efort fizic",
+        "D. tratamentul administrat",
+        "E. sexul pacientului"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS. Identificați definiția corectă  a patologiei în care creşte frecvenţa, intensitatea şi durata crizelor anginoase:",
+      "options": [
+        "A. angina pectorală silenţioasă",
+        "B. angina pectorală agravată",
+        "C. angina pectorală spontană",
+        "D. angina pectorală de novo",
+        "E. angina pectorală stabilă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS. Indicați care formă de angină pectorală este produsă de spasmul coronarian:",
+      "options": [
+        "A. angina pectorală de efort",
+        "B. angina pectorală de novo",
+        "C. angina pectorală spontană (Pinzmetal)",
+        "D. angina pectorală agravată",
+        "E. angina pectorală silenţioasă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CM. Menționați care afirmaţie se referă la angina de decubit:",
+      "options": [
+        "A. apare spre dimineaţa",
+        "B. apare imediat la culcare",
+        "C. cedează în poziţie şezândă",
+        "D. accesele sunt mai intense",
+        "E. accesele sunt mai prelungite – până la 30 min"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM. Selectaţi trei verigi principale responsabile de declanşarea insuficienţei coronariene:",
+      "options": [
+        "A. tulburarea coagulabilităţii sangune",
+        "B. infecţia",
+        "C. modificarea organică a vaselor coronariene",
+        "D. spasmul vascular",
+        "E. tulburări autoimune"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CS.Menționați care factor endotelial posedă cel mai puternic efect vasoconstrictor:",
+      "options": [
+        "A. prostaciclina",
+        "B. endotelina",
+        "C. angiotensina II",
+        "D. oxidul de azot",
+        "E. tromboplastina"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS. Menționați cum se manifestă electrocardiografic ischemia miocardului:",
+      "options": [
+        "A. deformarea complexului QRS",
+        "B. negativizarea undei T",
+        "C. scurtarea intervalului PQ",
+        "D. micşorarea amplitudinei undei P",
+        "E. subdenivelarea segmentului ST"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CM. Menționați scopul efectuării probei cu efort fizic dozat:",
+      "options": [
+        "A. aprecierea calităţii vieţii pacientului",
+        "B. clasamentul anginei pectorale",
+        "C. diagnosticul anginei pectorale",
+        "D. evaluarea pronosticului bolii",
+        "E. selectarea tratamentului"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM. Care metodă de diagnostic determină indicaţiile şi contraindicaţiile angioplastiei coronariene şi bypass-ului aortocoronarian?",
+      "options": [
+        "A. monitorizarea Holter",
+        "B. testul cu efort fizic dozat",
+        "C. scintigrafia miocardului",
+        "D. ecocardiografia",
+        "E. coronaroangiografia"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "CM. Selectaţi grupele de remedii antianginoase tradiţionale:",
+      "options": [
+        "A. diuretice",
+        "B. nitraţii",
+        "C. antagoniştii ionilor de Ca",
+        "D. statinele",
+        "E. β-blocantele"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CS. Selectaţi cel mai frecvent efect advers al nitraţilor:",
+      "options": [
+        "A. vertije",
+        "B. somnolenţă",
+        "C. dureri abdominale",
+        "D. cefalee",
+        "E. edeme pe gambe"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CM. Menționați care sunt contraindicaţiile pentru administrarea β-blocantelor:",
+      "options": [
+        "A. tahicardia sinusală",
+        "B. bradicardia sinusală",
+        "C. bloc AV complet",
+        "D. hipertensiunea arterială",
+        "E. hipotensiunea arterială"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CM. Selectaţi preparatele din grupul antagoniştilor de Ca:",
+      "options": [
+        "A. enalapril",
+        "B. nifedipina",
+        "C. diltiazem",
+        "D. metoprolol",
+        "E. verapamil"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CS. Indicați care este remediul antiagregant de elecţie folosit în tratamentul cardiopatiei ischemice:",
+      "options": [
+        "A. ticlopidina",
+        "B. dipiridamolul",
+        "C. pentoxifilina",
+        "D. aspirina",
+        "E. acidul nicotinic"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CS. Menționați din ce grup de remedii medicamentoase face parte Simvastatina:",
+      "options": [
+        "A. antiagregante",
+        "B. hipolipimiante",
+        "C. metabolice",
+        "D. hipotensive",
+        "E. vasodilatatoare"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CM Selectaţi complicaţiile infarctului miocardic acut:",
+      "options": [
+        "A.  şocul cardiogen",
+        "B.  ruptura peretelui liber ventricular sau a septului interventricular",
+        "C.  hipertensiune arterială",
+        "D.  aritmii şi tulburări de conducere",
+        "E.  aneurism al aortei ascendente"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CM Selectați remediile ce se utilizează în infarctul miocardic acut cu scop de tromboliză:",
+      "options": [
+        "A. streptokinaza",
+        "B. actilyse",
+        "C. heparina",
+        "D. morfina",
+        "E. nitroglicerina"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "CM Menționați care sunt contraindicaţiile pentru terapia trombolitică la pacienţii cu infarct miocardic acut:",
+      "options": [
+        "A. hemoragie activă",
+        "B. vârsta peste 55 ani",
+        "C. ulcer gastric în acutizare",
+        "D. traumatism grav recent",
+        "E. anevrism al vaselor cerebrale"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CM Menționați care sunt cauzele dezvoltării insuficienţei mitrale în infarctul miocardic acut:",
+      "options": [
+        "A.  ruptură de muşchi papilari",
+        "B.  tulburări de ritm şi de conducere",
+        "C.  ruptură de cordaj",
+        "D.  calcifierea inelului mitral",
+        "E.   ruptură de cuspă"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CM.Notați care remedii medicamentoase se folosesc întratamentul infarctului miocardic acut fără supradenivelarea segmentului ST:",
+      "options": [
+        "A.  trombolitice",
+        "B.  betablocante",
+        "C.   nitraţi",
+        "D.  analgetice",
+        "E.  diuretice"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM Menționați complicaţiile precoce ale infarctului miocardic acut:",
+      "options": [
+        "A.  şocul cardiogen",
+        "B.  moartea subită",
+        "C.  tulburări de ritm şi de conducere",
+        "D.  anevrism al ventriculului stîng",
+        "E.  fibrilatie ventriculară"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CS Menționați  simptomul primordial al insuficienței cardiace cronice stângi:",
+      "options": [
+        "Tusea",
+        "Hemoptizia",
+        "Dispneea",
+        "Astenia",
+        "Respiratia Chyne-Stoke"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS Indicați cea mai frecventă cauză a insuficienței ventriculare drepte :",
+      "options": [
+        "Miocardită",
+        "Tromboembolismul pulmonar acut",
+        "Valvulopatii",
+        "Infarct miocardic acut",
+        "Tulburări de conducere"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS Menționați în ce patologie este recomandată clasificărea insuficienței cardiace după Killip :",
+      "options": [
+        "Hipertensiune arterială",
+        "Valvulopatii",
+        "Infarct miocardic acut",
+        "Miocardite",
+        "Pericardite"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS Menționați ce presupune clasa funcţională III NYHA a insuficienței cardiace cronice conform clasificării funcționale:",
+      "options": [
+        "Limitarea importantă a efortului fizic, fără simptome în repaus",
+        "Limitarea importantă a efortului fizic, cu simptome în repaus",
+        "Limitarea minimală a efortului fizic",
+        "Simtomele doar în repaus",
+        "Activitatea fizică uzuală este efectuată fără limitări"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "CS Menționați factorii favorizanți ai insuficientei cardiace, cu excepția:",
+      "options": [
+        "Anemiile severe",
+        "Infecțiile, stările febrile",
+        "Tulburările de ritm",
+        "Ischemia miocardului",
+        "Aportul scăzut în alimentație de sare și lichide"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "CS Menționați criteriul ce stă la baza clasificarii insuficientei cardiace după NYHA :",
+      "options": [
+        "Tahicardia",
+        "Dispneea",
+        "Bradicardia",
+        "Astenia",
+        "Tusea"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS Menționați ce preparate reduc presarcina și scad tensiunea hidrostatică în capilarele pulmonare:",
+      "options": [
+        "Analgezice opioide",
+        "Diuretice",
+        "Adrenomimetice",
+        "Bronholitice",
+        "Antiinflamatoare nesteroidene"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS Menționați indicaţiile pentru modificarea stilului de viaţă în insuficienţa cardiacă cronică cu excepţia :",
+      "options": [
+        "Monitorizarea greutăţii",
+        "Activitate fizică intensă",
+        "Restricţia de sodiu",
+        "Monitorizarea aportului de lichide",
+        "Recunoaşterea simptomatologiei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS Enumerați masurile legate de stilul de viață a pacienților cu insuficienta cardiaca, presupun următoarele, cu excepția:",
+      "options": [
+        "Restricția de sodiu",
+        "Monitorizarea greutății",
+        "Întreruperea fumatului",
+        "Alimentația bogată în grăsimi şi lichide",
+        "Antrenament fizic specific"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CM  Selectaţi simptomele și semnele caracteristice pentru insuficienta cardiaca stîngă:",
+      "options": [
+        "Dispnee",
+        "Tuse, hemoptizii",
+        "Hepatomegalie",
+        "Turgescența jugulară",
+        "Edeme periferice"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "CM Notaţi simtomele și semnele caracteristice pentru un pacient cu insuficienta cardiaca dreaptă:",
+      "options": [
+        "Acrocianoză, transpirații",
+        "Edeme periferice",
+        "Suflu sistolic apical (regurgitaremitralăsecundară)",
+        "Hepatomegalie",
+        "Suflu sistolic endapexian (regurgitare tricuspidiană secundară)"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CM Enumerați investigațiile obligatorii pentru precizarea diagnosticului de insuficienta cardiaca:",
+      "options": [
+        "Electrocardiograma",
+        "Radiografia toracică",
+        "Tomografia computerizată a cordului",
+        "Ecografia cardiacă transtoracică",
+        "Ecografia cardiacă transesofagiană"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CM Menționați grupe de medicamente administrate în terapia farmacologică a insuficientei cardiace:",
+      "options": [
+        "Anticolinergice selective",
+        "Diuretice",
+        "Betablocante",
+        "Inhibitorii enzimei de conversie",
+        "Antibacteriene"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM Enumerați complicațiile insuficienţei cardiace:",
+      "options": [
+        "Insuficiența funcțională de organe",
+        "Aritmii și moarte subită",
+        "Tromboze endocavitare cu emboli sistemice și pulmonare",
+        "Ciroză hepatică de stază",
+        "Hemoragie digestivă superioară"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

@@ -1,0 +1,1660 @@
+{
+  "id": "chirurgie",
+  "name": "Chirurgie",
+  "questions": [
+    {
+      "text": "Ce reprezintă grupa sangvină?",
+      "options": [
+        "Un complex de antigeni leucocitari",
+        "Un complex de imunoglobuline",
+        "Un complex de antigeni eritrocitari",
+        "Antigeni trombocitari",
+        "Antigeni transplantaţionali"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În timpul determinării grupei sangvine cu ajutorul anticorpilor monoclonali (ţoliclonilor) s-a observat aglutinarea cu ţoliclonul anti-B şi lipsa aglutinării cu ţoliclonul Anti-A. Apreciaţi grupa de sînge.",
+      "options": [
+        "0(I)",
+        "A (II)",
+        "B (III)",
+        "AB (IV)",
+        "Eroare în tehnica de apreciere"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cea mai frecventă cale de hemotransfuzie este:",
+      "options": [
+        "Transfuzia intravenoasă",
+        "Transfuzia intraarterială",
+        "Transfuzia intraosoasă",
+        "Transfuzia intraaortală",
+        "Transfuzia intracardiacă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "La ce temperatură se păstrează masa eritrocitară prelevată de la donor?",
+      "options": [
+        "0° C",
+        "-2 -4° C",
+        "+4 +6° C",
+        "+8 +10° C",
+        "0 +1° C"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cum se transfuzează sîngele în timpul efectuării probei biologice?",
+      "options": [
+        "În jet, în două prize a cîte 25 ml cu un interval de 3-5 min",
+        "În jet, în trei prize cîte 25 ml cu un interval de 3-5 min",
+        "Cu picătura timp de 15 min, cu o pauză ulterioară de 3-5 min",
+        "În jet, într-o priză",
+        "Proba biologică se efectuiază doar în timpul transfuziei de plasmă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Metoda autohemotransfuziei se efectuează în felul următor:",
+      "options": [
+        "Prelevarea sîngelui bolnavului se efectuează cu cîteva săptămîni pînă la operaţia planificată",
+        "Se colectează repetat cîte 400-500ml de sînge cu intervalul dintre prelevări de o săptămînă",
+        "Se colectează repetat cîte 100-200ml de sînge cu intervalul dintre prelevări de 2 zile",
+        "Ultima prelevare de sînge se efectuează nu mai tîrziu de 12 ore pînă la operaţie",
+        "Ultima prelevare de sînge se efectuează nu mai tîrziu de 72 ore pînă la operaţie"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Hemodiluţia normovolemică preoperatorie acută prevede îndeplinirea următoarelor activităţi:",
+      "options": [
+        "Exfuzia a 400-500 ml de sînge a bolnavului cu o săptămînă pînă la intervenţia chirurgicală",
+        "Exfuzia a 750-1000 ml de sînge a bolnavului nemijlocit înainte de începutul intervenţiei chirurgicale",
+        "Restabilirea volumului sîngelui prelevat prin administrarea substituienţilor sangvini",
+        "Restabilirea volumului sîngelui prelevat prin administrarea plasmei de la donator",
+        "Transfuzia ulterioară a sîngelui colectat bolnavului, intra- sau postoperator"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "La un bolnav cu ruptură post-traumatică a splinei şi hemoperitoneum, sângele din cavitatea peritoneală a fost colectat cu ajutorul dispozitivului special tip “Cell Saver” şi transfuzat pe cale i/v bolnavului. Cum se numește această metodă?",
+      "options": [
+        "Hemodiluţie controlată",
+        "Reinfuzie",
+        "Rehidratare",
+        "Plasmofereză",
+        "Hemodializă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Reinfuzia sângelui poate fi efectuată în caz de:",
+      "options": [
+        "Hemoragie din ulcer gastric",
+        "Ruptură post-traumatică a splinei",
+        "Sarcină extrauterină întreruptă",
+        "Amputare post-traumatică a extremităţii inferioare",
+        "Traumatism închis al cutiei toracice cu hemotorax"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Reinfuzia sângelui din cavitatea peritoneală este imposibilă în caz de:",
+      "options": [
+        "Leziune a diafragmului",
+        "Leziune a splinei",
+        "Leziune a organelor cavitare",
+        "Leziune a vaselor sangvine magistrale",
+        "Stare generală gravă a bolnavului"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Care din poziţiile enumerate nu se referă la complicaţiile cu caracter infecţios în caz de hemotransfuzie?",
+      "options": [
+        "Sifilisul",
+        "Hepatitele B,C,D",
+        "Infecţia - HIV",
+        "Şocul hemolitic",
+        "Sindromul TACO"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi, care din patologiile enumerate se referă la infecţia chirurgicală.",
+      "options": [
+        "Pneumonia acută",
+        "Hidrosadenita acută",
+        "Abcesul hepatic",
+        "Supuraţia plăgii postoperatorii",
+        "Pielonefrita cronică"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care dintre procesele infecţioase se referă la infecţia chirurgicală acută specifică?",
+      "options": [
+        "Antraxul",
+        "Sifilisul",
+        "Tetanosul",
+        "Actinomicoza",
+        "Tuberculoza"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Ce indică simptomul de fluctuienţă în caz de infecţie chirurgicală a ţesuturilor moi?",
+      "options": [
+        "Formarea unei cavităţi cu conţinut purulent",
+        "Prezenţa procesului inflamator în stadiul de infiltraţie",
+        "Prezenţa gazului în ţesuturi",
+        "Caracterul anaerob neclostridial al infecţiei",
+        "Implicarea în procesul patologic a organelor subiacente"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi modificările caracteristice în analiza generală a sângelui în caz de infecţie chirurgicală acută.",
+      "options": [
+        "Leucocitoză",
+        "Anemie",
+        "Devierea spre stânga în formula leucocitară",
+        "Accelerarea vitezei de sedimentare a hematiilor",
+        "Eozinofilie"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "În caz de furuncul inflamaţia purulentă inițial se dezvoltă în:",
+      "options": [
+        "Ţesutul subcutanat",
+        "Glanda sebacee",
+        "Piele",
+        "Foliculul pilos",
+        "Glanda sudoripară"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "În ce cazuri este indicată spitalizarea bolnavului cu furuncul?",
+      "options": [
+        "În caz de furuncul pe coapsă la un pacient tânăr fără patologii concomitente",
+        "În prezenţa furunculului abcedat la un bolnav cu diabet zaharat grav",
+        "În localizarea furunculului pe talpa piciorului şi imposibilitatea exercitării funcţiei de sprijin de către extremitatea afectată",
+        "În localizarea furunculului în regiunea triunghiului nazo-labial",
+        "În cazul suportării patologiei respective în antecedente"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Inflamaţia purulentă a glandelor sudoripare se numeşte:",
+      "options": [
+        "Carbuncul",
+        "Hidrosalpinx",
+        "Furuncul",
+        "Hidrosadenită",
+        "Dermatită axilară streptococică"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Ce afirmaţii, referitoare la flegmon, sunt corecte?",
+      "options": [
+        "Procesul purulent se răspîndeşte de-a lungul spaţiilor interfasciale şi celulare",
+        "Colecţia purulentă este delimitată de prezenţa capsulei piogene",
+        "Manifestările intoxicaţiei de regulă nu sunt pronunţate",
+        "Starea generală a bolnavului întotdeauna rămâne satisfăcătoare",
+        "Pacienţii necesită spitalizare şi intervenţie chirurgicală urgentă cu anestezie generală sau regională"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "СM. Carbunculul se caracterizează prin următoarele semne:",
+      "options": [
+        "De regulă, se dezvoltă în regiunea occipitală sau interscapulară",
+        "Nu se dezvoltă la bolnavii cu diabet zaharat",
+        "Pielea de-asupra focarului inflamator nu este schimbată",
+        "Abcesul are aspect de \"fagure\"",
+        "Simptomul de fluctuienţă nu este tipic"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Agentul cauzal tipic al erizipelului este:",
+      "options": [
+        "Streptococul",
+        "Stafilococul",
+        "Colibacilul",
+        "Pneumococul",
+        "Bacilul pioceanic"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi formele clinice ale erizipelului.",
+      "options": [
+        "Forma flegmonoasă",
+        "Forma abcedantă",
+        "Forma buloasă",
+        "Forma necrotică",
+        "Forma eritematoasă"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi simptomele tipice ale mastitei acute.",
+      "options": [
+        "Febra",
+        "Retracţia mamelonului de partea inflamaţiei",
+        "Durerea şi senzaţia de distensie în regiunea glandei mamare",
+        "Pielea sub formă de \"coajă de portocală\"",
+        "Eliminări sero-hemoragice din mamelon"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "În acord cu clasificarea infecţiei chirurgicale în funcţie de evoluţia patologiei, tetanosul se referă la:",
+      "options": [
+        "Infecţie cronică nespecifică",
+        "Infecţie cronică specifică",
+        "Infecţie acută specifică",
+        "Infecţie acută putridă",
+        "Infecţie acută purulentă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Ce afirmaţii caracterizează limfangita?",
+      "options": [
+        "Reprezintă infecția bacteriană acută a vaselor limfatice",
+        "Reprezintă liza purulentă a ganglionilor limfatici",
+        "Reprezintă o patologie primară",
+        "Reprezintă o complicaţie a unui alt proces infecţios",
+        "În toate cazuri este necesară drenarea chirurgicală"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Prin ce se deosebeşte abcesul de flegmon?",
+      "options": [
+        "Prin necesitatea în intervenție urgentă",
+        "Prin durere exprimată în regiunea afectată",
+        "Prin leucocitoză",
+        "Prin acumularea a puroiului delimitată de ţesuturile adiacente cu o capsulă",
+        "Prin febră înaltă"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "După care principiu hemoragiile sunt clasificate în \"per diabrosis\", \"per rexin\" şi \"per diapedesis\"?",
+      "options": [
+        "După principiul anatomic",
+        "După mecanismul de apariţie",
+        "După raportul faţă de mediul extern",
+        "După evoluţie",
+        "După timpul de dezvoltare"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Care din hemoragiile enumerate se referă la cele interne?",
+      "options": [
+        "Hemoragia din ulcerul gastric",
+        "Hematomul intermuscular",
+        "Hemoragia din plaga tăiată a gambei",
+        "Hemoragia pulmonară",
+        "Hemoragia în cavitatea articulară"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care din hemoragiile enumerate se referă la cele interne intracavitare?",
+      "options": [
+        "Hemoragia din ulcerul gastric",
+        "Hemoragia în cavitatea pleurală",
+        "Hemoragia uterină",
+        "Hemoragia intraarticulară",
+        "Tamponada cordului"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi cauzele posibile ale hemoragiei.",
+      "options": [
+        "Trauma",
+        "Distrugerea peretelui vascular în cazul unui proces purulent",
+        "Dereglarea permeabilităţii peretelui vascular",
+        "Infarctul miocardic",
+        "Gangrena anaerobă clostridiană"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "СM. Indicaţi consecinţele hemoragiei.",
+      "options": [
+        "Pneumonia de stază",
+        "Hemoconcentraţia",
+        "Scăderea volumului de sânge circulant",
+        "Anemia acută",
+        "Hemofilia"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi reacţiile compensatorii în caz de hemoragie.",
+      "options": [
+        "Hemodiluţia",
+        "Centralizarea hemodinamicii",
+        "Decentralizarea hemodinamicii",
+        "Hiperventilarea",
+        "Includerea mecanismului renal de compensare"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi fenomenele patologice, ce se dezvoltă în organism în faza terminală a hemoragiei.",
+      "options": [
+        "Acidoza",
+        "Centralizarea hemodinamicii",
+        "Hipoxia",
+        "Decentralizarea hemodinamicii",
+        "Hemodiluţia"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi simptomele locale ale hemoragiei gastro-intestinale.",
+      "options": [
+        "Voma cu sînge",
+        "Epistaxisul",
+        "Hemoperitoneumul",
+        "Hemoptizia",
+        "Melena"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Voma cu conţinut \"zaţ de cafea\" este caracteristică pentru:",
+      "options": [
+        "Ocluzia intestinală",
+        "Pancreatita acută",
+        "Hemoragia ulceroasă gastro-duodenală",
+        "Ruptura splinei",
+        "Distrucţia pulmonară bacteriană"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi semnele generale ale hemoragiei.",
+      "options": [
+        "Tahicardia",
+        "Melena",
+        "Paliditatea",
+        "Voma cu sînge",
+        "Hipotonia"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "СM. Ce parametri de laborator reflecta severitatea hemoragiei?",
+      "options": [
+        "Eritrocitele sângelui",
+        "Leucocitele sângelui",
+        "Hemoglobina sangvină",
+        "Hematocritul",
+        "Proteina plasmatică"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi metodele de hemostază provizorie.",
+      "options": [
+        "Ligaturarea vasului în plagă",
+        "Compresia digitală a vasului",
+        "Aplicarea garoului",
+        "Aplicarea pansamentului compresiv",
+        "Flexia maximală a extremităţii în articulaţie"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care din definiții cel mai bine caracterizează sepsisul?",
+      "options": [
+        "Prezenţa bacteriilor în patul sangvin cu metastaze purulente în ţesuturi şi organe",
+        "Un fenomen microbian caracterizat prin răspuns inflamator local la prezenţa microorganismelor",
+        "Prezenţa şi multiplicarea activă a bacteriilor în patul sangvin",
+        "Prezenţa bacteriilor în patul sangvin",
+        "Un proces infecţios asociat cu reacție inflamatorie sistemică inadecvată"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "СS. Ce reprezintă septicemia?",
+      "options": [
+        "Un proces infecţios caracterizat prin reacţie inflamatorie sistemică",
+        "Un fenomen microbian caracterizat prin răspuns inflamator local la prezenţa microorganismelor",
+        "Prezenţa şi multiplicarea activă a bacteriilor în patul sangvin",
+        "Prezenţa bacteriilor în patul sangvin",
+        "Prezenţa bacteriilor în patul sangvin cu metastaze purulente în ţesuturi şi organe"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Pentru diagnosticul sindromului de răspuns inflamator sistemic (SIRS) se utilizează următoarele criterii:",
+      "options": [
+        "Numărul leucocitelor în sânge",
+        "Tensiunea arterială sistolică",
+        "Temperatura corpului",
+        "Frecvenţa respiratorie",
+        "Frecvenţa contracţiilor cardiace"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Ce criterii confirmă prezenţa sindromului de răspuns inflamator sistemic (SIRS)?",
+      "options": [
+        "Numărul leucocitelor în sânge > 12.000/mm3",
+        "Numărul leucocitelor în sânge < 4.000/mm3",
+        "Tensiunea arterială sistolică < 90 mm Hg",
+        "Frecvenţa respiratorie < 14 respiraţii/min",
+        "Frecvenţa respiratorie > 20 respiraţii/min"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Care din rezultatele testelor de laborator enumerate confirmă bacteriemia?",
+      "options": [
+        "Hemocultura pozitivă",
+        "Evidenţierea leucocitozei cu devierea spre stânga în formula leucocitară",
+        "Nivelul ridicat al citokinelor (factorul necrozei tumorale) în sânge",
+        "Nivelul crescut al proteinei C-reactive",
+        "Cantitatea înaltă de procalcitonină în serul sangvin"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cel mai frecvent întâlnit agent bacterian provocător al gangrenei gazoase este:",
+      "options": [
+        "Clostridium hystoliticum",
+        "Clostridium oedomatiens",
+        "Clostridium tetani",
+        "Clostridium perfringens",
+        "Clostridium septicum"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicaţi tipurile de plagă cu risc înalt de dezvoltare a infecţiei anaerobe clostridiene a ţesuturilor moi (gangrenei gazoase).",
+      "options": [
+        "Cu contaminarea masivă cu sol",
+        "Cu traumatizarea masivă a muşchilor şi oaselor",
+        "Cu canal profund şi îngust (prin armă de foc)",
+        "Cu ischemia ţesuturilor cauzată de lezarea arterelor sau plasarea garoului",
+        "Plăgi lacerate cu defect extins de piele"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Crepitaţia determinată palpator în cazul infecţiei anaerobe clostridiene a ţesuturilor moi este cauzată de:",
+      "options": [
+        "Pătrunderea în plagă a aerului din tractul gastrointestinal în cazul formei postoperatorii a infecţiei",
+        "Fricţiunea fragmentelor osoase în plagă, formate în rezultatul fracturilor deschise",
+        "Producerea cantităţilor mari de exotoxină",
+        "Formarea gazului în ţesuturi",
+        "Pătrunderea în plagă a aerului din mediul extern prin canalul plăgii"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care sunt scopurile principale ale inciziilor longitudinale „de lampas\" în cazul infecţiei anaerobe clostridiene a ţesuturilor moi (gangrenei gazoase) a extremităţii?",
+      "options": [
+        "Simplificarea exciziei ţesuturilor necrotizate şi vizual devitalizate",
+        "Sporirea vindecării plăgii",
+        "Diminuarea compresiei şi a ischemiei tisulare",
+        "Ameliorarea accesului aerului spre canalul plăgii",
+        "Prevenirea multiplicării sporilor clostridieni"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ce caracterizează corect tetanosul?",
+      "options": [
+        "Deşi tetanosul este rar, boala deja dezvoltată nu poate fi lichidată",
+        "Reprezintă o infecţie cauzată de microorganizme anaerobe cu afectarea preponderentă a ţesuturilor celulo-adipos şi conjunctiv",
+        "Tetanosul nou-născuţilor este responsabil pentru circa 50% din decesurile condiţionate de tetanos în ţările în curs de dezvoltare",
+        "Boala nu se transmite de la o persoană la alta",
+        "Rata mortalității în tetanosul sever poate fi mai mare de 60%"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care formă a tetanosului prezintă cel mai mic pericol?",
+      "options": [
+        "Generalizată",
+        "Postinjecţională (după vaccinare)",
+        "Locală",
+        "Neonatală",
+        "Cefalică"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi măsurile utile pentru profilaxia tetanosului.",
+      "options": [
+        "Administrarea remediilor farmacologice, care micşorează spazmele musculare",
+        "Administrarea la copii a vaccinului (anatoxină tetanică) în asociere cu vaccinul contra difteriei şi pertussis-ului",
+        "Revaccinarea la fiece 10 ani",
+        "Imunizarea pasivă cu imunoglobulină tetanică umană",
+        "Administrarea antibioticelor cu spectru larg de acţiune"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Un risc elevat de devoltare a sepsisului se remarcă la:",
+      "options": [
+        "Bolnavii cu diabet zaharat",
+        "Bolnavii cu tumori maligne",
+        "Bărbaţi",
+        "Femei",
+        "Bolnavii cu ateroscleroză"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Indicaţi agentul microbian care cel mai rar este cauza sepsisului.",
+      "options": [
+        "Bacteroides fragilis",
+        "Escherichia Coli",
+        "Klebsiella",
+        "Candida",
+        "Staphylococcus"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care dintre mecanismele patofiziologice enumerate contribuie la dezvoltarea ischemiei şi formează condiţii anaerobe în caz de infecţie anaerobă clostridiană a ţesuturilor moi (gangrenă gazoasă)?",
+      "options": [
+        "Răspândirea gazului de-a lungul spaţiilor fasciale",
+        "Creşterea presiunii în spaţiile fasciale drept urmare a edemului",
+        "Dereglarea circuitului sangvin ca urmare a trombozei vaselor periferice",
+        "Tromboza spontană a arterelor magistrale",
+        "Multiplicarea rapidă a microorganismelor"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Infecţia anaerobă neclostridiană se poate manifesta clinic sub formă de flegmon cu afectarea vastă a următoarelor ţesuturi:",
+      "options": [
+        "Nervii și vase (nevrită și vasculită)",
+        "Țesutul subcutanat celuloadipos (celulită)",
+        "Țesutul conjunctiv (fasciită)",
+        "Muşchii (miozita)",
+        "Țesutul osos (osteomielita)"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pătrunderea microflorei patogene în ţesuturile moi ale mâinii mai des se petrece:",
+      "options": [
+        "Pe cale hematogenă",
+        "Prin bătături, fisuri ale pielii",
+        "Pe cale limfogenă",
+        "Împreună cu corpii străini mici (aşchii)",
+        "Din oasele infectate ale falangelor şi metacarpului"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi formele superficiale ale panariţiului.",
+      "options": [
+        "Subcutanat",
+        "Tendinos",
+        "Pandactilita",
+        "Periunghial (paronichia)",
+        "Cutanat"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Prin termenul \"pandactilită\" se subînţelege:",
+      "options": [
+        "Inflamaţia purulentă a tuturor degetelor mîinii",
+        "Inflamaţia purulentă a tuturor degetelor plantei",
+        "Inflamaţia purulentă a tuturor ţesuturilor a unui deget al mîinii",
+        "Inflamaţia purulentă a tuturor ţesuturilor a unui deget al plantei",
+        "Concreşterea tuturor degetelor mîinii sau a plantei"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Edemul regiunii dorsale a mâinii în caz de flegmon al suprafeţei palmare:",
+      "options": [
+        "Se remarcă foarte rar",
+        "Este cauzat doar de eruperea puroiului spre regiunea dorsală a mâinii",
+        "Este remarcat în majoritatea cazurilor",
+        "Este condiţionat de particularităţile drenajului limfatic",
+        "Apare precoce din cauza structurei laxe a ţesutului subcutanat"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Ce localizare a colecției purulente este definită drept panarițiu?",
+      "options": [
+        "Suprafața palmară a falangei distale a degetului mâinii",
+        "Suprafața plantară a falangei distale a degetului piciorului",
+        "Spațiul celuloadipos al antebrațului Pirogov-Parona",
+        "Regiunea periunghială a degetului mâinii",
+        "Suprafața dorsală a falangei proximale a degetului mâinii"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Ce afirmații caracterizează veridic panarițiul periunghial (paronihia)?",
+      "options": [
+        "Procesul poate căpăta o evoluție cronică",
+        "La compresiune de sub repliul periunghial se elimină puroi",
+        "Infecția se dezvoltă în urma traumatismului regiunii eponihiale și paronihiale",
+        "În regiunea cuticulei apare o durere moderată, tumefiere și hiperemie",
+        "Procesul purulent se poate extinde spre suprafața palmară a falangei distale sub formă de \"clepsidră\""
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ce afirmații caracterizează panarițiul osos?",
+      "options": [
+        "Poate căpăta evoluție cronică",
+        "Panarițiul degetului I și V se poate răspîndi spre spațiul celuloadipos profund al antebrațului",
+        "De regulă, reprezintă consecința tratamentului inoportun al panarițiului subcutanat",
+        "Infecția pătrunde în os prin fisuri cutanate",
+        "Se localizează tipic pe falanga distală"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Modificările radiologice în cazul panarițiului osos apar:",
+      "options": [
+        "Peste o zi după debutul bolii",
+        "Peste 3-5 zile după debutul bolii",
+        "Peste 5-7 zile după debutul bolii",
+        "Peste 10-14 zile după debutul bolii",
+        "Peste 1,5-2 luni după debutul bolii"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicați formele anatomice ale flegmonului suprafeței dorsale a mâinii.",
+      "options": [
+        "Abcesul cutanat",
+        "Flegmonul spațiului mediopalmar",
+        "Flegmonul interfalangian (comisural)",
+        "Flegmonul subcutanat",
+        "Flegmonul subaponeurotic"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Care sunt cauzele principale ale dificitului ponderal la bolnavii chirurgicali?",
+      "options": [
+        "Întreruperea alimentării normale în timpul examinărilor preoperatorii",
+        "Însuşi procesul patologic, de care suferă bolnavul",
+        "Administrarea antibioticelor, ce diminuează asimilarea substanţelor nutritive",
+        "Starea deprimată a bolnavilor şi pierderea poftei de mîncare în aşteptarea intervenţiei chirurgicale",
+        "Limitarea alimentaţiei după operaţia chirurgicală"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Ce indice de laborator corelează cel mai precis cu nivelul dificitului proteic în organism?",
+      "options": [
+        "Albumina în sînge",
+        "Protrombina în sînge",
+        "Globulina în sînge",
+        "Proteina generală în sînge",
+        "Limfocitele în sînge"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Calcularea indexului masei corporale a bolnavului se efectuiază după următoarea formulă:",
+      "options": [
+        "% limfocitelor x numărul total de leucocite / 100",
+        "Masa (kg) / talia (m2)",
+        "Masa corporală la momentul examinării x 100) / masa corporală ideală",
+        "48,1 kg la talia de 152 cm plus 1,1 kg la fiece cm ce depăşeşte 152 cm",
+        "Masa (g) / talia (cm2)"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ce valori corespund obezităţii morbide în conformitate cu indexul masei corporale?",
+      "options": [
+        "18,5-24,9",
+        "25,0-29,9",
+        "30,0-34,9",
+        "35,0-39,9",
+        "40 şi mai mult"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "La care bolnavi este indicată alimentarea enterală?",
+      "options": [
+        "Ce au tract gastrointestinal funcţional, însă nu se pot alimenta adecvat per os",
+        "Ce au fistulă a intestinului subţire",
+        "Ce au ocluzie intestinală",
+        "Ce au hemoragie gastro-intestinală",
+        "Ce au diaree severă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pentru care bolnavi este indicată alimentarea parenterală?",
+      "options": [
+        "Ce au suportat rezecţia vastă a intestinului subţire",
+        "Ce suferă de diabet zaharat",
+        "Aflaţi în perioada postoperatorie precoce după rezecţia gastrică",
+        "Aflaţi în perioada postoperatorie precoce după hemoroidectomie",
+        "Aflaţi în stare de comă neurologică"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Ce complicaţii sunt tipice pentru obezitatea morbidă?",
+      "options": [
+        "Boala hipertonică",
+        "Diabetul tip II",
+        "Osteomielita",
+        "Afecţiunile articulaţiilor",
+        "Litiaza biliară"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Ce complicaţii postoperatorii sunt caracteristice pacienților cu obezitate morbidă?",
+      "options": [
+        "Depresie",
+        "Tromboembolia arterei pulmonare",
+        "Supurația plăgii postoperatorii",
+        "Pneumonii",
+        "Infecția tractului urinar"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ce metode de alimentare enterală există?",
+      "options": [
+        "Prin sondă nazogastrică",
+        "Prin gastrostomă",
+        "Prin sondă eso-gastrică Sengstaken-Blakemore",
+        "Prin sondă (tub) rectală",
+        "Prin cateter, plasat în vena subclaviculară"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Semnele clinice locale ale plăgii sunt următoarele:",
+      "options": [
+        "Hemoragia",
+        "Doloritatea",
+        "Leziunea organelor interne",
+        "Dehiscenţa marginilor plăgii",
+        "Şocul"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Intensitatea durerii în plagă este în dependenţă de următorii factori:",
+      "options": [
+        "Rapiditatea producerii plăgii",
+        "Intensitatea hemoragiei",
+        "Numărul de receptori nervoşi în ţesuturile zonei lezate",
+        "Caracteristica obiectului traumatizant",
+        "Capacitatea răspunsului imun"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Intensitatea hemoragiei din plagă este determinată de următorii factori:",
+      "options": [
+        "Starea hemodinamicii sistemice",
+        "Rapiditatea producerii leziunii",
+        "Adîncimea plăgii",
+        "Starea sistemului coagulant",
+        "Calibrul vasului lezat şi tipul acestuia (arteră, venă)"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Ce plăgi se evidenţiază în dependenţă de caracterul lezării ţesuturilor?",
+      "options": [
+        "Tocată",
+        "Lacerată",
+        "Tăiată",
+        "Prin armă de foc",
+        "Ocazională"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "La ce tip de plagă după caracterul lezării ţesuturilor se referă incizia chirurgicală?",
+      "options": [
+        "La locul de muncă",
+        "Prin înţepare",
+        "Mixtă",
+        "Tăiată",
+        "Ocazională"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicaţi particularităţile clinice ale plăgilor prin înţepare.",
+      "options": [
+        "Dehiscenţa marginilor plăgii este semnificativă",
+        "Pericol mare de lezare a structurilor anatomice profunde",
+        "Dehiscenţa marginilor plăgii nu este mare",
+        "Hemoragia externă nu este severă",
+        "Risc scăzut de infectare"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi cel mai infectat tip de plagă.",
+      "options": [
+        "Tocată",
+        "Prin înţepare",
+        "Contuzionată",
+        "Tăiată",
+        "Muşcată"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Conform clasificării după gradul de infectare plăgile se clasifică în:",
+      "options": [
+        "Recent infectate",
+        "Aseptice",
+        "Necrotice",
+        "Putride",
+        "Purulente"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Se cunoaşte, că procesul purulent în plagă se dezvoltă cînd concentraţia microorganismelor este mai mare de:",
+      "options": [
+        "105 (100.000) pe un gram de ţesut",
+        "104 (10.000) pe un gram de ţesut",
+        "103 (1.000) pe un gram de ţesut",
+        "102 (100) pe un gram de ţesut",
+        "101 (10) pe un gram de ţesut"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Care plăgi ale abdomenului se consideră penetrante?",
+      "options": [
+        "Plaga cu lezarea pielii, ţesutului adipos subcutanat, aponeurozei, peritoneului parietal şi a intestinului",
+        "Plaga cu lezarea pielii şi ţesutului adipos subcutanat",
+        "Plaga cu lezarea pielii, ţesutului adipos subcutanat şi a aponeurozei",
+        "Plaga cu lezarea pielii, ţesutului adipos subcutanat, aponeurozei şi muşchilor peretelui abdominal anterior",
+        "Plaga cu lezarea pielii, ţesutului adipos subcutanat, aponeurozei, muşchilor peretelui abdominal anterior şi a peritoneului parietal"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Ce zone de traumare a ţesuturilor se deosebesc în caz de plăgi prin armă de foc?",
+      "options": [
+        "Zona necrozei traumatice primare",
+        "Zona edemului traumatic",
+        "Zona canalului plăgii",
+        "Zona de comoţie moleculară și necroza secundară",
+        "Zona necrozei terţiare"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ce particularităţi diferenţiază plaga prin armă de foc?",
+      "options": [
+        "Prezenţa a trei zone de leziune tisulară",
+        "Se vindecă prin intenţie primară",
+        "Caracterul anatomic complex al canalului plăgii",
+        "Gradul înalt de infectare",
+        "Prelucrarea chirurgicală primară a plăgii este finisată prin aplicarea suturilor primare"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Se deosebesc următoarele faze ale procesului de plagă:",
+      "options": [
+        "Vindecării secundare",
+        "Formării şi reorganizării cicatricei",
+        "Regenerării",
+        "Vindecării primare",
+        "Inflamaţiei"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Care elemente celulare joacă rolul principal în faza a doua a procesului de plagă (faza regenerării)?",
+      "options": [
+        "Limfocitele",
+        "Fibroblaştii",
+        "Macrofagii",
+        "Leucocitele neutrofile",
+        "Trombocitele"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Ce reprezintă prin sine ţesutul granulant?",
+      "options": [
+        "Ţesut epitelial, ce acoperă treptat defectul marginilor plăgii",
+        "Ţesut cicatriceal dur",
+        "Ţesut necrotic cu o concentraţie înaltă a microorganismelor",
+        "Ţesut conjunctiv fin cu capilare nou formate",
+        "Cheag dens în plagă, ce se formează în urma adeziei şi agregării trombocitelor şi trombozei capilarelor şi venulelor"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "De unde începe epitelizarea plăgii?",
+      "options": [
+        "De la mijlocul plăgii",
+        "Din profunzimea plăgii",
+        "De la marginile plăgii",
+        "De la cea mai vascularizată zonă a plăgii",
+        "Uniform de pe toată suprafaţa"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Există următoarele tipuri de vindecare a plăgilor:",
+      "options": [
+        "Sub crustă",
+        "Regenerarea primară amînată",
+        "Regenerarea secundară",
+        "Regenerarea primară",
+        "Regenerarea secundară precoce"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Cum se produce de regulă vindecarea plăgilor superficiale?",
+      "options": [
+        "Prin regenerare secundară",
+        "Prin regenerare primară amînată",
+        "Sub crustă",
+        "Prin regenerare primară",
+        "Prin regenerare secundară precoce"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "La complicaţiile locale ale plăgilor se referă:",
+      "options": [
+        "Şocul hemoragic",
+        "Şocul traumatic",
+        "Sepsisul",
+        "Supuraţia plăgii",
+        "Sindromul de intoxicaţie"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care sunt complicaţiile plăgilor abdominale în faza a treia a procesului de plagă (faza formării şi reorganizării cicatricei)?",
+      "options": [
+        "Hematom",
+        "Eventraţie",
+        "Caşexie",
+        "Sepsis",
+        "Cicatrice keloidă"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Ce se referă la măsurile de prim ajutor în caz de plagă?",
+      "options": [
+        "Transfuzii de sânge",
+        "Prelucrarea chirurgicală primară a plăgii",
+        "Aplicarea pansamentului aseptic pe plagă",
+        "Administrarea antibioticelor",
+        "Stoparea hemoragiei"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Prelucrarea chirurgicală primară a unei plăgi tăiate infectate include:",
+      "options": [
+        "Deschiderea colecțiilor purulente",
+        "Hemostaza definitivă",
+        "Excizia marginilor plăgii",
+        "Înlăturarea corpilor străini din plagă",
+        "Aplicarea suturii primare"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Ce tip de sutură se aplică după prelucrarea chirurgicală primară a plăgii prin armă de foc?",
+      "options": [
+        "Sutură primară",
+        "Sutură primară amînată",
+        "Sutură secundară precoce",
+        "Sutură secundară tardivă",
+        "Suturi nu se aplică"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Pentru liza mai rapidă şi înlăturarea ţesuturilor necrotice din plagă se utilizează:",
+      "options": [
+        "Antibiotice",
+        "Peroxid de hidrogen",
+        "Alcool etilic",
+        "Fermenţi proteolitici",
+        "Acid boric"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "În care situaţii lezarea chiar şi a vaselor de calibru mic se asociază cu hemoragie pronunţată şi pune în pericol viaţa bolnavului?",
+      "options": [
+        "La bolnavii cu ciroză hepatică",
+        "La bolnavii cu hipotonie",
+        "La bolnavii cu hemofilie",
+        "La bolnavii ce primesc anticoagulante",
+        "La bolnavii în stare de intoxicație"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Într-o plagă abdominală vastă cu eviscerarea organelor interne primul ajutor medical constă în:",
+      "options": [
+        "Administrarea antibioticelor",
+        "Aplicarea unui pansament aseptic larg",
+        "Prelucrarea marginilor plăgii cu o soluţie antiseptică",
+        "Suturarea urgentă a plăgii",
+        "Lavajul organelor eviscerate cu orice soluţie antiseptică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Suturile primare amânate se aplică pe plagă:",
+      "options": [
+        "În primele zile după prelucrarea chirurgicală primară a plăgii, pînă la dezvoltarea ţesutului de granulaţie",
+        "Imediat după prelucrarea chirurgicală primară a plăgii",
+        "După dezvoltarea granulaţiilor, însă pînă la dezvoltarea ţesutului conjunctiv",
+        "După excizia ţesutului de granulaţie ce s-a format în plagă",
+        "După dezvoltarea ţesutului conjunctiv şi a fenomenului de contracţie a plăgii"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Tromboza venoasă profundă poate duce la dezvoltarea:",
+      "options": [
+        "Embolismului pulmonar",
+        "Sindromului post-trombotic",
+        "Limfedemului",
+        "Gangrenei venoase",
+        "Atrofiei musculare"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi cauzele posibile de dezvoltare a insuficienţei arteriale acute a extremităţii.",
+      "options": [
+        "Trauma arterei magistrale",
+        "Stenoza lumenului arterial cu o placă aterosclerotică",
+        "Embolia arterială",
+        "Tromboza arterială",
+        "Tromboflebita"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Dereglarea sensibilităţii (parestezii, hipo- sau anestezia) şi diminuarea mişcărilor active (pareza, plegia) sunt caracteristice pentru:",
+      "options": [
+        "Sindromul de ischemie acută",
+        "Sindromul de ischemie cronică",
+        "Tromboza venoasă acută",
+        "Insuficienţa venoasă cronică",
+        "Limfedem"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Pentru stadiile tardive ale ischemiei acute a extremităţii sunt caracteristice următoarele date clinice:",
+      "options": [
+        "Dilatarea pronunţată a venelor subcutanate",
+        "Edemul pronunţat al coapsei şi hiperemia plantară",
+        "Aspectul de marmoră al tegumentelor şi hipotermia marcată a plantei",
+        "Edemul moderat al gambei",
+        "Plegia extremităţii şi contractura în flexie"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Grupa de simptome, reunite în literatura anglofonă sub termenul \"6Р\", este caracteristică pentru:",
+      "options": [
+        "Ischemia acută a extremităţii",
+        "Ischemia cronică a extremităţii",
+        "Anevrismul arterial",
+        "Tromboza venoasă acută",
+        "Insuficienţa venoasă cronică"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi manifestările, ce nu se referă la grupa de simptome reunite în literatura anglofonă sub termenul \"6Р\".",
+      "options": [
+        "Paresthesia - parestezia",
+        "Pallor - paloarea tegumentelor",
+        "Polyuria - poliuria",
+        "Poikilocytosis - poichilocitoza",
+        "Pain - durerea"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Trombembolia arterelor periferice se asociază cu dezvoltarea sindromului de:",
+      "options": [
+        "Insuficienţă venoasă cronică",
+        "Ischemie cronică",
+        "Ischemie acută",
+        "Coagulare intravasculară diseminată",
+        "Dilatare anevrismatică arterială"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "În prezenţa căror patologii concomitente trebuie suspectată embolia, drept cauză a ischemiei acute a membrelor inferioare?",
+      "options": [
+        "Diabetul zaharat tip II",
+        "Fibrilaţia atrială",
+        "Boala varicoasă a extremităţilor inferioare",
+        "Infarctul miocardic",
+        "Anevrismul de aortă abdominală"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi simptomele tipice ale ischemiei acute a membrelor inferioare.",
+      "options": [
+        "Dereglarea sensibilităţii în regiunea plantei",
+        "Claudicaţia intermitentă",
+        "Edemul pronunţat al coapsei",
+        "Limitarea sau absenţa mişcărilor active la nivelul degetelor plantei",
+        "Suflul sistolic, auscultat deasupra arterelor plantei"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi situaţiile clinice ce corespund sindromului de picior diabetic conform definiţiei OMS.",
+      "options": [
+        "Neuropatia diabetică fără ulcer, gangrenă sau infecţie la nivelul plantei",
+        "Plaga infectată a plantei la un pacient cu diabet zaharat, fără neuro- şi angiopatie",
+        "Ulcerul plantar asociat cu neuropatia diabetică",
+        "Gangrena degetului plantei asociată cu angiopatie la un pacient cu diabet zaharat",
+        "Ulcerul plantar la un bolnav cu ateroscleroză, fără diabet zaharat"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Ulcerul plantar se dezvoltă la:",
+      "options": [
+        "Mai puţin de 1% din bolnavii cu diabet zaharat",
+        "Mai puţin de 5% din bolnavii cu diabet zaharat",
+        "10-15% din bolnavii cu diabet zaharat",
+        "Mai mult de 50% din bolnavii cu diabet zaharat",
+        "Mai mult de 90% din bolnavii cu diabet zaharat"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi forma cea mai des întâlnită a piciorului diabetic.",
+      "options": [
+        "Ischemică",
+        "Osteoartropatică",
+        "Neuropatică",
+        "Neuro-ischemică",
+        "Osteomielitică"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi forma piciorului diabetic care cel mai des duce la amputaţie înaltă.",
+      "options": [
+        "Ischemică",
+        "Osteoartropatică",
+        "Neuropatică",
+        "Neuro-ischemică",
+        "Osteomielitică"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cu scop de depistare a pacienţilor diabetici cu risc de dezvoltare a sindromului de picior diabetic („screening\"-ul) se efectuează:",
+      "options": [
+        "Inspecţia plantei pentru evidenţierea prezenţei ulcerelor, gangrenei, infecţiei",
+        "Determinarea nivelului insulinei endogene",
+        "Palparea pulsului pe arterele plantare",
+        "Testul Semmes-Weinstein",
+        "Duplex scanarea vaselor membrelor inferioare"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Pentru forma neuropatică a piciorului diabetic sunt caracteristice:",
+      "options": [
+        "Prezenţa ulcerelor indolore cu hipercheratoză pe partea plantară",
+        "Prezenţa necrozelor foarte dureroase pe degetele plantei",
+        "Lipsa pulsului pe arterele plantei",
+        "Tegumentele plantei calde şi uscate",
+        "Deformaţia vădită a plantei"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Pentru forma ischemică a piciorului diabetic sunt caracteristice:",
+      "options": [
+        "Prezenţa ulcerelor indolore cu hipercheratoză pe partea plantară",
+        "Prezenţa necrozelor foarte dureroase pe degetele plantei",
+        "Lipsa pulsului pe arterele plantei",
+        "Tegumentele plantei calde şi uscate",
+        "Suflu sistolic pe artera femurală"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Pentru confirmarea formei ischemice a piciorului diabetic sunt utilizate:",
+      "options": [
+        "Determinarea indicelui braheo-maleolar",
+        "Testul Semmes-Weinstein",
+        "Determinarea transcutanată a presiunii oxigenului în ţesuturile plantei (ТсpO2)",
+        "Determinarea presiunii sistolice digitale prin fotopletismografie",
+        "Radiografia plantei"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Infecţia superficială a piciorului diabetic afectează:",
+      "options": [
+        "Pielea",
+        "Ţesutul adipos subcutanat",
+        "Muşchii",
+        "Tendoanele",
+        "Oasele"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Infecţia profundă a piciorului diabetic afectează:",
+      "options": [
+        "Vasele sangvine",
+        "Nervii",
+        "Muşchii",
+        "Tendoanele",
+        "Oasele"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Conform clasificării Wagner, gangrena degetelor plantei este apreciată ca picior diabetic de:",
+      "options": [
+        "Gradul 1",
+        "Gradul 2",
+        "Gradul 3",
+        "Gradul 4",
+        "Gradul 5"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Conform clasificării Wagner, gangrena extinsă a plantei este apreciată ca picior diabetic de:",
+      "options": [
+        "Gradul 1",
+        "Gradul 2",
+        "Gradul 3",
+        "Gradul 4",
+        "Gradul 5"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Conform clasificării Wagner, piciorului diabetic de gradul 0 îi corespunde:",
+      "options": [
+        "Ulcerul plantar superficial ce nu perforează stratul subcutanat",
+        "Gangrena extinsă a plantei",
+        "Ulcerul plantar, complicat cu osteomielită, abces sau flegmon",
+        "Ulcerul plantar epitelizat",
+        "Absența defectelor țesuturilor plantei"
+      ],
+      "correct": [
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi preparatele medicamentoase care se utilizează în tratamentul şi profilaxia complicaţiilor vasculare a bolnavilor cu sindromul de plantă diabetică:",
+      "options": [
+        "Antispastice (papaverina)",
+        "Antitrombotice (aspirina, clopidogrel)",
+        "Vitaminele grupei B",
+        "Preparate antihipertensive",
+        "Statine (Simvastatina, Atorvastatina)"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați modificările în analizele de laborator, caracteristice pentru planta diabetică infectată.",
+      "options": [
+        "Leucocitoză",
+        "Monocitoză",
+        "Hiperglicemie",
+        "Hipoglicemie",
+        "Eozinofilie"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Tratamentul chirurgical inițial al formei ischemice a plantei diabetice, de gradul 4 conform clasificării Wagner, include:",
+      "options": [
+        "Închiderea ulcerului plantei cu lambou cutanat pediculat migrat",
+        "Efectuarea operațiilor de revascularizare pe arterele magistrale",
+        "Înlăturarea țesuturilor devitalizate",
+        "Efectuarea amputației primare la nivelul treimii distale a gambei",
+        "Excizia bătăturii de pe suprafața ventrală a plantei"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    }
+  ]
+}

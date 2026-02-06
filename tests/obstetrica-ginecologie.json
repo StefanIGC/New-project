@@ -1,0 +1,6266 @@
+{
+  "id": "obstetrica-ginecologie",
+  "name": "Obstetrică și ginecologie",
+  "questions": [
+    {
+      "text": "Numiţi afecţiunile care pot duce la creşterea riscului de apariţie a sarcinii ectopice.",
+      "options": [
+        "Procesele inflamatorii anexiale",
+        "Adenomioza",
+        "Hidrosalpinxul bilateral",
+        "Procesul aderenţial al bazinului mic",
+        "Miomul uter in subseros"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Numiţi simptomele unei sarcini ectopice tubare rupte.",
+      "options": [
+        "Semne de iritaţie peritoneală",
+        "Durere acută",
+        "Hipertermie",
+        "Ruperea prenatală a pungii amniotice",
+        "Iradierea durerii la nivelul inserţiei sternale a muşchiului sternocleidomastoidian (frenicus simptom)"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi simptomele apoplexiei ovariene.",
+      "options": [
+        "Apare la a 12-14 zi a ciclului menstrual",
+        "Testul gonadotropinei corionice este pozitiv",
+        "Puncţia fornixului posterior pozitivă  - sânge necoagulabil",
+        "Colul uterin de nuanţă violacee",
+        "Eliminări de colostru din glandele mamare"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Determinați ce tratament se recomandă în cazul torsiunii formaţiunii ovariene pediculate necrotizate.",
+      "options": [
+        "Supraveghere",
+        "Distorsionarea tumorii cu păstrarea anexelor",
+        "Ovarectomie",
+        "Tubectomie",
+        "Anexectomie"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicaţi manifestările clinice ale necrozei nodulului miomatos.",
+      "options": [
+        "Durere andominală acută",
+        "Defans muscular",
+        "Febră",
+        "Întârziere menstruală",
+        "Metroragie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumeraţi afecţiunile care pot determina dezvoltarea abdomenului acut aseptic.",
+      "options": [
+        "Apoplexia ovariană forma uşoară",
+        "Avortul spontan în evoluţie",
+        "Sarcina ectopică ruptă",
+        "Metroragia",
+        "Sarcina cervicală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Enumeraţi variantele de tratament ale apoplexiei ovariene forma anemică.",
+      "options": [
+        "Hemostază medicamentoasă",
+        "Anexectomie unilaterală",
+        "Suturarea ovarului",
+        "Diatermocoagularea ovarului afectat",
+        "Anexectomie bilaterală"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţia corectă caracteristică apoplexiei ovariene.",
+      "options": [
+        "Apare ca regulă în postmenopauză",
+        "Se constată reţinerea de ciclu menstrual",
+        "Coincide cu perioada de ovulaţie",
+        "Sunt prezente semne prezumtive de gestaţie",
+        "Testul gonadotropinei corionice este pozitiv"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Marcaţi semnele caracteristice pentru abdomenul acut septic.",
+      "options": [
+        "Proteina C reactivă negativă",
+        "Anemie accentuată",
+        "Febră",
+        "Tahicardie",
+        "Defans muscular"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi cauzele abdomenului acut determinat de dereglările trofice la nivelul organelor genitale interne.",
+      "options": [
+        "Nodul miomatos submucos în naştere",
+        "Necroza nodulului miomatos",
+        "Sarcina stagnată",
+        "Apoplexia ovariană",
+        "Torsiunea chistului ovarian"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Distingeţi formele apoplexiei ovariane.",
+      "options": [
+        "Dureroasă",
+        "Anemică",
+        "Cronică",
+        "Recidivantă",
+        "Autoimună"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Precizaţi ce include pedicolul chirurgical al tumorii ovariene torsionate.",
+      "options": [
+        "Ligamentul rotund",
+        "Ligamentul ovarian propriu",
+        "Mezosalpingele",
+        "Ligamentul lombo-ovarian",
+        "Trompa uterină"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi preparatul utilizat în tratamentul medicamentos al sarcinii ectopice.",
+      "options": [
+        "Oxitocina",
+        "Metotrexatul",
+        "Mifepristonul",
+        "Misoprostolul",
+        "Metiluracilul"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Selectați modificările fiziologice ale cutiei toracice în timpul sarcinii.",
+      "options": [
+        "Deplasarea în sus a diafragmei  (cu 4 cm)",
+        "Micşorarea diametrului transversal al cutiei toracice (2 cm)",
+        "Micşorarea circumferinţei toracice (de la 5 până la 7 cm)",
+        "Creşterea excursiei diafragmatice",
+        "Creşterea unghiului subcostal"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi modificările funcţiei respiratorii în timpul sarcinii.",
+      "options": [
+        "Volumul curent scade (de la 40% la 30%)",
+        "Rezerva expiratorie scade",
+        "Volumul ventilatie per minut scade",
+        "Volumul pulmonar scade din cauza deplasării diafragmei (volumul pulmonar total scade 5%, iar volumul rezidual scade 20%.)",
+        "Volumul expirator forțat într-o secundă rămâne neschimbat"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi preparatele care sunt administrate pentru tratamentul tuberculozei în timpul sarcinii.",
+      "options": [
+        "Izoniazidă",
+        "Etambutol",
+        "Streptomicină",
+        "Rifampicină",
+        "Rovamicină"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte despre virusul HVB în sarcină.",
+      "options": [
+        "Identificarea gravidelor pozitive pentru antigenul de suprafaţă al HVB (HBsAg) este esenţială",
+        "Transmiterea verticală a HVB este o cauza importanta de hepatită acută şi cronică la copii",
+        "Nou-născuţii femeilor cu test pozitiv pot fi trataţi prin imunoprofilaxie pasivă şi activă",
+        "Virusul HVB nu se transmite prin laptele matern",
+        "Imunoprofilaxia pasivă şi activă au o garanţie de 100% împotriva hepatitei virale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Identificați grupurile de femei cu risc crescut de a fi seropozitive HVB.",
+      "options": [
+        "Utilizatoarele de droguri intravenoase",
+        "Femeile  HIV-pozitive",
+        "Femeile cu multipli parteneri sexuali",
+        "Femeile din ţările înalt dezvoltate",
+        "Tabagistele"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizaţi perioadele când trebuie efectuată imunizarea nou-născuţilor împotriva HVB.",
+      "options": [
+        "Naştere",
+        "1 lună",
+        "6 luni",
+        "12 luni",
+        "Fiecare 3 luni"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Stabiliţi care modificări ai parametrilor biochimici pot fi considerați în limitele normei în timpul sarcinii.",
+      "options": [
+        "Micşorarea până la 20% a valorilor albuminei",
+        "Creşterea de 2 ori a fosfatazei alcaline",
+        "Creşterea bilirubinei generale",
+        "Micşorarea haptoglobinelor",
+        "Mărirea aminotransferazelor"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Selectaţi patologiile care pot cauza dereglarea funcției ficatului numai în timpul sarcinii.",
+      "options": [
+        "Colestaza gravidelor",
+        "Preeclampsia",
+        "Distrofia grăsoasă acută a ficatului",
+        "Hepatita virală B",
+        "Colecistita calculoasă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi caracteristicile prin care se manifestă dereglarea funcţiei hepatice în preeclampsie.",
+      "options": [
+        "Creşterea valorilor ALAT",
+        "Micşorarea valorilor ALAT",
+        "Creşterea valorilor ASAT",
+        "Micşorarea valorilor ASAT",
+        "Micşorarea valorilor bilirubinei generale"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Selectați cauzele hemoragiilor în primul trimestru de sarcină.",
+      "options": [
+        "Patologia colului uterin",
+        "Mola hidatiformă",
+        "Sarcina ectopică",
+        "Avortul spontan",
+        "Placenta acreta"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Determinați caracteristicele pe care se stabilește diagnosticul sarcinii ectopice întrerupte.",
+      "options": [
+        "Amenoree",
+        "Semnul frenicus pozitiv",
+        "Mărirea în dimensiuni a uterului conform termenului de gestați",
+        "Apariția sindromului algic la deplasarea colului uterin la examen vaginal bimanual",
+        "Tensionarea fornixului posterior al vaginului"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați semnul clinic pentru avortul iminent.",
+      "options": [
+        "Dureri în regiunea inferioară a abdomenului",
+        "Eliminări sanguine din căile genitale",
+        "Grețuri",
+        "Vomă",
+        "Mărirea în dimensiuni a sânilor"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați afirmațiile corecte ce țin de avortul spontan din primul trimestru.",
+      "options": [
+        "În 60-80% din cazuri este cauzat de aberații cromozomiale",
+        "Nu se recomandă tratament de menținere a sarcinii",
+        "Se recomandă preparate care conțin progesteron",
+        "Se recomandă spasmolitice",
+        "Se recomandă regim la pat până la dispariția durerilor"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Determinați metodele de tratament în caz de sarcină oprită în evoluție în primul trimestru.",
+      "options": [
+        "Medicamentoasă",
+        "Aspirația vacuum manuală",
+        "Expectativă",
+        "Chiuretaj uterin",
+        "Infuzarea de soluție hipertonă în sacul amniotic"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați cea mai frecventă localizare a sarcinii tubare.",
+      "options": [
+        "Ampulară",
+        "Istmică",
+        "Interstițială",
+        "Fimbrială",
+        "Intermediară"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Diagnosticul sarcinii tubare întrerupte se bazează pe următoarele semne clinice:",
+      "options": [
+        "Eliminări sanguine reduse din căile genitale",
+        "Reținerea menstruației până la câteva săptămâni",
+        "Dureri în regiunea inferioară a abdomenului",
+        "Metroragie abundentă cu cheaguri",
+        "Febră >38º C"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Diagnosticul diferențial al sarcinii ectopice se face cu următoarele patologii:",
+      "options": [
+        "Avortul spontan",
+        "Apendicita acută",
+        "Salpingita acută",
+        "Adenomioză",
+        "Apoplexia ovariană"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Tratamentul sarcinii tubare întrerupte poate fi realizat prin următoarele metode:",
+      "options": [
+        "Laparotomie Pfanenstiel cu tubectomie unilaterală",
+        "Laparotomie Panenstiel cu aspirarea oului fetal",
+        "Laparoscopie cu tubectomie unilaterală",
+        "Laparoscopie cu tubectomie bilaterală",
+        "Medicamentos, cu metrotrexat"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Cauzele hemoragiilor în trimestrul III de sarcină sunt:",
+      "options": [
+        "Placenta previa",
+        "Decolarea prematură a placentei normal inserate",
+        "Embolia cu lichid amniotic",
+        "Ruptura uterină",
+        "Placenta acreta"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Factorii de risc pentru decolarea prematură a placentei normal inserate sunt:",
+      "options": [
+        "Preeclampsia",
+        "Multiparitatea",
+        "Primiparitatea",
+        "Hipotonia arterială",
+        "Traumatismul abdominal"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Semnele clinice ale decolării premature a placentei normal inserate sunt:",
+      "options": [
+        "Durere acută",
+        "Uter nedureros la palpare",
+        "Hemoragie din căile genitale",
+        "Uter relaxat",
+        "Uter în tonus sporit"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Semnele clinice sugestive pentru placenta previa sunt:",
+      "options": [
+        "Hemoragie acută din căile genitale",
+        "Uterul nedureros la palpare",
+        "Uterul dureros la palpare",
+        "Uterul în tonus sporit",
+        "Prezentații patologice ale fătului"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Cauzele hemoragiilor postpartum sunt:",
+      "options": [
+        "Hipotonia uterină",
+        "Placenta acreta",
+        "Traumatismul căilor moi de naștere",
+        "Hipertonus uterin",
+        "Coagulapatie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Hemoragia patologică în naşterea naturală reprezintă pierderea unei cantități de sânge în volum mai mare de:",
+      "options": [
+        "150 ml",
+        "200 ml",
+        "300 ml",
+        "400 ml",
+        "500 ml"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Cauzele hemoragiilor din perioada a III-a a naşterii datorate tulburărilor de coagulare sanguină sunt următoarele:",
+      "options": [
+        "Embolia amniotică",
+        "Retenţia prelungită de făt mort",
+        "Preeclampsia",
+        "Brida amniotică",
+        "Diateza hemoragică"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Complicaţiile grave imediate ale hemoragiilor din perioada a III-a a naşterii sunt:",
+      "options": [
+        "Colapsul",
+        "Șocul",
+        "Deces",
+        "Sindromul Sheehan",
+        "Sindromul Simmonds"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Complicaţiile tardive ale hemoragiilor postpartum pot fi:",
+      "options": [
+        "Sindromul Sheehan",
+        "Colapsul",
+        "Sindromul Asherman",
+        "Șoc hemoragic",
+        "Embolia cu lichid amniotic"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Profilaxia hemoragiei din perioada a III-a a naşterii prin conduita activă constă în:",
+      "options": [
+        "Administrarea a 10 UI Sol. Oxitocină i/m",
+        "Tracția controlată de cordon",
+        "Presiunea suprapubiană a uterului",
+        "Clamparea și secționarea cordonului ombilical",
+        "Tracţia forțată de cordon"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați acțiunile inițiale în caz de hemoragie uterină hipotonică.",
+      "options": [
+        "Embolizarea arterelor uterine",
+        "Masaj uterin",
+        "Evacuarea vezicii urinare",
+        "Administrarea oxitocinei",
+        "Administrarea prostaglandinilor"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați conduita în cazul retenţiei de placentă mai mult de 30 min în perioada a III-a a nașterii.",
+      "options": [
+        "Presiune pe fundul uterului pentru a expulza placenta şi membranele",
+        "Tracţiunea de cordon pentru a ajuta expulzia rapidă a placentei şi membranelor",
+        "Decolarea manuală de placentă",
+        "Masajul extern al uterul",
+        "Administrarea prostaglandinelor"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați care sunt modificări fiziologice în sarcină.",
+      "options": [
+        "Retenţia de sodiu",
+        "Creşterea volumului plasmatic",
+        "Creşterea debitului cardiac",
+        "Scăderea ratei de filtrare glomerulară",
+        "Vasoconstricţia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați patologiile care cel mai frecvent cauzează apariția insuficienței renale acute la gravide.",
+      "options": [
+        "Preeclampsia/eclampsia",
+        "Sindromul HELLP",
+        "Hemoragia postpartum",
+        "Polihidramniosul",
+        "Coagularea intravasculară diseminată (CID)"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi ce medicamente este contraindicate pentru tratamentul patologiei hipertensive în timpul sarcinii.",
+      "options": [
+        "Sulfatul de Magneziu",
+        "Inhibitori ai enzimei de conversie a angiotensinei",
+        "Blocantele canalelor de calciu",
+        "Vasodilatatoarele",
+        "Hipotensivele cu acțiune centrală"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Apreciați în care cazuri apare amenoreea fiziologică.",
+      "options": [
+        "Aplazia uterului şi vaginului",
+        "Sarcina",
+        "Hipotireoidita",
+        "Patologia psihică ireversibilă",
+        "Anema gravă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Selectați ce tip de amenoree exclude proba cu progesteron.",
+      "options": [
+        "Uterină",
+        "Ovariană",
+        "Hipofizară",
+        "Hipotalamică",
+        "Hipotalamo-hipofizară"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați ce tip de amenoree exclude proba cu estrogen-progesteron.",
+      "options": [
+        "Uterină",
+        "Ovariană",
+        "Hipofizară",
+        "Hipotalamică",
+        "Hipotalamo-hipofizară"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiţi cauzele amenoreei false.",
+      "options": [
+        "Atrezia himenului",
+        "Atrezia vaginului",
+        "Tumoarea hipofizară",
+        "Hipotireoză",
+        "Stresul acut şi cronic"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Selectați categoriile de paciente ce pot avea amenoree fiziologică.",
+      "options": [
+        "Fetiţe",
+        "Gravide",
+        "Femei în timpul lactaţiei",
+        "Menopauză",
+        "Nulipare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi cauzele amenoreii hipofizare secundare.",
+      "options": [
+        "Sindromul Sheehan",
+        "Boala Simons",
+        "Boala Itenko-Cushing",
+        "Nanismul hipofizar",
+        "Gigantism hipofizar"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt cauzele amenoreei hipofizare primare.",
+      "options": [
+        "Nanism hipofizar",
+        "Gigantism hipofizar",
+        "Boala Itenko-Cushing",
+        "Sindromul Sheehan",
+        "Boala Simson"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Precizaţi cauzele amenoreei uterine primare.",
+      "options": [
+        "Sindromul Rokitanski-Kiustner-Houser",
+        "Sindromul ovarelor rezistente",
+        "Sindromul Asherman",
+        "Tuberculoza endometriului suportata in copilarie",
+        "Consecinta radioterapiei intrauterine (dupamenarha)"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi care dintre anomaliile activităţii contractile uterine este mai frecventă.",
+      "options": [
+        "Insuficienţa primară a forţelor de contracţie",
+        "Tahisistolia uterină",
+        "Activitatea discoordonată",
+        "Distocia colului uterin",
+        "Insuficienţa secundară a forţelor de contracţie"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectaţi preparatul medicamentos utilizat pentru maturizarea colului uterin.",
+      "options": [
+        "Misoprostol",
+        "Magneziu B6",
+        "Oxitocină",
+        "Papaverină",
+        "Atropină"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizaţi ce reprezintă insuficienţa primară a forţelor de contracţii.",
+      "options": [
+        "Schimbarea tempoului şi forţei contracţiilor ce nu duc la dilatarea colului uterin",
+        "Creşterea tempoului şi forţei de contracţie",
+        "Hipertonusul uterin",
+        "Contracţiile uterine neregulate",
+        "Perioada preliminară patologică"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectaţi care este viteza de dilatarea colului uterin în faza latentă la o primipară.",
+      "options": [
+        "0,4-0,5 cm/oră",
+        "0,6-0,8 cm/oră",
+        "1 cm /oră",
+        "1,5 cm /oră",
+        "0,2-0,4 cm/ oră"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Selectați ce măsuri sunt necesare în timpul naşterii recomandate în caz de discoordonare a forţelor de contracţie uterine.",
+      "options": [
+        "Administrarea spasmoliticelor",
+        "Analgezia pudentală",
+        "Analgezia epidurală",
+        "Administrarea prostoglandinelor",
+        "Operaţia cezariană"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcați care hormon este responsabil de insuficiența progesteronică.",
+      "options": [
+        "FSH",
+        "LH",
+        "Prolactina",
+        "ACTH",
+        "DHEA"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Enumeraţi agenţii patogeni care pot fi identificaţi la examenul bacterioscopic.",
+      "options": [
+        "Esherihia Coli",
+        "Micoplasma homynis",
+        "Trihomonus  vaginalis",
+        "Candida Albicans",
+        "Neiseria gonorhae"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați semnele caracteristice piosalpinxului.",
+      "options": [
+        "Dureri hipogastrale",
+        "Prurit vaginal",
+        "Metroragie",
+        "Leucoree purulentă",
+        "Febră"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Identificati complicaţiile BIP.",
+      "options": [
+        "Sarcina ectopică",
+        "Fibromatoza uterină",
+        "Cancer de endometriu",
+        "Infertilitate tubară",
+        "Durere cronică pelvină"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați patologiile cu care se face diagnosticul diferenţial al salpingitei acute.",
+      "options": [
+        "Chistul ovarian",
+        "Sarcina uterină",
+        "Apendicita",
+        "Pielonefrita",
+        "Sarcina extrauterină"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcați care sunt complicaţiile posibile aleBIP.",
+      "options": [
+        "Infertilitate tubară",
+        "Litiaza renelă",
+        "Sarcina ectopică",
+        "Cistita acută",
+        "Avort habitual"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Marcați simptoamele specifice endometritei acute.",
+      "options": [
+        "Febră",
+        "Dureri hipogastrice",
+        "Leucoree purulentă",
+        "Lombalgie",
+        "Prurit"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicați semnele ce caracterizează piosalpinxul.",
+      "options": [
+        "Febră",
+        "Leucoreea purulentă",
+        "Durerile hipogastrice",
+        "Testul pozitiv la gonadotropinăcorionică",
+        "Pruritul"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumeraţi factorii de risc ai BIP.",
+      "options": [
+        "Parteneri sexuali multipli",
+        "Dispozitiv intrauterin",
+        "Contraceptive orale combinate",
+        "Chiuretaj uterin",
+        "Spermicide"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumeraţi simptomele endometritei.",
+      "options": [
+        "Febră",
+        "Dureri în mezogastriu",
+        "Leucoree purulentă",
+        "Diaree",
+        "Dureri la mobilizarea uterină"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectați procedurile, prin care se realizeaza tratamentul piosalpinxului.",
+      "options": [
+        "Chimioterapiea",
+        "Salpingostomie laparoscopică",
+        "Radioterapiea",
+        "Antibioticoterapia e) [x ] Tubectomie"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumeraţi entităţile patologice ce reprezintă complicaţii ale infecţiilor genitale înalte.",
+      "options": [
+        "Infertilitatea tubară",
+        "Sarcina ectopică",
+        "Durerile pelvine cronice",
+        "Vulvo - vaginitele",
+        "Uretritele acute"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Identificați, complicaţiile abcesului tuboovarian rupt.",
+      "options": [
+        "Ocluzia intestinală",
+        "Peritonita difuză",
+        "Hemoragiea intraabdominală masivă",
+        "Fistula rectovaginală",
+        "Şocul hemoragic"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Precizați în cazul cărei afecțiuni este indicat tratamentul chirurgical de urgenţă.",
+      "options": [
+        "Abcesului tuboovarian rupt",
+        "Endometrioza ovariană",
+        "miom uterin subseros",
+        "Parametritei",
+        "Hidrosalpinxului"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiți complicațiile obstetricale specifice pentru diabetului zaharat gestațional.",
+      "options": [
+        "Fătul macrosom",
+        "Disproporţia feto-pelvină",
+        "Polihidramniosul",
+        "Distocia de umăr",
+        "Izosensibilizare maternă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți factorii de risc pentru diabetul zaharat gestațional.",
+      "options": [
+        "Avortul spontan în antecedente",
+        "Nașterea prematură în antecedente",
+        "Antecedentele familiale de diabet",
+        "Sarcina extrauterină în anamneză",
+        "Indicele Masei Corporale 18 (kg/m2)"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Specificați noțiunea de diabet zaharat gestațional.",
+      "options": [
+        "Afecțiune, care cuprinde orice grad de intoleranţă la glucide, cu debut sau primă recunoaştere în timpul sarcinii",
+        "Boală metabolică caracterizată prin hiperglicemie cronică, ca urmare a defectelor în secreţia şi/sau acţiunea insulinei",
+        "Afecţiune autoimună cu etiologie multifactorială, ce duce la distrucţia progresivă a celulelor beta-pancreatice cu deficit absolut de insulină endogenă",
+        "Sindrom eterogen, a cărui etiopatogenie implică atât factori genetici, cât şi de mediu ce provoacă deficit de secreţie beta-celulară şi rezistenţa ţesuturilor ţintă la acţiunea insulinei",
+        "Afecțiune metabolică cu eteologie exclusiv autoimună ce duce la formarea autoanticorpilor către celulele beta-pancreatice, cu deficitde insulină endogenă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiți preparatul de elecție în cazul diabetului zaharat, tip I pentru gravide.",
+      "options": [
+        "Metformina",
+        "Glimenclamida",
+        "Insulina",
+        "Buforminul",
+        "Glipizidul"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți complicațiile, frecvent întâlnite la femeile însărcinate cu diabet zaharat.",
+      "options": [
+        "Preeclampsie",
+        "Hidramnios",
+        "Infecţiile tractului urinar",
+        "Insuficienţa cardio-vasculară",
+        "Anemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumerați factorii de risc pentru diabetul zaharat gestațional.",
+      "options": [
+        "Indicele Masei Corporale peste 30( kg / m2)",
+        "Avorturile spontane în anamneză",
+        "Copilul macrosom, născut anterior cu greutatea  de 4.5 kg sau mai mult",
+        "Diabetul gestațional anterior",
+        "Antecedentele familiale de diabet (rude de gradul I, cu diabet zaharat)"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiți probele, în baza cărora se poate stabili diagnosticul de diabet gestațional.",
+      "options": [
+        "Glicemia a jeun",
+        "Scăderea toleranței la glucoză",
+        "Proteinuria",
+        "Glucozuria",
+        "Testele hepatice crescute"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați criteriile de diagnostic a DZ gestațional (dupa OMS).",
+      "options": [
+        "Glicemia a jeun mai mult de 6.9 mmol/l",
+        "Glicemia a jeun mai mult de 5,3 mmol/l",
+        "Glicemia posprandială la 2 ore mai mult de 11 mmol/l",
+        "Glicemia posprandială la 2 ore mai mult de 8 mmol/l",
+        "Glicemia în ser la orice ora 11 mmol/l  și mai mult"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați indicațiile pentru finisarea sarcinii prin OC la gravidele cu diabet zaharat.",
+      "options": [
+        "Greutatea probabilă a fătului mai mare de 4500g",
+        "Glicemia a jeun mai mult de 6,9 mmol/l",
+        "Glucozurie",
+        "Asocierea peeclampsiei",
+        "Asocierea cetoacidozei"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiți grupul de femei cu diabetul zaharat la care sarcina este contraindicată.",
+      "options": [
+        "Cu control adecvat al glucozeiînsînge cu insulin",
+        "HbA1c este peste 86 mmol / mol(10%)",
+        "Glucoza a jeun 15 mmol/l",
+        "DZ tip I decompensat",
+        "DZ tip II cu risc minim"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați ce femei intră în grupul de risc sporit pentru diabetul zaharat gestațional.",
+      "options": [
+        "Subponderalele",
+        "Cu obezitate marcată",
+        "Antecedente personale de DZ",
+        "Antecedente obstetricale agravate",
+        "Proteinurie"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiți limitele temperaturii normale ale nou-născutului în primele ore după naştere.",
+      "options": [
+        "36,5 - 36,8 0C",
+        "36,5 - 37,0 0C",
+        "36,8 - 37,0 0C",
+        "36,5 - 37,5 0C",
+        "37,0 - 37,5 0C"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Specificați ce reflectă cardiotocograma în timpul travaliului.",
+      "options": [
+        "BCF şi a contracţiile uterine",
+        "BCF şi mişcările fetale",
+        "Contracţiile uterine şi mişcările fetale",
+        "Bătăile cordului gravidei şi BCF",
+        "Contracţiile uterine şi tensiunea arterială"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiți metoda sigură de diagnostic a gravidității în termeni precoci de sarcină.",
+      "options": [
+        "Determinarea gonadotropinei corionice",
+        "Determinarea concentraţiei FSH și LH",
+        "Efectuarea probei biologice Gali-Mainini",
+        "Testul imunologic de inhibiţie a hemaglutinării",
+        "Testul cu oxitocina"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Specificați care din testele serologice enumerate se foloseşte actualmente în diagnosticul gravidităţii.",
+      "options": [
+        "Aprecierea concentraţiei estrogenilor în sânge",
+        "Aprecierea concentrației serologice a gonadotropinei chorionice",
+        "Aprecierea gradului de maturizare a foliculilor la iepuroaică",
+        "Aprecierea concentraţiei prolactinei în sânge",
+        "Aprecierea concentraţiei pregnandiolului în urină"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiţi termenul optimal pentru efectuarea amniocintezei diagnostice.",
+      "options": [
+        "6-8 săptămâni",
+        "12-14 săptămâni",
+        "15-18 săptămâni",
+        "22-24 săptămâni",
+        "32-36 săptămâni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Enumeraţi semnele sigure ale sarcinii în termeni tardivi.",
+      "options": [
+        "Mişcările fetale sesizate de către medic",
+        "Cianoza colului uterin şi a mucoasei vaginale",
+        "Determinarea părţilor componente fetale prin palparea externă",
+        "Auscultarea bătăilor cordului fetal",
+        "Creşterea în volum a uterului"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți metodele de determinare a termenului de gestaţie.",
+      "options": [
+        "Data ultimei menstruaţii",
+        "Data coitusului fecundant",
+        "Data primei mişcări fetale",
+        "Datele examenului USG efectuat la 30-32 săptămâni",
+        "Datele examenului USG efectuat în primul trimestru al sarcinii"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi semnele de gestaţie prezente la termenul de 10-11 săpt. de graviditate.",
+      "options": [
+        "Uter mărit în volum",
+        "Vizualizarea activităţii cardiace embrionare la USG",
+        "Amenorea",
+        "Semnul Vasten",
+        "Semnul Babinski"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumerați dimensiunile bazinului osos care le putem aprecia prin pelvimetria externă.",
+      "options": [
+        "Distanţa bispinarum",
+        "Conjugata diagonală",
+        "Distanţa bitrohanterică",
+        "Distanţa bicristarum",
+        "Conjugata externă"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați schemele utilizate în determinarea datei probabile a naşterii.",
+      "options": [
+        "Adăugăm 7 zile la data primei zile a ultimei menstruaţii şi scădem 3 luni",
+        "La data coitului fecundat se adaugă 270 zile (dacă a fost unic în perioada respectivă)",
+        "La data apariţiei colostrului şi chloazmei se plusează 280 zile",
+        "La data apariţiei primelor vome şi greţuri se adaugă 280 zile",
+        "La data perceperii primelor mişcări ale fătului se adaugă 20 săptămâni la primipare şi 22 săptămâni la  multipare"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați caracteristicele nou-născutul matur.",
+      "options": [
+        "Circumferinţa fronto-occipitală 34 cm",
+        "Diametrul transversal al centurii scapulare 12 cm",
+        "Pielea de culoare roz pală, elastică, acoperită cu sebum",
+        "Inelul ombilical se găseşte mai aproape de procesul xifoid",
+        "Suturile şi fontanelele sunt închise"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați caracteristicele nou-născutul, care are următorii parametri: greutatea de 2400 grame, lungimea 49 cm, testiculele coborâte în scrot.",
+      "options": [
+        "Copil prematur",
+        "Copil matur cu retard de dezvoltare intrauterină",
+        "Supramaturat",
+        "Nou-născut cu greutate mică la naștere",
+        "Făt macrosom"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați semnele certe ale sarcinii.",
+      "options": [
+        "Aprecierea bătăilor cordului fetal",
+        "Mărirea abdomenului în volum",
+        "Mărirea uterului în volum",
+        "Aprecierea mişcărilor fetale de către obstetrician",
+        "Palparea părţilor mari ale fătului"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi metodele neinvazive de diagnostic utilizate în obstetrică.",
+      "options": [
+        "Cordocenteză",
+        "Determinarea nivelului α - fetoproteinei in serul sanguin",
+        "Aprecierea concentraţiei hCG",
+        "Amniocenteză",
+        "Doplerometria"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi metodele de investigare ale lichidului amniotic.",
+      "options": [
+        "Ultrasonografia",
+        "Amnioscopia",
+        "Culdoscopia",
+        "Amniocenteza",
+        "Tocografia"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați semnele prezumtive ale sarcinii.",
+      "options": [
+        "Greaţă, vomă",
+        "Hiperpigmentaţia liniei albe şi a organelor genitale externe",
+        "Modificări de senzaţii olfactive",
+        "Modificările libidoului",
+        "Modificări a tensiunii arteriale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați raportul de apreciere a indicelui de șoc Allgower.",
+      "options": [
+        "Puls şi TA sistolică",
+        "TA sistolică şi puls",
+        "Puls şi TA diastolică",
+        "TA diastolică şi puls",
+        "TA sistolică si TA diastolică"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați valoarea normală a indecelui de şoc Allgower.",
+      "options": [
+        "0,1",
+        "0,5",
+        "0,9",
+        "1,1",
+        "2,0"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți situația când se poate dezvolta sindromul CID obstetrical fulminant.",
+      "options": [
+        "Preeclampsie severă",
+        "Embolie cu lichid amniotic",
+        "Insuficienţa placentară cronică",
+        "Anemie feriprivă",
+        "Obezitate"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcați veriga principală în patogeneza sindromului CID obstetrical.",
+      "options": [
+        "Activizarea anticoagulanţilor",
+        "Activizarea coagulanţilor",
+        "Leucocitoza",
+        "Anemia",
+        "Hipoxia"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți cauzele posibile ale hemoragiei post-partum.",
+      "options": [
+        "Atonie uterină",
+        "Lezarea căilor de nastere",
+        "Coagulopatiile",
+        "Resturi de ţesut placentar",
+        "Disproporție feto-pelvină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați caracteristicile esențiale ale hemoragiei post-partum.",
+      "options": [
+        "Dureri puternice în regiunea lombară",
+        "Hemoragii abundente unimomentale",
+        "Hipertonus accentuat uterin",
+        "Hemoragii repetate în ascensiune cantitativă",
+        "Eliminări neînsemnate de sânge cu aspectul zaţului de cafea"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Numiți factorii de risc pentru hemoragia post-partum.",
+      "options": [
+        "Bazin anatomic strâmtat",
+        "Făt macrosom",
+        "Preeclampsie",
+        "Multiparitate",
+        "Trombofilii ereditare"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați simptomele incluse în tabloul clinic al hemoragiei post-partum.",
+      "options": [
+        "Hemoragii uterine repetate",
+        "Paloare",
+        "Hipotensiune arterială",
+        "Uter in hipertonus",
+        "Durere abdominală violentă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumerați cauzele posibile ale hemoragiei în perioada de lăuzie precoce.",
+      "options": [
+        "Placenta aderens",
+        "Hipotonia uterină",
+        "Coagulopatia",
+        "Ruptura uterină",
+        "Resturi de țesut placentar"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați care sunt indicii de laborator monitorizați în caz de hemoragie post-partum.",
+      "options": [
+        "Hemoleucograma",
+        "Coagulograma",
+        "Trombocitele d) [x ] Echilibru acido-bazic",
+        "Proteinuria în 24 de ore"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumerați care sunt mecanismele compensatorii în cazul unei hemoragii.",
+      "options": [
+        "Vasodilatarea perifrică",
+        "Centralizarea circuitului sangvin",
+        "Scăderea reflexogenă a tonusului vascular",
+        "Autohemodiluţia",
+        "Eliberarea singelui din depouri"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Specificați în ce situații ergometrina este contraindicată în tratamentul hemoragiilor post-partum.",
+      "options": [
+        "Hipertensiune arterială",
+        "Maladii cardiovasculare",
+        "Maladii renale",
+        "Maladii pulmonare",
+        "Maladii hepato-biliare"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumerați factorii de risc pentru hemoragia postpartum.",
+      "options": [
+        "Inducerea travaliului cu PG",
+        "Indicelei masei corporale ≥35 kg/m2",
+        "Nașterea vaginală asistată instrumental",
+        "Placenta praevia",
+        "Administrarea de oxitocină"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți manifestarea de bază a dismenoreei.",
+      "options": [
+        "Hiperpolimenorea",
+        "Disfuncţia anovulatorie",
+        "Durerile în timpul menstruaţiei",
+        "Menometroragiile",
+        "Hemoragiile disfuncţionale ovulatorii"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizați cauza dismenoreei primare.",
+      "options": [
+        "Endometrioza",
+        "Anomaliile de dezvoltare ale organelor genitale",
+        "Procesul inflamator cronic al organelor genitale",
+        "Hiperptoducţia de Pg F2α",
+        "Ganglioneurita pelviană"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizați cum se va numi o sângerare menstruală care depăşeşte volumul de 150 ml.",
+      "options": [
+        "Hipomenoree",
+        "Hipermenoree",
+        "Eliminări sangvinolente",
+        "Amenoree",
+        "Opsomenoree"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Precizați cum se va numi o sângerare menstruală în cantitate de 15 ml.",
+      "options": [
+        "Hipomenoree",
+        "Hipermenoree",
+        "Eliminări sangvinolente",
+        "Amenoree",
+        "Opsomenoree"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizați cum se va numi o sângerare menstruală, a cărei durată depăşeşte 7 zile.",
+      "options": [
+        "Polimenoree",
+        "Oligomenoree",
+        "Proemenoree",
+        "Opsomenoree",
+        "Amenoree"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Specificați definiția de metroragie.",
+      "options": [
+        "Menstruaţie de lungă durată",
+        "Hemoragie uterină aciclică",
+        "Menstruaţie rară",
+        "Menstruaţie abundentă",
+        "Hemoragie uterină ciclică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Apreciaţi cauza hemoragiilor disfuncţionale, când pacienta de 40 ani acuză polimenoree, hipermenoree şi sterilitate, iar testele diagnosticului funcţional denotă T bazală monofazică, semnele pupilei şi ferigii 3+, 4+, indicii acidofili şi cariopicnotic = 60-70%.",
+      "options": [
+        "Persistenţa corpului galben",
+        "Persistenţa îndelungată a foliculului",
+        "Scurtarea fazei foliculare sau luteinice",
+        "Mărirea fazei luteinice",
+        "Hemoragii intermenstruale"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Apreciaţi cauza hemoragiilor disfuncţionale, când pacienta de 30 ani acuză proiomenoree, polihipermenoree, iar testele diagnosticului funcţional denotă tº bazală bifazică cu scurtarea fazei foliculare = 7-9 zile.",
+      "options": [
+        "Persistenţa temporară şi îndelungată a foliculului",
+        "Atrezia foliculului",
+        "Scurtarea fazei foliculare",
+        "Mărirea fazei luteinice",
+        "Micşorarea ciclului menstrual pînă la 21-23 zile"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Enumerați cauzele dismenoreei secundare.",
+      "options": [
+        "Endometrioza",
+        "Hiperproducţia de androgeni",
+        "Miom uterin",
+        "Sinechia cervico-istmică",
+        "Proces inflamator al organelor genitale"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi dereglările vegetative, care au loc în dismenoree.",
+      "options": [
+        "Hiperhidroză",
+        "Diaree",
+        "Tahicardie",
+        "Constipații",
+        "Meteorism abdominal"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi dereglările psiho-emoţionale, care se întâlnesc în dismenoree.",
+      "options": [
+        "Iritabilitate",
+        "Prurit cutanat",
+        "Depresie",
+        "Somnolenţă",
+        "Poliurie"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați ce preparate se administrează pentru tratamentul dismenoreei.",
+      "options": [
+        "Antioxidanţi",
+        "Inhibitori ai prostaglandin-sintetazei",
+        "Spasmolitice",
+        "Contraceptive orale combinate",
+        "Antibiotice"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați cauzele posibile ale hemoragiilor uterine disfuncţionale ovulatorii.",
+      "options": [
+        "Persistenţa foliculului",
+        "Atrezia foliculului",
+        "Scurtarea fazei foliculare sau luteinice",
+        "Mărirea fazei luteinice",
+        "Hemoragii intermenstruale"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Determinaţi cauzele hemoragiilor uterine disfuncţionale anovulatorii.",
+      "options": [
+        "Scurtarea fazei foliculare sau luteinice",
+        "Hemoragii intermenstruale",
+        "Persistenţa foliculului",
+        "Mărirea fazei luteinice",
+        "Atrezia foliculului"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Precizați care din preparatele hormonale enumerate mai jos se folosesc în tratamentul hemostatic al hemoragiilor uterine juvenile.",
+      "options": [
+        "Androgeni",
+        "Contraceptive orale combinate",
+        "Estrogeni",
+        "Progesteron şi derivaţii lui",
+        "Norsteroizi"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Marcați semnele definitorii ale sindromului HELLP.",
+      "options": [
+        "Hemoliză",
+        "Trombocitopenie",
+        "Hipoproteinemie",
+        "Creşterea transaminazelor",
+        "Hiperglicemie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi criteriile diagnostice ale hipertensiunii în sarcină.",
+      "options": [
+        "TA sistolică > 140 mm, Hg și/sau TA diastolică > 90 mm, Hg determinate la un interval de cel puțin 4 ore",
+        "TA diastolică > 110 mm, Hg, într-o singură evaluare",
+        "creşterea TA sistolică cu 30 mm, Hg faţă de valorile pregestaţionale",
+        "creşterea TA diastolică cu 15 mm, Hg faţă de valorile pregestaţionale",
+        "valorile TA medii -peste 105 mm Hg"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Identificați modificările patofiziologice caracteristice pentru preeclampsie.",
+      "options": [
+        "Vasoconstricţie",
+        "Hipovolemie",
+        "Micşorarea rezistenţei vasculare periferice",
+        "Mărirea permeabilităţii vasculare",
+        "Activarea sistemului de hemostază"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Specificați care va fi diagnosticul în cazul unei gravide normotensivă anterior, iar la termenul de 32 de săptămâni se determină TA = 150/100 mm Hg, proteinurie = 0,03g/l, edeme pe membrele inferioare.",
+      "options": [
+        "Hipertensiunea cronică",
+        "Hipertensiunea gestaţională",
+        "Preeclampsia uşoară",
+        "Preeclampsia severă",
+        "Hipertensiunea arterială tranzitorie"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Specificați care va fi diagnosticul în cazul unei gravide normotensivă anterior, iar în a II jumătate a sarcinii, se determină TA= 150/100 mm Hg, proteinurie - 0,5 g/l, edeme pe membrele inferioare.",
+      "options": [
+        "Hipertensiunea cronică",
+        "Hipertensiunea gestaţională",
+        "Preeclampsia uşoară",
+        "Preeclampsia severă",
+        "Hipertensiunea arterială tranzitorie"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Specificați care va fi diagnosticul în cazul unei gravide normotensivă anterior, iar în a II jumătate a sarcinii, se determină TA 170/110 mm Hg, proteinurie 0,4 g/l, greața și vomă.",
+      "options": [
+        "Hipertensiunea cronică",
+        "Hipertensiunea gestaţională",
+        "Preeclampsia uşoară",
+        "Preeclampsia severă",
+        "Hipertensiune tranzitorie"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicați modificările testelor de laborator, caracteristice preeclampsiei.",
+      "options": [
+        "Proteinurie",
+        "Acetonemie",
+        "Creşterea transaminazelor",
+        "Scăderea hematocritului",
+        "Trombocitopenie"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcați cauza principală de mortalitate maternă la femeile cu preeclampsie/eclampsie.",
+      "options": [
+        "Hemoragia congulopatică",
+        "Hemoragia intracraniană",
+        "Edemul pulmonar",
+        "Ruptura capsulei hepatice",
+        "Insuficienţa renală"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Precizați particularitatile evolutiei sarcinii la gravidele cu preeclampsie.",
+      "options": [
+        "Retenţia creşterii intrauterine a fătului",
+        "Dezvoltarea embriopatiilor",
+        "Decolarea prematură a placentei normal înserate",
+        "Prematuritatea",
+        "moartea antenatală a fătului"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați factori de risc pentru dezvoltarea preeclampsiei.",
+      "options": [
+        "Sarcina gemelară",
+        "Primiparitatea",
+        "Multiparitatea",
+        "Antecedente familiare de preeclampsie / eclampsie",
+        "Hipertensiune cronică"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați factorii majori de risc de dezvoltare a preeclampsiei.",
+      "options": [
+        "Sindromul antifosfolipidic",
+        "Sarcina gemelară",
+        "Hipertensiunea cronică",
+        "Placenta praevia",
+        "Intervalul dintre nașteri mai mare de 10 ani"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Notați preparatul de elecţie pentru tratamentul convulsiilor eclamptice.",
+      "options": [
+        "Diazepamul",
+        "Fenobarbitalul",
+        "Tiopentalul de natriu",
+        "Sulfatul de magneziu",
+        "Fenitoina"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Marcați complicaţiile posibile ale preeclampsiei/eclampsiei.",
+      "options": [
+        "Dezlipirea de retină",
+        "Hemoragia intracraniană",
+        "Retard de dezvoltare intrauterin al fătului",
+        "Polihidramnioza",
+        "Insuficienţa renală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi consecinţele posibile ale eeclampsiei/eclampsiei.",
+      "options": [
+        "Moartea antenatală a fătului",
+        "Hemoragia coagulopatică",
+        "Prematuritatea",
+        "Amauroza",
+        "Anomalii de dezvoltare a fătului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați preparatele de elecţie pentru scăderea rapidă a tensiunii arteriale la sarcină.",
+      "options": [
+        "Metildopa",
+        "Apresina (hidralasina)",
+        "Nifedipina",
+        "Labetalolul",
+        "Captoprilul"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizați care este preparatul de elecţie pentru terapia antihipertensivă îndelungată la gravide.",
+      "options": [
+        "Metoprololul",
+        "Labetalolul",
+        "Captoprilul",
+        "Metildopa",
+        "Hidralasina"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizați care preparat antihipertensiv este contraidicat în timpul sarcinii.",
+      "options": [
+        "Blocanți ai canalelor de calciu",
+        "β – blocanți",
+        "Diureticele",
+        "Metildopa",
+        "Blocanți ai enzimei de conversie a angiotensinei"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Specificați ce măsuri necesare trebuie de interprins în cazul unei gravide, la care la termenul de 32 de săptămâni de gestație se determină TA= 180/120 mm Hg, cefalee, greaţă, vomă, edeme.",
+      "options": [
+        "Terapia antihipertensivă",
+        "Evaluarea stării i/u a fătului",
+        "Administrarea diureticelor",
+        "Administrarea Dexametazonei",
+        "Administrarea sulfatului de magneziu"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați ce preparate sunt contraidicate gravidelelor cu preeclampsie.",
+      "options": [
+        "Hidralazina",
+        "Metilergometrina",
+        "Misoprostolul",
+        "Captoprilul",
+        "Nifedipina"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Marcați care preparat este antidotul sulfatului de magneziu.",
+      "options": [
+        "Gluconatul de calciu",
+        "Cofeina",
+        "Atropina",
+        "Clorura de potasiu",
+        "Naloxonul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizați semnele supradozării sulfatuluii de magneziu.",
+      "options": [
+        "Tahicardie maternă",
+        "Oligurie",
+        "Micşorarea frecvenţei respiraţiei",
+        "Diminuarea reflexelor patelare",
+        "Tahicardie la făt"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificați care este conduita postnatală a preeclampsiei severe.",
+      "options": [
+        "Administrarea sulfatului de magnesiu",
+        "Administrarea diureticelor",
+        "Limitarea volumului de lichide",
+        "Infuzia a cel putin 3000 ml de lichide/24 ore",
+        "Administrarea heparinei cu masă moleculară joasă"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Determinați în ce cazuri trebuie diminuată viteza infuziei sulfatului de magneziu.",
+      "options": [
+        "Micşorarea diurezei sub 30 ml/oră",
+        "Mărirea frecvenţei pulsului peste 90 băt/minut",
+        "Diminuarea  frecvenţei respiraţiei sub 16 pe minut",
+        "Prezenţa acceleraţiilor variabile pe carditocogramă",
+        "Poliurie"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Indicați complicaţiile preeclampsiei în naştere şi lăuzie.",
+      "options": [
+        "Ruperea prenatală a pungii amniotice",
+        "Decolarea prematură a placentei normal înserate",
+        "Hemoragiile coagulopatice",
+        "Complicaţiile tromboembolice",
+        "Travaliul hiperkinetic"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificați care din manifestările clinice enumerate sunt specifice preeclampsiei.",
+      "options": [
+        "Cefalee persistentă",
+        "Pruritul",
+        "Acufene, scotoame",
+        "Oliguria",
+        "Dureri epigastrice persistente"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Stabiliți care aspecte trebuie de verificat obligatoriu înainte de administrarea sulfatului de magneziu.",
+      "options": [
+        "Diureza",
+        "Reflexele patelare",
+        "Frecvența respirației",
+        "Pulsul",
+        "Numărul de trombocite"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizați care modificări patofiziologice nu sunt caracteristice preeclampsiei.",
+      "options": [
+        "Diminuarea filtraţiei glomerulare",
+        "Creşterea concentraţiei acidului uric în plasmă",
+        "Creşterea volumului de sânge circulant",
+        "Oliguria",
+        "Hemodiluția"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizați ce va include conduita unei preeclampsii uşoare cu valorile TA=155/100 mm Hg, la termenul de 36 de săptămâni de gestație.",
+      "options": [
+        "Terapia antihipertensivă",
+        "Administrarea Dexametazonei",
+        "Spitalizarea",
+        "Adminstrarea sulfatului de magneziu",
+        "Evaluarea USG a stării intrauterine a fătului"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcați care din afirmațiile de mai jos privind conduita preeclampsiei severe/eclampsiei sunt corecte.",
+      "options": [
+        "Tratamentul definitiv al preeclampsiei severe/eclampsiei- este nașterea",
+        "Preparatul de elecție pentru profilaxia convulsiilor- este sulfatul de magnesiu",
+        "Pentru a finaliza sarcina se dă preferință operației cezariene",
+        "Metoda de elecție de anestezie la operația cezariană- este cea generală, endotraheală",
+        "Pentru proifilaxia hemoragiei post-natale se administreaza metilergometrina"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Specificați care este regimul corect de administrare a primei doze de sulfatul de magnesiu pentru profilaxia convulsiilor repetate după un acces de eclampsie.",
+      "options": [
+        "4-5 grame, timp de 10-15 minute",
+        "4-5 grame, timp de 1-2 minute",
+        "10 grame, timp de 10-15 minute",
+        "10 grame, timp de 1-2 minute",
+        "20 grame, timp de 10-15 minute"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Stabiliți care este regimul corect de administrare a dozei de menținere a sulfatului de magnesiu, după un acces de convulsii eclamptice.",
+      "options": [
+        "1 gram /oră, timp de 12 ore după naștere sau după ultimul acces de convulsii",
+        "1 gram /oră, timp de 24 ore după naștere sau după ultimul acces de convulsii",
+        "4 grame /oră, timp de 12 ore după naștere sau după ultimul acces de convulsii",
+        "4 grame /oră, timp de 24 ore după naștere sau după ultimul acces de convulsii",
+        "4 grame /oră, timp de 72 ore după naștere sau după ultimul acces de convulsii"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcați care din medicamentele enumerate sunt incluse obligatoriu în trusa de ajutor urgent, în caz de preeclampsia severă/eclampsie.",
+      "options": [
+        "Captoprilul",
+        "Nifedipina",
+        "Sulfatul de magnesiu",
+        "Fenobarbitalul",
+        "Calciul gluconat"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Determinați care din acțiunile enumerate mai jos va fi prioritară, imediat după un acces de convulsii eclamptice.",
+      "options": [
+        "Tratamentul antihipertensiv",
+        "Profilaxia convulsiilor cu sulfat de magneziu",
+        "Cateterizarea vezicii urinare",
+        "Operația cezariana de urgență",
+        "Evaluarea cailor respiratorii, respirației și circulației"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicați ce modificare fiziologică cardiacă apare în timpul sarcinii.",
+      "options": [
+        "Scad valorile tensiunii arteriale",
+        "Cresc valorile tensiunii arteriale sistolice",
+        "Cresc valorile tensiunii arteriale diastolice",
+        "Scade debitul cardiac",
+        "Scade volumul sângelui circulant"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicați ce schimbare fiziologică la nivelul sistemului respirator apare în timpul sarcinii.",
+      "options": [
+        "Constricția traheo-bronșică",
+        "Scaderea frecvenței respiratorie",
+        "Scaderea volumului curent",
+        "Scaderea consumului de O2",
+        "Scaderea volumului rezidual"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Precizați ce modificăre fiziologică a sistemului digestiv apare în timpul sarcinii.",
+      "options": [
+        "Scade secreția de mucus",
+        "Crește aciditatea gastrică",
+        "Scade aciditatea gastrică",
+        "Frecvent apare ulcerul gastric",
+        "Crește peristaltismul intestinal"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Menționați ce modificare metabolic fiziologică are loc în timpul sarcinii.",
+      "options": [
+        "Scade nivelul de trigliceride",
+        "Scade nivelul colesterolului",
+        "Insulina poate trece bariera placentară în ambele sensuri",
+        "Se mărește retenția hidrică",
+        "Scade retenția azotată"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Marcați care este hormonul secretat de către placentă.",
+      "options": [
+        "LH-ul",
+        "FSH-ul",
+        "T3-ul",
+        "Cortizolul",
+        "Progesteronul"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Notați modificările fiziologice în organismul matern care survin pe parcursul sarcinii.",
+      "options": [
+        "Apare striae gravidarum",
+        "Apare hiperpigmentarea mameloanelor",
+        "Apare hiperpigmentarea cicatricelor existente",
+        "Apar teleangiectazii la nivelul membrelor superioare",
+        "Apare icterul"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Determinați caracteristicele sindromului venei cave inferioare (sindromul postural).",
+      "options": [
+        "Hipotensiunea arterială",
+        "Hipertensiunea arterială",
+        "Vertij",
+        "Transpirații reci",
+        "Starea de lipotimie"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcați modificările cardio-vasculare fiziologice în timpul sarcinii.",
+      "options": [
+        "Crește volumul sîngelui circulant",
+        "Crește volumul total al hematiilor",
+        "Apare suflul sistolic de ejectie la marginea sternului",
+        "Crește rezistența vasculară periferică",
+        "Cresc valorile tensiunii arteriale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Evidențiați care sunt modificările fiziologice ale sistemului respirator în timpul sarcinii.",
+      "options": [
+        "Crește frecvența respiratorie",
+        "Scade debitul respirator",
+        "Crește debitul respirator",
+        "Crește volumul curent",
+        "Crește consumul de O2"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Identificați care sunt modificările fiziologice ale sistemului digestiv în timpul sarcinii.",
+      "options": [
+        "Hipertrofia gingiilor",
+        "Sialoreea",
+        "Scade secreția de mucus",
+        "Crește secreția de mucus",
+        "Crește secreția acidă și de pepsină"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Marcați modificările fiziologice ale sistemului nervos în timpul sarcinii.",
+      "options": [
+        "Iritabilitate sporită",
+        "Somnolența",
+        "Insomnie",
+        "Sensibilitate excesivă a mirosului",
+        "Poate apărea surmenajul nervos"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați care sunt modificările fiziologice ale sistemului endocrin în timpul sarcinii.",
+      "options": [
+        "Apare corpul galben de sarcină",
+        "Are loc hipotrofia hipofizară",
+        "Are loc hipertrofia hipofizară",
+        "Are loc hipertrofia medulei suprarenale",
+        "Are loc hipertrofia cortexului suprarenal"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Identificați hormonii care sunt secretați de către placentă.",
+      "options": [
+        "Estrogeni",
+        "Progesteron",
+        "Tiroxina",
+        "Gonadotropina corionică",
+        "LH"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Identificați cauzele depresiei imunitare în timpul sarcinii.",
+      "options": [
+        "Atrofie timică",
+        "Limfocitopenie",
+        "Scăderea relativă a celulelor T-helper",
+        "Creșterea celulelor T- helper",
+        "Hipoplazia ganglionilor limfatici"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Determinați modificările de statică în timpul sarcinii.",
+      "options": [
+        "Accentuarea lordozei lombare",
+        "Schimbarea centrului de greutate",
+        "Accentuarea scoliozei",
+        "Este influiențată de acțiunea relaxinei și a steroizilor placentari",
+        "Nu este influiențată de acțiunea relaxinei și a steroizilor placentari"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi care sunt perioadele naşterii.",
+      "options": [
+        "Perioada preliminară",
+        "Perioada de dilatare a colului uterin",
+        "Perioada de expulzie a fătului",
+        "Perioada de delivrenţă şi expulzie a placentei",
+        "Perioada postnatală precoce"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt fazele primei perioade a naşterii.",
+      "options": [
+        "Latentă",
+        "Activă",
+        "Accelerare lentă",
+        "Accelerare progresivă",
+        "Discoordonată"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Determinaţi sfârşitul fazei latente a primei perioade a naşterii.",
+      "options": [
+        "Ştergerea colului uterin",
+        "Ştergerea şi dilatarea colului uterin pînă la 3-4 cm",
+        "Dilatarea colului uterin pînă la 8 cm",
+        "Scurtarea colului uterin pînă la 1 cm",
+        "Dilatarea completă a colului uterin"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Specificați prin ce se caracterizează prima perioadă a naşterii fiziologice.",
+      "options": [
+        "Ştergerea şi dilatarea colului uterin",
+        "Creşterea cantităţii de eliminări sero-hemoragice",
+        "Coborîrea căpuşorului",
+        "Creşterea frecvenţei şi duratei contracţiilor uterine",
+        "Asocierea scremetelor"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Precizaţi care sunt indicaţiile pentru efectuarea epiziotomiei.",
+      "options": [
+        "Iminenţa ruperii perineului",
+        "Hipoxia progresantă a fătului în perioada a  doua a naşterii",
+        "Aplicarea forcepsului",
+        "Pentru a accelera perioada de expulzie",
+        "Făt macrosom"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Identificaţi metodele, prin care se poate determina scurgerea precoce a lichidului amniotic.",
+      "options": [
+        "Examenul cu specule",
+        "Examenul microscopic al secretului vaginal",
+        "Examenul canalului urinar",
+        "Determinarea PH secretului vaginal",
+        "Ecografia"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi în ce cazuri se va iniţia analgezia în travaliu.",
+      "options": [
+        "În cazul unui travaliu ferm stabilit",
+        "La orice dilatare a colului uterin",
+        "La primipare",
+        "La multipare",
+        "La dorința pacientei"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi până la ce dilatare a colului uterin se permite tratamentul tocolitic în travaliu prematur.",
+      "options": [
+        "0-1 cm",
+        "2 cm",
+        "3 cm",
+        "4-5 cm",
+        "7-8 cm"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Notaţi particularităţile clinice ale travaliului prematur.",
+      "options": [
+        "Dilatarea colului uterin peste 2 cm",
+        "Contracţii uterine regulate",
+        "Scrtarea colului >80%",
+        "Colul uterin lung şi întredeschis",
+        "Dureri în regiunea inferioară a abdomenului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Marcați preparatele utilizate ca tratament tocolitic în travaliul prematur.",
+      "options": [
+        "Ginipralul",
+        "Oxitocina",
+        "Atosibanul",
+        "Indometacina",
+        "Nifedipina"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi care afirmaţii sunt corecte pentru conduita în caz de rupere prematură a membranelor în afara riscului de travaliu prematur.",
+      "options": [
+        "Administrarea corticosteroizilor",
+        "Corticosteroizii sunt contraindicaţi fiindcă măresc riscul infecţiei",
+        "Administrarea eritromicinei",
+        "Transfer în centru perinatologic de nivelul II sau III",
+        "Se recomandă inducţia naşterii"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi ce date sunt utile a fi cunoscute pentru diagnosticarea gradului de prematuritate a nou-născutului.",
+      "options": [
+        "Vârsta gestationala la care are loc naşterea",
+        "Talia nou-născutului",
+        "Dimensiunile placentei",
+        "Masa nou-născutului",
+        "Volumul lichidului amniotic"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi criteriile caracteristice naşterii premature.",
+      "options": [
+        "Termenul sarcini 22-36 săptămîini si 6 zile",
+        "Masa nou-născutului 500-2500 gr",
+        "Vârsta sarcinii 28 săptămîini și 0 zile-37 săptămîini și 0 zile",
+        "Lungimea nou-născutului 25 - 47 cm",
+        "Lungimea nou-născutului > 47cm"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi schemele recomandate pentru utilizarea preparatelor corticosteroide în iminenţă de naştere prematură.",
+      "options": [
+        "Dexametazonă 8 mg fiecare 8 ore timp de 24 de ore (doza totală - 24 mg)",
+        "Dexametazonă 6 mg fiecare 12 ore timp de 48 de ore (doza totală - 24 mg)",
+        "Dexametazonă 12 mg fiecare 12 ore timp de 48 de ore (doza totală - 48 mg)",
+        "Betametazonă 6 mg fiecare 12 ore timp de 48 de ore (doza totală - 24 mg)",
+        "Betametazonă12 mg fiecare 24 ore timp de 48 de ore (doza totală - 24 mg)"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi care din infecţiile enumerate măresc riscul naşterilor premature.",
+      "options": [
+        "Vaginoza bacteriană",
+        "Rubeola, rugeola, gripa",
+        "Toxoplasma",
+        "Bacteriuria asimptomatică",
+        "Hepatitele B şi C"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi cauzele materne ce pot provoca naşterea prematură.",
+      "options": [
+        "Infecţiile urinare",
+        "Preeclampsia",
+        "Diabetul zaharat",
+        "Insuficienţa istmico-cervicală",
+        "Hepatita cronică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi contraindicaţiile beta-mimeticelor utilizate pentru tocoliză în naşterea prematură.",
+      "options": [
+        "Cardiopatiile severe decompensate",
+        "Diabetul zaharat",
+        "Lupusul eritematos",
+        "HTA necontrolată",
+        "Hemoragiile grave"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi care sunt indicaţiile pentru operaţie cezariană la naşterea prematură.",
+      "options": [
+        "Prezentaţii distocice a fătului (craniene deflectate, transversală)",
+        "Prezantaţia pelvină a fătului",
+        "Prezentaţie craniană în varietatea anterioară",
+        "Suferinţa fetală documentată CTG",
+        "Placenta preavia"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi momentul ligaturării trompelor uterine în timpul operaţiei cezariene.",
+      "options": [
+        "După prima operaţie cezariană",
+        "La a doua operaţie cezariană",
+        "La dorinţa pacientei",
+        "După a treia operaţie cezariană",
+        "La indicaţii medicale"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizaţi timpul optim de efectuare a antibioticoprofilaxiei în operaţia cezariană.",
+      "options": [
+        "Cu 24 de ore înainte de OC",
+        "În OC electivă nu se efectuează antibioprofilaxia",
+        "Cu 15-60 min până la incizia pielii",
+        "Antibioprofilaxia se va face postoperator",
+        "Cu 3-4 ore până la incizia pielii"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiţi testele de rutină, efectuate înaintea unei operaţii cezariene elective.",
+      "options": [
+        "Compatibilitatea sangvină",
+        "Frotiul vaginal",
+        "Timpul de coagulare",
+        "Grupa sangvină și Rh factor",
+        "USG pentru aprecierea localizării placentei"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiţi cauzele creşterii ratei operaţilor cezariene.",
+      "options": [
+        "Rata crescută a naşterilor induse",
+        "Creşterea prevalenţei obezităţii materne",
+        "Insistenţa gravidei sau a rudelor acesteea",
+        "Vârsta medie a femeilor gravide în creştere",
+        "Reducerea incidenţei naşterilor vaginale asistate"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizaţi tipurile operaţiei cezariene în funcţie de urgenţă.",
+      "options": [
+        "urgență",
+        "planică",
+        "electivă",
+        "la dorinnţă",
+        "urgență majoră"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi tipurile inciziei uterului în operaţia cezariană.",
+      "options": [
+        "Transversală în segmentul inferior",
+        "Corporală",
+        "În formă de T inversat",
+        "În formă de \"U\"",
+        "Pe rebordul uterului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Stabiliţi indicaţiile pentru efectuarea operaţiei cezariane.",
+      "options": [
+        "Disproporţia feto-pelvină",
+        "Suferinţa fetală acută",
+        "Preeclampsia/eclampsia",
+        "Ruperea prenatală a pungii amniotice",
+        "Prezentaţiile incorecte"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi condiţiile necesare pentru naşterea asistată.",
+      "options": [
+        "Lipsa disproporţiei cefalo-pelvine severe",
+        "Dilatarea completă a colului uterin",
+        "Ruperea membranelor amniotice",
+        "Lipsa angajării căpşorului",
+        "Prezentaţia occipitală a fătului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi care sunt indicaţiile pentru histerectomia peri-partum.",
+      "options": [
+        "Nodul miomatos nodular subseros",
+        "Hemoragia cauzată de atonia uterină",
+        "Ruperea uterină",
+        "Lezarea vaselor uterine",
+        "Leiomioamele simptomatice"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Stabiliţi complicaţiile posibile ca rezultat al vacum-extracţiei fătului.",
+      "options": [
+        "Dezlipirea de retină",
+        "Emfizemul neonatal al scalpului",
+        "Cefalohematomul",
+        "Hiperbilirubinemia",
+        "Fractura oaselor scalpului"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizaţi indicaţiile pentru operaţia cezariană în cazul placentei praevia.",
+      "options": [
+        "Prezentaţia pelviană",
+        "Hemoragia unică mai mică de 250 ml",
+        "Vârsta sarcinii mai mare de 37 săptămâni",
+        "Hemoragia moderată repetată pe fond de anemie",
+        "Placenta praevia totală şi hemoragie abundentă"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Menționați situaţia în care se permite introducerea dispozitivului intrauterin.",
+      "options": [
+        "Sarcina",
+        "Anovulaţia",
+        "Multiparitatea",
+        "Anomalie de dezvoltare a uterului",
+        "Lipsa trompelor uterine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiţi contraindicaţia pentru utilizarea prezervativului.",
+      "options": [
+        "Reacţia alergică la latex",
+        "Dispareunia",
+        "Hemoragia disfuncţională",
+        "Proces inflamator",
+        "Vaginism"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizaţi conform cărui indice se apreciază eficacitatea metodei de contracepţie.",
+      "options": [
+        "Soloviov",
+        "Ţovianov",
+        "Pearl",
+        "Abuladze",
+        "Ghenter"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiţi o complicaţie, care nu se poate dezvolta pe fonul dispozitivului intrauterin.",
+      "options": [
+        "Hiperpolimenoreea",
+        "Expulzia DIU",
+        "Acutizarea procesului inflamator",
+        "Survenirea sarcinii",
+        "Spaniomenoreea"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Identificaţi un contraceptiv oral combinat monofazic.",
+      "options": [
+        "Postinor",
+        "Depo-provera",
+        "Tri-regol",
+        "Norcolut",
+        "Logest"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiţi un efect noncontraceptiv pozitiv al gestagenelor.",
+      "options": [
+        "Profilaxia cancerului de endometru",
+        "Creşterea libidoului",
+        "Eficacitatea imediată",
+        "Lipsa componentului estrogenic",
+        "Lipsa influienţei asupra lactaţiei"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiţi un efect negativ al contraceptivelor progesteronice injectabile.",
+      "options": [
+        "Durata de acţiune este medie",
+        "Folosirea în termen de 7 zile după avort",
+        "Eficacitate înaltă",
+        "reversibilitate lentă/tardivă",
+        "Ameliorarea severităţii anemiei"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectaţi cerinţele faţă de utilizarea metodelor de contracepţie.",
+      "options": [
+        "Indicele Pearl înalt",
+        "Lipsa efectelor adverse asupra sănătăţii femeii sau a partenerului",
+        "Lipsa consecinţelor negative pentru sarcina ulterioară",
+        "Simplitate la utilizare",
+        "Accesibilitate, preţ redus"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi criteriile de selectare corectă a unei metode de contracepţie.",
+      "options": [
+        "Vârsta femeii",
+        "Regularitatea vieţii sexuale",
+        "Numărul de avorturi în anamneză",
+        "Prezenţa patologiei ginecologice sau somatice",
+        "Atitudinea partenerilor faţă de metoda contraceptivă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi cerinţele unei metode contraceptive ideale.",
+      "options": [
+        "Independentă de medic şi sigură",
+        "Dependentă de actul sexual",
+        "Reversibilitate uşoară",
+        "Lipsa efectelor adverse",
+        "Protejarea faţă de boli cu transmisie sexuală"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi metodele de planificare familială naturală.",
+      "options": [
+        "metoda calendaristică",
+        "Măsurarea temperaturii bazale",
+        "Amenorea de lactaţie",
+        "Testul de ovulație",
+        "Spermicidele"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiţi termenul optimal de întroducere a dispozitivului intrauterin.",
+      "options": [
+        "În timpul menstrei",
+        "Imediat după menstră",
+        "La prima săptămână după naştere",
+        "Peste 6-8 săptămâni după naştere",
+        "La mijlocul ciclului menstrual"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumeraţi cauzele sindromului algic după întroducerea dispozitivului intrauterin.",
+      "options": [
+        "Contracţiile uterine",
+        "Perforaţia uterului",
+        "Expulzia parţială",
+        "Expulzia totală",
+        "Dimensiunile mici ale steriletului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectaţi contraindicaţiile pentru aplicarea dispozitivului intrauterin.",
+      "options": [
+        "Sarcina",
+        "Procesul inflamator acut",
+        "Cancer cervical",
+        "Colita nespecifică",
+        "Miomul uterin submucos"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi metodele contracepţiei masculine.",
+      "options": [
+        "Hipertermia locală în regiunea scrotului",
+        "Prezervativul masculin",
+        "Vasectomia",
+        "Metoda calendarului",
+        "Folosirea spermicidelor"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiţi mecanismul de acţiune al componentei estrogenice contraceptivelor orale combinate.",
+      "options": [
+        "Blocarea ovulaţiei",
+        "Mărirea concentraţiei şi vâscozităţii glerei cervicale",
+        "Dereglarea proceselor secretorii în endometru",
+        "Subinvoluţia corpului galben",
+        "Apariţia edemului şi a focarelor de regresie glandulară în endometru"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi mecanismul de acţiune al componentei progesteronice a contraceptivelor orale combinate.",
+      "options": [
+        "Mărirea vâscozităţii şi concentraţiei glerei cervicale",
+        "Inhibarea activităţii enzimelor spermatozoizilor",
+        "Încetinirea vitezei de traversare de către ovul a trompei uterine",
+        "Dereglarea proceselor secretorii în endometru",
+        "Atrofia endometriului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Alegeţi efectele noncontraceptive ale contraceptivelor hormonale.",
+      "options": [
+        "Scad riscul de dezvoltare a unor tumori a sistemului reproductiv",
+        "Micşorează riscul de apariţie a endometriozei",
+        "Micşorează viteza de traversare de către ovul a trompei uterine",
+        "Tratează anexitele acute",
+        "Tratează hemoragiile uterine disfuncţionale"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi contraindicaţiile absolute pentru administrarea contraceptivelor orale combinate.",
+      "options": [
+        "Sarcina",
+        "Tumorile maligne ale sistemului reproductiv",
+        "Artrita reumatoidă",
+        "Hipertensiunea arterială gravă (mai mare de 160/100 mmHg)",
+        "Tumorile hepatice"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Alegeţi beneficiile contraceptivelor orale combinate.",
+      "options": [
+        "Eficacitate înaltă",
+        "Diminuarea sângerărilor menstruale",
+        "Dependentă de actul sexual",
+        "Diminuarea durerilor menstruale",
+        "Sporirea sângerărilor menstruale"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Alegeţi investigaţiile obligatorii, înainte de administrarea contraceptivelor orale combinate.",
+      "options": [
+        "Culegerea anamnezei",
+        "Evaluarea stării hormonale",
+        "Examinarea ginecologică",
+        "Radiografia cutiei toracice",
+        "Chiuretajul cavităţii uterine"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Numiţi indicaţiile pentru sterilizarea feminină.",
+      "options": [
+        "Vârsta > 35 de ani, care au cel puţin 2 copii",
+        "Prezenţa contraindicaţiilor medicale pentru sarcină",
+        "Avorturi medicale numeroase în anamneză",
+        "Prezenţa proceselor inflamatorii cronice ale organelor genitale",
+        "Dorința pacientei"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Amenoreea de lactaţie este metoda de contracepţie eficientă pentru următoarele femei.",
+      "options": [
+        "Care practică alimentarea exclusiv la sân",
+        "La care intervalul între alaptări nu depăşeşte 3 ore",
+        "La mai mult de 6 luni postpartum",
+        "La mai puţin de 6 luni postpartum",
+        "După apariţia primei menstruaţii postpartum"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Numiţi efectele adverse ale contracepţiei de urgenţă.",
+      "options": [
+        "Greaţă, vomă",
+        "Euforie",
+        "Dereglări de ciclul menstrual",
+        "Mastodinia",
+        "Tahicardia"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Alegeţi preparatele hormonale pentru contracepţia de urgenţă.",
+      "options": [
+        "Mifepriston",
+        "Levonorgestrel",
+        "Didrogesteron",
+        "Medroxiprogesteron acetat",
+        "Etinilestradiol"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Determinaţi care va fi prezentaţia fetală dacă la tuşeul vaginal se determină picioarele şi fesele fătului.",
+      "options": [
+        "Fesieră",
+        "Podalică completă",
+        "Podalică decompletă",
+        "Pelviană completă",
+        "Pelviană decompletă"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Determinaţi care va fi prezentaţia fetală dacă la tuşeul vaginal se determină fesele fătului.",
+      "options": [
+        "Pelviană completă",
+        "Podalică",
+        "Pelviană decompletă, modul feselor",
+        "Pelviană decompletă, modul picioarelor",
+        "Pelviană decompletă, modul genunchilor"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi cauza ruperii prenatale a membranelor amniotice în cazul prezentaţiei pelvine a fătului.",
+      "options": [
+        "Polihidramniosul",
+        "Subţierea membranelor amniotice, datorită infecţiei vaginale",
+        "Nu se formeaza inelul de contact dintre partea prezentata si segmentul inferior",
+        "Mişcările active a picioruşelor fătului",
+        "Hipotrofia fetală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Determinaţi momentul după care se aplică manevra Lovset în naşterea în prezentaţia pelvină.",
+      "options": [
+        "Naşterea pelvisului până la nivelul inelului ombelical",
+        "Naşterea fătului până la unghiul inferior al omoplaților",
+        "Naşterea centurii scapulare",
+        "Naşterea spontană a braţelor",
+        "Naşterea craniului fetal"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menţionaţi scopul aplicării manevrei Mauriceau Levret Smellie Weit la naşterea în prezentaţie pelvină.",
+      "options": [
+        "Facilitarea naşterii extremităţii pelviene",
+        "Facilitarea naşterii membrelor superioare",
+        "Facilitarea degajării umerilor",
+        "Faciliterea naşterii capului fetal",
+        "Prevenirea ridicării mîinilor fătului"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Evidenţiaţi semnele obiective, care facilitează diagnosticul prezentaţii pelvine.",
+      "options": [
+        "Palparea la intrarea în bazinul mic a unei părţi moi, care nu balotează",
+        "Palparea la nivelul fundului uterin a unei părţi dure, sferice",
+        "Auscultarea bătăilor cordului fetal din dreapta mai jos de nivelul ombelicului",
+        "Auscultarea bătăilor cordului fetal din stînga mai jos de nivelul ombelical",
+        "Auscultarea bătăilor cordului fetal din stînga mai sus de nivelul ombelical"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi timpii care facilitează depistarea unei prezentaţii pelvine în timpul palpării după Leopold.",
+      "options": [
+        "Primul timp",
+        "Al doilea timp",
+        "Al treilea timp",
+        "Al patrulea timp",
+        "Palparea dupa Leopold nu este informativa in cazul prezentatiei pelviene"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Determinați care sunt complicaţiile în timpul sarcinii la gravidele cu prezentaţia pelvină a fătului.",
+      "options": [
+        "Naşterea prematură",
+        "Avort spontan",
+        "Ruperea prematură a membranelor amniotice",
+        "Moarte antenatală a fătului",
+        "Hipotrofia fătului"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Determinaţi complicaţiile caracteristice pentru I perioadă a travaliului în prezentaţia pelvină a fătului.",
+      "options": [
+        "Insuficienţa primară a forţelor de contracţie",
+        "Insuficienţa secundară a forţelor de contracţie",
+        "Naşterea rapidă",
+        "Prolabarea părţilor mici ale fătului",
+        "Ruperea prenatală a membranelor amniotice"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Menţionaţi care sunt cele mai frecvente complicaţii la nasterea în prezentaţia podalică.",
+      "options": [
+        "Ruperea prenatală a membranelor amniotice",
+        "Prolabarea anselor cordonului ombelical",
+        "Ridicarea mîinilor",
+        "Decolarea placentei normal inserate",
+        "Configurarea pronuntata a capului fetal"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizaţi indicaţiile pentru operaţie cezariană urgentă la naşterea în prezentaţia pelvină a fătului.",
+      "options": [
+        "Insuficienţa forţelor de contracţie",
+        "Prolapsul cordonului ombelical",
+        "Hipoxia fetală",
+        "Vîrsta parturientei 20 ani",
+        "Masa fătului 3000 grame"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectaţi noţiunea ce descrie corect bazinulu anatomic strâmtat.",
+      "options": [
+        "Anomalia de formă a bazinului osos, ce constituie un obstacol la naşterea fătului",
+        "Bazinul, în care măcar una din dimensiuni este micşorată cu 1,5- 2 cm sau mai mult",
+        "Dezvoltarea disproporţiei fetopelvine in nastere",
+        "Bazinul unde conjugata obstetricala este 11 cm",
+        "Bazinul unde conjugata diagonală este egală cu 13 cm"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Alegeţi conduita naşterii în caz de bazin clinic strâmtat de gradul III.",
+      "options": [
+        "Stimularea travaliului cu preparate uterotonice",
+        "Inducerea travaliului cu PG",
+        "Operaţia cezariană",
+        "Aplicarea forcepsului",
+        "Perineotomia şi epiziotomia"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeţi tactica obstetricală în caz de bazin strâmtat grad II la prezentaţia occipitală a fătului cu m=4000 gr.",
+      "options": [
+        "Proba de travaliu",
+        "Operaţia cezariană electivă",
+        "Stimularea travaliului cu oxitocină",
+        "Perineotomia",
+        "Forcepsul obstetrical"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Alegeţi tactica obstetricală în caz de bazin strâmtat grad II la prezentaţia pelvină a fătului cu m=3500gr.",
+      "options": [
+        "Proba de travaliu",
+        "Operaţia cezariană",
+        "Stimularea travaliului cu preparate uterotonice",
+        "Perineotomia",
+        "Forcepsul obstetrical"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiţi factorii etiopatogenetici pentru dezvoltarea bazinelor strâmtate.",
+      "options": [
+        "Diabetul zaharat în perioada reproductivă",
+        "osteomielita",
+        "Maladii ale sistemului osteo-articular, inclusiv traumatismul aparatului osteo-articular",
+        "Infantilism general",
+        "Schizofrenia"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi formele des întâlnite de bazin anatomic strâmtat.",
+      "options": [
+        "Spondilolistic",
+        "Turtit transversal",
+        "Strâmtat în formă de pâlnie",
+        "Turtit plat",
+        "Uniform strâmtat"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați procesul ce are loc în faza foliculară a ciclului ovarian în ovare.",
+      "options": [
+        "Dezvoltarea corpului gravidarum",
+        "Dezvoltarea şi maturizarea corpului galben cu producere de progesteron",
+        "Atrezia şi persistenţa foliculului cu producere de estrogeni",
+        "Dezvoltarea şi maturizarea foliculului cu producere de estrogeni",
+        "Involuţia corpului galben"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizați ce modificare se produce în endometru sub acţiunea estrogenilor.",
+      "options": [
+        "Regenerarea",
+        "Proliferarea",
+        "Secreţia",
+        "Descuamarea",
+        "Regenerarea, proliferarea, secreţia şi descuamarea"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcați metabolitul progesteronului.",
+      "options": [
+        "Pregnandiolul",
+        "17-KS - ketosteroizii",
+        "Estriolul",
+        "Estradiola",
+        "Estrona"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Numiţi metoda cea mai sigura de confirmare a ovulaţiei.",
+      "options": [
+        "Histerosalpingografia",
+        "Ecohidrotubaţia",
+        "Apariţia sarcinii",
+        "Histeroscopia",
+        "colposcopia"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizați cum se schimbă nivelul temperaturii bazale după ovulaţie:",
+      "options": [
+        "Scade cu 1oC",
+        "Nu se modifică",
+        "Creşte cu 2o C",
+        "Creşte cu 0,6o C - 1o C",
+        "Creşte cu 0,2o C - 0,4o C"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Enumerați efectele specifice ale estrogenilor.",
+      "options": [
+        "Maturizarea şi menţinerea tractului genital şi glandei mamare",
+        "Regenerarea şi proliferarea endometrului",
+        "Dezvoltarea corpului galben",
+        "Modificări secretorii ale endometrului",
+        "Menţinerea sarcinii"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumerați efectele specifice ale progesteronului.",
+      "options": [
+        "Acţiune hipertermică asupra centrului de termoreglare",
+        "Regenerarea şi proliferarea endometriului",
+        "Maturizarea somatică",
+        "Modificări secretorii ale endometriului",
+        "Menţinerea sarcinii"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiți organele-ţintă de acțiune a hormonilor estrogeni.",
+      "options": [
+        "Clitorisul",
+        "Glanda mamară",
+        "Foliculul pilos",
+        "Pielea, ţesutul osos",
+        "Uterul, vaginul"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi fracţiile active ale estrogenilor.",
+      "options": [
+        "Estradiolul",
+        "Estrona",
+        "Estriolul",
+        "Norgestrolul",
+        "Pregnandiolul"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Precizați hormonii care au acțiune asupra glandei mamare în afara sarcinii.",
+      "options": [
+        "Gonadotropina corionică",
+        "Progesteronul",
+        "Estrogeni",
+        "Prolactină",
+        "Ocitocină"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați modificările endometriale ce se petrec în cursul ciclului menstrual.",
+      "options": [
+        "Proliferarea celulelor glandulare",
+        "Infiltrarea celulară plasmatică",
+        "Creşterea vasculară",
+        "Edemul stromal",
+        "Reacţia secretorie"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați caracteristicile fazei foliculare a ciclului menstrual.",
+      "options": [
+        "Temperatura bazală mai mică de 37,0 0C",
+        "Creşterea si dezvoltarea foliculilor ovarieni",
+        "Temperatura bazală peste 37,0 0C",
+        "Creşterea vaselor endometriale",
+        "Secreţia estrogenică de către ovar"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați caracteristicile specifice gestagenilor.",
+      "options": [
+        "Determină procesul de osificare",
+        "Diminuează tonusul uterin",
+        "Contribuie la secreţia prostoglandinelor",
+        "Determină peristaltica uterului şi trompelor uterine",
+        "Prezintă acţiune hipertermică asupra organismului"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Precizați caracteristicile specifice a estrogenilor.",
+      "options": [
+        "Determină peristaltica uterului şi trompelor uterine",
+        "Intensifică osteogeneza",
+        "Stimulează activitatea imunităţii celulare",
+        "Prezintă acţiune hipertermică asupra organismului",
+        "Diminuează procesul de pasaj a urinei"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeţi metoda optimală de rezolvare a sarcinii asociată cu retard fetal cauzat de preeclampsia severă.",
+      "options": [
+        "Declanşarea naşterii",
+        "Naşterea vaginală la termen",
+        "Naşterea pneumatică asistată",
+        "Amniotomia",
+        "Operaţia cezariană"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Alegeţi metoda de tratament a retardului fetal.",
+      "options": [
+        "Administrarea tocoliticelor",
+        "Administrarea preparatelor anabolice",
+        "Nu se tratează",
+        "Administrarea preparatelor reologice",
+        "Administrarea preparatelor vazoactive"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeţi metodele de diagnostic a hipoxiei intrauterine a fătului.",
+      "options": [
+        "Cardiotocografia",
+        "Amnioscopia",
+        "Pelviometria",
+        "Determinarea înălţimii fundului uterin",
+        "USG cu Doppler"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi factorii de risc la dezvoltarea retardului fetal.",
+      "options": [
+        "Oligoamniosul",
+        "Preeclampsie",
+        "Anomaliile congenitale la făt",
+        "Pielonefrită cronică a gravidei",
+        "Anemia gravă"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi care din metodele prezentate sunt estimate ca contemporane pentru diagnosticul hipoxiei fetale.",
+      "options": [
+        "Auscultaţia BCF cu stetoscopul obstetrical",
+        "USG cu Doppler",
+        "Măsurarea IFU şi CA",
+        "Fetometria prin USG",
+        "Cardiotocografia"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi metodele de diagnostic a reţinerii în dezvoltarea intrauterină a fătului.",
+      "options": [
+        "Aprecierea înălţimii fundului uterin în dinamică",
+        "USG cu Doppler",
+        "Colposcopia",
+        "Profilul biofizic",
+        "Amnioscopia"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumeraţi stări patologice în sarcină, care duc la hipoxia acută a fătului.",
+      "options": [
+        "Apoplexia utero-placentară",
+        "Oligoamnioza",
+        "Izoimunizarea feto-maternă",
+        "Hemoragia cauzată de placenta previa",
+        "Iminenţa de naştere prematură"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Numiţi factorii de risc pentru macrosomia fetală.",
+      "options": [
+        "Multiparitatea",
+        "Diabetul gestational",
+        "Sarcina posttermen",
+        "Naşterile anterioare cu feţi macrosomi",
+        "Feţi de sex feminine"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiţi complicaţiile fetale asociate cu distocia umerilor.",
+      "options": [
+        "Decesul fetal",
+        "Prolabarea cordonului ombilical",
+        "Fractura claviculei",
+        "Fractura humerusului",
+        "Paralizia de plex brahial"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi cea mai gravă comlicaţie a naşterii în sarcina multiplă.",
+      "options": [
+        "Ruperea prematură a pungii amniotice",
+        "Insuficienţa primară a forţelor de contracţie",
+        "Acrosarea craniilor",
+        "Hipoxia incipientă intrauterină a fătului",
+        "Insuficienţa forţelor expulsive"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectaţi metodele utile pentru diagnosticarea sarcinii multiple.",
+      "options": [
+        "Amnioscopia",
+        "USG",
+        "Radiografia",
+        "Palparea după Leopold",
+        "Auscultaţia bătăilor cordului fetal"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi factorii etiologici în cazul sarcinii multiple.",
+      "options": [
+        "Predispoziţie ereditară",
+        "Vârsta maternă mai înaintată",
+        "Bolile genetice",
+        "Primipară tânără",
+        "inducerea ovulaţiei"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi complicaţiile în timpul naşterii caracteristice pentru sarcina multiplă.",
+      "options": [
+        "Procidenţa de cordon sau a părţilor mici fetale",
+        "Corioamnionita",
+        "Insuficienţa primară şi secundară a forţelor de contracţie uterină",
+        "Traumatism fetal şi matern",
+        "Hemoragii în perioada a treia a naşterii"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi ce este caracteristic pentru sarcina dizigotă.",
+      "options": [
+        "Două placente, două amnioane, două corioane",
+        "O placenta, două amnioane, un corion",
+        "Este cea mai frecventă formă a sarcinii gemelare",
+        "Se dezvoltă din două ovule",
+        "Fecundarea s-a produs de un singur spermatozoid"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notaţi care sunt semnele caracteristice pentru sarcina gemelară.",
+      "options": [
+        "Dimensiunile uterului mai mari decît vîrsta cronologică a sarcinii",
+        "Auscultaţia a doua focare cardiace fetale independente cu ritm diferit",
+        "Palparea amai multor poli fetali",
+        "Nivelul scăzut de gonadotropină corială",
+        "Nivelul crescut de alfa fetoproteină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Identificaţi care este cea mai informativă metodă de diagnostic a sarcinii gemelare.",
+      "options": [
+        "Palparea după metoda Leopold",
+        "Tuşeul vaginal",
+        "Usg-ul",
+        "Anamneza obstetricală",
+        "radiografia"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Determinaţi cu ce patologii poate fi efectuat diagnosticul diferenţial al sarcinii gemelare.",
+      "options": [
+        "Polihidramniosul",
+        "Placenta praevia",
+        "Mola hidatiformă",
+        "Tumoarea genitală",
+        "Făt macrosom şi gigant"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi care sunt complicaţiile posibile ale sarcinii gemelare.",
+      "options": [
+        "Avortul spontan şi naşterea prematură",
+        "Sarcina supramaturată",
+        "Hipertensiunea arterială gestaţională",
+        "Sindromul transfuzional feto-fetal",
+        "Rhesusul conflict"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt complicaţiile ce pot surveni în timpul naşterii gemelare.",
+      "options": [
+        "Ruperea prenatală a membranelor amniotice",
+        "Hipoxia intrauterină a fătului şi asfixia nou-născutului",
+        "Naşterea rapidă",
+        "Hemoragiile hipotone",
+        "Traumatismul fetal şi matern"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Menţionaţi care sunt indicaţiile pentru operaţia cezariană în sarcina gemelară.",
+      "options": [
+        "Situs transvers al primului făt sau al ambilor feţi",
+        "uter cicatriceal",
+        "Imaturitatea pulmonară fetală",
+        "Apoplexia uteroplacentară",
+        "Preeclampsia"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi care sunt complicaţiile posibile ale sarcinii gemelare.",
+      "options": [
+        "Poziţii anormale a fătului",
+        "Anemia feriprivă severă",
+        "Insuficienţa feto-placentară",
+        "Infecţia intrauterină",
+        "Disgravidia precoce"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi care sunt indicaţiile pentru finisarea sarcinii gemelare prin operaţie cezariană electivă.",
+      "options": [
+        "Prezentaţia pelvină la I fat",
+        "Prezentaţia pelvină la ambii feţi",
+        "Prezentatia pelvină la al II-lea făt, primul fiind în prezentaţie craniană",
+        "Prezentatie podalica la I făt",
+        "Prezentaţie craniană la ambii feţi şi uter cicatriceal"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi 2 indicaţii de efectuare a operaţiei cezariene elective în sarcina gemelară până la termenul de 38 săptămâni.",
+      "options": [
+        "Retardul de creştere intrauterină a feţilor",
+        "Prezentaţia pelvină la al II-lea făt",
+        "Preeclampsia",
+        "Prezentaţia craniană la I făt şi prezentaţia craniană la al II-lea făt",
+        "Placenta normal inserată"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Precizaţi ce aspecte pot fi prezente la diagnosticul precoce USG al sarcinii gemelare.",
+      "options": [
+        "Doi saci ovulatori",
+        "Doua structuri embrionare cu activitate cardiacă după 7 săptămâni de gestaţie",
+        "Un sac gestaţional şi un sac vitelin",
+        "Semnul „lambda\"",
+        "Sac gestaţional intrauterin şi în regiunea ampulară a trompei"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Specificaţi care este termenul de gestaţie caracteristic pentru sarcina suprapurtată.",
+      "options": [
+        "42 săptămâni şi mai mult",
+        "40-41 săptămâni",
+        "39-40 săptămâni",
+        "mai mic de 37 săptămâni",
+        "mai mare de 40 săptămâni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Specificaţi care sunt caracteristicele fătului supramatur.",
+      "options": [
+        "Pielea uscată, macerată",
+        "Palmele şi tălpile ''de spălătoreasă''",
+        "Impregnarea verzuie-gălbuie a tegumentelor",
+        "Oasele craniene dure, suturile şi fontanele înguste",
+        "Oasele craniene dure, suturile şi fontanele largi"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificaţi care sunt complicaţiile sarcinei suprapurtate.",
+      "options": [
+        "Hipoxia intrauterină a fătului",
+        "Insuficienţa forţelor de contracţie",
+        "Naştere rapidă",
+        "Traumatismul matern şi fetal",
+        "Hemoragiile hipotonice"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi care sunt criteriile de evaluare a stării colului uterin după scorul Bishop.",
+      "options": [
+        "Dilatarea",
+        "Lungimea",
+        "Consistenţa",
+        "Poziţia",
+        "Partea prezentată"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi care sunt criteriile de apreciere a stării intrauterine a fătului, în cazul sarcinii suprapurtate.",
+      "options": [
+        "Determinarea masei probabile a fătului",
+        "palparea după Leopold",
+        "USG cu Dopplerometrie",
+        "Amnioscopie",
+        "Cardiotocografie"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi care este tactica corectă în cazul sarcinii suprapurtate, când colul uterin este imatur şi se atestă o suferinţă fetală.",
+      "options": [
+        "Se recurge la maturarea colului uterin",
+        "Se declanşează naşterea prin administrarea oxitocinei",
+        "Se administrează tratament pentru ameliorarea stării fătului",
+        "Se recurge la o tactică expertativă",
+        "Se finalizează naşterea în mod urgent prin intermediul operaţiei cezariene"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "În care din următoarele situații apare incompatibilitatea în sistemul Rh.",
+      "options": [
+        "Mama Rh pozitivă cu făt Rh negativ",
+        "Mama Rh negativă cu făt Rh negativ",
+        "Mama Rh negativă cu făt Rh pozitiv",
+        "Mama Rh pozitivă cu făt Rh pozitiv",
+        "Mama Rh negativă și tatăl Rh negativ"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți circumstanțele care favorizează trecerea hematiilor fetale în circulația maternă.",
+      "options": [
+        "Biopsia de trofoblast",
+        "Sarcina ectopică",
+        "Amniocenteza",
+        "Moartea fetală intrauterină",
+        "Incompetența istmico-cervicală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Care este cauza dezvoltării incompatibilității materno-fetale.",
+      "options": [
+        "Anticorpii sintetizați de făt determină aglutinarea propriilor eritrocite",
+        "Anticorpii sintetizați de mamă determină aglutinarea hematiilor Rh pozitive fetale",
+        "Anticorpii sintetizați de făt determină aglutinarea hematiilor materne",
+        "Anticorpii sintetizați de mamă determină aglutinarea hematiilor proprii",
+        "Anticorpii sintetizați de mamă determină aglutinarea hematiilor Rh negative fetale"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți formele clinice clasice ale bolii hemolitice a nou-născutului.",
+      "options": [
+        "Anemia hemolitică a nou-născutului",
+        "Icterul nou-născutului",
+        "Anasarca fetoplacentară",
+        "Trombocitopenie",
+        "Hipoprotrombinemie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Prin ce se caracterizează anasarca fetoplacentară.",
+      "options": [
+        "Edeme generalizate",
+        "Hiperbilirubinemie",
+        "Hepatosplenomegalie",
+        "Ascită",
+        "Icter"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați circumstanțele când apar cele mai frecvente incompatibilități în sistemul ABO.",
+      "options": [
+        "Mama are grupa sanguină AB, iar fătul A",
+        "Mama are grupa sanguină 0, iar fătul A",
+        "Mama are grupa sanguină A, iar fătul B",
+        "Mama are grupa sanguină 0, iar fătul B",
+        "Mama are grupa sanguină AB, iar fătul B"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "În care circumstanțe este indicată profilaxia izoimunizării în sistemul Rh.",
+      "options": [
+        "Avort spontan",
+        "Sarcină extrauterină",
+        "Mola hidatiformă",
+        "Deces intrauterin al fătului în trimestrul III de sarcină",
+        "Uter bicorn"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați condițiile care trebuie să fie îndeplinite pentru ca medicul să indice administrarea imunoglobulinei anti D, în primele 72 de ore după naştere.",
+      "options": [
+        "Lăuză Rh negativ, nou-născut Rh pozitiv",
+        "Lăuza Rh negativ, nou-născut Rh negativ",
+        "Lăuza Rh pozitiv, nou-născut Rh negativ",
+        "Anticorpi anti D absenţi la mamă",
+        "Anticorpi anti D prezenți la mamă"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Selectați titrurile de anticorpi anti-D care sunt considerate semnificative și sugerează un potențial crescut al severității bolii hemolitice.",
+      "options": [
+        "1/4",
+        "1/32",
+        "1/64",
+        "1/8",
+        "1/6"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați metodele de monitorizare fetală în timpul sarcinii la gravidele Rh negative.",
+      "options": [
+        "cordonocenteza",
+        "Amniocenteza",
+        "Testul nonstress (cardiotocograma)",
+        "Măsurarea velocității sistolice maxime pe artera cerebrală medie prin ecografie Doppler",
+        "Determinarea Rh fetal"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizați unde se localizează cel mai frecvent rupturile uterine.",
+      "options": [
+        "În segmentul inferior",
+        "În corpul uterin",
+        "de la colul uterin",
+        "la fundul uterin",
+        "lateral"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Stabiliți ce semne denotă iminența de rupere uterină.",
+      "options": [
+        "Contracțiile dese dureroase",
+        "scurgerea lichidului amniotic",
+        "disuria",
+        "Dereglările de ritm cardiac la făt",
+        "Hipertermia"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Precizați care este acțiunea de bază în cazul rupturii uterine.",
+      "options": [
+        "Tratamentul chirurgical",
+        "Terapia infuzională",
+        "Tratamentul simptomatic",
+        "Terapia antibacteriană",
+        "Terapia magnezială"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Evidențiați care afirmaţie despre cordonul ombilical este corectă.",
+      "options": [
+        "Transportă doar sânge arterial",
+        "Transportă doar sânge venos",
+        "Transportă sânge venos şi arterial prin 2 artere şi 1 venă",
+        "Transportă sânge venos şi arterial printr-o arteră şi 2 vene",
+        "Transportă sânge venos şi arterial prin 2 artere şi 2 vene"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Evidențiați care sunt inserţiile patologice ale cordonului ombilical pe placa corială.",
+      "options": [
+        "Centrală",
+        "Paracentrală",
+        "Velamentoasă",
+        "Vasa previa",
+        "Marginală"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați care sunt căile de secreţie a lichidului amniotic.",
+      "options": [
+        "Secreţia renală",
+        "Secreţia pulmonară",
+        "Secreţia amniotică",
+        "Deglutiţie",
+        "Transmembranară şi intramembranară"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Determinați care sunt metodele de investigaţie a lichidului amniotic.",
+      "options": [
+        "Ecografia",
+        "Amnioscopia",
+        "Amniocenteza",
+        "Fetoscopia",
+        "Histeroscopia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificați care este rolul lichidului amniotic.",
+      "options": [
+        "Protejează fătul şi anexele de traume interne",
+        "Protecţie faţă de infecţie",
+        "Permite acomodarea fătului la efectuarea mişcărilor",
+        "Menţine temperatura constantă",
+        "Previne circularea de cordon"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidentiați care este rolul lichidului amniotic in timpul nasterii.",
+      "options": [
+        "Contribuie la dilatarea colului uterin",
+        "Previne compresia cordonului ombilical",
+        "Previne circularea de cordon",
+        "Protecţie faţă de infecţie",
+        "Investigaţie la amniocenteză"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Marcați care sunt cauzele principale ce duc la ruperea prematură a membranelor.",
+      "options": [
+        "Fragilizarea membranelor ca urmare a infecţiilor genitale",
+        "Incompetenţa istmicocervicală",
+        "Creşterea presiunii intraamniotice",
+        "Mişcările active ale fătului",
+        "Diminuarea elasticităţii membranelor amniotice"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Determinați care sunt cele mai grave consecinţe în ruperea prematură a membranelor.",
+      "options": [
+        "Declanşarea spontană a travaliului",
+        "Infecţia intrauterină (corioamnionită)",
+        "Prolabarea de cordon ombilical",
+        "Stoparea sau diminuarea sîngerării în placenta previa",
+        "Asfixia fătului"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Numiți termenul de gestaţie la care se acordă concediul de maternitate în RM.",
+      "options": [
+        "28 săptămâni",
+        "30 săptămâni",
+        "34 săptămâni",
+        "35 săptămâni",
+        "38 săptămâni"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Numiți patologia care se caracterizează prin diminuarea nivelului seric al alfa –fetoproteinei.",
+      "options": [
+        "Defect de tub neural",
+        "Hernie diafragmală",
+        "Sindrom Dawn",
+        "Omfalocel",
+        "Gastroschizis"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizați la ce termen de gestație este efectuat examenul ecografic de rutină în cadrul conduitei antenatale a gravidelor.",
+      "options": [
+        "16-17 săptămâni",
+        "18-21 săptămâni",
+        "22-24 săptămâni",
+        "26-28 săptămâni",
+        "30-32 săptămâni"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicați prin care metode se confirmă sarcina.",
+      "options": [
+        "hemoleucograma",
+        "Radiopelvimetrie",
+        "Ecografie pelvina",
+        "Beta HCG plasmatic",
+        "Beta HCG urinar"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Gravida în vârstă de 27 de ani, G II, N II, se prezintă la prima vizită antenatală cu termenul sarcinii de 6-7 săptămâni. Din antecedente, primul copil s-a născut cu defect de tub neural. Care vor fi recomandările dumneavoastră în ceea ce privește doza de administrare a acidului folic în sarcina prezentă.",
+      "options": [
+        "0,2 mg/zi",
+        "0,4 mg/zi",
+        "2 mg/zi",
+        "4 mg/zi",
+        "8 mg/zi"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Care dintre cele enumerate prezintă risc înalt pentru avort spontan în termeni precoce.",
+      "options": [
+        "Contracepția",
+        "Nașterea prematură",
+        "Moartea antenatală",
+        "Istoric de avort",
+        "Anemia fierodificitară"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Enumerați consecințele consumului excesiv de alcool în timpul sarcinii.",
+      "options": [
+        "Dereglări de creștere pre- și postnatale",
+        "Făt macrosom",
+        "Malnutriția nou-născutului",
+        "Diabet zaharat",
+        "Decolarea placentei normal inserate"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicați care metode se utilizează în diagnosticul prenatal al anomaliilor congenitale.",
+      "options": [
+        "Examenul USG",
+        "Biopsia corionului",
+        "Profilul biofizic",
+        "Amniocenteza",
+        "Testul la CA-125"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați motivele de adresare urgentă a gravidei la medic.",
+      "options": [
+        "Scurgerea lichidului amniotic",
+        "Dilatarea varicoasă a venelor",
+        "Dereglări vizuale",
+        "Refluxul gastro-esofagal",
+        "Cefalee pronunțată"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiți cauzele posibile ale creşterii excesive a uterului în sarcină.",
+      "options": [
+        "Hidroamnios",
+        "Hipertensiunea arterială indusă de sarcină",
+        "Moartea antenatală a fătului",
+        "Dezlipirea prematură a placentei normal înserate",
+        "Mola hidatiformă"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Precizați ce prevede îngrijirea antenatală obligatorie a gravidelor.",
+      "options": [
+        "Investigarea iniţială şi planificarea numărului de vizite",
+        "Vizite de supraveghere în dinamică",
+        "Pregătirea psiho-emoţională pentru naștere",
+        "Consiliere şi suport",
+        "Consultaţia endocrinologului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați care sunt scopurile examenului ecografic la 11-13 săptămâni de amenoree.",
+      "options": [
+        "Stabilirea exactă a vârstei de sarcină",
+        "Diagnosticul sarcinii multiple",
+        "Depistarea trisomiei 21 prin măsurarea translucenţei nucale",
+        "Diagnosticul precoce al retardului decreştere intrauterină",
+        "Depistarea precoce a unor malformaţii severe"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicați ce suplimente sunt recomandate în sarcină.",
+      "options": [
+        "Fier",
+        "Magneziu",
+        "Vitamina B6",
+        "Vitamina D",
+        "Acid folic"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați complicațiile posibile în deficitul acidului folic.",
+      "options": [
+        "Anemie feriprivă",
+        "Defecte ale tubului neural",
+        "Făt hipotrof",
+        "Avort spontan",
+        "Făt macrosom"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți factori de risc în sarcină.",
+      "options": [
+        "Vârsta mamei sub 16 şi peste 35 de ani",
+        "Hipotensiunea fiziologice",
+        "Fumatul",
+        "Expunerea la factori profesionali nocivi",
+        "Sarcina gemelară în antecedeente"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați factorii de risc al complicațiilor trombembolice la gravide și lăuze.",
+      "options": [
+        "Istoricul personal de boală trombembolică",
+        "Primiparitatea",
+        "Trombofiliile",
+        "Protezele valvulare cardiace",
+        "Prezentația pelvină a fătului"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notați factorii adiționali ai riscului trombembolismului la gravide și lăuze.",
+      "options": [
+        "Obezitatea",
+        "Boala varicoasa",
+        "Infecții severe",
+        "Preeclampsie",
+        "Vârsta tânără"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizați fenomenele specifice pentru boala trombembolică la gravide.",
+      "options": [
+        "Tromboza venoasă profundă",
+        "Trombembolismul pulmonar",
+        "HEELP sindrom",
+        "Ruptura de uter",
+        "Dezlipirea de retină"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumerați investigațiile paraclinice folosite în diagnosticul bolii trombembolice pulmonare.",
+      "options": [
+        "Radiografia cutiei toracice",
+        "ECG",
+        "Cistoscopie",
+        "USG dopler",
+        "RMN"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați agentul etiopatogenetic al proceselor precanceroase și a cancerului de col uterin.",
+      "options": [
+        "HPV virus (16-18)",
+        "Virusul gripei",
+        "Virus hepatita C și B",
+        "Streptococul B hemolitic",
+        "Eschericha Coli"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Enumerați procesele de fon ale colului uterin.",
+      "options": [
+        "Pseudoeroziunea, ectropionul erodat",
+        "Eroziunea vera, leucoplazia",
+        "Eritoplazia, polipul",
+        "Papilomul, endocervicita",
+        "Cin 1, Cin 2, Cin 3"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați măsurile întreprinse în cazul profilaxiei primare a cancerului de col uterin.",
+      "options": [
+        "Vaccinarea contra HPV",
+        "Irigări vaginale postcoitale",
+        "Abstinența sexuală, utilizarea prezervativului",
+        "Utilizarea COC",
+        "Utilizarea preparatelor antivirale"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Numiți testul ce constă în badijonarea colului uterin cu soluție lugol cu identificarea zonelor iod negative.",
+      "options": [
+        "Papanicolau",
+        "Babes",
+        "Schiller",
+        "Schirodkar",
+        "Amniosure"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicați măsurile întreprinse în cazul profilaxiei secundare a cancerului de col uterin.",
+      "options": [
+        "Screeningul populației feminine o data la 3-5 ani pentru detectarea stărilor precanceroase a colului uterin",
+        "Tratarea stărilor precancerosase Cin I, Cin II, Cin III - depistate în cadrul screeningului și dispensarizarea pacientelor cu HPV 16-18 pozitive",
+        "Screeningul populației feminine de la 15 pina la 20 ani",
+        "Efectuarea testului \"Papanicolau\" populației feminine cu vârsta cuprinsă între 30-40 ani",
+        "HPV testarea după vîrsta de 65 ani"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Specificați semnele clinice precoce ale cancerului de col uterin.",
+      "options": [
+        "Leucoree sub formă de limforee",
+        "Sîngerări postcoitale",
+        "Dureri nocturne în micul bazin",
+        "Prurit vulvar",
+        "Infertilitate"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați afirmațiile, ce corespund vaccinului Cervarix, utilizat la profilaxia primară a cancerului de col uterin.",
+      "options": [
+        "Este bivalent anti HPV 16-18",
+        "Este tetravalent anti HPV 16-18-11-6",
+        "Nu are ADN viral, conține doar antigenele capsidei virale",
+        "Are ADN viral in stare atenuată",
+        "La vaccinare, nu are loc infectarea cu HVP"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicați procedeele screeningului cancerului de col uterin.",
+      "options": [
+        "Citologia cervicală \"Babes-Papanicolau\"",
+        "Colposcopia cu biopsie",
+        "Citologia în mediul lichid cu testarea HPV",
+        "HPV testarea",
+        "Histerectomia totală"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Care din afirmaţiile enumerate reprezintă caracteristica principală a emboliei cu lichid amniotic în sarcină.",
+      "options": [
+        "Pătrunderea lichidului amniotic cu elemente fetale în circulaţia maternă cu declanşarea şocului anafilactic şi cardiorespirator",
+        "Pătrunderea lichidului amniotic în circulaţia fetală",
+        "Pătrunderea lichidului amniotic în cavitatea abdominală maternă",
+        "Pătrunderea lichidului amniotic în trompele uterineşi vagin",
+        "Pătrunderea lichidului amniotic în caile respiratorii fetale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Enumeraţi factorii de risc pentru apariţia emboliei cu lichid amniotic în sarcină.",
+      "options": [
+        "Travaliul precipitat",
+        "Decolarea placentei",
+        "Operaţia cezariană",
+        "Insuficienţa forţelor de contracţii",
+        "Prezentaţia pelviană"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi în prezenţa căror simptome suspectăm embolia cu lichid amniotic.",
+      "options": [
+        "Insuficienţa cardiocirculatorie acută în naştere",
+        "Frisoane şi febră",
+        "Tuse productivă, spumoasă-rozată",
+        "Hipertensiune",
+        "Anurie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizaţi cu care afecţiuni se efectuează diagnosticul diferenţial al emboliei cu lichid amniotic.",
+      "options": [
+        "Trombembolia arterei pulmonare",
+        "Şocul hemoragic",
+        "Sindromul Mendelson",
+        "Idiosincrazia anafilactică medicamentoasă",
+        "Disgravidia precoce"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notaţi cele 2 faze în evoluţia clinică a emboliei cu lichid amniotic.",
+      "options": [
+        "Şocul cardiogen (stop cardiac, stop respirator)",
+        "Semnele HELLP sindromului",
+        "Poliurică",
+        "Hemoragică (hipotonia uterină şi forma acută a CID sindrom)",
+        "Imunosupresivă"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Stabiliţi obiectivele pentru tratamentul de urgenţă în embolia cu lichid amniotic.",
+      "options": [
+        "Eliberarea căilor aeriene",
+        "Introducerea sondei nazo-gastrale",
+        "Intubarea endotraheală cu respiraţie dirijată",
+        "Cataterizarea, cel putin, adouă aborduri venoase",
+        "Eletroforeză cu hidrocortizon"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Stabiliţi ce măsuri de tratament prevede terapia antişoc în cazul emboliei cu lichid amniotic.",
+      "options": [
+        "Megadoze de glicocorticoizi (hidrocortizon 1000 mg i.v.)",
+        "Perfuzie de vasopresori ( DOPAMINA 2-5 mcg/kg/min)",
+        "Glicozide cardiace (digoxina 0,5 mg i.v in jet)",
+        "Tratament sindrom CID prompt in dependenta de fază",
+        "Terapia magnezială (doza de atac)"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi componentele lichidul amniotic embolizat.",
+      "options": [
+        "Fragmente de cordon ombelical",
+        "Membranele amniotice",
+        "Meconiu",
+        "Scuame ale pielii fetale",
+        "Fragmente placentare"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați procedeele de urgenţă în caz de embolie cu lichid amniotic.",
+      "options": [
+        "Solicitarea urgentă  a medicului ATI",
+        "Tratamentul prompt a insuficienţei respiratorii acute şi hipotensiunii arteriale",
+        "Evitarea mega dozelor de Hydrocortizon",
+        "În caz de stop cardiorespirator se indică resuscitarea cardiopulmonară conform protocolului \"suportul vital cardiac\"",
+        "operația cezariană urgentă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi care sunt metodele de stopare a hemoragiei coagulopatice în embolia cu lichid amniotic.",
+      "options": [
+        "Histerectomia totală",
+        "Ligaturarea arterelor pudendale",
+        "Ligaturarea arterelor epigastice",
+        "Embolizarea arterelor uterine",
+        "Sutura B-Lynch"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Marcați caracteristicile endometriozei.",
+      "options": [
+        "Ciclitatea procesului (puseurile in timpul menstrei)",
+        "Endometrioza metastazeaza",
+        "Prezenţa  endometriului ectopic fără semne de atipie",
+        "Regresarea focarelor în timpul sarcinii (decidualizarea)",
+        "Progresarea endometriozei în menopauză"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați semnele tabloului clinic al endometriozei.",
+      "options": [
+        "Dismenorea şi infertilitate",
+        "Disuria",
+        "Dispareunia",
+        "Durere pelvină cronică",
+        "Bulemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizați cum sunt definite focarele de endometrioză în miometrul uterin.",
+      "options": [
+        "Adenomatoza",
+        "Adenomioza",
+        "Adenocarcinom",
+        "Aterom",
+        "Endometrimiom"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Precizați prin ce metode se stabiliște diagnosticul definitiv a endometriozei.",
+      "options": [
+        "Examenul histologic al bioptatului",
+        "Vizualizarea laparascopică a focarelor brune,rosii,palide pe organele genitale si peritoneu",
+        "USG",
+        "CT",
+        "RMN"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Identificați semnele caracteristice ale sindromului algic pelvin in endometrioză.",
+      "options": [
+        "Localizare retrocervicala",
+        "E mai pronunțat în timpul menstruației",
+        "Dispareunie",
+        "Gradul de răspîndire a endometriozei",
+        "Inferitlitatea"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizați care dintre constatări confirmă endometrioza.",
+      "options": [
+        "Palparea suprafețelor nodulare în fornixul vaginal posterior la tuseul vaginal cu confirmarea histologică la biopsia endometrizei",
+        "Endometrioamele vizualizate laparascopic",
+        "Stroma și  glandele endometriale în afara cavității uterine, constatate histologic",
+        "Endometriul atipic nediferentiat constatat histologic",
+        "Aderenţele în cavitatea bazinului mic în jurul revărsărilor ciocolatii"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "specificați care sunt cauzele dispareuniei în cazurile endometriozei.",
+      "options": [
+        "Endometriomul cu microperforare",
+        "Retrofelxia fixată uterina cu reflux de singe menstrual",
+        "Focarele de endometrioză in lig. uterosarale",
+        "Endometrioza retrocervicală",
+        "Impermiabilitatea tubelor Falllope"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Precizaţi formațiunile din care se formează trompele uterine şi uterul.",
+      "options": [
+        "Ducturile mezonefrale (Wolf)",
+        "Ducturile paramezonefrale (Muller)",
+        "Bulbii sinovaginali",
+        "Canaliculele metanefrotice",
+        "pronefrosul"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcaţi sindromul care constă lipsa uterului şi lipsa parţială sau totală a vaginului.",
+      "options": [
+        "Rokitansky-Kusther-Hauser",
+        "Morris",
+        "Klinefelter",
+        "Turner",
+        "Sheehan"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Specificați ce reprezintă telarha prematură.",
+      "options": [
+        "Dezvoltarea precoce izolată a glandelor mamare",
+        "Accelerarea brutală a vitezei de creştere",
+        "Avansarea brutală a maturării osoase",
+        "Dezvoltarea precoce izolată a pilozităţii pubiene",
+        "Metroragii izolate"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi cea mai frecventă formă de patologie inflamatorie ginecologică la fetiţe.",
+      "options": [
+        "Vulvovaginita",
+        "Cervicita",
+        "Colpita",
+        "Endometrita",
+        "Salpingita"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi denumirea sindromului căruia îi este caracteristic cariotipul 47YXX.",
+      "options": [
+        "Rokitansky-Kusther-Hauser",
+        "Morris",
+        "Klinefelter",
+        "Turner",
+        "Sheehan"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Marcaţi care din următoarele caracteristici ale pubertaţei sunt estrogen-dependente.",
+      "options": [
+        "Menstruaţia",
+        "Cornificarea vaginului",
+        "Cresterea părului",
+        "Creşterea în înălţime",
+        "Producerea mucusului cervical"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi formele posibile ale hermofroditismului.",
+      "options": [
+        "Pur",
+        "Pseudo/fals",
+        "Tipic",
+        "Atipic",
+        "Mixt"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Specificați ce este caracteristic pentru sindromul Rokitansky-Kusther-Hauser.",
+      "options": [
+        "Genotip feminin",
+        "Caractere sexuale secundare feminine bine dezvoltate",
+        "Cariotip 45XO",
+        "Ovare sub formă de şiret de ţesut conjunctiv",
+        "Lipsa uterului şi a vaginului"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Marcaţi cauzele hemoragiilor juvenile.",
+      "options": [
+        "Imaturitatea hipotalamo-hipofizară",
+        "Maladiile infecţioase",
+        "Hipo- şi avitaminozele",
+        "Miomul uterin",
+        "Traumele psiho-emotive"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiţi care din patologiile enumerate sunt anomalii mulleriene.",
+      "options": [
+        "Uter bicorn",
+        "Sindromul feminizării testiculare",
+        "Uterus didelfus",
+        "Sindromul Rokitansky-Kuster-Hauser",
+        "Aplazia treimii inferioare a vaginului"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi care din patologiile enumerate sunt cauzate de anomaliile cromosomiale.",
+      "options": [
+        "Sindromul Turner",
+        "Sindromul feminizării testiculare",
+        "Uterus didelf",
+        "Sindromul Rokitansky-Kuster-Hauser",
+        "Sindromul Klinefelter"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Specificați patologiile ce duc la pubertate tardivă.",
+      "options": [
+        "Leziunile hipotalamice",
+        "Insuficienţa tiroidiană",
+        "Leziunile hipofizare",
+        "Obezitate",
+        "Tumorile ovariene"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați androgenii ce sunt secretați de către ovare.",
+      "options": [
+        "DHEAS",
+        "DHEA în cantități mici",
+        "Androstendionul",
+        "Testosteronul",
+        "Dehydrotestosteronul"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați care din androgeni sunt secretați în egală cantitate de suprarenale și ovare.",
+      "options": [
+        "DHEAS",
+        "DHEA",
+        "Androstendion",
+        "Testosteron",
+        "Dehydrotestosteron"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidențiați consecințele acțiunii în exces a androgenilor asupra sistemului genital feminin.",
+      "options": [
+        "Hipertricoză",
+        "Oligo-/amenoree",
+        "Clitorismegalie",
+        "Hirsutism",
+        "Hipoplazia organelor genitale"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați originea posibilă a hiperandrogenismului.",
+      "options": [
+        "Hipotalamică",
+        "Hipofizară",
+        "Constituțional-ereditară",
+        "Suprarenală",
+        "Ovariană"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați simptomele clinice virilizante apărute sub acțiunea excesului de androgeni.",
+      "options": [
+        "Alopecia bitemporală",
+        "Creșterea masei musculare cu schimbarea aspectului fizic feminin",
+        "Seboreea",
+        "Atrofia glandelor mamare și hipoplazia organelor genitale",
+        "Amenoreea"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați remediile utilizate pentru tratamentul hirsutismului de geneză ovariană.",
+      "options": [
+        "COC+Spironolactona",
+        "COC + antiandrogenii",
+        "Agoniștii GnRH +terapia hormonală de substituție",
+        "Glucocorticoizi",
+        "Agoniștii dopaminei (Bromcriptină)"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Marcați care din patologiile indicate mai jos se asociază cu hirsutismul și virilizarea de origine ovariană.",
+      "options": [
+        "Adrenoblastomul",
+        "Sindromul ovarului polichistic",
+        "Tumorile cu celule Leydig",
+        "Hipertecoza ovariană",
+        "Sindromul Morgagni-Stewart-Morel"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați simptomele clinice mai frecvent întâlnite în sindromul ovarului polichistic.",
+      "options": [
+        "Hirsutismul",
+        "Clitorismegalia",
+        "Infertilitatea",
+        "Oligomenorea",
+        "Obezitatea"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați simptomele clinice rar întâlnite în sindromul ovarului polichistic.",
+      "options": [
+        "Alopecia",
+        "Acanthosisul nigricans",
+        "Infertilitatea",
+        "Seborea/acnea",
+        "Hipertensiunea arterială/insulinorezistență"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați criteriile clinice specifice sindromului ovarului polichistic în perioada reproductivă.",
+      "options": [
+        "Anovulația",
+        "Hiperandrogenismul",
+        "Ovare cu aspect polichistic",
+        "Obezitatea, insulinorezistență",
+        "Dislipidemia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați modificările probelor hormonale determinate de sindromul ovarului polichistic.",
+      "options": [
+        "Creșterea concentrației serice a LH",
+        "Creșterea concentrației serice a FSH",
+        "Proba cu progesteron pozitivă",
+        "Raportul LH/FSH ≥ 3",
+        "Concentrația serică extrem de crescută a DHEAS"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați care din semnele ecografiei efectuată în serie pot avea valoare diagnostică specifică sindromului ovarului polichistic.",
+      "options": [
+        "Foliculile în diverse faze de dezvoltare, cu distingerea unui folicul cu 20 mm în diametru",
+        "Lipsa dinamicii maturării foliculare",
+        "Lipsa dinamicii proliferării endometriale",
+        "volum ovarian crescut",
+        "Foliculi multipli subcorticale 5-10 mm în diametru"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați principiile de tratament al infertilității la pacientele cu sindromul ovarului polichistic.",
+      "options": [
+        "Inducerea ovulației",
+        "Reducerea hirsutismului",
+        "Distrugerea tisulară",
+        "Reproducerea asistată",
+        "Protejarea endometrului"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați remediile curative opționale pentru tratamentul infertilității la pacientele cu sindromul ovarului polichistic.",
+      "options": [
+        "Clomifenul citrat",
+        "Metformina",
+        "Scăderea în greutate",
+        "Gonadotropinele",
+        "COC"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Alegeți remediile curative opționale pentru tratamentul infertilității la pacientele cu sindromul ovarului polichistic.",
+      "options": [
+        "Clomifenul Citrat",
+        "Gonadotropinele",
+        "Metformina",
+        "Finasteridele",
+        "COC"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeți remediile curative opționale pentru tratamentul dereglărilor ciclului menstrual la pacientele cu sindromul ovarului polichistic.",
+      "options": [
+        "Progestinele",
+        "Gonadotropinele c) [x ] Metformina",
+        "Agoniștii GnRH",
+        "COC"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați care din patologiile indicate mai jos se asociază cu hirsutismul și virilizarea de origine suprarenală.",
+      "options": [
+        "Sindromul adrenogenital",
+        "Sindromul ovarului polichistic",
+        "Androsteromul",
+        "Corticosteromul",
+        "Sindromul Chiari-Frommel"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați care din hormonii androgeni sunt secretați exclusiv de către suprarenale.",
+      "options": [
+        "DHEAS",
+        "DHEA",
+        "Androstendionul",
+        "Testosteronul",
+        "Dehydrotestosteronul"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați care din steroizi reprezintă produsul final al catabolismului androgenilor.",
+      "options": [
+        "17- Cetosteroizii",
+        "Pregnandiolul",
+        "Estriolul",
+        "Estradiolul",
+        "Estrona"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Marcați care sunt consecințele excesului de androgeni suprarenali asupra organismului feminin.",
+      "options": [
+        "Inhibiția funcţiei gonadotrope a hipofizei",
+        "Stimularea funcţiei gonadotrope a hipofizei",
+        "Creșterea produceri și secreției prolactinei",
+        "Creșterea producerii și secreţiei tireotropinei",
+        "Creșterea secreției oxitocinei"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicați cărei patologii i se referă descrierea clinică „hirsutism, exces de androgeni ovarieni, creșterea raportului LH/FSH\".",
+      "options": [
+        "Deficiența de 11-ß-hydroxylazei",
+        "Sindromul Cushing",
+        "Tumorea suprarenalelor",
+        "Sindromul ovarului polichistic",
+        "Tumorea ovariană androgensecretorie"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicați care remediu este utilizat pentru tratamentul hyperinsulinemiei la pacientele cu sindromul ovarului polichistic.",
+      "options": [
+        "Agoniștii GnRH",
+        "Cyproteronul acetat",
+        "Metformina",
+        "COCul",
+        "Ketoconazolul"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați care din probele hormonale este utilizată în scopul diferențierii originii hiperandrogenismului.",
+      "options": [
+        "Proba cu gonadotropine",
+        "Proba cu GnRH",
+        "Proba cu Clomifen Citrat",
+        "Proba cu Dexametazonă",
+        "Proba cu progesterone"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectați remediul hormonal utilizat pentru tratamentul sindromului adrenogenital.",
+      "options": [
+        "Gonadotropele",
+        "Agoniștie GnRH",
+        "Glucocorticoizii",
+        "COCul",
+        "Gestagenii"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Marcați care din modificările probelor hormonale poate sugera prezența unei tumori ovariene androgen secretorie.",
+      "options": [
+        "Creșterea marcată a testosteronului",
+        "Concentrațiile plasmatice extrem de crescute a DHEA-S",
+        "Nivelul seric crescut a 17 -hydroxiprogesteronlui",
+        "Creștere marcantă a DHEA",
+        "Nivelul ridicat al dehydrotestosteronului"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Enumerați consecințele determinate de infecții în sarcină.",
+      "options": [
+        "Sporirea riscului hemoragiilor în travaliu",
+        "Sporirea riscului de preeclampsie",
+        "Sporirea riscului  de infecții puerperale",
+        "Sporirea riscului de naștere prematură",
+        "Sporirea riscului dezvoltării sepsis-ului neonatal"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Specificați simptomele pielonefritei gestaționale.",
+      "options": [
+        "Febra",
+        "Hipertensiunea arterială",
+        "Durerile lombare",
+        "Dereglările de micțiune",
+        "Durerea epigastrică"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați măsurile necesare în cazul gravidelor cu pielonefrită acută.",
+      "options": [
+        "Internarea in stationar",
+        "Tratamentul ambulator",
+        "Întreruperea imediată a sarcinii",
+        "Examenul bacteriologic urinar",
+        "Antibioticoterapia"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați masurile corecte în cazul gravidelor cu herpes genital manifestat clinic.",
+      "options": [
+        "Întreruperea sarcinii în termeni precoce",
+        "Tratamentul antibacterian",
+        "Tratamentul cu preparate antiherpetice",
+        "Tactică expectativă",
+        "Operația cezariană în caz de acutizare clinică la debutul travaliului"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Precizați în ce situații riscul de infectare intrauterină a fătului în cazul prezenței citomegalovirusului este sporit.",
+      "options": [
+        "Primoinfecție în termen precoce de sarcină",
+        "IgG pozitiv",
+        "IgM pozitiv",
+        "Primoinfecție în termen tardiv",
+        "Partener-purtător de citomegalovirus"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Numiți agentul patogen responsabil de sepsis-ul neonatal.",
+      "options": [
+        "Gonococul Neisseria",
+        "Citomegalovirusul",
+        "Trihomonadele",
+        "Luesul (Sifilis)",
+        "Streptococul B -hemolitic"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți termenul optimal de administrare a vaccinului la nou-născuți în cazul gravidelor HBs pozitive:",
+      "options": [
+        "În primele 2 ore",
+        "La 48 ore",
+        "La a 7 zi de viață a nou-nascutului",
+        "La finele perioadei de lăuzie",
+        "Nu se administrează"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizați care dintre agenții enumerați este capabil de a penetra bariera fetoplacentară.",
+      "options": [
+        "Trihomonas vaginalis",
+        "Streptococul B - hemolitic",
+        "Virusul hepatitei B",
+        "Gonococul Neisseria",
+        "Citomegalovirusul"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Enumerați consecințele fetale în cazul infecției severe cu cytomegalovirus.",
+      "options": [
+        "Anomaliile de dezvoltare intrauterină",
+        "Retardul mintal",
+        "Retardul fetal",
+        "Sepsisul neonatal",
+        "Afectarea sistemului ocular"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi care este intervenţia obstetricală cu un risc major pentru dezvoltarea infecţiei puerperale.",
+      "options": [
+        "Controlul manual al cavităţii uterine",
+        "Epiziotomia",
+        "Operaţia cezariană",
+        "Aplicarea ventuzei obstetricale",
+        "Tuşeurile vaginale multiple"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Determinaţi semnul local al ulcerului puerperal.",
+      "options": [
+        "Vezici si bule la nivelul plăgii",
+        "Marginile plăgii curate",
+        "Lipsa eliminărilor de la nivelul plăgii",
+        "Plaga nedureroasa",
+        "Edem şi hiperemie locală la nivelul plăgii"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Marcaţi care este forma generalizată a infecţiei puerperale.",
+      "options": [
+        "endometrita",
+        "parametrita",
+        "pelvioperitonita",
+        "septicemia",
+        "mastita"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizaţi timpul de apariţie a infecţiei puerperale precoce.",
+      "options": [
+        "după 7 zile postpartum",
+        "În primele 48 ore postpartum",
+        "3 zile - 6 saptamâni postpartum",
+        "În primele 2 ore după naștere",
+        "Perioada de lăuzie imediată"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Notaţi agenţii patogeni mai frecvent împlicaţi in dezvoltarea infecţiilor puerperale.",
+      "options": [
+        "Gram-pozitivi",
+        "Gram-negativi patogeni",
+        "Gram-negativi facultativ patogeni",
+        "Anaerobi",
+        "Asociaţii aerobi-anaerobi"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi afecţiunile care se referă la prima etapă de răspândire a infecţiilor puerperale.",
+      "options": [
+        "Parametrita",
+        "Anexita",
+        "Endomiometrita",
+        "Ulcerul puerperal",
+        "Pelvioperitonita"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Menţionaţi care sunt semnele locale ale endometritei puerperale.",
+      "options": [
+        "Subinvoluţia uterului",
+        "Uter flasc la palpare",
+        "Uter dolor la palpare",
+        "Lohii purulente",
+        "Uter dur la palpare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Determinaţi semnele endometritei puerperale la examenul ultrasonografic.",
+      "options": [
+        "Dimensiunile mărite ale uterului",
+        "Cavitatea uterină dilatată",
+        "Incluziuni ecopozitive",
+        "Îngroşarea peretelui anterior al uterului",
+        "Canalul cervical intredeschis"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Stabiliţi mecanismele patogenetice de dezvoltare a peritonitei obstetricale.",
+      "options": [
+        "Infectarea peritoneului în timpul operaţiei cezariene",
+        "Infectarea peritoneului pînă la intervenţia chirurgicală",
+        "Pareza intestinală îndelungată",
+        "Dehiscenţa suturilor pe uter",
+        "Lohiometra"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi factorii de risc (în naştere) de dezvoltare a endometritei puerperale.",
+      "options": [
+        "Durata naşterii mai mult de 18 ore",
+        "Tușee vaginale multiple (mai mult de 4)",
+        "Corioamnionită in nastere",
+        "Operaţia cezariană",
+        "Hipotrofia fetală"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi afecţiunile care se referă la etapa a IV-a de răspândire a infecţiilor puerperale.",
+      "options": [
+        "Septicemia",
+        "Şocul septic",
+        "Peritonita difuză",
+        "Septicopiemia",
+        "Pelviperitonita"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Marcaţi grupele de risc (în sarcină) pentru dezvoltarea infecţiilor puerperale.",
+      "options": [
+        "Infecţii intercurente",
+        "Patologie extragenitală gravă (ex. Diabet zaharat)",
+        "Insuficienţa istmico-cervicală cu aplicarea cerclajului",
+        "Folosirea medicaţiei antianemice",
+        "Vîrsta gravidei 30 ani"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi metodele de tratament în caz de endometrita puerperală.",
+      "options": [
+        "Antibioticoterapie",
+        "Terapia de dezintoxicatie",
+        "Uterotonice",
+        "Terapia magneziala",
+        "Terapia imunomodulatoare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Specificați perioada de timp în care nu survine sarcina în lipsa contracepţiei şi prezența vieţii sexuale regulate și se stabilește diagnosticul de cuplu infertil.",
+      "options": [
+        "6 luni",
+        "1 an",
+        "2,5 ani",
+        "5 ani",
+        "10 ani"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcați timpul pătrunderii spermatozoizilor în trompele uterine, după contact sexual.",
+      "options": [
+        "5 min",
+        "30-60 min",
+        "2 -2,5 ore",
+        "5 ore",
+        "6 ore"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți investigația de primă etapă la examenul unui cuplu cu infertilitate.",
+      "options": [
+        "Histerosalpingografia",
+        "Citologia frotiului vaginal",
+        "Determinarea temperaturii bazale",
+        "Biopsia endometriului",
+        "Spermograma"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Alegeți care este pH - ul spermei fertile.",
+      "options": [
+        "5,5-5,8",
+        "6,0-6,5",
+        "7,2-7,8",
+        "6,8-7,0",
+        "8,0-8,2"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Specificați când laparoscopia nu se indică la o pacientă cu infertilitate.",
+      "options": [
+        "Ovare sclerochistice",
+        "Inferilitatea idiopatică",
+        "Galactoree",
+        "Necesitatea precizării anomaliilor de dezvoltare a genitaliilor",
+        "Suspiciunea endometriozei genitale externe"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiţi cauza infertilității masculine când indicele de FSH şi LH sunt majorate.",
+      "options": [
+        "Procesul inflamator al prostatei",
+        "Azoospermia",
+        "Epispadia",
+        "Varicocelul",
+        "Insuficienţa testiculară primară"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiți indicaţia pentru fecundarea extracorporală.",
+      "options": [
+        "Sterilitatea masculină",
+        "Sterilitatea tubară",
+        "Sterilitatea mixtă",
+        "Sterilitatea de etiologie endocrină",
+        "Sterilitatea cauzată de factorii genetici"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Alegeţi factorii ce contribuie la apariţia gravidităţii.",
+      "options": [
+        "Spermatogeneza  fiziologică",
+        "Ovulaţia",
+        "Permeabilitatea trompelor uterine",
+        "Hiperplazia endometriului",
+        "Vâscozitatea înaltă a glerei cervicale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Marcați investigațiile care sunt nesemnificative pentru aprecierea factorului masculin al infertilității.",
+      "options": [
+        "Spermograma",
+        "Testul postcoital",
+        "Examenul ecografic al cavităţii abdominale",
+        "Analiza generală a sângelui",
+        "Testul de penetraţie"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumerați caracteristicele unei sperme fertile.",
+      "options": [
+        "Mobilitatea a 25% din numărul spermatozoizilor, peste 60 minute după ejaculare",
+        "Volumul ejaculatului 2-5 ml",
+        "Lipsa aglutinării",
+        "Prezența aglutinării",
+        "Volumul ejaculatului =1 ml"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumerați factorii care indică prezenţa ovulaţiei.",
+      "options": [
+        "Scăderea t0 bazale cu 0,4- 0,5 în faza a doua a ciclului menstrual",
+        "Ridicarea t0 bazale cu 0,4- 0,5 în faza a doua a ciclului menstrual",
+        "prezența modificărilor secretorii în endometru",
+        "Lungimea glerei cervicale de 4 cm, la mijlocul ciclului menstrual",
+        "Ridicarea t0 bazale cu 0,1- 0,2 în prima fază a ciclului menstrual"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumeraţi cauzele infertilității tubare.",
+      "options": [
+        "Aderenţe peritubare",
+        "Miom uterin submucos",
+        "Teratom ovarian",
+        "Obliterarea trompelor uterine",
+        "Hidrosalpinx"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Apreciaţi zilele ciclului menstrual pentru efectuarea investigaţiilor hormonale la pacienta cu infertilitate endocrină.",
+      "options": [
+        "2 zi",
+        "7 zi",
+        "14 zi",
+        "17 zi",
+        "21 zi"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiți metodele de tratament utilizate în cazul infertilității imunologice.",
+      "options": [
+        "Înseminarea artificială cu sperma soţului sau donatorului",
+        "Tratamentul antiinflamator",
+        "Fecundarea in vitro",
+        "Terapia hormonală de substituție",
+        "Hidrotubaţia"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Numiți metodele de diagnosticare a infertilității cauzate de hiperprolactinemie.",
+      "options": [
+        "Determinarea nivelului estrogenilor",
+        "Radiografia craniană",
+        "Proba cu estrogeni",
+        "Proba cu progesteron",
+        "RMN șeii turcești"
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Precizați care factori existenți în anameză confirmă infertilitatea secundară.",
+      "options": [
+        "Naşteri",
+        "Avorturi spontane",
+        "Avorturi medicale",
+        "Sarcină extrauterină",
+        "Amenoree"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiți maladiile care duc la infertilitate tubară.",
+      "options": [
+        "Hemoragiile uterine disfuncționale",
+        "Salpingitele nespecifice",
+        "Salpingitele specifice",
+        "Sinechiile cavitătii uterine",
+        "Piosalpinxul"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Numiți indicațiile pentru laparoscopie în caz de infertilitate.",
+      "options": [
+        "Sinechiile intrauterine",
+        "Hiperprolactinemia",
+        "Polichistoza ovariană",
+        "Procesele hiperplastice a endometrului",
+        "Hidrosalpinxul"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi simptomele cardinale în ginecologie.",
+      "options": [
+        "Durerea",
+        "Leucoreea",
+        "Hemoragiile",
+        "Dereglările ciclului menstrual",
+        "Hirsutismul"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specificaţi ce include examenul clinic ginecologic special.",
+      "options": [
+        "Inspecția organelor genitale externe",
+        "Examinarea cu specul vaginal",
+        "Tușeu vaginal bimanual",
+        "Examinarea recto-vaginală",
+        "Examinarea ultrosonografică"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Mentionaţi condiţiile ce sunt necesare a fi luate în vedere la examenul clinic ginecologic special.",
+      "options": [
+        "Vezica urinară să fie golită",
+        "Vezica urinară să fie plină",
+        "Ampula rectală sa fie goală",
+        "Pacienta să fie obligatoriu în poziţia Trendelenburg",
+        "Pacienta să fie în poziţie ginecologică pe fotoliu ginecologic"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi în cazul căror afecţiuni se efectuează puncţia exploratorie ginecologică pentru diagnostic diferenţial.",
+      "options": [
+        "Sarcină ectopică",
+        "Miomul uterin submucos",
+        "Procesele inflamatorii anexiale",
+        "Avort spontan",
+        "Apendicita"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Evidenţiaţi complicaţiile posibile ce pot apărea în urma efectuării chiuretajului uterin.",
+      "options": [
+        "Perforarea uterului",
+        "Amenoreea secundară",
+        "Formarea sinechiilor endouterine",
+        "Prolapsul uterin",
+        "Dispareunia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Specificaţi care sunt metodele endoscopice utilizate în ginecologie.",
+      "options": [
+        "Colposcopia",
+        "Colonoscopia",
+        "Culdoscopia",
+        "Histeroscopia",
+        "Laparoscopia"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Menţionați ce patologii se pot depista cu ajutorul histeroscopiei.",
+      "options": [
+        "Polipul endometrial",
+        "Sarcina ectopică",
+        "Miomul uterin submucos",
+        "Hiperplazia endometrului",
+        "Cancerul de corp uterin"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Menţionaţi care sunt contraindicaţiile pentru efectuarea histeroscopiei.",
+      "options": [
+        "Patologia somatică gravă",
+        "Afecţiunile infecţioase somatice",
+        "Afecţiunile ginecologice inflamatorii acute",
+        "Sarcina sau suspiciunea ei",
+        "Miomul uterin"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Menţionaţi care sunt indicaţiile pentru efectuarea histeroscopiei diagnostic.",
+      "options": [
+        "Hemoragiile uterine de etiologie neidentificată",
+        "Sterilitatea de etiologie nedeterminată",
+        "Determinarea stării cicatricei uterine",
+        "Examinarea apelor amniotice",
+        "Suspiciunea de patologie intrauterină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Determinați care sunt indicaţiile pentru efectuarea laparoscopia de urgenţă.",
+      "options": [
+        "Sarcina ectopică",
+        "Apoplexia ovariană",
+        "Suspeciune de perforare a uterului",
+        "Endometrioza genitală",
+        "Torsiunea pedicului tumorii ovariene"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Specificați care sunt indicaţiile pentru efectuarea laparoscopiei planice.",
+      "options": [
+        "Sterilitatea tubar-peritoneală",
+        "Endometrioza genitală",
+        "Sindromul ovarelor polichistice",
+        "Apoplexia ovariană",
+        "Sarcina ectopică"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Determinaţi care sunt contraindicaţiile absolute la efectuarea laparoscopiei.",
+      "options": [
+        "Starea terminală a pacientei",
+        "Sepsisul",
+        "Şocul hemoragic",
+        "Procesul aderenţial în bazinul mic",
+        "Obezitatea"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Specificaţi ce trebuie de evitat înainte de efectuarea examenului citologic.",
+      "options": [
+        "Raporurile sexuale cu 24-48 ore înainte de examen",
+        "Tratamentele intravaginale",
+        "Perioada menstruaţiei",
+        "Examenul manual",
+        "Examenul în specule"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Specficați care sunt indicaţiile pentru efectuarea chiuretajului uterin fracţionat.",
+      "options": [
+        "Suspecţia la cancer cervical sau endometrial",
+        "Polipul canalului cervical",
+        "Hemoragiile în menopauză",
+        "Suspiciunea sarcinei",
+        "Adenomioza"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicați care este semnul clinic relevant al fibromului uterin submucos.",
+      "options": [
+        "Leucoree",
+        "Durere",
+        "Menometroragia",
+        "Disuria",
+        "Constipație"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați localizarea nodulului miomatos cu cel mai expus risc hemoragic și infecțios.",
+      "options": [
+        "Submucos",
+        "Interstițial",
+        "Subseros",
+        "Istmic",
+        "Cervical"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați care sunt indicațiile pentru tratamentul chirurgical al miomului uterin.",
+      "options": [
+        "Asociat cu tumori ovariene",
+        "Miom pediculat torsionat",
+        "Asociat cu hemoragie și tratament conservativ ineficient",
+        "Creste rapida în menopauză",
+        "Mioame asimptomatice la paciente tinere"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

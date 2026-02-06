@@ -1,0 +1,4339 @@
+{
+  "id": "chirurgie2",
+  "name": "Chirurgie (2)",
+  "questions": [
+    {
+      "number": 1,
+      "text": "În legatura cu guşa sporadică sunt adevărate următoarele afirmaţii:",
+      "options": [
+        "reştere de volum a tiroidei",
+        "Normofuncţie tiroidiană",
+        "pare la cca 20% din populaţia unei zone",
+        "pare mai frecvent la femei",
+        "Se transmite autosomal recesiv"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": ".Convulsiile, simptomele Chvostek şi Trusso după strumectomie se datorează:",
+      "options": [
+        "Hipotiriozei",
+        "Crizei tiriotoxice",
+        "Traumatisme ale nervilor laringieni",
+        "Hipoparatiriozei",
+        "Efectelor reziduale ale tirotoxicozei"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 3
+    },
+    {
+      "number": 3,
+      "text": "Indicaţii pentru tratamentul chirurgical al unei guşi sunt:",
+      "options": [
+        "şecul tratamentului medical",
+        "Guşa parenchimatoasă difuză la debut",
+        "Guşa hipertiroidizată",
+        "Guşa nodulară",
+        "Guşa suspectă de malignizare"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 4,
+      "text": "În funcţie de situaţie pot fi utilizate următoarele tipuri de intervenţii chirurgicale în tratamentul unei guşi:",
+      "options": [
+        "Tiroidectomia subtotală",
+        "Lobectomia totală",
+        "Tiroidectomia totală",
+        "Lobectomia subtotală",
+        "isectie cervicala radicala (radical neck dissection)"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Imaginea scintigrafică a adenomului toxic arată:",
+      "options": [
+        "aptare difuză şi omogenă a trasorului radioactiv",
+        "aptare difuză dar neomogenă a trasorului radioactiv",
+        "aptare în “tablă de şah”",
+        "“Nodul fierbinte”",
+        "„Nodul rece”"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 3
+    },
+    {
+      "number": 6,
+      "text": "Tratamentul cu iod radioactiv în tireotoxicoze are următoarele indicaţii:",
+      "options": [
+        "oala Basedow",
+        "denomul toxic",
+        "socierea hipertiroide – cancer tiroidian",
+        "Tirotoxicozele induse de administrarea de hormoni tiroidieni",
+        "Hipertioridii secundare tumorilor secundare tireotrope"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "text": "Complicaţiile tiroidectomii includ următoarele, cu excepţie:",
+      "options": [
+        "Pareza de recurent",
+        "Mixedem",
+        "riză tetanică",
+        "riza tirotoxică",
+        "Sindrom exoflatmic"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 8,
+      "text": ".Cea mai frecventa complicaţie a strumectomiei este:",
+      "options": [
+        "Lezarea nervului recurent",
+        "Recidiva tiriotoxicozei",
+        "Hiperplazia aparatului limfoid",
+        "Tetania",
+        "Hipotirioza"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Adevărate pentru neoplazia endocrină multiplă de tip I (MEN1) sunt următoarele afirmaţii:",
+      "options": [
+        "ste compusă din tumori sau hiperplazii ale paratiroidelor, insulelor pancreatice şi hipofizei",
+        "ste compusă din tumori sau hiperplazii ale suprarenalelor, pancreasului şi hipofizei",
+        "În cadrul MEN 1 hiperparatiroidismul este cea mai comună manifestare (90-100%)",
+        "denomul hipofizar pare a fi prezent la aproape toţi pacienţii cu MEN 1",
+        "MEN 1 este o anomalie genetică autozomal dominantă"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 10,
+      "text": ". Ce afirmaţie referitor la tiroida cronică Riedel este falsă?",
+      "options": [
+        "Glanda tiroidă este invadată de ţesut fibros sclerozant, dens",
+        "Poate însoţi alte afecţiuni fibrozante idiopatice",
+        "linic apare ca o guşă dură, lemnoasă",
+        "Pacienţii prezentă guşă omogenă (nodulară bine deliminată, palpator moale)",
+        "Scintigrama cu I131 evidenţiază o captare difuză, neomogenă"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 3
+    },
+    {
+      "number": 11,
+      "text": ". Ce afirmaţii referitor la tiroidită limfocitară Hashimoto sunt adevărate?",
+      "options": [
+        "ste boala autoimună",
+        "pare predominant la femei",
+        "În serul pacienţilor se evidenţiază titruri mari de anticorpi antitiroidieni",
+        "oala este deseori familială însoţită cu alte afecţiuni autoimune",
+        "linic apare ca o guşă dură, lemnoasă, compresivă"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 12,
+      "text": ".O complicaţie care nu este caracteristică interventiilor chirurgicale pe glanda tiroidă este:",
+      "options": [
+        "Hemoragie",
+        "Embolismul aerian",
+        "Embolie grasă",
+        "Leziuni traheale",
+        "Afectarea nervului recurent"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 2
+    },
+    {
+      "number": 13,
+      "text": ". Ce afirmaţii referitor la neoplaziile endocrine multiple sunt incorecte?",
+      "options": [
+        "Sunt sindroame în care la acelaşi individ sunt prezente tumori interesând două sau mai multe glande endocrine",
+        "mbele forme MEN I şi MEN II au şi o componentă tiroidiană",
+        "În formele MEN I şi MEN II lipseşte componenta tiroidiană",
+        "Sindromul MEN II prezintă trei varietăţi: tipul а, B şi tip familial",
+        "Feocromocitoma este componentă a sindromului MEN I"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 14,
+      "text": ". Sindromul Zollinger-Ellison are următoarea triadă caracteristică:",
+      "options": [
+        "Ulcere multiple sau multiplu recidivante, atipică, cu evoluţie gravă şi rapidă",
+        "Hiposecreţie gastrică cantitativă şi calitativă",
+        "himismul gastric indică hipersecreţie bazală abudentă",
+        "Tumoră gastrino-secretoare (gastrinom)",
+        "Valorile gastrinei serice sunt mult scăzute"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 15,
+      "text": ". Ce afirmaţie referitor la feocromocitom este incorectă:",
+      "options": [
+        "oala reprezintă 1-5% din maladiile suprarenalelor",
+        "re o incidenţă maximă între 20-35 de ani",
+        "ste o tumoră a celulelor cromofine",
+        "Mai frecvent se localisează în suprarenală dreaptă",
+        "ste o tumoră malignă"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 16,
+      "text": ". Care din afirmaţii referitoare la tratamentul feocromocitomului este incorectă:",
+      "options": [
+        "xtirparea tumorii este unica soluţie terapeutică",
+        "Gestul chirurgical trebuie precedat, însoţit şi urmat de tratamentul medicamentos de reglare a tensiunii arteriale",
+        "Se practică enuclearea tumorii, rezecţia parţială a suprarenalelor sau adrenalectomia totală",
+        "Manipularea intraoperatorie a tumorii poate determină o criză hipertensivă",
+        "Gestul chirurgical se efectuiază numai pe calea toracică"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 17,
+      "text": ". Caracteristic timomului este:",
+      "options": [
+        "ste o tumoră a timusului",
+        "ste o tumoră a suprarenalelor",
+        "ste o tumoră a tiroidei",
+        "Tumora poate fi asimptomatică, cu semne clinice compresive sau cu sindroame concomitente",
+        "Miastenia în combinaţie cu timom are un prognostic nefaborabil"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 18,
+      "text": ". Care din afirmaţii referitor la răsunetul clinic al miasteniei, la bolnavii cu timoame, este incorectă:",
+      "options": [
+        "ebut acut şi decurgere malignă",
+        "rize colinergice şa/sau miastenice",
+        "ereglări severe motorice",
+        "Hipotrofii musculare",
+        "Respiraţie parodoxală"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 19,
+      "text": ". Următoarele fac parte din sindromul MEN-IIA:",
+      "options": [
+        "arcinom medular multicentric",
+        "Feocromocitom",
+        "Hiperparatiroidism primar",
+        "Hiperplazie de celule C",
+        "Hiperplazie timică"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 20,
+      "text": ". Următoarele fac parte din sindromul MEN-IIB, cu excepţia:",
+      "options": [
+        "arcinom medular de tiroidă",
+        "Feocromocitom",
+        "Ganglioneuroame intestinale",
+        "Insulinom",
+        "Nervoame mucoase"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 3
+    },
+    {
+      "number": 21,
+      "text": ". Următoarele semne clinice pledează pentru un hiperparatiroidism primar:",
+      "options": [
+        "Sete, poliurie, pierdere ponderală.",
+        "rampe, fibrilaţii musculare.",
+        "Slăbiciune generală şi musculară severă.",
+        "ureri în oasele supuse presiunii, fracturi patologice.",
+        "Tegumente îngroşate, depigmentate."
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 22,
+      "text": ". Caracteristic pentru o criză tireotoxică este:",
+      "options": [
+        "Hipertermie, tahicardie, hipertensiune",
+        "Termofobie, transpiraţii, parastezii",
+        "Agitaţie, stare confuzională, vîrsaturi",
+        "Exoftalmie, insomnie, atrofii musculare",
+        "Enoftalm"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 23,
+      "text": ". Pentru neoplazia endocrină multiplă de tip I (MEN1) nu este caracteristic:",
+      "options": [
+        "Este compusă din tumori sau hiperplazii ale paratiroidelor, insulelor pancreatice şi hipofizei",
+        "Este compusă din tumori sau hiperplazii ale suprarenalelor, pancreasului şi hipofizei",
+        "În cadrul MEN 1 hiperparatiroidismul este cea mai comună manifestare (90-100%)",
+        "Adenomul hipofizar pare a fi prezent la aproape toţi pacienţii cu MEN 1",
+        "MEN 1 este o anomalie genetică autozomal dominantă"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 1
+    },
+    {
+      "number": 24,
+      "text": ". Ce afirmaţii referitor la tiroidita subacută de Quervain sunt adevărate?",
+      "options": [
+        "ste mai frecventă la bărbaţi",
+        "pare după un epizod de infecţie a căilor respiratorii superioare",
+        "ebutează cu ferbă/frison",
+        "Tiroida creşte rapid în volum, dureroasă la palpare",
+        "ste o forma gravă de tireotoxicoză"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 25,
+      "text": ". Sindromul MEN-IIA nu include:",
+      "options": [
+        "Carcinom medular multicentric",
+        "Feocromacitom",
+        "Hiperparatiroidizm primar",
+        "Hiperplazie de celule C",
+        "Hiperplazie timica",
+        "(Abcesul pulmonar, Boala bronşiectatică, Gangrenul pulmonară, Pleureziile purulente nespecifice)"
+      ],
+      "section": "CHIRURGIE ENDOCRINĂ",
+      "correct": 4
+    },
+    {
+      "number": 1,
+      "text": ". Care este localizarea mai frecvente a abceselor pulmonare prin aspiraţie:",
+      "options": [
+        "segmentele bazale anterioare ale lobilor inferiori",
+        "segmentele laterale ale lobilor inferiori",
+        "segmentele apicale ale lobilor superiori",
+        "segmentele anterioare ale lobilor superiori",
+        "segmentele posterioare ale plămânilor /preponderent lobii superior/"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 4
+    },
+    {
+      "number": 2,
+      "text": ". Abcesele de origine bronhogenică în majoritatea cazurilor sunt:",
+      "options": [
+        "multiple",
+        "periferice",
+        "solitare",
+        "centrale",
+        "bilaterale"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Care simptom nu este caracteristic pentru I faza a abcesului pulmonar acut?",
+      "options": [
+        "tuşea",
+        "sindromul de intoxicatie septico-purulenta",
+        "expectoraţie purulentă",
+        "dispnee",
+        "sindromul algic"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 4,
+      "text": ". Care metoda de diagnostic este mai informativa in faza I a abcesului pulmonar acut ?",
+      "options": [
+        "scanarea cu radionuclizi",
+        "bronhoscopia",
+        "tomografia asociata cu puncţie transtoracală",
+        "ultrasonografia",
+        "bronhografia"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 5,
+      "text": ". Cea mai informativă metodă de diagnostic în faza a II a abcesului pulmonar acut este:",
+      "options": [
+        "angiopulmonografia",
+        "radiografia de ansamblu în doua proiecţii",
+        "scanarea cu radionuclizi",
+        "tomografia",
+        "ultrasonografia"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 6,
+      "text": ". Cu care dintre formaţiunile cavitare ale toracelui diagnosticul diferenţial al abcesului pulmonar este mai dificil de efectuat?",
+      "options": [
+        "cancerul pulmonar forma atipică",
+        "tuberculoza pulmonara forma excavată",
+        "chist supurat cu fistulă bronşică",
+        "boala bronşiectatică",
+        "abces mediastinal"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 7,
+      "text": ". Hemoragia profuză survine mai frecvent în:",
+      "options": [
+        "boala bronşiectatică",
+        "abcesele pulmonare",
+        "tuberculoza pulmonară",
+        "cancerul pulmonar",
+        "gangrena pulmonară"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 4
+    },
+    {
+      "number": 8,
+      "text": ". Metoda de elecţie în asanarea abceselor voluminoase cu sechestre şi intoxicaţie septică pronunţată este:",
+      "options": [
+        "toracopneumocinteza cu drenaj",
+        "bronhoscopia",
+        "lavajul bronsic prin cateterism",
+        "microtraheostomia",
+        "toracopneumotomia şi drenarea abcesului"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Metoda de baza al tratamentului local în cazul rupturei abcesului piogen sau gangrenos în cavitatea pleurala, este:",
+      "options": [
+        "bronhoscopia cu lavaj",
+        "puncţia pleurala repetată",
+        "pleurotomie minimă (închisă)",
+        "toracotomie largă, asanarea, drenarea cavitaţii pleurale şi abcesului",
+        "rezecţia pulmonară"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 10,
+      "text": ". Care din cauzele enumerate duc la cronicizarea abcesului pulmonar?",
+      "options": [
+        "tratamentul consevator întârziat",
+        "terapia antibacteriană defectuoasă",
+        "localizarea apicală a abcesului",
+        "terapia de detoxifiere neadecvată",
+        "abcesul pulmonar voluminos cu sechestre, asanat defectuos"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 11,
+      "text": ". Complicaţia cea mai gravă a abcesului pulmonar cronic este:",
+      "options": [
+        "tuberculizarea cavităţii reziduale",
+        "suprainfectarea cu fungi",
+        "amiloidoza viscerală",
+        "hemoptizia",
+        "pioscleroza cu bronşiectazii secundare"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 12,
+      "text": ". Metoda de elecţie în tratamentul abcesului pulmonar cronic este:",
+      "options": [
+        "tratamentul medical general",
+        "bronhoscopie cu lavaj",
+        "toracopneumotomia cu drenaj",
+        "terapia antibacteriană",
+        "rezecţia pulmonară"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 4
+    },
+    {
+      "number": 13,
+      "text": ". Boala bronşiectatică se dezvolta pe fondul:",
+      "options": [
+        "piosclerosei",
+        "pneumoniei cronice",
+        "parenchimului neschimbat",
+        "emfizemului pulmonar",
+        "empiemului pleural cronic"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 14,
+      "text": ". Care este simptomul funcţional dominant al bolii bronşiectatice?",
+      "options": [
+        "sindromul algic",
+        "sindromul hemoptoic",
+        "sindromul de intoxicaţie septico-purulentă",
+        "sindromul bronşic",
+        "febra"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 15,
+      "text": ". Boala bronşiectatică afectează preponderent:",
+      "options": [
+        "lobul superior al plămânului drept",
+        "lobul mediu al plămânului drept",
+        "lobul superior al plămânului stâng",
+        "lobul superior şi mediu al plămânului drept",
+        "lobii inferiori"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 4
+    },
+    {
+      "number": 16,
+      "text": ". Diagnosticul diferenţial al bolii bronşiectatice este cel mai dificil de efectuat cu una din următoarele maladii:",
+      "options": [
+        "bronşitele supurate fără dilataţii bronşice",
+        "supuraţii bronhopulmonare cronice cu bronsiectazii secundare",
+        "tuberculoza pulmonară",
+        "bronhocelele",
+        "formele chistice sau pseudochistice ale bolilor congenitale pulmonare"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "number": 17,
+      "text": ". Metoda cea mai eficace de diagnostic a bolii bronşiectatice este:",
+      "options": [
+        "angiopulmonografia",
+        "radiografia de ansamblu",
+        "tomografia",
+        "bronhografia",
+        "bronhoscopia"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 18,
+      "text": ". Tratamentul strict conservator a bolii bronşiectatice este indicat în următoarele cazuri, exceptând:",
+      "options": [
+        "bolnavii cu boli concomitente decompensate",
+        "stadiile iniţiale a maladiei, mai cu seama, la copii",
+        "cazurile de afectare a unui plămân şi al unui lob sau mai mulţi din partea opusă",
+        "afectarea limitată a ambilor plămâni",
+        "degerescenţa amiloida gravă a organelor interne"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 19,
+      "text": ". Tratamentul conservator al bolii bronşiectatice include obligatoriu următoarele masuri, exceptând:",
+      "options": [
+        "corecţia homeostazei",
+        "terapia de detoxicare",
+        "dezinfecţia bronşiilor şi a căilor aeriene superioare",
+        "combaterea secreţiei gastrice",
+        "tratamentul balneo-climatic"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 20,
+      "text": ". Tratamentul chirurgical al bolii bronşiectatice în dependenţă de procesul local este indicat rar în următoarele cazuri:",
+      "options": [
+        "bronşiectazii supurate unilaterale",
+        "plămân bronşiectatic complet distrus",
+        "bronşiectazii localizate bilateral bine delimitate",
+        "bronşiectazii difuze din copilărie, mai cu seamă bilaterale, fără complicaţie",
+        "bronşiectazii secundare, mai cu seama, hemoptoice"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 3
+    },
+    {
+      "number": 21,
+      "text": ". Care din complicaţiile postoperatorii imediate în rezecţiile pulmonare pentru boala bronşiectatica necesită reintervenţie chirurgicala de urgenţă majoră?",
+      "options": [
+        "atelectazia",
+        "şocul de durere",
+        "hemoragia intrapleurală",
+        "pneumatoraxul",
+        "inundaţia traheo-bronşică"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 22,
+      "text": ". Care metoda electiva de diagnostic în pleureziile purulente acute ?",
+      "options": [
+        "ultrasonografia",
+        "scanarea plămânilor cu radionuclizi",
+        "radiografia de ansamblu în diferite poziţii /de profil, de faţă, laterografia/",
+        "angiopulmonografia",
+        "bronhoscopia"
+      ],
+      "section": "AFECŢIUNILE PLEURO-PULMONARE SUPURATIVE",
+      "correct": 2
+    },
+    {
+      "number": 1,
+      "text": ".Care este calea principală de infestare în hidatidoza pulmonară primară:",
+      "options": [
+        "alea respiratorie",
+        "alea digestivă",
+        "alea directă prin mucoase",
+        "alea directă prin muşcături",
+        "alea directă prin tegumente"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 1
+    },
+    {
+      "number": 2,
+      "text": ". Echinococoză pulmonară secundară se produce pe:",
+      "options": [
+        "ale enterogenă",
+        "ale bronhogenă",
+        "Prin mucoase",
+        "Pe cale hematogenă",
+        "Pe cale limfogenă"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Care dintre cele enumerate reprezintă elementele structurale proprie ale chistului hidatic pulmonar, exceptând:",
+      "options": [
+        "Membrana chitinoasă",
+        "dventiţia (advenţia)",
+        "Membrana proligeră",
+        "Scolecş",
+        "Vezicule fiice"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 1
+    },
+    {
+      "number": 4,
+      "text": ". Care din complicaţii chistului hidatic pulmonar se asociază cu şoc anafilactic:",
+      "options": [
+        "Ruperea în bronhie",
+        "Supuraţia",
+        "Ruperea în cavitatea pleurală",
+        "Ruperea în bronhie cu aspiraţie în plămânul sănătos",
+        "Hemoragia"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 2
+    },
+    {
+      "number": 5,
+      "text": ". Care din cele enumerate este complicaţia cea mai frecventa al chisturilor aeriene pulmonare subpleurale?",
+      "options": [
+        "Supuraţia",
+        "Pneumotoraxul spontan",
+        "Hemoptezia",
+        "ancerizarea",
+        "Sindromul compresiv"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 1
+    },
+    {
+      "number": 6,
+      "text": ".Diagnosticul diferenţial al chisturilor aeriene pulmonare se face cu următoarele afecţiuni, exceptând:",
+      "options": [
+        "Tuberculoza excavată",
+        "ancerul cavitar",
+        "Hidatidoza pulmonară necomplicată",
+        "bcesul piogen pulmonar",
+        "Pleurezia purulentă interlobară cu fistula bronşica"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 2
+    },
+    {
+      "number": 7,
+      "text": "Care din investigaţiile enumerate sunt primordiale în stabilirea diagnosticului de chist aerian pulmonar:",
+      "options": [
+        "Investigaţie cu radionuclizi",
+        "Toracoscopia",
+        "Investigaţii radiologice",
+        "ronhoscopia",
+        "Investigaţiile citologice şi morfologice"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 2
+    },
+    {
+      "number": 8,
+      "text": ". Factorul etiologic al revărsatului pleural nesupurativ este, cu excepţia:",
+      "options": [
+        "Trauma canalului limfatic toracic (chilotoraxul)",
+        "Traumatismul toracelui cu lezarea pleurei, arterelor intercostale, parenchimului pulmonar (hemotoraxul)",
+        "Revărsatul plevral pancreatogen",
+        "Ruperea abcesului pulmonar în cavitatea pleurală",
+        "Revărsatul pleural malign (metastatic)"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 3
+    },
+    {
+      "number": 9,
+      "text": ". Care din semnele enumerate sunt caracteristice pentru pneumotoraxul cu supapa, cu excepţie:",
+      "options": [
+        "ureri violente",
+        "ispnee pronunţată",
+        "ombarea unui semitorace",
+        "Turgistenţa venelor gâtului şi a membrilor superioare",
+        "Hemoptizii"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 4
+    },
+    {
+      "number": 10,
+      "text": ". Semnele radiologice caracteristice pentru pneumotoraxul compresiv sunt, cu excepţia:",
+      "options": [
+        "Hipertransparenţa unui hemitorace",
+        "eplasarea pronunţata a mediastinului",
+        "olabarea plămânului",
+        "eplasarea semidiafragmului corespunzător spre cavitatea peritoneală",
+        "alansarea mediastinului"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 4
+    },
+    {
+      "number": 11,
+      "text": ". Care este procedeul terapeutic primordial în ajutorul medical de urgenţa majoră în pneumotoraxul cu supaăa?",
+      "options": [
+        "dministrarea de oxigen",
+        "dministrarea analepticilor respiratori",
+        "Transferarea pneumotoraxul cu subapă în pneumotoraxul deschis",
+        "dministrarea de cardiotomiei",
+        "Respiraţie controlată"
+      ],
+      "section": "MALADIILE NESUPURATIVE PLEURO-PULMONARE",
+      "correct": 2
+    },
+    {
+      "number": 1,
+      "text": ". Canalul arterial permiabil (CAP), selectaţi răspunsul fals:",
+      "options": [
+        "CAP uneşte cârja aortei cu artera pulmonară",
+        "CAP uneşte aorta ascendentă cu artera pulmonară",
+        "în perioada iniţială a CAP oxigenarea sângelui în circuitul mic este mărită",
+        "iniţial în hipertenzia pulmonară miofibrele arteriolare se hipertrofiază",
+        "în faza IV a hipertenziei pulmonare torentul sanguin îşi schimbă direcţia prin CAP"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 1
+    },
+    {
+      "number": 2,
+      "text": ". Defectul septului ventricular (DSV), care răspuns este greşit?",
+      "options": [
+        "în DSV suflul sistolic se propagă pe toată cutia toracică",
+        "viciul din palid se poate transforma în cianotic",
+        "operaţia paliativă poate fi efectuată numai după vârsta de un an",
+        "operaţia paliativă poate fi efectuată în primele trei luni de viaţă",
+        "operaţia efectuată în faza cianogenă este neefectivă"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Defectul septului atrial (DSA), care este răspunsul incorect ?",
+      "options": [
+        "în plastia defectului septului se aplică surjet în cotinuu",
+        "în plastia DSA se aplică suturi punctate",
+        "electrocardiografia depistează semne de suprasolicitare numai a camerelor drepte ale inimii",
+        "ventriculul stâng rămâne subsolicitat",
+        "schimbările morfologice în micul circuit sangvin apar treptat"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 1
+    },
+    {
+      "number": 4,
+      "text": ". Coarctaţia aortei, care răspuns este fals?",
+      "options": [
+        "îngustarea aortei are loc după începutul arterei brahiocefalice",
+        "îngustarea are loc distal de artera subclavă stângă",
+        "sângele trece în partea inferioară a corpului prin artera subclavă dilatată",
+        "tensiunea în arterele femorale este micşorată",
+        "plastia în coarctaţia aortei constă în excizia segmentului îngustat cu suturarea termino-terminal sau şutare cu",
+        "proteză vasculară, sau aplicarea protezei vasculare"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 4
+    },
+    {
+      "number": 5,
+      "text": ". Stenoza izolată a arterei pulmonare (SIAP), care răspuns este fals?",
+      "options": [
+        "în SIAP îngustarea poate fi valvulară sau subvalvulară",
+        "în SIAP trunchiul arterei pulmonare este dilatat",
+        "în SIAP tensiunea în micul circuit sangvin reflector se măreşte",
+        "în SIAP zgomotul doi pe artera pulmonară este diminuat",
+        "operaţia în SIAP consta în comisurotomie deschisa, excizia surplusului muscular, aplicarea peticului din",
+        "material plastic"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 4
+    },
+    {
+      "number": 6,
+      "text": ". Tratamentul chirurgical în tetrada Fallot. Care răspuns este fals?",
+      "options": [
+        "operaţia radicală subînţelege dilatarea arterei pulmonare, plastia defectului septal cu deplasarea",
+        "aortei spre ventriculul stâng",
+        "operaţiile paliative sunt mai efective pînă la vârsta de trei ani",
+        "mai frecvent în operaţia paliativă se restituie anastomoza a.subclavă - ramura arterei pulmonare pe",
+        "dreapta",
+        "în tetrada Fallot numărul eritrocitelor este diminuat",
+        "la ECG predomină semne de suprasolicitare a ventricului drept"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "text": ". Tamponada cardiacă se traduce prin următoarele semne:",
+      "options": [
+        "presiune venoasă crescută",
+        "şoc",
+        "minut-volum cardiac scăzut",
+        "umplere diastolică a inimii crescută",
+        "tensiune arterială scăzută"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 1
+    },
+    {
+      "number": 8,
+      "text": ". Anevrismul disecant al aortei toracice este favorizat, în primul rând, de:",
+      "options": [
+        "ateroscleroză",
+        "sifilis",
+        "degenerescenta tunicii medii",
+        "traumă",
+        "coarctaţia de aortă"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Stenoza mitrală poate rezulta din următoarele:",
+      "options": [
+        "scădere a debitului cardiac",
+        "fibrilaţie arterială",
+        "embolie sistemică",
+        "creştere a rezistenţei periferice",
+        "edem pulmonar"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 10,
+      "text": ". Cel mai frecvent viciu cardiac congenital este:",
+      "options": [
+        "tetrada Fallot",
+        "comunicarea interventriculară",
+        "canalul arterial persistent",
+        "comunicarea interatrială",
+        "transpoziţia vaselor mari"
+      ],
+      "section": "CARDIOPATIILE CONGENITALE ŞI DOBÂNDITE",
+      "correct": 3
+    },
+    {
+      "number": 1,
+      "text": ". Tratamentul fistulelor artero-venoase consta în:",
+      "options": [
+        "excizia fistulei cu restabilirea continuităţii vaselor",
+        "ligaturarea arterei distale de fistula",
+        "amputaţia membrului",
+        "ligaturarea venei distale de fistula",
+        "tratament exclusiv medicamentos"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 0
+    },
+    {
+      "number": 2,
+      "text": ". Schimbările trofice condiţionate de ischemia cronica includ următoarele:",
+      "options": [
+        "căderea parului",
+        "modificările unghiilor",
+        "atrofia pielei",
+        "atrofia musculaturii",
+        "osteoporoza"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Embolii arteriali se fixează mai des la nivelul:",
+      "options": [
+        "bifurcaţiei aortice",
+        "arterei iliace comune",
+        "arterei femurale comune",
+        "vaselor cerebrale",
+        "arterei poplitee"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 4,
+      "text": ". Ce afirmaţie referitoare la particularităţile maladiei Burger este incorecta?",
+      "options": [
+        "se întâlneşte mai frecvent la bărbaţi",
+        "se observa intre 20 şi 40 ani",
+        "este însoţita de claudicatie intermitenta",
+        "este în raport strâns cu fumatul",
+        "prezintă o forma deosebita de ateroscleroza"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 4
+    },
+    {
+      "number": 5,
+      "text": ". Claudicatia intermitenta ca urmare a aterosclerozei avansate a arterelor iliace externe este mai efectiv tratata prin",
+      "options": [
+        "simpatectomie lombara",
+        "gimnastica efectuata zilnic",
+        "by-pass",
+        "vasodilatatoare",
+        "rezecţie a segmentului afectat cu anastomoza"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 6,
+      "text": ". La apariţia trombozei acute arteriale al membrilor contribuie:",
+      "options": [
+        "cardioscleroza aterosclerotica",
+        "endocardita septica",
+        "viciul mitral reumatic",
+        "ateroscleroza obliterantă al vaselor membrilor inferioare",
+        "toate cele enumerate"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "text": ". Date despre starea arterelor magistrale distal de locul emboliei putem obţine la:",
+      "options": [
+        "capilaroscopie",
+        "examenul obiectiv",
+        "examinare radionuclida",
+        "dopplerografie",
+        "toate cele menţionate"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 8,
+      "text": ". Operaţia de baza, efectuată în embolia arterii femurale este:",
+      "options": [
+        "dilatare renghenoendovasculara",
+        "trombintimectomia",
+        "embolectomia",
+        "profundoplastia",
+        "by-pass"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 9,
+      "text": ". Factorul principal, ce determină tactica de tratament în insuficienţa arterială acuta este:",
+      "options": [
+        "vârsta pacientului",
+        "gravitatea stării generale",
+        "gradul ischemiei membrului",
+        "prezenţa ocluziei aterosclerotice concomitente",
+        "localizarea trombului sau embolului"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 10,
+      "text": ". Restabilirea circulaţiei sanguine în insuficienţa arteriala acuta al membrului este absolut contraindicata în:",
+      "options": [
+        "ischemia de gr. Ia lent progresiva",
+        "ischemia de gr. Ilb pacientul cu infarct miocardic",
+        "ischemia de gr. IIIa la pacient cu ictus",
+        "ischemia de gr. IIIc",
+        "vârsta pacientului >85 ani"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 11,
+      "text": ". Amputaţia ca operaţie de elecţie în insuficienţa arterială acuta al membrelor este indicată:",
+      "options": [
+        "în ateroscleroza avansată al vaselor magistrale al membrelor cu manifestările incipiente ale trombozei acute",
+        "la pacienţi în vârsta avansată",
+        "în gradul IIIb de ischemie",
+        "numai în gradul IIIc de ischemie",
+        "în internare tardiva a pacientului"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 12,
+      "text": ".Terapia conservativa în embolie acută arterială poate fi metoda de elecţie în :",
+      "options": [
+        "în stadiu avansat al ischemiei acute",
+        "la pacienţi în vârsta >80 ani",
+        "la pacienţi cu patologie concomitentă gravă",
+        "în caz de contraindicaţii absolute pentru tratament chirurgical",
+        "în prezenţa maladiilor trombogene şi embologene"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 13,
+      "text": ". Pentru tromboza acuta a arterei magistrale a piciorului nu este caracteristic:",
+      "options": [
+        "paliditate",
+        "dureri",
+        "edem",
+        "parastezie",
+        "disparitia pulsului"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 14,
+      "text": ". Către sindromul ischemic a membrelor inferioare se atirna tot în afara de:",
+      "options": [
+        "lipsa pulsului",
+        "parastezii",
+        "ulcere trofice a gambei",
+        "paralizie inferioara",
+        "paliditatea tegumentelor si dureri"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 15,
+      "text": ". In embolia arterei femurale, ischemie gradul III (contractura piciorului) metoda de electie este:",
+      "options": [
+        "embolectomie de urgenta",
+        "terapie trombolitica",
+        "terapie cu anticoagulati",
+        "terapie simptomatica",
+        "amputaţia primara a piciorului"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 4
+    },
+    {
+      "number": 16,
+      "text": ". Embolia arterei brahiale poate fi cauzata de ori şi care maladie cu excepţie:",
+      "options": [
+        "stenoza mitrala",
+        "infarct miocardic acut",
+        "anevrisma cordului",
+        "anevrism a aortei abdominale",
+        "comprimarea arterei subclavia cu o coasta cervicala adaugatoare"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 17,
+      "text": ". Viabilitatea piciorului ischemizat de origina embolica se poate aprecia prin:",
+      "options": [
+        "sfigmografie",
+        "reovazografie",
+        "scintigrafie cu Te 99 (tehnetii)-pirofosfat",
+        "pletismografie",
+        "termografie"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 18,
+      "text": ". Cel mai perfect instrument pentru embolectomie din artera magistrala este:",
+      "options": [
+        "inelul vascular Wolmar",
+        "vacuum-aspirator",
+        "cateterul Fogarti cu balonaş",
+        "cateter Dormia",
+        "pensa fenestrata"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 19,
+      "text": ". Anevrismele aterosclerotice periferice se localizează",
+      "options": [
+        "cel mai frecvent la nivelul arterei",
+        "carotide",
+        "subclaviculare",
+        "femurale",
+        "poplitee",
+        "ulnare"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 3
+    },
+    {
+      "number": 20,
+      "text": ". Un bolnav în vârsta de 80 ani se prezintă cu maladie cardiaca severa si claudicatie intermitenta pronunţata in piciorul drept. Tratamentul de electie in acest caz este:",
+      "options": [
+        "by-pasul aorto-femural",
+        "by-pasul axilo-femural drept",
+        "by-pasul femuro-femural",
+        "by-pasul aorto-iliac drept",
+        "simpatectomia dreapta"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 21,
+      "text": ". Sindromul Leriş - aceasta este:",
+      "options": [
+        "artereita nespecifică brahiocefala",
+        "ocluzie aterosclerotica a bifurcatiei aortei",
+        "capilaropatia periferica a extremităţilor",
+        "trombangiita migranta",
+        "ocluzia venei cave inferioare"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 1
+    },
+    {
+      "number": 22,
+      "text": ". Pentru sindromul Leriş este caracteristic, tot afara de:",
+      "options": [
+        "hipotermia membrelor inferioare",
+        "paliditatea pielei",
+        "tromboflebita migranta a membrelor",
+        "dureri in regiunea fesiera la şezut",
+        "impotentei"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 23,
+      "text": ". Pentru sindromul Takayasu nu este caracteristic:",
+      "options": [
+        "dispariţia pulsului la membrele inferioare",
+        "dispariţia pulsului membrele inferioare",
+        "grafospasm",
+        "cefalee, vertijuri",
+        "scădere vederii până la cecitate"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 1
+    },
+    {
+      "number": 24,
+      "text": ". Pentru tratamentul chirurgical in sindromul Leriş ce-a mai reuşita metoda va fi:",
+      "options": [
+        "simpatectomie lombara",
+        "simpatectomie periarteriala",
+        "sunt aorto-femural bifurcaţi anal",
+        "sunt aorto-femural unilateral",
+        "trombectomie cu cateterul Fogarti"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 2
+    },
+    {
+      "number": 25,
+      "text": ".Alegeţi afirmaţie corectă referitor la manifestarea clinica aneurizmului aortic abdominal (AAA):",
+      "options": [
+        "În 70-75% de cazuri din toate aneurizmului aortic abdominal sunt simptomatice la diagnosticare",
+        "xaminare fizicala de rutină şi metodele imagistice permit a stabili diagnosticul",
+        "AA frecvent se diagnostica întâmplător în timpul operaţiilor abdomenale pentru alte patologii",
+        "Pacienţii des pun diagnosticul de sinestător",
+        "Hipotenzie şi şoc sunt caracteristice pentru aneurizmului aortic abdominal neerupt"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": 1
+    },
+    {
+      "number": 26,
+      "text": ". Alegeţi afirmaţiile corecte referitor la manifestarea clinica aneurizmului aortic",
+      "options": [
+        "abdominal erupte:",
+        "ureri abdomenale, şoc şi tumora pulsativa abdominală",
+        "ureri sunt avansate, dar sunt caracteristice şi pentru aneurizmului aortic abdominal neerupt",
+        "ureri abdomenale nu depind de poziţia bolnavului şi relativ sunt constante",
+        "Hipotenzie şi şoc nu sunt caracteristice pentru aneurizmului aortic abdominal neerupt",
+        "Icter"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 27,
+      "text": ". Alegeţi afirmaţiile corecte referitor la aneurizmului aortic abdominal:",
+      "options": [
+        "reşterea incidenţei a aneurizmului aortic abdominal reflecta creştere vârstei medie a populaţiei, îmbunătăţirea metodelor diagnostice",
+        "Incidenţa aneurizmului aortic abdominal creşte cu alte leziuni aterosclerotice",
+        "La pacienţi cu aneurizmul femoral sau popliteal incidenţa aneurizmului aortic abdominal creşte până la 50%",
+        "Majoritatea aneurizmului aortic abdominal sunt simptomatice înainte de erupţie",
+        "neurizmului aortic abdominal este asociat cu boala varicoasă a membriilor inferioare"
+      ],
+      "section": "ARTERIOPATIILE PERIFERICE OBLITERANTE",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Enumeraţi părţile slabe ale diafragmului:",
+      "options": [
+        "Fisura Larrey",
+        "Fisura Morgani",
+        "Fisura Bohdalec",
+        "Triunghului lui Paimerov",
+        "Hiatus aorticus"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": ". Tabloul clinic al herniei hiatale prin alunecare include :",
+      "options": [
+        "isfagie",
+        "Vome frecvente",
+        "Perozis",
+        "Micşorarea ponderei corporeale",
+        "Nici un răspuns corect"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 2
+    },
+    {
+      "number": 3,
+      "text": ". Pacientul a fost internat in clinică cu dureri în regiunea hemitoracelui stăng, dispnee care se intensifică postprandial şi la efort fizic,de asemenea în poziţie orizontală a corpului, greţuri,vome repetate care uşurează starea pacientului. La radiografia cutiei toracice sa depistat o formaţiune de volum cu nivel hidroaeric.",
+      "options": [
+        "Stabiliţi diagnosticul :",
+        "Pneumonie abscedantă pe stânga",
+        "ngina pectorală",
+        "Hernie hiatală prin alunecare",
+        "Hemotorace pe stânga",
+        "Hernia posttraumatică a diafragmului"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 2
+    },
+    {
+      "number": 4,
+      "text": ". Care sunt condiţiile necesare pentru diagnosticul radiologic al herniilor hiatale prin alunecare?",
+      "options": [
+        "În poziţie verticală",
+        "In pozitie semisezinda",
+        "În poziţie Trendelenburg",
+        "Hipotonie artificială a duodenului",
+        "În poziţie orizontală"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 2
+    },
+    {
+      "number": 5,
+      "text": ". Enumeraţi cele mai frecvente semne clinice ale herniei hiatale prin alunecare:",
+      "options": [
+        "Perozis; Dureri retrosternale; Melenă",
+        "ureri retrosternale; Melenă; Ocluzie intestinală; Vome",
+        "Ocluzie intestinală; Vome; Perozis",
+        "Perozis",
+        "Perozis; Vome; Melenă"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 0
+    },
+    {
+      "number": 6,
+      "text": ". Care vor fi recomandările pentru un pacient cu esofagită de reflux pe fon de hernie hiatală:",
+      "options": [
+        "Poziţie ridicată a regiunii cefalice a corpului în timpul somnului; Administrarea antacidelor; Administrarea Cerucalului",
+        "limentare fracţionată în porţii mici; Poziţie ridicată a regiunii cefalice a corpului în timpul somnului; A nu se culca posprandial",
+        "dministrarea antacidelor; Administrarea Cerucalului; A nu se culca posprandial",
+        "limentare fracţionată în porţii mi; Administrarea antacidelor; A nu se culca posprandial",
+        "limentare fracţionată în porţii mici; Poziţie ridicată a regiunii cefalice a corpului",
+        "în timpul somnului; Administrarea antacidelor; Administrarea Cerucalului; A nu",
+        "se culca posprandial"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 4
+    },
+    {
+      "number": 7,
+      "text": ". Pacienta 54 ani acuză dureri retrosternale şi în regiunea epigastrală postprandial , disfagie , eructaţii. La radiografia cutiei toracice în mediastinul posterior s-a depistat o formaţiune rotundă cu nivel hidric .După administrarea contrastului s-a vizualizat porţiunea cardială a stomacului supradiafragmal. Ce patologie suspectaţi?",
+      "options": [
+        "ancer a regiunii cardiale a stomacului",
+        "iafragm relaxat",
+        "Hernie hiatală",
+        "Hernie retrosternală Lorrey",
+        "Hernie paraesofagiană"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 2
+    },
+    {
+      "number": 8,
+      "text": ". Pacient în vîrstă de 40 ani acuză dureri retrosternale cu iradiere în regiunea scapulară, eructaţii , perozis. Semnele susnumite se intensifică la flexia anterioară a corpului. La bolnav este suspectată hernie hiatală. Care investigaţii le enumerate pemit de a concretiza diagnosticul?",
+      "options": [
+        "FEGDS; CPGRE; pH – metria stomacului",
+        "FEGDS; R- grafia stomacului în poziţie Trendelenburg; Ionomanometrie",
+        "esofagiană; pH – metria stomacului",
+        "R- grafia stomacului în poziţie Trendelenburg; CPGRE; Ionomanometrie",
+        "esofagiană; pH – metria stomacului",
+        "FEGDS; R- grafia stomacului în poziţie Trendelenburg; CPGRE; pH – metria",
+        "stomacului",
+        "R- grafia stomacului în poziţie Trendelenburg; CPGRE; Ionomanometrie esofagiană; pH – metria stomacului"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 1
+    },
+    {
+      "number": 9,
+      "text": ". Pacientul acuză perozis, dureri retrosternale, dureri în regiunea hipocondrului stîng cu iradiere în regiunea cordului şi scapulară stîngă. Mai frecvent apar la flexia anterioară a corpului, postprandial. La examenul radiologic s-a depistat esofagul scurt, nedilatat. Substanţa de contrast din esofag pătrunde intr-o formaţiune semisferică cu pereţi subţiri localizată supradiafragmal. Apoi pătrunde in stomac vizualizînd pliurile pronunţate.",
+      "options": [
+        "oncluziile D-stră?",
+        "calazie a esofagului",
+        "Hernie diafragmală Bohdalec",
+        "ancer esofagian cu trecere în stomac",
+        "Hernie hiatală prin alunecare",
+        "Hernie paraesofagiană"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 3
+    },
+    {
+      "number": 10,
+      "text": ".Care sunt indicaţiile pentru tratamentul chirurgical al herniei hiatale?",
+      "options": [
+        "Tratament conservativ neeficace, Hemoragii esofagiene frecvente, Hernii hiatale",
+        "prin alunecare necomplicate",
+        "Formarea stricturilor de origine inflamatorii a esofagului; Hemoragii esofagiene",
+        "frecvente",
+        "Tratament conservativ neeficace; Formarea stricturilor de origine inflamatorii a",
+        "esofagului; Hemoragii esofagiene frecvente",
+        "Hernii hiatale prin alunecare necomplicate; Esofag scurt congenital",
+        "Tratament conservativ neeficace; Formarea stricturilor de origine inflamatorii a",
+        "esofagului; Hemoragii esofagiene frecvente; Esofag scurt congenital"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 4
+    },
+    {
+      "number": 11,
+      "text": ".Esofagita eroziv- ulceroasă poate fi o complicaţie a:",
+      "options": [
+        "Cancerului gastric",
+        "Ulcerului duodenal",
+        "Cardoispazmului",
+        "Herniei hiatale prin alunecare",
+        "Gastritei cronice"
+      ],
+      "section": "AFECŢIUNILE CHIRURGICALE A DIAFRAGMULUI",
+      "correct": 3
+    },
+    {
+      "number": 1,
+      "text": ". Care din metodele de investigaţii enumerate se folosesc pentru aprecierea localizării tumorilor şi chisturilor în mediastin?",
+      "options": [
+        "metodele radiologice",
+        "biolocaţia ultrasonoră",
+        "rezonanţa magnetică nucleară",
+        "metodele instrumentale de diagnostic",
+        "investigaţiile morfologice"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 2,
+      "text": ". Care din metodele de investigaţii enumerate confirmă histogeneza tumorilor mediastinului?",
+      "options": [
+        "rezonanţa magnetică nucleară",
+        "tomografia computerizată",
+        "mediastinografia",
+        "examenul morfologic",
+        "pneumomediastinigrafia"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": 3
+    },
+    {
+      "number": 3,
+      "text": ". Tumorile mediastinului de origine embrionară sunt următoarele, exceptând:",
+      "options": [
+        "chisturile dermoide şi teratoamele",
+        "seminoamele primitive",
+        "tumorile benigne şi maligne din mezenhim",
+        "corioepiteliomul primitiv",
+        "cordomul"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": 2
+    },
+    {
+      "number": 4,
+      "text": ". Tumori dezvoltate pe seama ţesuturilor mediastinale adulte sunt următoarele, exceptând:",
+      "options": [
+        "tumori din ţesutul conjunctiv",
+        "tumori neurogene",
+        "tumori din ţesut adipos celular",
+        "tumori epiteliale",
+        "tumori din vasele sanguine şi limfatice"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "text": ". Tumori şi chisturi mediastinale primitive sunt următoarele, exceptând:",
+      "options": [
+        "tumori timice",
+        "meningocelul",
+        "chistul hidatic",
+        "tumori metastatice",
+        "maladia Hodgkin"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 6,
+      "text": ". Contraindicaţiile absolute pentru intervenţia chirurgicală în tumorile maligne mediastinale sunt următoarele:",
+      "options": [
+        "metastaze la distanţă",
+        "sindromul venei cave superioare",
+        "paralizie laringiana stabilă (persistentă)",
+        "disfagie",
+        "sindromul doloric"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 7,
+      "text": ". Care afirmaţie este corecta în atitudinea tacticei de tratament a tumorilor benigne şi chisturilor mediastinale?",
+      "options": [
+        "supraveghere în dinamica",
+        "tratamentul chirurgical",
+        "tratamentul radioterapeutic",
+        "chimioterapia",
+        "tratamentul combinat"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": 1
+    },
+    {
+      "number": 8,
+      "text": ". Cea mai eficace metodă de tratament în tumorile maligne neganglionare a mediastinului este următoarea:",
+      "options": [
+        "tratamentul chirurgical",
+        "tratamentul radioterapeutic",
+        "tratamentul chimioterapeutic",
+        "tratamentul radioterapeutic şi chimioterapeutic",
+        "tratamentul combinat: chirurgical şi chimioterapeutic"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Emfizemul mediastinului poate fi provocat de următoarele cauze:",
+      "options": [
+        "ruptura traheei",
+        "ruptura esofagului",
+        "ruptura bronşiilor",
+        "ruptura stomacului",
+        "ruptura pericardului"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 10,
+      "text": ". Care forme ale mediastinitei acute nespecifice sunt primitive?",
+      "options": [
+        "mediastinita cauzata de traumatismulmediastinului fără lezarea organelor mediastinului",
+        "mediastinita cauzată de traumatismul mediastinului cu lezarea organelor mediastinului",
+        "mediastinita cauzată de trauma mediastinului cu lezarea pleurei şi plămânilor",
+        "mediastinita consecutiv unui focar din vecinătate",
+        "mediastinita metastatică (consecutiv unor infecţii generalizate)"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 11,
+      "text": ". Care din metodele enumerate de diagnostic în mediastinita acută purulentă sunt cele mai informative?",
+      "options": [
+        "ultrasonografia",
+        "investigaţiile de laborator",
+        "metodele radiologice",
+        "bronhoscopia",
+        "pneumoperitoneum"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": 2
+    },
+    {
+      "number": 12,
+      "text": ". Care din sindroamele şi simptoamele enumerate sunt caracteristice pentru mediastinita acută?",
+      "options": [
+        "ureri retrosternale",
+        "ureri interscapulare",
+        "isfagie",
+        "ereglări respiratorii",
+        "Stabilitatea hemodinamicei"
+      ],
+      "section": "CHIRURGIA MEDIASTINULUI",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Sindromul esofagian cuprinde următoarele semne, exceptând:",
+      "options": [
+        "regurgitaţii",
+        "sialoree",
+        "sughiţ",
+        "disfagie",
+        "dureri retrosternale"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 2,
+      "text": ". Disfagia paradoxală caracterizează",
+      "options": [
+        "tumori esofagiene benigne",
+        "cancerul esofagian",
+        "diverticulii esofagieni",
+        "stenozele esofagiene peptice",
+        "acalazia cardiei"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 4
+    },
+    {
+      "number": 3,
+      "text": ". Care din explorările următoare poate evidenţia cel mai exact refluxul gastroesofagian?",
+      "options": [
+        "endoscopia",
+        "esofagomanometria",
+        "tranzitul baritat eso-gastric",
+        "scintigrafia esofagiană",
+        "pH-metria esofagoană"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 4,
+      "text": ". Ruptura spontană a esofagului se traduce prin următoarele semne, exceptând:",
+      "options": [
+        "durere vie retrosternală la deglutiţie",
+        "voce nazonată",
+        "emfizem subcutan cervical",
+        "disfagie paradoxală",
+        "hidropneumatorax"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 3
+    },
+    {
+      "number": 5,
+      "text": ". Care este cea mai frecventă complicaţie a diverticului Zenker?",
+      "options": [
+        "hemoragia",
+        "perforaţia",
+        "malignizarea",
+        "complicaţiile pulmonare",
+        "flegmonul peridiverticular"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 3
+    },
+    {
+      "number": 6,
+      "text": ". Care afirmaţie referitoare la diverticulul Zenker este falsă?",
+      "options": [
+        "este un diverticul de pulsiune",
+        "se localizează în 1/3 inferioară a esofagului",
+        "se poate rupe in timpul manevrelor endoscopice",
+        "peretele diverticulului este constituit din mucoasă",
+        "se operează numai dacă este simptomatic"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 1
+    },
+    {
+      "number": 7,
+      "text": ". Care afirmatie referitor la diverticulul epifrenic nu este exactă?",
+      "options": [
+        "este insoţit de reflux gastro-esofagian",
+        "este un diverticul de tracţiune",
+        "se poate confunda cu hernia hiatală",
+        "poate fi mai mare decât diverticulul bifurcaţional",
+        "se poate însoţi de alte boli esofagiene"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 1
+    },
+    {
+      "number": 8,
+      "text": ". O disfagie capricioasă, intermitentă, accentuată de emoţii evocă cel mai adesea:",
+      "options": [
+        "o esofagită peptică",
+        "un reflux gastro-esofagian",
+        "un megaesofag",
+        "un cancer esofagian",
+        "o sclerodermie"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 9,
+      "text": ". Stenozele esofagiene postcaustice se caracterizează prin următoarele, exceptând:",
+      "options": [
+        "sunt multiple şi etajate",
+        "sunt excentrice",
+        "se situează la nivelul strâmtorilor anatomice esofagiene",
+        "interesează numai mucoasa",
+        "se pot însoţi de stenoza pilorică"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 3
+    },
+    {
+      "number": 10,
+      "text": ". Urmatoarele circumstanţe pot antrena un reflux gastro-esofagian, exceptând:",
+      "options": [
+        "diverticulul Zenker",
+        "hernia hiatală prin alunecare",
+        "gastrectomia polară superioară",
+        "brahiesofagul",
+        "scăderea presiunii sfincterului esofagian inferior"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 0
+    },
+    {
+      "number": 11,
+      "text": ". In acalazia cardiei persistă următoarele semne clinice cu excepţia:",
+      "options": [
+        "disfagiei frecvent paradoxale",
+        "rolul declanşator al emoţiilor",
+        "vărsăturile sunt frecvente",
+        "evoluţie capricioasă",
+        "este posibilă malignizarea"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 12,
+      "text": ". Intervenţia chirurgicală de elecţie în cardiospasm este:",
+      "options": [
+        "esofagogastrostomia",
+        "vagotomia tronculara cu drenaj",
+        "rezecţia de esofag",
+        "esocardiomiotomia combinat cu un procedeu antireflux",
+        "operaţia Nissen"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 3
+    },
+    {
+      "number": 13,
+      "text": ". Tratamentul de elecţie în acalazia cardiei gr. I-II este:",
+      "options": [
+        "spazmolitice",
+        "dilatarea instrumentală a sfincterului esofagian inferior",
+        "esofagomiotomia",
+        "sedarea bolnavului",
+        "dieta în asociere cu neurotropice"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 1
+    },
+    {
+      "number": 14,
+      "text": ". Factorul declanşator în cardiospasm este:",
+      "options": [
+        "combustiile",
+        "refluxul gastro-esofagian",
+        "dereglările sistemului nervos central şi vegetativ",
+        "anomaliile de dezvoltare",
+        "pirozisul"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 15,
+      "text": ". Ulcerul Barret este definit de:",
+      "options": [
+        "scăderea pH-ului esofagian",
+        "leziuni termice şi corozive",
+        "metaplazie prin celule cilindrice de mucoasă gastrică",
+        "perforaţie de corp străin",
+        "reflux gastro-esofagian"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": 2
+    },
+    {
+      "number": 16,
+      "text": ". Sindromului Boerhaave este caracteristic:",
+      "options": [
+        "ruptură postemică la nivelul esofagului distal",
+        "mediastinită acută",
+        "defect liniar de mucoasă în regiunea cardială cu hemoragie",
+        "defans muscular abdominal",
+        "prezenţa gazului sub diafragm la radiografia de panoramă a abdomenului"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 17,
+      "text": ". Semnele radiologice ale acalaziei cardiei sânt:",
+      "options": [
+        "îngustarea esofagului la nivelul sfincterului inferior esofagian",
+        "îngustări segmentare localizate pe traiectul esofagului",
+        "semnul „cozii de şoricel”",
+        "dilatare suprastenotică în formă de „pâlnie” a esofagului",
+        "lipsa sincronizării deschiderii sfencterului inferior esofagian cu deglutiţia"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 18,
+      "text": ". Tratamentul chirurgical al acalaziei are următoarele obiective:",
+      "options": [
+        "cardiomiotomia extramucoasă",
+        "crurorafie posterioară",
+        "vagotomie tronculară",
+        "fundoplicaţie",
+        "rezecţie de esofag"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "number": 19,
+      "text": ". Numiţi mecanismele ce împiedică refluarea conţinutului gastric în esofag:",
+      "options": [
+        "contracţiile tonice ale sfincterului inferior esofagian",
+        "gradientului dintre presiunea toracică şi cea abdominală",
+        "reflexul deschiderii cardiei la deglutiţie",
+        "unghiul His",
+        "valva Gubarev"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 20,
+      "text": ". După localizare se disting diverticuli esofagieni:",
+      "options": [
+        "faringoesofagieni",
+        "supraaortici",
+        "bifurcaţionali",
+        "epifrenici",
+        "cardiali"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 21,
+      "text": ". Numiţi particularităţile distinctive ale diverticului Zenker",
+      "options": [
+        "este localizat pe peretele anterior la trecerea faringelui în esofag",
+        "este un diverticul tracţional",
+        "presiunea mărită şi discordanţa contracţiilor musculare sunt cauzele formării diverticului",
+        "necesită diverticulectomie",
+        "poate fi rezolvat prin invaginare"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 22,
+      "text": ". Pentru diverticulii bifurcaţionali este caracteristic:",
+      "options": [
+        "rupere în trahee",
+        "dureri retrosternale",
+        "defans muscular abdominal",
+        "este prezent semnul „şnuruirii ghetelor”",
+        "mai des au clinică mută"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 23,
+      "text": ". Complicaţiile diverticulelor esofagieni sunt considerate:",
+      "options": [
+        "perforaţia, penetraţia, hemoragia",
+        "stenoza de esofag",
+        "acalazia cardiei",
+        "fistulele",
+        "cancerul"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 24,
+      "text": ". Indicaţii pentru tratament chirurgical al diverticulelor esofagieni servesc:",
+      "options": [
+        "complicaţiile diverticulelor",
+        "diverticulele mici fără complicaţii",
+        "pseudodiverticulele",
+        "retenţie de mase ingerate în diverticul",
+        "diverticule mari cu retenţie minimă de mase ingerate"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 25,
+      "text": ". Care fenomene produse de perforaţia esofagului formează triada Mackler:",
+      "options": [
+        "vomismente",
+        "hemoragie",
+        "durere toracică joasă",
+        "emfizem subcutanat cervical",
+        "disfagie"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 26,
+      "text": ". Care fenomene produse de perforaţia esofagului formează triada Barret:",
+      "options": [
+        "dispnee",
+        "vomismente",
+        "diaree",
+        "emfizem subcutanat",
+        "defans muscular epigastral"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 27,
+      "text": ". Care fenomene produse de perforaţia esofagului formează triada Anderson:",
+      "options": [
+        "vomismente",
+        "emfizem subcutan",
+        "polipnee",
+        "contractură abdominală",
+        "hemoragie"
+      ],
+      "section": "PATOLOGIA CHIRURGICALĂ A ESOFAGULUI",
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Unde se afla linia de demarcaţie, pornind de la care putem vorbi despre hemoragii din segmentul superior si din cel inferior ale tubului digestiv",
+      "options": [
+        "la nivelul papilei Vater",
+        "la nivelul flexurii inferioare a duodenului",
+        "la nivelul unghiului duodeno-jejunal",
+        "cu 30-50 cm distal de ligamentul Treitz",
+        "la nivelul valvulei Bauhin"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 2
+    },
+    {
+      "number": 2,
+      "text": ". Din semnele clinice ale hemoragiei cel mai puţin relevant ca criteriu de gravitate a pierderii de sânge este...",
+      "options": [
+        "Hematemeza",
+        "caracteristica pulsului si valoarea tensiunii arteriale",
+        "frecventa muscarilor respiratorii",
+        "semnele vasoconstricţiei periferice",
+        "melena"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 3,
+      "text": ". Despre influenta microcirculatiei deficitare asupra organelor interne in condiţii de hipovolemie, cauzata de pierderea de sânge, este mai lesne sa judecam după tulburările funcţionale interesind...",
+      "options": [
+        "encefalul",
+        "cordul",
+        "plămânii",
+        "intestinul",
+        "rinichii"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 4,
+      "text": ". Din metodele de diagnostic al hemoragiilor din segmentul superior al tubului degestiv este prioritara..",
+      "options": [
+        "endoscopia",
+        "radiografia baritata",
+        "scintigrafia",
+        "angiografia",
+        "laparotomia exploratorie"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 5,
+      "text": ". Ce afirmatie referitoare la ulcerele de stres este eronata",
+      "options": [
+        "se observa in stari de risc sporit",
+        "ulceratiile sint multiple",
+        "pina la aparitia complicatiilor evolueaza asimptomatic",
+        "se complica prin hemoragie si perforatie",
+        "hemoragiile din ulcerele acute au tendinta de hemostaza spontana"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 6,
+      "text": ". In terapia incipienta a hemoragiilor, conditionate de ulceratiile acute, se aplica in primul",
+      "options": [
+        "rînd...",
+        "blocanti H2 histaminici",
+        "antacide",
+        "perfuzie selectiva cu vasopresina",
+        "perfuzii intravenoase, si refrigeratie gastrica",
+        "vitamina A in megadoze"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "text": ". Persistenta hemoragiei dupa tratamentul conservator al ulcerelor acute, impune masuri suplimentare de tipul celor enumerate mai jos. Care din ele sint preferabile",
+      "options": [
+        "diatermo- si fotocoagularea",
+        "VT cu piloroplastie",
+        "VT cu antrectomie",
+        "rezectia subtotala a stomacului",
+        "gastrectomia"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 8,
+      "text": ". Hemoragia difuza redutabila din mucoasa gastrica nu se preteaza hemostazei prin metode conservatoare de rutina, coroborate de perfuzia selectiva cu vasopresina, de embolizarea vaselor gastrice si de fotocoagulare. In 24 de ore bolnavului i s-au transfuzat 2,5 l de singe, insa starea lui ramine instabila. In aceste curcumstante este mai rationala ...",
+      "options": [
+        "VT cu piloroplastie",
+        "VT cu antrectomie",
+        "rezectia subtotala a stomacului",
+        "rezectia proximala a stomacului",
+        "gastrectomia"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Solutia de continuitate a mucoasei in sindromul Mallory-Weiss se produce predilect...",
+      "options": [
+        "in zona jonctiunii cardioesofagiane",
+        "pe pereteele antral anterior",
+        "pe peretele antral posterior",
+        "pe mica curbura a stomacului",
+        "in zona pilorului"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 10,
+      "text": ". Instalarea sindromului Mallory-Weiss este favorizata de urmatorii factori, exceptind...",
+      "options": [
+        "perturbarea functiei evacuatoare a stomacului",
+        "reducerea mobilitatii mucoasei si submucoasei",
+        "disarmonia dintre contractiile esofagului si stomacului",
+        "refluxul gastroesofagian",
+        "distensia brusca a stomacului"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 11,
+      "text": ". Din timpii operatori in sindromul Mallory-Weiss nu fac parte",
+      "options": [
+        "gastrotomia larga",
+        "explorarea stomacului in intregime",
+        "suturarea fisurii prinzind straturile submucos si muscular",
+        "explorarea organelor adiacente",
+        "piloroplastia"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 12,
+      "text": ". Un remediu eficient de reducere a circulatiei portale in hipertensiunea portala il constituie...",
+      "options": [
+        "lactuloza",
+        "cimetidina",
+        "neomicina",
+        "vasopresina",
+        "sedativele"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 3
+    },
+    {
+      "number": 13,
+      "text": ". Pina la 80-90% din cazurile de hemoragii acute din varicele esofagiene se preteaza controlului. Din metodele aplicate in acest scop este prioritara..",
+      "options": [
+        "vasopresina",
+        "tamponamentul prin sonda Sengstaken-Blakemore",
+        "scleroterapia",
+        "embolizarea transparietohepatica a venelor gastrice",
+        "anastomoza porto-cava"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 2
+    },
+    {
+      "number": 14,
+      "text": ". Tamponamentul cu sonda Sengstaken-Blakemore al varicelor esofagiene singerinde de 4-9% complicatii. Cea mai frecventa dintre ele este...",
+      "options": [
+        "aspiratia",
+        "obstruarea traheei",
+        "necroza unor portiuni de mucoasa",
+        "necroza esofagului",
+        "ruptura esofagului"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 15,
+      "text": ". Cea mai fracventa cauza a hemobilei o constituie",
+      "options": [
+        "traumatismul ficatului",
+        "tumorile ficatului si cailor biliare",
+        "litiaza biliara",
+        "patologia vaselor intra- si extrahepatice",
+        "abcesul hepatic"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 16,
+      "text": ". Pentru hemobilie sint caracteristice urmatoarele simptome, exceptind..",
+      "options": [
+        "colica hepatica",
+        "icterul",
+        "hemoragiile in tubul digestiv",
+        "hepatomegalia",
+        "melena"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 3
+    },
+    {
+      "number": 17,
+      "text": ". Care afirmatie referitoare la hemoragiile inferioare din tractul digestiv este eronata",
+      "options": [
+        "afectiunile, care se complica prin hemoragii, sint foarte variate",
+        "pina la declansarea hemoragiei manifestarile clinice ale bolii sint fracvent fruste, nespecifice sau absente",
+        "sursele de hemoragii se pot localiza simultan in diferite segmente ale intestinului",
+        "nu este obligator, ca patologia depistata in cadrul examenului preoperator, sa constituie si cauza hemoragiei",
+        "sursa de hemoragie se indentifica mai lesne prin laparotomie"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 4
+    },
+    {
+      "number": 18,
+      "text": ". Hemoragiile joase masive din tractul gastrointestinal sint mai putin verosimile, cind sursa coreleaza cu ..",
+      "options": [
+        "un proces inflamatoriu",
+        "o proliferare blastomatoasa",
+        "o anomalie de dezvoltare a intestinului",
+        "cauze macanice",
+        "o patologie vasculara"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 19,
+      "text": ". Hemoragia masiva din colon poate fi prima si unica manifestare a afectiunii in ...",
+      "options": [
+        "diverticuloza",
+        "polipoza familiala",
+        "neoplaziile maligne",
+        "colita ulceroasa nespecifica",
+        "endometrioza intestinala"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 0
+    },
+    {
+      "number": 20,
+      "text": ". Hemoragia masiva in diverticuloza colonului se explica in primul rind prin...",
+      "options": [
+        "insuficienta tramei conjuctive din peretele intestinal",
+        "amplasarea contigua a numeroase diverticule",
+        "corelatiile diverticului cu vasele peretului intestinal",
+        "retentia continutului intestinal in diverticul",
+        "diverticulita"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 2
+    },
+    {
+      "number": 21,
+      "text": ". Pentru tratarea hemoragiei masive pe fond de colita ulceroasa nespecifica",
+      "options": [
+        "este recomendabila",
+        "atitudinea conservatoare",
+        "ileostomia",
+        "hemicolectomia stinga",
+        "colectomia subtotala",
+        "colproctectomia"
+      ],
+      "section": "HEMORAGIILE DIGESTIVE",
+      "correct": 3
+    },
+    {
+      "number": 1,
+      "text": ". Frecvenţa ulcerului peptic recidivant este determinată în primul rând de:",
+      "options": [
+        "vârsta bolnavului",
+        "vechimea bolii",
+        "sediul si dimensiunile ulcerului",
+        "complicaţii ale ulcerului existente la momentul operaţiei primare",
+        "tipul operaţiei primare"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 4
+    },
+    {
+      "number": 2,
+      "text": ". În urma cărui tip de operaţie, frecvenţa ulcerului peptic recidivant este cea mai mică?",
+      "options": [
+        "gastroenteroanastomoză",
+        "rezecţie gastrică 2/3",
+        "vagotomie tronculară cu operaţie de drenaj gastric",
+        "vagotomie tronculară cu rezecţie gastrică economă",
+        "vagotomie selectivă proximală"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 3
+    },
+    {
+      "number": 3,
+      "text": ". Pentru sindromul cronic al ansei aferente cel mai caracteristic semn clinic este:",
+      "options": [
+        "dureri în epigastriu, greţuri, vome",
+        "pirozis",
+        "anorexie",
+        "constipaţii",
+        "tahicardie"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 0
+    },
+    {
+      "number": 4,
+      "text": ". După care din intervenţiile menţionate poate apărea gastrita alcalină de reflux ?",
+      "options": [
+        "vagotomie tronculară cu piloroplastie",
+        "rezecţia gastrică 2/3 tip Bilroth I",
+        "vagotomie tronculară cu gastroduodenostomie",
+        "vagotomie tronculară cu gastrojejunostomie",
+        "oricare din procedeele citate"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 4
+    },
+    {
+      "number": 5,
+      "text": ". Cauza cea mai frecventă pentru apariţia ulcerului peptic recidivant este:",
+      "options": [
+        "rezecţia economă a stomacului",
+        "vagotomia incompletă",
+        "rămăşiţa unui sector de ţesut a canalului piloric in bontul duodenal",
+        "gastrinoma",
+        "hiperparatireoidizm primar"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 0
+    },
+    {
+      "number": 6,
+      "text": ". Excluderea gastrinomului la un bolnav ulceros, va începe cu:",
+      "options": [
+        "ultrasonografie, computertomografie",
+        "angiografie selectivă",
+        "testul cu secretina",
+        "dozarea gastrinei serice",
+        "testele secreţiei gastrice"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 4
+    },
+    {
+      "number": 7,
+      "text": ". Ulcerul peptic recidivant este cel mai frecvent determinat de:",
+      "options": [
+        "alegerea şi efectuarea incorectă a intervenţiei chirurgicale",
+        "hiperparatireoidizm",
+        "gastrinom",
+        "infecţie cu Heliobacter pylori",
+        "reflux duodeno-gastral"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 0
+    },
+    {
+      "number": 8,
+      "text": ". Pentru anemia agastrală sunt caracteristice, excluzând;",
+      "options": [
+        "slăbiciuni generale",
+        "ameţeli, vertijuri",
+        "eritropenie si hipohemoglobinemie",
+        "paliditatea tegumentelor",
+        "creştere în pondere"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Care maladii ale stomacului operat, ca regulă necesită reintervenţie chirurgicală:",
+      "options": [
+        "dumping-sindrom de gr. I – II",
+        "anemia agastrală",
+        "ulcerul peptic recidivant al gastroduodenoanastomozei",
+        "diareea postvagotomică",
+        "maladsorbţia enterogenă"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 2
+    },
+    {
+      "number": 10,
+      "text": ". Numiţi maladiile stomacului operat:",
+      "options": [
+        "hemoragie intraabdominală la a IV-a zi după rezecţie gastrică",
+        "sindromul hipoglicemic",
+        "astenia agastrală",
+        "anemia postgastrorezecţională",
+        "dehiscenţa suturilor gastroduodenoanastomozei"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 1
+    },
+    {
+      "number": 11,
+      "text": ". Numiţi patologiile care nu sunt calificate drept maladii ale stomacului operat:",
+      "options": [
+        "gradul III al dumping-sindromului",
+        "fistula gastrojejunocolică",
+        "dehiscenţa suturilor carenei gastrice",
+        "ulcerul peptic al jejunului",
+        "pancreatita acută postoperatorie în urma rezecţiei gastrice"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 2
+    },
+    {
+      "number": 12,
+      "text": ". Marcaţi boala stomacului operat:",
+      "options": [
+        "hemoragia gastrică postoperatorie la a 2 zi postoperatorie",
+        "diareea postvagotomică",
+        "ulcerul peptic recidivant duodenal",
+        "dehiscenţa bontului duodenal",
+        "dehiscenţa suturilor gastroenteroanastomozei"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 2
+    },
+    {
+      "number": 13,
+      "text": ". Sindromul postvagotomic este:",
+      "options": [
+        "stenoza cicatricială a gastroenteroanastomozei",
+        "ulcerul acut al jejunului",
+        "gastrostaza",
+        "gastrita atrofică",
+        "dumping sindromul"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 2
+    },
+    {
+      "number": 14,
+      "text": ". Sindrom postgastrorezecţional este:",
+      "options": [
+        "anemia agastrală",
+        "sindromul cronic al ansei aferente cauzat de malrotaţia duodenală",
+        "reflux – gastrita biliară",
+        "stenoza piloroduodenală după suturarea ulcerului duodenal perforat",
+        "ulcerul peptic recidivant după vagotomie selectivă proximală"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 2
+    },
+    {
+      "number": 15,
+      "text": ". Cel mai util în diagnosticul dumping-sindromului se consideră:",
+      "options": [
+        "aprecierea manifestărilor clinice ale maladiei",
+        "anamneza",
+        "datele examenului radiologic cu masă baritată a tractului digestiv",
+        "examinarea funcţiei de secreţie a HCl de către stomac",
+        "testul cu soluţie de glucoză de 50%"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 4
+    },
+    {
+      "number": 16,
+      "text": ". Operaţia de elecţie în sindromul Zolinger – Ellison de tip II este:",
+      "options": [
+        "rerezecţie gastrică tip „Roux”",
+        "rerezecţie cu vagotomie tronculară",
+        "vagotomie tronculară",
+        "gastrectomie totală indiferent de faptul înlăturări gastrinomei",
+        "înlăturarea gastrinomei depistate"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 3
+    },
+    {
+      "number": 17,
+      "text": ". Disfagia în urma operaţiilor pentru ulcere gastrice şi duodenale este cauzată de:",
+      "options": [
+        "rezecţia înaltă a stomacului",
+        "anastomozită",
+        "gastrita biliară de reflux",
+        "denervarea esofagului",
+        "vagotomia incompletă"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": 3
+    },
+    {
+      "number": 18,
+      "text": ". Următoarele explorări sunt utile pentru a stabili cauza ulcerului peptic recidivant:",
+      "options": [
+        "esofagogastroduodenoscopia",
+        "examenul biopsic",
+        "dozarea gastrinemiei",
+        "dozarea potasiului seric",
+        "testele de evaluare a secreţiei gastrice"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 19,
+      "text": ". Cauze ale ulcerului peptic recidivant sunt considerate următoarele, exceptând:",
+      "options": [
+        "rezecţia economă a stomacului",
+        "gastroenteroanastomoza largă",
+        "evacuarea continue, rapidă a conţinutului gastric",
+        "hiperplazia celulelor parietale",
+        "reflux-gastrita"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 20,
+      "text": ". Enumeraţi operaţiile în urma cărora poate survine boala stomacului operat:",
+      "options": [
+        "suturarea ulcerului perforat",
+        "rezecţia gastrică tip Bilroth I",
+        "gastrojejunoanastomoza pe ansa „omega”",
+        "vagotomia tronculară cu excizia ulcerului şi piloroplastie tip Djudd",
+        "rezecţia gastrică cu aplicarea gastrojejunoanastomozei pe ansa „omega”"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 21,
+      "text": ". Este caracteristic pentru gradul I al sindromului Dumping:",
+      "options": [
+        "intensificarea pulsului cu 10-15 bătăi pe min după administrarea glucidelor",
+        "căderea TA cu 10-15 mm Hg",
+        "ineficacitatea tratamentului conservator",
+        "capacitate de muncă pierdută",
+        "deficit de masă corporală 5 kg"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 22,
+      "text": ". Cauzele sindromului cronic al ansei aferente sunt:",
+      "options": [
+        "stenoza ansei aferente",
+        "gastrostaza postoperatorie",
+        "denervarea duodenului",
+        "maladsorbţia intestinală",
+        "stenoza ansei eferente"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 23,
+      "text": ". Sindromului acut al ansei aferente este caracteristic:",
+      "options": [
+        "stenoza gastroduodenoanastomozei",
+        "prezintă pericol pentru viaţa pacientului",
+        "apare în urma invaginatului ansei aferente",
+        "apare în urma cudurii ansei aferente",
+        "apare în urma denervării duodenului"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 24,
+      "text": ". Enumeraţi operaţiile utile în sindromul acut al ansei aferente:",
+      "options": [
+        "reduodenizare",
+        "rerezecţie cu refacerea GEA pe ansa în „Y” a la Roux",
+        "jejunoduodenostomie",
+        "reversiunea segmentului jejunal",
+        "desinvaginarea ansei aferente"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 25,
+      "text": ". Enumeraţi sindroamele postvagotomice:",
+      "options": [
+        "gastrostaza",
+        "sindromul Dumping tardiv",
+        "duodenostaza",
+        "sindromul cronic al ansei aferente",
+        "sindromul Dumping precoce"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 26,
+      "text": ". Enumeraţi cauzele ulcerului peptic recidivant după vagotomie:",
+      "options": [
+        "secţionarea incompletă a ramurilor gastrice ale nervilor vagi",
+        "rezecţia economă gastrică",
+        "drenajul gastric neadecvat",
+        "hipercalciemia",
+        "hipergastrinemia"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 27,
+      "text": ". Enumeraţi operaţiile inutile în caz de ulcer peptic recidivant cauzat de mucoasă antrală reziduală deasupra bontului duodenal:",
+      "options": [
+        "micşorarea dimensiunilor gastroenteroanastomozei",
+        "reduodenizare",
+        "rezecţia porţiunii antrale deasupra duodenului",
+        "reduodenizare prin gastrojejunoduodenoplastie",
+        "reconstrucţia anastomozei din Bilroth II în Bilroth I"
+      ],
+      "section": "BOALA STOMACULUI OPERAT",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Care din următoarele intervenţii chirurgicale se complică mai rar cu encefalopatie hepatică?",
+      "options": [
+        "anastomoza porto-cavă termino-laterală",
+        "anastomoza porto-cavă latero-laterală",
+        "anastomoza spleno-renală proximală",
+        "anastomoza spleno-renală distală (Warren)",
+        "anastomoza mezenterico-cavă"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 3
+    },
+    {
+      "number": 2,
+      "text": ". Fibroscopia evidenţiază varice esofagiene gr. III care sângerează, mucoasă gastrică fără ulceraţii. La ce metodă de hemostază apelaţi mai întâi?",
+      "options": [
+        "ligatura varicelor esofagiene",
+        "rezecţia esofagului inferior cu anastomoză esogastrică",
+        "tamponament cu sonda Blackmore, pituitrină intravenos",
+        "deconexiune azygo-portală",
+        "anastomoză spleno-renală"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 3,
+      "text": ". Care din afirmaţia prezentată mai jos, este eronată:",
+      "options": [
+        "ficatul posedă o dublă circulaţie",
+        "fluxul sangvin hepatic este de cca 1500 ml/min sau 25-30% din debitul cardiac în repaus",
+        "sistemul venos portal leagă 2 reţele capilare",
+        "vena portă se formează prin unirea venei mezenterice superioare, mezenterice inferioare şi splenice",
+        "axul venos porto-caval este bogat în valve ce determină modificările de presiune în tot sistemul venos port"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 4,
+      "text": ". Pentru sindromul Baumgarten-Cruveilhier NU este caracteristic:",
+      "options": [
+        "debut acut",
+        "recanalizarea venei portă, apariţia capului de meduză şi suflu specific la auscultaţie",
+        "emfizem subcutanat",
+        "coagulopatie",
+        "respiraţie paradoxală"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "text": ". Ce metodă poate fi utilă în tratamentul hipertensiunii portale cirogene?",
+      "options": [
+        "drenajul Wirsungului",
+        "vagotomia tronculară",
+        "transplantul lienal",
+        "deconexiunea azygo-portală",
+        "splenopancreatectomia stîngă"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 3
+    },
+    {
+      "number": 6,
+      "text": ". Cauza cea mai frecventă a hipertensiunii portale este?",
+      "options": [
+        "pericardita congestivă",
+        "sindromul Budd-Chiari",
+        "ciroza hepatică cu baraj intrahepatic",
+        "cvadrifurcaţia venei porte",
+        "tromboza venei lienale"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 7,
+      "text": ". Pentru aprecierea stării funcţionale hepatice la pacienţii cirotici cu sindrom de hipertensiune portală se foloseşte:",
+      "options": [
+        "scorul Ranson",
+        "indicele Algover",
+        "scorul Apgar",
+        "criteriile Child",
+        "scorul Glasgow"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 3
+    },
+    {
+      "number": 8,
+      "text": ". Pacienţii cu şunt porto-cav pot dezvolta o stare de comă hepatică prin :",
+      "options": [
+        "hipocalcemie",
+        "hiperglicemie",
+        "hiperalbuminemie",
+        "creşterea amonemiei",
+        "creşterea timpului de protrombină"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 3
+    },
+    {
+      "number": 9,
+      "text": ". Operaţia Tanner are următoarea indicaţie:",
+      "options": [
+        "encefalopatia",
+        "ascita refractară tratamentului medicamentos",
+        "hemoragia prin ruptura varicelor esofagiene",
+        "hemoragia prin ruptura varicelor colonice",
+        "hemoragia prin ruptura varicelor rectale"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 10,
+      "text": ". Ce afirmaţie referitor la forma prehepatică a hipertensiunii portale este falsă?",
+      "options": [
+        "apare mai frecvent la copii",
+        "determină apariţia claudicaţiei intermitente",
+        "anastomoza spleno-renală distală micşorează presiunea portală",
+        "este cauzată de anomaliile congenitale de dezvoltare ale venei portă",
+        "determină apariţia hemoragiei digestive"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 1
+    },
+    {
+      "number": 11,
+      "text": ". Care din manifestările de mai jos NU sunt caracteristice pentru hipertensiunea portală?",
+      "options": [
+        "ascita",
+        "splenomegalia",
+        "disfagia",
+        "encefalopatia hepatică",
+        "varicele esofago-gastrice"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 12,
+      "text": ". Condiţiile necesare pentru apariţia ascitei sunt:",
+      "options": [
+        "existenţa sindromului de malabsorbţie",
+        "prezenţa icterului",
+        "prezenţa hipertensiunii portale cronice şi retenţia hidrosalină",
+        "prezenţa hipertensiunii portale acute asociată cu icter intermitent",
+        "hipoalbuminemie"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 13,
+      "text": ".Intervenie chirurgicala optimala,care poate fi realizata in hemoragiile variciale esofagiene:",
+      "options": [
+        "operatia Patiora",
+        "operatia Le Vin",
+        "suntarea portosistemica",
+        "operatia Ekkov (fistula porto-cava)",
+        "splenectomia"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 0
+    },
+    {
+      "number": 14,
+      "text": ". Care din afirmaţia de mai jos referitoare la hipertensiunea portală este falsă?",
+      "options": [
+        "evoluţia, de obicei, este severă",
+        "determină hemoragia digestivă",
+        "este consecinţa unui obstacol în sistemul port",
+        "consecinţele ei pot fi: splenomegalia, encefalopatia, ascita, hemoragia digestivă",
+        "se micşorează la administrarea 5-ftoruracilului"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 15,
+      "text": ". Cele enumerate mai jos sunt cauze ale hipertensiunii portale, cu excepţia:",
+      "options": [
+        "sindromul Budd-Chiari",
+        "boala Chiari",
+        "sindrom Zollinger-Ellison",
+        "ciroza hepatică alcoolică",
+        "chist hidatic hepatic gigant (lob drept, S6-7-8)"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 16,
+      "text": ". Hipertensiunea portală se caracterizează prin următoarele semne, cu excepţia:",
+      "options": [
+        "splenomegalie",
+        "ascită",
+        "circulaţie colaterală abdominală",
+        "varice esofagiene",
+        "silenţiu abdominal"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 17,
+      "text": ". Alegeţi afirmaţia incorectă pentru hipertensiunea portală:",
+      "options": [
+        "splenomegalia se însoţeşte de hipersplenism hematologic predominat de trombocitopenie şi leucopenie",
+        "cauzele şi clasificarea hipertensiunii portale se bazează pe sediul obstacolului şi raportul acestuia cu patul sinusoidal",
+        "hemoragia variceală este complicaţia hipertensiunii portale",
+        "presiunea în vena portă, în mod normal, este de 10-15 mmHg",
+        "manifestările clinice ale hipertensiunii portale apar dacă gradientul presional este mai mic de 10 mmHg"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 18,
+      "text": ". Care din cele enumerate mai jos, sunt procedee de deconexiune azygo-portală?",
+      "options": [
+        "anastomoza spleno-renală centrală",
+        "anastomoza spleno-renală proximală",
+        "anastomoza omfalo-cavă",
+        "anastomoza porto-sistemică în \"H\"",
+        "operaţia Şugiura"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 19,
+      "text": ". Indicaţi remediile eficiente pentru reducerea hipertensiunii portale?",
+      "options": [
+        "imetidină",
+        "Octreotid",
+        "Mercazolil"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "text": "-ftoruracil",
+      "options": [
+        "Pituitrină"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 20,
+      "text": ". Operaţia cea mai frecvent practicată în hipertensiunea portală este:",
+      "options": [
+        "anastamoza porto-cavă",
+        "anastamoza spleno-renală",
+        "deconexiunea azygo-portală",
+        "anastamoza mezenterico-cavă",
+        "anastamoza omfalo-cavă"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 21,
+      "text": ". Sindromul de hipertensiune portală se caracterizează prin:",
+      "options": [
+        "este însoţită de creşterea presiunii venoase centrale",
+        "se traduce prin icter progresiv, prurit",
+        "se poate dezvolta pe fonul maladiei Chiari",
+        "se asociază, de regulă, cu angina abdominală",
+        "este însoţită de hipertensiune arterială"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 2
+    },
+    {
+      "number": 22,
+      "text": ". Caracteristic pentru hipersplenismul secundar hipertensiunii portale este:",
+      "options": [
+        "hiperamilazemia",
+        "hiperleucocitoza şi azotemia",
+        "tromboctopenia şi anemia",
+        "scăderea ponderală importantă",
+        "hemoragia digestivă ocultă"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 23,
+      "text": ". Şunturile porto-sistemice non-selective sunt reprezentate de:",
+      "options": [
+        "şuntul porto-cav termino-lateral",
+        "şuntul porto-cav latero-lateral",
+        "şuntul proximal spleno-renal",
+        "şuntul spleno-renal distal",
+        "şuntul porto-sistemic transjugular intrahepatic"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 3
+    },
+    {
+      "number": 24,
+      "text": ". Ce afirmaţie referitor la forma suprahepatică a hipertensiunii portale este adevărată?",
+      "options": [
+        "are un pronostic favorabil",
+        "are debut brutal, legat de un moment alimentar",
+        "cavografia şi celiacografia nu sunt utile pentru diagnostic",
+        "se însoţeşte de hepatomegalie dureroasă",
+        "este asimptomatică"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 1
+    },
+    {
+      "number": 25,
+      "text": ". Sindromul Budd-Chiari se caracterizează prin:",
+      "options": [
+        "durere în punctul costovertebral stâng la palpare",
+        "debut acut asociat cu dureri intense epigastrice şi hepatomegalie dureroasă",
+        "disfagie paradoxală",
+        "atrezia sau hipoplazia venei portă",
+        "obstrucţia segmentară a venei lienale"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 0
+    },
+    {
+      "number": 26,
+      "text": ". Care este cea mai frecventă consecinţă a anastomozei porto-cave?",
+      "options": [
+        "encefalopatia",
+        "pileflebita purulentă",
+        "abcesul hepatic",
+        "ruptura de splină în \"doi timpi\"",
+        "hemangiomul hepatic"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 1
+    },
+    {
+      "number": 27,
+      "text": ". Şunturile portocave selective sunt preferate deoarece se complică mai rar cu:",
+      "options": [
+        "ascită",
+        "encefalopatie portală",
+        "resângerare",
+        "insuficienţă renală acută",
+        "sindrom hepatorenal"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 28,
+      "text": ". Enumeraţi cauzele de sângerare digestivă în contextul hipertensiunii portale:",
+      "options": [
+        "ruperea varicelor esofagiene",
+        "gastropatia portal-hipertensivă",
+        "displazia epitelială esofagiană Barret",
+        "ruperea hemoroizilor secundari",
+        "ruperea varicelor gastrice fundice"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 29,
+      "text": ". Care din următoarele modalităţi terapeutice pot fi folosite în stoparea hemoragiei din varicele esofagiene rupte?",
+      "options": [
+        "scleroterapia endoscopică",
+        "rezecarea esofagului toracic plus esofagoplastie",
+        "sonda Sengstaken - Blakemore",
+        "vagotomia cu piloroplastia",
+        "ligatura cu inele elastice"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 30,
+      "text": ". Care sunt obiectivele tratamentului chirurgical în hipertensiunea portală?",
+      "options": [
+        "reducerea secreţiei gastrice",
+        "reechilibrarea volemică şi hematică",
+        "reducerea hipertensiunii portale",
+        "controlul hemoragiei acute variceale esofagogastrice",
+        "micşorarea riscului de recidivă a sângerării variceale"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 31,
+      "text": ". Care dintre următoarele afirmaţii despre şuntul porto-cav realizat în cazurile de urgenţă sunt adevărate?",
+      "options": [
+        "se obţine o hemostază promptă",
+        "trebuie să fie urmat de transplant hepatic",
+        "este de preferat şuntul de tip selectiv",
+        "nu are contraindicaţii",
+        "mortalitatea postoperatorie este mică"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 32,
+      "text": ". Răspunsul splinei la hipertensiunea portală, indiferent de sediul obstacolului, este:",
+      "options": [
+        "splenomegalia",
+        "hipervascularizare cu creşterea presiunii portale prin hiperaflux",
+        "hipersplenizm imunologic",
+        "ratatinarea splinei",
+        "apariţia fistulelor arterio-venoase lienale"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": 4
+    },
+    {
+      "number": 33,
+      "text": ". Pacientul, 30 de ani, a fost internat în clinică cu plângeri de slăbiciune, amețeli, vărsături, scaune de ,, pacura,,. Durerile abdominale absente. Diagnosticul Dvs. preliminar?",
+      "options": [
+        "Ulcer perforat (atipic)",
+        "Pancreatonecroza",
+        "Stenoza schimbătoare",
+        "Infarctul intestinului",
+        "Sângerare gastrointestinală"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "number": 34,
+      "text": ". Care din afecţiunile de mai jos pot cauza obstacol portal intrahepatic?",
+      "options": [
+        "afecţiuni pancreatice",
+        "splenomegalii primitive",
+        "tumori hepatice",
+        "ciroza hepatică",
+        "sindromul Budd-Chiari"
+      ],
+      "section": "SINDROMUL DE HIPERTENSIUNE PORTALĂ",
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Care dintre afirmaţiile enumerate pot fi cauzele sindromului postcolecistectomie ?",
+      "options": [
+        "onfuz de diagnostic",
+        "fecţiunile cardiovasculare",
+        "fecţiunile zonei hapato-pancreatice, ca complicaţii ale colelitiazei",
+        "Operaţie incompletă sau inadecvată",
+        "Leziuni provocate de gestul chirurgical incorect (leziuni iatrogene)"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": ". Care dintre semnele enumerate ne orientează în favoarea sindromului postcolecistectomie?",
+      "options": [
+        "isfagia",
+        "olică biliară",
+        "Icter tranzitoriu",
+        "Pirozis",
+        "ureri lombare",
+        "Sindromul asteno-vegetativ"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Sindromul postcolecistectomic este motivat de următoarele grupe de patologii:",
+      "options": [
+        "fecţiuni a căii biliare principale şi a papilei duodenale mari",
+        "fecţiunile ficatului şi pancreasului",
+        "fecţiunile duodenului",
+        "Maladiile altor organe ale tractului digestiv din vecinătate",
+        "Toate cele expuse mai sus"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 4,
+      "text": ". Care dintre explorările radiologice enumerate ne permit de a stabili cauza sindromului postcolecistectomic ?",
+      "options": [
+        "olangiografia endoscopică retrogradă",
+        "uodenografia cu masă baritată",
+        "olangiografia prin rezonanţă magnitico-nucleară",
+        "olangiografia perorală",
+        "olangiografia transparietohepatică"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 5,
+      "text": ". În prevenirea sindromului postcolecistectomic importă:",
+      "options": [
+        "iagnostic complet pre- şi intraoperator",
+        "O tehnică corectă chirurgicală",
+        "O tactică chirurgicală cît mai adecvată situaţiei clinice",
+        "Folosirea colangiografiei intraoperatorii",
+        "Toate cele enumerate"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": 4
+    },
+    {
+      "number": 6,
+      "text": ". Icterul mecanic este cauzat de următoarele entităţi patologice, exceptând:",
+      "options": [
+        "oledocolitiaza",
+        "ancerul pancreasului şi a papilei duodenale mari",
+        "ancerul hepatico-coledocului şi a vezicului biliare",
+        "Tumorile maligne primare şi secundare ale ficatului",
+        "Malrotaţia duodenală"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": 4
+    },
+    {
+      "number": 7,
+      "text": ". Icterul în cancerul cefalopancreatic are următoarele caractere:",
+      "options": [
+        "Nuanţa verzul pământie a tegumentelor",
+        "Urina este hipercromă",
+        "Scaunele sunt acolice",
+        "Prurit pronunţat",
+        "ste precedat de colica"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 8,
+      "text": ". În care dintre următoarele situaţii semnul Courvoisier-Terrier lipseşte din tabloul clinic al cancerului cefalo-pancreatic:",
+      "options": [
+        "Pacient colecistectomizat",
+        "Pacient cu litiaza coledociana",
+        "Pacient cu colecist scleroatrofic",
+        "Pacient cu ciroza hepatică",
+        "Pacient obez cu hepatomegalie"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 9,
+      "text": ". Care dintre semnele enumerate sunt caracteristice pentru un icter mecanic benign:",
+      "options": [
+        "Icter progresiv",
+        "Icter fluctuent",
+        "Icterul se instalează fără a fi precedat de colice",
+        "olica precede icterul",
+        "Prezenţa semnului Courvoisier-Terrier"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 10,
+      "text": ". Care din procedeele enumerate sunt aplicate pentru decompresia preoperatorie a căilor biliare în icterul mecanic complicat cu angiocolită purulentă?",
+      "options": [
+        "renarea naso-biliară",
+        "Papilosfincterotomia endoscopică",
+        "oledocoduodenostomia suprapapilară endoscopică",
+        "Litotriţie cu unde de şoc",
+        "olangiohepatostomia percutană"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 11,
+      "text": ". Metodele definitive endoscopice practicate pentru rezolvarea icterului mecanic benign:",
+      "options": [
+        "Papilosfincterotomia",
+        "Papilosfincterotomia cu litextracţie",
+        "olangiohepatostomia percutană",
+        "renarea naso-biliară",
+        "olangioduodenostomia suprapapilară"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 12,
+      "text": ". Triada Charcot include următoarele, exceptând:",
+      "options": [
+        "Febră cu frisoane",
+        "Icter tegumentar",
+        "Palparea unei formaţiuni în hipocondrul drept",
+        "ureri în hipocondrul drept",
+        "Semne de duodenostază."
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "number": 13,
+      "text": ". Icterul obstructiv malign este exprimat de regulă de semnele următoare, exceptând:",
+      "options": [
+        "Febră cu colică biliară,",
+        "Icter",
+        "Pierdere ponderală,",
+        "Prurit cutanat,",
+        "Semne dispeptice."
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": 0
+    },
+    {
+      "number": 14,
+      "text": ". Pentada Dargan-Raynold, ce caracterizează angiocolitele, este reprezentată de:",
+      "options": [
+        "Triada Vilard-Charcot,",
+        "Hipotonie,",
+        "ncefalopatie,",
+        "scita,",
+        "Hemoragii gastrointestinale,"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 15,
+      "text": ". Care este cea mai efectiva explorare in litiaza reziduală coledoceana?",
+      "options": [
+        "colangiografia intravenoasa",
+        "ultrasonografia",
+        "tomografia computerizata",
+        "colangiografia endoscopica retrograda",
+        "colangiomanometria"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": 3
+    },
+    {
+      "number": 16,
+      "text": ". Pentru tratamentul calculelor reziduali ai coledocului metoda de elecţie o constituie:",
+      "options": [
+        "Papilosfincterotomie endoscopică cu litextracţie",
+        "plicarea solvenţilor de contact",
+        "Tratament medical",
+        "Litotriţia extracorporală",
+        "Intervenţia chirurgicală prin laparotomie şi coledocolitotomie"
+      ],
+      "section": "SINDROMUL POSTCOLECISTECTOMIC. ICTER MECANIC",
+      "correct": 0
+    },
+    {
+      "number": 1,
+      "text": ". Care din următoarele explorări paraclinice sunt utilizate pentru determinarea stadiului evolutiv al unui neoplazm de colon:",
+      "options": [
+        "ecografia abdominală",
+        "tomografia computerizată",
+        "rezonanţa magnetică nucleară",
+        "CG",
+        "radiografia pulmonară"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 2,
+      "text": ". Care din următoarele metode sunt folosite în tratamentul cancerului de colon:",
+      "options": [
+        "intervenţie chirurgicală",
+        "radioterapia",
+        "chimioterapia",
+        "imunoterapia",
+        "imunosupresia"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 3,
+      "text": ". Care din următoarele metode în chirurgia cancerului de colon au fost introduse în ultimii ani:",
+      "options": [
+        "disecţia şi îndepărtarea ganglionilor limfatici",
+        "suturile mecanice",
+        "circulaţia extracorporeală",
+        "rezecţiile laparoscopice",
+        "endoscopia intraoperatorie"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 4,
+      "text": ". Care din următoarele principii stau la baza intervenţiei radicale pentru cancerul de colon drept:",
+      "options": [
+        "se rezecă colonul drept în întregime (hemicolectomie dreaptă)",
+        "refacerea tranzitului se efectuează prin ileotranzverzostomie",
+        "concomitent se rezecă pediculii vasculoşi şi limfoganglionii regionali",
+        "refacerea tranzitului se efectuează de obicei într-un al doilea timp",
+        "ablaţia ganglionilor de la originea arterei mezenterice superioare este obligatorie"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 5,
+      "text": ". Dilatarea toxică acută a colonului poate să evolueze la următoarea patologie:",
+      "options": [
+        "diverticuloza colonului",
+        "polipoza familială difuză",
+        "rectocolita ulceroasă nespecifică",
+        "colita ischemică",
+        "colita spastică"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 2
+    },
+    {
+      "number": 6,
+      "text": ". Care din complicaţiile enumerate mai jos nu-i caracteristică pentru colita ulceroasă nespecifică:",
+      "options": [
+        "fistulele intestinale interne",
+        "perforaţia colonului",
+        "hemoragia intestinală",
+        "malignizarea",
+        "dilatarea toxică a colonului"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 0
+    },
+    {
+      "number": 7,
+      "text": ". În tratamentul conservativ al rectocolitei ulceroase nespecifice totul e cotect, exceptând:",
+      "options": [
+        "preparatele antibacteriale din grupa salazopirinei",
+        "hormonii steroizi",
+        "preparatele antidiareice",
+        "nutriţia parenterală",
+        "antibioticoterapia"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 4
+    },
+    {
+      "number": 8,
+      "text": ". În maladia Crohn pot evalua toate complicaţiile enumerate, cu excepţia:",
+      "options": [
+        "hemoragia intestinală",
+        "fistulele intestinale interne",
+        "plastroanele intraperitoneale",
+        "stricturile intestinului",
+        "polipoza colonului"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 4
+    },
+    {
+      "number": 9,
+      "text": ". Schimbări ale mucoasei colonului sub forma \"pietrelor de pavaj” pot fi depistate la bolnavii cu:",
+      "options": [
+        "colită ulceroasă nespecifică",
+        "polipoză adenomatoasă familială",
+        "maladia Crohn",
+        "colită ischemică",
+        "boala Hirshprung"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 2
+    },
+    {
+      "number": 10,
+      "text": ". Examenul histologic al mucoasei colonului poate depista prezenţa celulelor Langhans la bolnavii cu:",
+      "options": [
+        "boala Hirshprung",
+        "sindromul intestinului excitat",
+        "colită ulceroasă nespecifică",
+        "maladia Crohn",
+        "colită ischemică"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 3
+    },
+    {
+      "number": 11,
+      "text": ". Metoda de elecţie în tratamentul polipilor colonului este:",
+      "options": [
+        "tratamentul cu suc de rostopască",
+        "polipectomia endoscopică",
+        "aplicarea anastomozei de derivaţie",
+        "rezecţia colonului",
+        "chimioterapia"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 1
+    },
+    {
+      "number": 12,
+      "text": ". Metoda de certitudine în diagnosticul polipozei adenomatoase familiale este:",
+      "options": [
+        "ultrasonografia",
+        "laparoscopia",
+        "fibrocolonoscopia cu biopsie",
+        "angiografia",
+        "tomografia computerizată"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 2
+    },
+    {
+      "number": 13,
+      "text": ". Toate simptomele enumerate mai jos sunt caracteristice pentru polipoza adenomatoasă familială cu excepţia:",
+      "options": [
+        "hemoragiei intestinale",
+        "eliminarilor de mucus cu masele fecale",
+        "anemiei",
+        "hipoproteinemiei",
+        "achiliei gastrice"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 4
+    },
+    {
+      "number": 14,
+      "text": ". Ce afirmaţie referitoare la tumorile viloase colice este exactă:",
+      "options": [
+        "sunt pediculate",
+        "se localizează frecvent la nivelul cecului",
+        "se pot transforma în adenocarcinom",
+        "se întâlneşte la copii",
+        "au capacitate mică de malignizare"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 2
+    },
+    {
+      "number": 15,
+      "text": ". În cursul colitei ulceroase nespecifice :",
+      "options": [
+        "se găsesc emisii gleroase",
+        "se pot întâlni perioade lungi de remisiune",
+        "colonoscopia trebuie făcută sistematic la fiecare puseu acut",
+        "puseele severe se vindecă întotdeauna prin tratament medical intensiv",
+        "leziunile sunt maxime la nivelul colonului drept"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 16,
+      "text": ". În diverticuloza colonului irigografia prezinta :",
+      "options": [
+        "dispariţia haustraţiilor colonului sting cu spiculaţie fină a sigmoidului",
+        "obstrucţia completă a lumenului",
+        "colon cu aspect “în teanc de farfurii”",
+        "aspect în “pantaloon de golf”",
+        "aspect de “pavaj” al colonului"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 17,
+      "text": ". Colectomia în diverticuloza colonului este indicată în următoare cazuri:",
+      "options": [
+        "apariţia fistulelor",
+        "hemoragie digestivă",
+        "perforaţia",
+        "absenţa complicaţiilor importante",
+        "în caz de diverticulită"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 18,
+      "text": ". Boala Crohn şi colita ulceroasă nespecifică sunt boli inflamatorii care au caractere comune. Ce afirmaţie referitoare la caracterele comune ale acestor boli este falsă:",
+      "options": [
+        "predomină la adultul tânăr",
+        "pot interesa şi colonul",
+        "se pot asocial cu uveită şi eritem nodos",
+        "pot recidiva după colectomia totală",
+        "se pot asocia cu fisuri anale"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 3
+    },
+    {
+      "number": 19,
+      "text": ". Caracteristicile principale ale polipozei adenomatoase familiale difuze sunt:",
+      "options": [
+        "transmitere autosomal dominantă",
+        "malignizare constantă",
+        "necesitatea colectomiei totale",
+        "necesitatea supravegherii rectale atente după colectomie",
+        "malignizarea este rară"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 20,
+      "text": ". Sindromul Peutz-Jeghers:",
+      "options": [
+        "este forma clinică cea mai frecventă de tumori maligne ce interesează intestinul subţire",
+        "se poate manifesta prin accidente ocluzive",
+        "malignizarea este foarte frecventă",
+        "se însoţeşte de lentiginoză periorificială",
+        "tumorile sunt desmoide"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 21,
+      "text": ". Complicaţiile polipozei rectocolonice sunt:",
+      "options": [
+        "anemia secundară",
+        "denutriţia",
+        "ocluzia intestinală prin invaginare",
+        "malignizarea",
+        "perforaţia intestinului"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 22,
+      "text": ". Intervenţiile chirurgicale mai răspândite în tratamentul polipozei rectocolonice sunt:",
+      "options": [
+        "polipectomia endoscopică",
+        "rectocolectomia totală cu ileostomie",
+        "colectomie subtotală cu anastomoză ileorectală",
+        "colotomia cu extirparea zonelor polipoase",
+        "anusul contra naturii"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 23,
+      "text": ". Care investigaţii sunt mai importante în diagnosticul bolii Hirschprung:",
+      "options": [
+        "ecografia abdominală",
+        "irigografia în contrast dublu",
+        "rectoromanoscopia cu biopsia mucoasei rectale după Svenson",
+        "tomografia prin rezonanţă magnetică nucleară",
+        "determinarea reflexului recto-anal"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 24,
+      "text": ". Colitei ulceroase nespecifice este o boală, care prinde totdeauna:",
+      "options": [
+        "colonul",
+        "rectul",
+        "ileonul terminal",
+        "cecul",
+        "jejunul"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 1
+    },
+    {
+      "number": 25,
+      "text": ". Principalul drog acceptat în tratamentul colitei ulceroase nespecifice, capabil să realizeze remisia episoadelor acute, este reprezentat de către:",
+      "options": [
+        "derivaţi de sulfsalazină",
+        "corticosteroizi",
+        "antibiotice cu spectru larg de acţiune",
+        "imunodepresoare",
+        "interferonul beta"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 1
+    },
+    {
+      "number": 26,
+      "text": ". Dintre bolile inflamatorii cronice, diagnosticul diferenţial al colitei ulceroase nespecifice cel mai frecvent trebuie făcut cu:",
+      "options": [
+        "colite virale",
+        "colite parazitare",
+        "neoplasm de colon",
+        "Boala Crohn",
+        "polipoza rectocolică"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 3
+    },
+    {
+      "number": 27,
+      "text": ". Cel mai fidel şi specific diagnostic în colitei ulceroase nespecifice este realizat prin:",
+      "options": [
+        "irigografie",
+        "explorări imunologice",
+        "explorări biologice",
+        "rectosigmoidoscopie endoscopică",
+        "examen copro-parazitar şi coproculturi"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 3
+    },
+    {
+      "number": 28,
+      "text": ". Macroscopic pentru colita ulceroasă nespecifică sunt caracteristice următoarele particularităţi:",
+      "options": [
+        "leziuni cu caracter segmentar",
+        "afectarea difuză a mucoasei intestinului gros",
+        "leziunile pot fi localizate numai în rect",
+        "leziunile pot fi localizate numai în ileon",
+        "afectarea se răspândeaţi în direcţie proximală"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 29,
+      "text": ". Colita ulceroasă nespecifică poate evalua în următoarele variante:",
+      "options": [
+        "cronică latentă",
+        "acută (fulminantă)",
+        "cronică recidivantă",
+        "cronică indurativă",
+        "cronică continuă (permanent progresivă)"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 30,
+      "text": ". Manifestările extraintestinale (sistemice) ale colitei ulceroase nespecifice sunt:",
+      "options": [
+        "panaricii",
+        "artrite",
+        "uveită",
+        "eritem nodular",
+        "artralgii ţi mialgii"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 31,
+      "text": ". Criteriile endoscopice ale colitei ulceroase nespecifice sunt:",
+      "options": [
+        "mucoasa cu aspect granulos",
+        "eroziuni ţi ulcere de formă neregulată",
+        "afectarea segmentară",
+        "pseudopolipi",
+        "hemoragii de contact"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 32,
+      "text": ". Complicaţiile locale ale colitei ulceroase nespecifice sunt:",
+      "options": [
+        "hemoragie profuză",
+        "megacolon toxic",
+        "perforaţie",
+        "fistule viscerale",
+        "stricturi lumenale"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 33,
+      "text": ". La ora actuală, care din următoarele complicaţii ale colitei ulceroase nespecifice necesită tratament chirurgical:",
+      "options": [
+        "suspiciunea sau descoperirea unui cancer de colon",
+        "megacolonul toxic cu semne clare de perforaţie",
+        "colita acută fulminantă, care răspunde la terapia cu corticoizi",
+        "rectoragii masive, ce nu pot fi oprite prin metode conservative",
+        "ocluzie prin stricturi colonice"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 34,
+      "text": ". Imunitatea are rol în producerea colitei ulceroase nespecifice prin următoarele argumente:",
+      "options": [
+        "anticorpii anticelulă cu mucus sunt prezenţii in serul bolnavilor cu colită ulceroasă",
+        "anticorpii anticelulă cu mucus sunt specifici",
+        "anticorpii anticelulă cu mucus sunt constanţi",
+        "la subiectii cu colită ulceroasă nespecifică s-a constatat un deficit în producţia de imunoglobuline, în special, a",
+        "celor din clasa Ig G",
+        "fenotipurile HLA-AW 24 şi BW 35 sunt mai frecvent corelate cu boala"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "number": 35,
+      "text": ". Următoarele afirmaţii, privind anatomia patologică din colita ulceroasă nespecifică, sunt adevărate, cu excepţia:",
+      "options": [
+        "boala interesează mucoasa şi submucoasa colonului",
+        "rectul este interesat totdeauna şi extensia se poate face la întreg colonul",
+        "ileonul terminal poate prezenta semne de inflamaţie moderată şi dilataţie",
+        "leziunile din colita ulceroasă seamănă foarte bine cu cele din boala Crohn",
+        "mucoasa este în totalitate subţiată, friabilă, cu vascularizaţie bogată"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 3
+    },
+    {
+      "number": 36,
+      "text": ". În diagnosticul diferenţial al colitei ulceroase nespecifice faţă de boala Crohn, elementul patologic microscopic, care nu apar deloc în colita ulceroasă nespecifică şi apar în toate cazurile de boala Crohn, constituie:",
+      "options": [
+        "inflamaţia transmurală",
+        "îngroşarea submucoasei",
+        "fisuri",
+        "creşterea celularităţii submucoasei",
+        "granuloame tip Pirogov-Langhans"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": 4
+    },
+    {
+      "number": 37,
+      "text": ". Rolul factorului infecţios în etiologia colitei ulceroase nespecifice pare a fi susţinut de următoarele:",
+      "options": [
+        "culturile aerobe–anaerobe ale conţinutului colic în colita ulceroasă nespecifică arată creşteri ale florei colonice",
+        "creşterea titrului anticorpilor anti Escherichia coli la pacienţii cu colita ulceroasă nespecifică",
+        "proliferarea bacteriană este facilitată de antibioticele administrate",
+        "anticorpii anticitomegalovirus au frecvenţă mult mai scăzută la pacienţii cu colita ulceroasă nespecifică",
+        "prezenţa agenţilor infecţioşi la aceşti pacienţi nu pare a avea specificitate"
+      ],
+      "section": "INTESTINUL GROS",
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "number": 1,
+      "text": ". Principalele leziuni precanceroase care duc la apariţia cancerului rectal sunt:",
+      "options": [
+        "melanoamele cu localizare rectală",
+        "polipii colorectali, tumori viloase, rectocolita ulceroasă",
+        "hemoroizii şi fistulele perianale",
+        "anorectitele nespecifice, pectenoza",
+        "prolapsul mucos anorectal"
+      ],
+      "section": "RECTUL",
+      "correct": 1
+    },
+    {
+      "number": 2,
+      "text": ". Grading-ul tumoral rectal reprezintă:",
+      "options": [
+        "clasificarea în funcţie de gradul de diferenţiere histopatologică",
+        "clasificarea clinică a cancerului rectal",
+        "gradul de invazie tumorală în peretele rectal",
+        "markeri biologici ai cancerului rectal",
+        "metodă complementară de tratament al cancerului de rect"
+      ],
+      "section": "RECTUL",
+      "correct": 0
+    },
+    {
+      "number": 3,
+      "text": ". Examinările specifice în cancerul de rect sunt:",
+      "options": [
+        "tomografia computerizată, citologia exfoliativă",
+        "tuşeul rectal, endoscopia colorectală, irigografia",
+        "echografia pelviană, determinarea antigenului carcinoembrionar",
+        "echografia endoluminală, limfografia, arteriografia",
+        "cromolimfoscopia, echografia transabdominală, citologia exfoliativă"
+      ],
+      "section": "RECTUL",
+      "correct": 1
+    },
+    {
+      "number": 4,
+      "text": ". Tuşeul rectal dă informaţii referitoare la:",
+      "options": [
+        "tipul histologic tumoral",
+        "localizarea tumorii",
+        "grading-ul tumoral",
+        "extensia tumorii la organele vecine",
+        "grupele ganglionare cu metastaze"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 5,
+      "text": ". Cea mai informativă metodă de diagnostic a perirectitei acute este:",
+      "options": [
+        "irigografia",
+        "angiografia",
+        "rectoromanoscopia",
+        "punţia colecţiei purulente",
+        "laparoscopia"
+      ],
+      "section": "RECTUL",
+      "correct": 3
+    },
+    {
+      "number": 6,
+      "text": ". Cea mai informativă metoda de diagnostic a perirectitei cronice este:",
+      "options": [
+        "ultrasonografia",
+        "colonoscopia",
+        "angiografia",
+        "fistulografia",
+        "tomografia computerizată"
+      ],
+      "section": "RECTUL",
+      "correct": 3
+    },
+    {
+      "number": 7,
+      "text": ". Intervenţia chirurgicală de elecţie în tratamentul hemoroizilor este considerată:",
+      "options": [
+        "aplicarea ligaturii",
+        "operaţia Whitehead",
+        "hemoroidectomie după procedeul Milligan-Morgan",
+        "electrocoagularea hemoroizilor",
+        "fotocoagularea"
+      ],
+      "section": "RECTUL",
+      "correct": 2
+    },
+    {
+      "number": 8,
+      "text": ". Ce semne clinice pot suspecta prezenţa unei tumori viloase rectosigmoidiene:",
+      "options": [
+        "rectoragia",
+        "prezenţa scaunelor geroase",
+        "scaune purulente",
+        "dureri în timpul defecaţiei",
+        "crampe musculare determinate de hipokaliemie"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "number": 9,
+      "text": ". Boala Crohn se manifestă prin următoarele semne clinice distructive:",
+      "options": [
+        "diareea",
+        "scaune sanguinolente",
+        "interesează adultul tânăr",
+        "prezintă adesea leziuni nedureroase",
+        "mucoasa rectală este congestivă şi hemoragică fără zone sănătoase"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 10,
+      "text": ". Ce afirmaţii referitoare la fistulele perianorectale sunt false:",
+      "options": [
+        "sunt supuraţii acute",
+        "pot recidiva postoperator",
+        "se malignizează frecvent",
+        "este necesară fistulografia",
+        "tratamentul fistulei anale este exclusive chirurgical"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "number": 11,
+      "text": ". Sindromul fisurar cuprinde următoarele semne clinice:",
+      "options": [
+        "durere tip arsură la defecaţie",
+        "spasm sfincterian",
+        "ulceraţie a comisurii posterioare anale",
+        "melenă",
+        "hemoroid santinelă"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 12,
+      "text": ". Polipul rectocolic se caracterizează prin următoarele semne distructive:",
+      "options": [
+        "se localizează frecvent rectosigmoidian",
+        "reproduce histologic glandele Lieberkuhn",
+        "poate da hemoragie episodică",
+        "este mai frecvent tubulos decât vilos",
+        "se întâlneşte la subiecţii peste 15 ani"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 13,
+      "text": ". Ce tumori benigne colorectale pot fi considerate hamartoame:",
+      "options": [
+        "sindrom Gardner",
+        "sindrom Peutz-Jeghers",
+        "polipoza rectocolică familială",
+        "polip juvenil",
+        "lipom"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "number": 14,
+      "text": ". Ce semne atrag atenţia asupra complicaţiilor în boala hemoroidală:",
+      "options": [
+        "rectoragia cu sânge roşu declanşată de emisia scaunului",
+        "durere anală acută ce apare după defecaţie şi persistă câteva ore",
+        "perceperea unei tumori anale de culoare albastru-violaceu",
+        "melena",
+        "febra"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 15,
+      "text": ". Investigaţiile obligatorii la un bolnav cu patologie a rectului sunt:",
+      "options": [
+        "inspecţia vizuală a regiunii anale",
+        "tuşeul rectal",
+        "pasajul masei baritate",
+        "anoscopia sau rectoromanoscopia",
+        "sfincterometria"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "number": 16,
+      "text": ". Perirectita acută se divizează după următoarele criterii:",
+      "options": [
+        "după principiul etiologic",
+        "în funcţie de nivelul sediului abceselor, plastroanelor, fuziunilor",
+        "după raportul dintre triectul fistulei şi aparatul sfincterian",
+        "după gradul de complexitate",
+        "după timpul trecut de la spitalizarea bolnavului"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 17,
+      "text": ". După deschiderea abcesului perirectal, se atestă următoarele variante de finalizare a bolii:",
+      "options": [
+        "formarea fistulei rectale (perirectită cronică)",
+        "dezvoltarea perirectitei recidivante cu acutizări ale procesului inflamator",
+        "însănătoşire",
+        "dezvoltarea amiloidozei organelor parenhimatoase",
+        "dezvoltarea incontinenţei sfincterului obturătoriu anal"
+      ],
+      "section": "RECTUL",
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "number": 18,
+      "text": ". Metoda de elecţie în tratamentul fistulei perirectale este:",
+      "options": [
+        "excizia completă a canalului fistulos cu lichidarea orificiului intern al fistulei",
+        "băi de şezut după defecaţie",
+        "spălarea fistulei cu soluţii antiseptice",
+        "instilaţii de antibiotice în canalul fistulos",
+        "microclisme cu ulei de cătină albă, cu colargol",
+        "Sef studii ,dsm,conferentiar universitar Alexandru Iliadi"
+      ],
+      "section": "RECTUL",
+      "correct": 0
+    }
+  ]
+}

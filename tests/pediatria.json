@@ -1,0 +1,4688 @@
+{
+  "id": "pediatria",
+  "name": "Pediatria",
+  "questions": [
+    {
+      "text": "Numiți categoria de copii care are cea mai înaltă necesitate de proteine şi calorii la kg/corp:",
+      "options": [
+        "copiii şcolari",
+        "copiii sugari în vârstă de la 0 până la 6 luni",
+        "copiii sugari în vârstă de la 6 luni până la 12 luni",
+        "copiii noi-născuţi",
+        "copiii preşcolari"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Evidenţiaţi termenul optim, la care nou-născutul trebuie să fie aplicat la sân:",
+      "options": [
+        "în prima oră după naştere (în primele 30 minute)",
+        "la 2 ore după naştere",
+        "la 12 ore după naştere",
+        "la 6 ore după naştere",
+        "la 24 ore după naştere"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Notați vârsta la care se  recomandă indicarea complementului copiilor sugari, alimentaţi artificial cu formule de lapte-praf:",
+      "options": [
+        "la vârsta de  6 luni, ca şi în alimentaţia naturală",
+        "la vârsta de  4 luni, indiferent de masa corpului",
+        "la vârsta de 4 luni, dacă are anemie",
+        "dacă copilul manifestă foame şi e mai mare de 4 luni",
+        "la vârsta de 4 luni, dacă prezintă interes pentru alte tipuri de hrană (alimente) în afară de cea lactată, pe care o primeşte"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Specificați, ce reprezintă suplimentul:",
+      "options": [
+        "un alt aliment, diferit de lapte (pireu de fructe, de ex.)",
+        "surplusul de masă corporală acumulat",
+        "formula de lapte, administrată în alimentarea mixtă a sugarului",
+        "formula de lapte, administrată în alimentarea artificială a sugarului",
+        "terciul de cereale, administrat sugarului începând cu vârsta de 6 luni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Numiți indicația pentru aplicarea metodei complementare în  alimentația sugarului:",
+      "options": [
+        "în caz de alimentare artificială a sugarului",
+        "în caz de alimentare naturală a sugarului",
+        "în caz de diversificare a alimentaţiei sugarului",
+        "în caz de alimentare mixtă a sugaruluiț",
+        "în alimentarea copilului preşcolar"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectaţi un semn sigur, care indică că sugarul nu primeşte cantitatea necesară de lapte:",
+      "options": [
+        "copilul suge mult timp şi des",
+        "copilul refuză să sugă",
+        "copilul este neliniştit, agitat toată ziua",
+        "scaunele sunt scunde",
+        "curba ponderală este plată (creştere în masă mai puţin de 500g/lună)"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicaţi avantajul alimentaţiei cu lapte matern pentru dezvoltarea neuropsihică adecvată a copilului:",
+      "options": [
+        "prezenţa în laptele matern a polizaharidelor",
+        "prezenţa în laptele matern a leencefalinei, β-endorfinei, meta-encefalinei",
+        "prezența conţinutul mărit al proteinelor serice",
+        "prezenţa de IgA- secretorie",
+        "prezenţa de factori imuni nespecifici"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia sugarului sănătos a pireului de legume:",
+      "options": [
+        "6 luni",
+        "7 luni",
+        "5 luni",
+        "8 luni",
+        "9 luni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia sugarului a terciului de cereale:",
+      "options": [
+        "6 luni",
+        "5 luni",
+        "3 luni",
+        "7 luni",
+        "8 luni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia sugarului a pireului de fructe:",
+      "options": [
+        "2 luni",
+        "3 luni",
+        "6 luni",
+        "7 luni",
+        "3,5 luni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia copilului a cărnii:",
+      "options": [
+        "6 luni",
+        "7 luni",
+        "5 luni",
+        "8 luni",
+        "4 luni"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia copilului a peştelui:",
+      "options": [
+        "4 luni",
+        "5 luni",
+        "6 luni",
+        "7 luni",
+        "8 luni"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicaţi vârsta minimă, la care se recomandă introducerea în alimentaţia copilului a gălbenuşului de ou:",
+      "options": [
+        "2 luni",
+        "4 luni",
+        "7 luni",
+        "8 luni",
+        "6 luni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectaţi produsul, cu care de regulă se recomandă a începe diversificarea alimentaţiei sugarului:",
+      "options": [
+        "sucul de fructe",
+        "pireul de legume",
+        "pireul de carne",
+        "biscuiţii",
+        "gălbenuşul de ou"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Selectaţi care din produsele enumerate, conform recomandărilor OMS, nu este recomandat sugarilor:",
+      "options": [
+        "peştele",
+        "caşcavalul",
+        "untul",
+        "laptele de vaci",
+        "gălbenuşul de ou"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectaţi care este gradul de hipogalactie, corespunzător deficitului de lapte matern egal cu 40% (din necesarul zilnic al copilului sugar):",
+      "options": [
+        "gradul I",
+        "gradul II",
+        "gradul III",
+        "uşor",
+        "sever"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi ce prevede regimul alimentar adecvat al copilului în vârstă de 7 luni, alimentat natural:",
+      "options": [
+        "5 alimentări cu formulă adaptată, plus 2 alimentări complementare",
+        "3 alimentări cu formulă adaptată, plus 2 alimentări complimentare, plus apă",
+        "alimentare excesivă la sân la cerere",
+        "alimentare la sân la cerere, minimum 5-6 ori/24 ore, inclusiv noaptea, plus 3 alimentări complementare",
+        "2 alimentări cu formula adaptată, plus 3 alimentări complementare"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Indicaţi valoarea energetică a laptelui matern matur:",
+      "options": [
+        "1500 kkal/l",
+        "1000 kkal/l",
+        "900 kkal/l",
+        "800 kkal/l",
+        "670-700 kkal/l"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicaţi termenul, recomandat de OMS, pentru ablactarea (,,înţărcarea”) copiilor mici:",
+      "options": [
+        "la vârsta copilului de 2 ani şi mai mult",
+        "la vârsta copilului de 6 luni",
+        "la vârsta copilului de 1 an",
+        "la vârsta copilului de 10-12 luni",
+        "la vârsta copilului de 1,5 ani"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi câte mese pe zi se recomandă copilului în vârstă de 2 ani:",
+      "options": [
+        "6 mese",
+        "3 mese",
+        "5 mese (3 mese de bază şi 2 gustări)",
+        "4 mese",
+        "de câte ori doreşte copilul"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Până la ce vârstă a copilului, conform OMS, se recomandă de a continua alimentaţia la sân:",
+      "options": [
+        "până la vârsta de 5-6 luni",
+        "până la vârsta de 1 an",
+        "până la vârsta de 2 ani şi mai mult",
+        "până la vârsta de 1 an şi 2 luni",
+        "până la vârsta de 1 an şi 6 luni"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi care pierdere în greutate la nou-născutul sănătos se încadrează în fiziologică:",
+      "options": [
+        "10%",
+        "6-8%",
+        "20%",
+        "12%",
+        "15%"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Selectaţi care din glandele endocrine listate au influenţă prioritară asupra dezvoltării fizice a copiilor în perioada pubertară:",
+      "options": [
+        "tiroida",
+        "timusul",
+        "suprarenalele",
+        "glandele sexuale",
+        "hipofiza"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectaţi nivelul centilic, care corespunde dezvoltării fizice ,,foarte înalt” la copil:",
+      "options": [
+        "90-97 centile",
+        "3-10 centile",
+        "25-75 centile",
+        "97-100 centile",
+        "10-25 centile"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Numiți care segment este selectat pentru determinarea vârstei osoase la copii prin examenul radiologic:",
+      "options": [
+        "al craniului",
+        "al cutiei toracice",
+        "al pumnului (palmei)",
+        "al piciorului",
+        "al regiunii cervicale a coloanei"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați enunțul care caracterizează legea alternanţei în creșterea copilului:",
+      "options": [
+        "segmentele corpului nu cresc toate în acelaş timp, ci alternativ",
+        "pentru fiecare perioadă a copilăriei există un anumit ritm de creştere",
+        "în perioada de creştere acumulativă diferenţierea este redusă şi invers",
+        "fiecare segment are ritmul său de creştere",
+        "creşterea diferitelor părţi ale organismului este proporţională"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați enunțul care caracterizează legea proporţiilor în creșterea copilului:",
+      "options": [
+        "segmentele corpului nu cresc toate în acelaşi timp, ci alternativ",
+        "pentru fiecare perioadă a copilăriei există un anumit ritm de creştere",
+        "în perioada de creştere acumulativă diferenţierea este redusă şi invers",
+        "fiecare segment are ritmul său de creştere",
+        "creşterea diferitelor părţi ale organismului este neproporţională",
+        "Selectați enunțul care caracterizează legea antagonismului morfologic şi ponderal în creșterea"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "copilului:",
+      "options": [
+        "segmentele corpului nu cresc toate în același timp, ci alternativ",
+        "pentru fiecare perioadă a copilăriei există un anumit ritm de creştere",
+        "în perioada de creştere acumulativă diferenţierea este redusă şi invers",
+        "fiecare segment are ritmul său de creştere",
+        "creşterea diferitelor părţi ale organismului este neproporţională"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați enunțul care caracterizează legea creşterii inegale în creșterea copilului:",
+      "options": [
+        "segmentele corpului nu cresc toate în același timp, ci alternativ",
+        "pentru fiecare perioadă a copilăriei există un anumit ritm de creştere",
+        "în perioada de creştere acumulativă diferenţierea este redusă şi invers",
+        "fiecare segment are ritmul său de creştere",
+        "creşterea diferitelor părţi ale organismului este neproporţională"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectați enunțul care caracterizează indicele ponderal:",
+      "options": [
+        "greutatea corpului corespunzătoare taliei",
+        "talia corespunzătoare vârstei",
+        "raportul între greutatea reală a corpului şi cea ideală",
+        "greutatea corpului ideală pentru vârstă",
+        "raportul între greutatea ideală şi cea reală a corpului"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectați enunțul care caracterizează indicele nutriţional:",
+      "options": [
+        "raportul între greutatea reală şi cea ideală, corespunzătoare taliei",
+        "talia corespunzătoare vârstei",
+        "greutatea ideală pentru vârstă",
+        "raportul între greutatea reală şi cea ideală",
+        "raportul între talia reală şi cea ideală"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați enunț ul care caracterizează indicele statural:",
+      "options": [
+        "greutatea corespunzătoare taliei",
+        "raportul între talia reală şi cea ideală",
+        "greutatea pentru vârstă",
+        "raportul între masa reală şi cea ideală",
+        "raportul între masa reală şi cea ideală corespunzătoare taliei"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Selectați enunțul care caracterizează aprecierea prezenţei centrelor de osificare la copii prin efectuarea radiografiei:",
+      "options": [
+        "pumnului (palmei)",
+        "femurului",
+        "tibiei",
+        "cutiei toracice",
+        "coloanei vertebrale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi termenul mediu de erupţie a primilor dinţi de lapte la copii sugari:",
+      "options": [
+        "la vârsta de 6-10 luni",
+        "la vârsta de 2-3 luni",
+        "la vârsta de 8-12 luni",
+        "la vârsta de 7-10 luni",
+        "la vârsta de 16-20 luni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi termenul mediu de erupţie a primilor dinţi permanenţi la copii:",
+      "options": [
+        "la vârsta de 6-10 ani",
+        "la vârsta de 5-8 ani",
+        "la vârsta de 8-12 ani",
+        "la vârsta de 4-5 ani",
+        "la vârsta de 6-7 ani"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicaţi rolul paratiroidelor în procesul de creştere şi dezvoltare a copiilor:",
+      "options": [
+        "stimulează procesele anabolice",
+        "intervin în procesele de mineralizare a scheletului",
+        "stimulează procesele catabolice",
+        "stimulează sinteza de proteine",
+        "accelerează metabolismul bazal"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Marcaţi factorul etiologic care realizează mai frecvent bronşite acute la copii:",
+      "options": [
+        "Alergeni alimentari",
+        "Protozoare",
+        "Germeni bacterieni",
+        "Agenţii micotici",
+        "Viruşi"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "2.  În bronşita acută la copii examenul clinic va obiectiva următoarea modificare:",
+      "options": [
+        "Crepitaţie",
+        "Matitate unilaterală",
+        "Murmur vezicular",
+        "Raluri umede difuze care se modifică după tuse",
+        "Raluri localizate"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "3. Indicaţi diferenţa la examenul clinic între bronşita acută obstructivă şi bronşita acută simplă la copii?",
+      "options": [
+        "Expir prelungit",
+        "Tusea productivă",
+        "Matitatea percutorie",
+        "Tusea bitonală",
+        "Tusea uscată"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "4. Marcaţi care aspect radiologic nu este caracteristic în bronşiolită la copii?",
+      "options": [
+        "Desenul pulmonar accentuat",
+        "Opacitate lobară confluentă",
+        "Modificări bilaterale interstiţiale cu infiltraţie peribronşică",
+        "Оpacităţi segmentare şi subsegmentare",
+        "Hiperinflaţie pulmonară"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "5. Care din simptomele clinice enumerate nu este caracteristic pentru bronşiolită la copii:",
+      "options": [
+        "Tiraj",
+        "Polipnee, tahipnee",
+        "Raluri crepitante difuze",
+        "Raluri crepitante localizate",
+        "Wheezing-ul"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "6. Numiţi agentul patogen cel mai frecvent incriminat în bronşiolită la copii:",
+      "options": [
+        "Virusul respirator sincitial",
+        "Virusul gripei A1",
+        "Virusul gripei A2",
+        "Virusul paragripal",
+        "Enterovirisurile"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "7. Marcaţi care din afirmaţiile expuse nu caracterizează bronşiolita la copii:",
+      "options": [
+        "Afectează căile respiratorii mici (bronşiolele)",
+        "Este produsă de virusuri",
+        "Este caracteristic wheezing-ul",
+        "Dispnee inspiratorie",
+        "Tahipnee"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "8.  Alegeţi semnul clinic obligator în bronşită acută la copii:",
+      "options": [
+        "Percutor matitate",
+        "Raluri difuze buloase",
+        "Crepitaţii localizate",
+        "Sindrom toxic infecţios",
+        "Dispnee"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "9.Utilizarea antibioticelor în tratamentul bronşitei acute la copii se recomandă în caz de:",
+      "options": [
+        "Infecţie virală",
+        "Infecţie bacteriană",
+        "Vomă indusă de  tusă",
+        "Sindrom febril",
+        "Tuse umedă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "10. Numiţi afecţiunea copilului în care este caracteristică dispnee expiratorie:",
+      "options": [
+        "Stenoza acută a laringelui",
+        "Bronşită obstructivă",
+        "Pneumonie",
+        "Pleurezie",
+        "Fibroză chistică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "11.Selectați afirmația corectă referitor la investigaţia  paraclinică obligatorie în bronşita acută  la copil?",
+      "options": [
+        "Radiografia  pulmonară",
+        "Spirografia",
+        "Scintigrafia  pulmonară",
+        "ECG",
+        "Hemoleucograma"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "12. Alegeţi calea preferată de administrare a antibioticelor la copii?",
+      "options": [
+        "Per os",
+        "Intra/musculară",
+        "Intra/venoasă",
+        "Sub/cutană",
+        "Rectal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "13. Selectaţi opţiunea în baza căruia poate fi efectuat un diagnostic diferenţial dintre pneumonie şi bronşiolită la copil:",
+      "options": [
+        "Prezenţa dispneei",
+        "Murmur vezicular diminuat",
+        "Tiraj intercostal şi tirajul toracelui (substernal)",
+        "Opacitate lobară de intensitate costală",
+        "Raluri crepitante, subcrepitante"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "14. Selectaţi afecţiunea care se manifestă prin dispnee expiratorie la copii:",
+      "options": [
+        "Faringită acută",
+        "Laringită acută stenozantă",
+        "Bronşită acută obstructivă",
+        "Traheită acută",
+        "Pneumonie"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "15. Selectaţi medicamentul de elecție care posedă efect bronhodilatator:",
+      "options": [
+        "Salbutamol",
+        "Ambroxol",
+        "Bromhexine",
+        "Carbocisteine",
+        "Acetylcysteine",
+        "16. Specificaţi acţiunea farmacologică a salbutamolului:a) Selectiv stimulează beta2-adrenoreceptoriib) Stimulează beta1- şi beta2- adrenoreceptoriic) Stimulează alfa şi beta- adrenoreceptoriid) Inhibă alfa- adrenoreceptoriie) Inhibă beta- adrenoreceptorii"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicaţi de ce este necesară introducerea complementului în alimentaţia sugarului:",
+      "options": [
+        "necesităţile nutritive la o anumită vârstă nu mai pot fi acoperite doar de laptele matern",
+        "copilul este interesat de alte tipuri de alimente",
+        "copilul are deja primii dinţi",
+        "copilul are mai mult de 4 luni",
+        "copilul are maturizarea fiziologică neuromusculară, digestivă, imună, reno-urinară necesară consumării produselor noi"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi caracteristicile cantitative privind ingredientele nutritive esenţiale ale laptelui matern faţă de cele ale laptelui de vaci:",
+      "options": [
+        "laptele matern conţine mai puţine proteine",
+        "laptele matern conţine mai multe proteine",
+        "laptele matern conţine mai multe glucide",
+        "laptele matern conţine mai puţine glucide",
+        "laptele matern conţine mai puţine lipide"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Evidenţiaţi alimentele complementare de bază, administrate copilului sugar începând cu vârsta de 6 luni:",
+      "options": [
+        "brânza de vaci",
+        "pâinea",
+        "pireul de legume",
+        "terciul de crupe",
+        "laptele de vaci"
+      ],
+      "correct": [
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi care sunt afirmaţiile corecte privind lactoza laptelui matern:",
+      "options": [
+        "lactoza laptelui matern favorizează creșterea florei condiționat patogene  în intestinul sugarului",
+        "lactoza laptelui matern acoperă ≈ 40% din necesarul energetic zilnic al sugarului",
+        "lactoza din laptele matern se digerează la ≈ 90% în intestinul subţire",
+        "lactoza laptelui matern favorizează creșterea lactobacililor în intestinul sugarului",
+        "lactoza laptelui matern micșorează valoarea ph-ului intestinal, favorizând absorbția  Ca"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte privind lipidele laptelui matern:",
+      "options": [
+        "lipidele laptelui matern acoperă ≈ 50% din necesarul energetic al sugarului",
+        "în compoziţia lipidelor laptelui matern predomină acizii graşi nesaturaţi",
+        "lipidele laptelui matern sunt într-o concentraţie mai mare în laptele anterior",
+        "laptele posterior este mai bogat în lipide",
+        "în compoziţia lipidelor laptelui matern predomină acizii graşi saturaţi"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi condiţiile de bază, necesare pentru introducerea complementului la sugarul alimentat la sân:",
+      "options": [
+        "sugarul a împlinit 6 luni",
+        "sugarul a împlinit 4 luni",
+        "sugarul e mai mare de 4 luni şi are greutate scăzută",
+        "sugarul e mai mare de 4 luni şi pare flămând după mâncare",
+        "sugarul a împlinit 6 luni, e sănătos şi manifestă interes pentru alte tipuri de alimente"
+      ],
+      "correct": [
+        0,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi afirmaţiile corecte, privind conţinutul de fier din laptele matern:",
+      "options": [
+        "laptele matern conţine o cantitate de fier echivalentă cu cea din laptele de vaci",
+        "laptele matern conţine o cantitate de fier mai mare decât cea din laptele de vaci",
+        "concentraţia fierului în laptele matern depinde de conţinutul lui în organismul mamei",
+        "concentraţia fierului în laptele matern nu depinde de conţinutul lui în organismul mamei",
+        "fierul din laptele matern are o biodisponibilitate mai mare decât fierul din alte tipuri de lapte"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi factorii care sunt implicaţi în declanşarea reflexului prolactinei:",
+      "options": [
+        "concentraţia crescută de progesteron în sângele mamei",
+        "evacuarea completă a laptelui produs",
+        "alimentarea la sân a copilului şi în perioada nocturnă",
+        "excitarea receptorilor mamelonari",
+        "contactul fizic permanent între mamă şi copil (,,ochi la ochi”, ,,piele la piele”)"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicaţi ce poate micşora densitatea energetică a alimentaţiei sugarului:",
+      "options": [
+        "vîscozitatea alimentelor complementare",
+        "laptele matern",
+        "lipidele",
+        "apa",
+        "frecvenţa alimentarii"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi care greşeli în alimentaţia copilului pot cauza tulburări de nutriţie:",
+      "options": [
+        "alimentarea artificială neadecvată",
+        "utilizarea excesivă a unor produse",
+        "alimentarea exclusivă la sân până la vârsta de 6 luni",
+        "introducerea tardivă a alimentelor complementare",
+        "introducerea alimentelor complementare începând cu vârsta de 6 luni"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi care sunt avantajele laptelui matern faţă de cel de vaci:",
+      "options": [
+        "conţinutul albuminelor mai mare decât cel al cazeinei",
+        "conţinutul cazeinei mai mare decât cel al albuminelor",
+        "conţine factori imuni de protecţie",
+        "conţine alfa-lactoză",
+        "conţine beta-lactoză"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi semnele, conform cărora se apreciază dacă sugarul suge eficient:",
+      "options": [
+        "face mişcări de sugere frecvente",
+        "face mişcări de sugere lente, cu pauze",
+        "se aude glutiţia la fiecare 2-3 mişcări de sugere",
+        "sugarul întrerupe suptul la 5-10 minute",
+        "sugarul adoarme la sân sau este satisfăcut"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi condițiile necesare pentru introducerea complementului la sugarul alimentat natural:",
+      "options": [
+        "vârsta sugarului este 6 luni",
+        "sugarul este absolut sănătos",
+        "vârsta sugarului este 4 luni",
+        "mama are hipogalactie",
+        "curba ponderală plată"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Evidenţiaţi condiţiile ce impun indicarea alimentaţiei mixte la sugar:",
+      "options": [
+        "copilul este agitat permanent",
+        "copilul are un indice ponderal 0,9 la 1 lună după naştere",
+        "hipogalactie iremediabilă la mamă",
+        "absenţa mamei o anumită perioadă a zilei",
+        "curba ponderală plată",
+        "Evidenţiaţi care din semnele enumerate reprezintă incidente/accidente în cadrul alimentaţiei la"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "sân:",
+      "options": [
+        "regurgitaţia",
+        "voma",
+        "colica abdominală a sugarului",
+        "enterocolita",
+        "refuzul temporar al sânului"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi care din produsele enumerate se recomandă ca sursă de proteine pentru sugar:",
+      "options": [
+        "carnea",
+        "bulionul de carne",
+        "gălbenuşul de ou",
+        "albuşul de ou",
+        "brânza/ caşcavalul"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Consumul insuficient de lipide la copii de vârstă fragedă poate cauza:",
+      "options": [
+        "îmbolnăviri frecvente",
+        "aport scăzut de energie",
+        "creştere ponderală insuficientă",
+        "hipovitaminoză (A,D,E,K)",
+        "retard neuropsihic"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Consumul exagerat de lipide la copii de vârstă fragedă poate cauza:",
+      "options": [
+        "adaos ponderal accelerat",
+        "creştere staturală rapidă",
+        "obezitate",
+        "dispancreatism",
+        "diaree acută"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Consumul insuficient de glucide de către sugar poate cauza:",
+      "options": [
+        "patologia sistemului nervos",
+        "reducerea rezervelor de glicogen",
+        "hipoglicemia",
+        "adaos ponderal scăzut",
+        "pancreatită"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi care abilităţi şi particularităţi de dezvoltare sunt necesare sugarului în vârstă de 6 luni pentru începerea diversificării alimentației:",
+      "options": [
+        "mişcările de mestecare complexe",
+        "muşcatul şi mestecatul",
+        "apariţia primelor mişcări de mestecare",
+        "deplasarea reflexului de vomă de la centru spre rădăcina limbii",
+        "suptul şi înghiţitul"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Notați ce reprezintă alimentaţia complementară:",
+      "options": [
+        "introducerea alimentelor noi, solide la vârsta copilului de 6 luni",
+        "alimentaţia copilului cu alte tipuri de lapte (formule de lapte praf)",
+        "alimentarea copilului cu lapte matern şi un alt tip de lapte",
+        "obişnuirea treptată a copilului sugar cu alte alimente decât laptele",
+        "diversificarea alimentaţiei, recomandată pentru sugari începând cu vârsta de 6 luni"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi factorii reglatori ai funcţiilor specifice umane, prezenţi în laptele matern:",
+      "options": [
+        "calciul şi natriul",
+        "carnitina",
+        "taurina",
+        "acizii graşi polinesaturaţi",
+        "acizii graşi saturaţi"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi avantajele proteinelor laptelui matern faţă de cele din laptele de vaci:",
+      "options": [
+        "proteina laptelui matern este reprezentată majoritar de cazeină",
+        "laptele matern conţine mai multe proteine serice",
+        "conţinutul proteic al laptelui matern corespunde necesităţilor copilului",
+        "proteina laptelui matern este parţial reprezentată de α - lactalbumină",
+        "proteina laptelui matern este parţial reprezentată de β – lactalbumină"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi condiţiile de bază pentru iniţierea şi stimularea lactaţiei:",
+      "options": [
+        "suplimentarea alimentaţiei mamei",
+        "aplicarea la sân a nou-născutului în prima oră după naştere",
+        "aplicarea copilului la sân la cerere, inclusiv noaptea",
+        "administrarea de lichide suplimentare mamei",
+        "evacuarea maximă de lapte produs"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi care produse pot fi incluse în raţia alimentară a copilului sugar în vârstă de 6 luni:",
+      "options": [
+        "pireuri de legume şi fructe",
+        "peşte",
+        "pesmeţi",
+        "terciuri de cereale",
+        "pâine"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi ce poate spori densitatea energetică a alimentaţiei sugarului:",
+      "options": [
+        "viscozitatea alimentelor complementare",
+        "laptele matern",
+        "lipidele",
+        "apa",
+        "frecvenţa alimentarii"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi ce se ia în considerație în selecţia formulei de lapte pentru sugar:",
+      "options": [
+        "vârsta copilului",
+        "masa corpului copilului",
+        "starea sănătăţii copilului sau anumite probleme de sănătate",
+        "rezultatele analizelor sângelui",
+        "particularităţile de dezvoltare ale copilului"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi particularităţile compoziţionale ale colostrului privind ingredientele nutritive:",
+      "options": [
+        "conţine mai multe lipide ca laptele matern matur",
+        "conţine mai multe proteine ca laptele matern matur",
+        "conţine mai puţine glucide ca laptele matern matur",
+        "conţine mai multe glucide ca laptele matern matur",
+        "conţine mai multe vitamine liposolubile ca laptele matern matur"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţii factorii de protecţie şi imunomodulatori ai laptelui uman:",
+      "options": [
+        "amilaza",
+        "imunoglobulină A secretorie",
+        "lizozimul",
+        "carnitina",
+        "interferonii"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi consecinţele posibile ale deficitului de proteine în alimentaţia copiilor de vârstă fragedă şi a celor preşcolari:",
+      "options": [
+        "retard în dezvoltarea fizică",
+        "retard în dezvoltarea neuropsihică",
+        "scădere a rezistenţei organismului la infecţii",
+        "anemie",
+        "suprasolicitare funcţională a sistemului renourinar"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi afirmaţiile corecte privind rația alimentară a mamei care alăptează:",
+      "options": [
+        "necesităţile energetice materne în perioada lactaţiei nu se schimbă, comparativ cu sarcina",
+        "necesităţile energetice materne în perioada lactaţiei sunt mai înalte decât la femeia însărcinată",
+        "cantitatea de lapte matern secretată depinde direct de consumul alimentar al mamei",
+        "chiar şi mamele care au un regim alimentar deficient, pot produce o cantitate adecvată de lapte calitativ",
+        "necesitatea de proteine în raţia femeii care alăptează se măreşte cu 8-11g/24 ore"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi care din afirmaţii, privind alimentaţia copiilor în vârstă de 1-3 ani, sunt corecte:",
+      "options": [
+        "dacă copilul nu e alăptat se recomandă formule de lapte special adaptate, nu lapte de vaci integru",
+        "se recomandă reducerea consumului de produse cu conţinut sporit de sare, grăsimi şi zahăr",
+        "alimentele se deosebesc de cele utilizate de adult prin calitate superioară, cantitate şi consistenţă, adaptate vârstei",
+        "necesarul zilnic (la kg/masă corp) în apă la copil e mai mare ca la adult",
+        "necesarul zilnic (la kg/masă corp) în apă la copil e mai mic ca la adult"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi avantajele biologice ale laptelui matern faţă de cel de vaci:",
+      "options": [
+        "conţine Ig A secretorie",
+        "conţine o cantitate mai mare de Fe",
+        "asigură sugarului o imunitate pasivă prin conţinutul de factori imunologici",
+        "conţine factori de creştere, inclusiv hormoni",
+        "proteinele laptelui matern nu alergizează organismul sugarului"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Aplicarea corectă la sân implică prezenţa următoarelor semne:",
+      "options": [
+        "guriţa sugarului larg deschisă",
+        "buza inferioară retroversă",
+        "sugarul apucă cu guriţa mamelonul şi o mare parte din areolă",
+        "o parte mai mare de areolă se vizualizează deasupra",
+        "bărbia copilului e distanţată de sân"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Alimentaţia adecvată, conform necesităților sugarului în primele luni de viață, se poate aprecia după următoarele semne:",
+      "options": [
+        "curba ponderală ascendentă, corespunzătoare vârstei, cu adaos ponderal lunar minim 500 g",
+        "starea generală satisfăcătoare",
+        "frecvenţa bolilor respiratorii",
+        "frecvenţa micţiilor (mai mare de 6 în 24 ore)",
+        "starea copilului după alimentare (satisfăcut, liniştit)"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Poziţionarea corectă la sân a sugarului implică următoarele semne:",
+      "options": [
+        "corpul sugarului şi capul lui sunt aliniate pe o dreaptă",
+        "corpul copilului e întors spre corpul mamei",
+        "mama susţine tot corpul copilului, nu numai capul",
+        "corpul copilului e lipit de corpul mamei",
+        "mama susţine sânul cu o mână"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi semnele, conform cărora se poate suspecta că lactaţia este insuficientă:",
+      "options": [
+        "sugarul creşte în greutate săptămânal 150g",
+        "sugarul are o curbă ponderală plată",
+        "sugarul are 5 micţii în 24 ore",
+        "scaunul sugarului este instabil, neregulat",
+        "sugarul este agitat, mai ales după alimentare, doarme prost"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi care din următoarele afirmaţii privind diversificarea alimentaţiei sugarului sunt corecte:",
+      "options": [
+        "diversificarea va începe la vârsta de 6 luni",
+        "diversificarea va începe numai dacă sugarul este sănătos",
+        "alimentul nou se va administra cu linguriţa",
+        "primul complement va fi preferabil pireul de legume",
+        "se introduc concomitent 2 sau mai multe alimente noi"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi regulile de iniţiere a alimentaţiei artificiale la sugar:",
+      "options": [
+        "formula de lapte-praf se va introduce în alimentaţie doar când copilul este sănătos",
+        "formula de lapte-praf nouă se va introduce progresiv şi treptat",
+        "nu se vor introduce simultan două sau mai multe formule de lapte-praf noi",
+        "dacă masa ponderală stagnează în decurs de 1 săptămână, se va recurge la o altă formulă de lapte- praf",
+        "se vor folosi de preferinţă formulele de lapte adaptate"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi consecințele utilizării laptelui de vaci în alimentaţia sugarului:",
+      "options": [
+        "suprasolicitarea osmotică renală",
+        "anemia carenţială",
+        "alcaloza metabolică",
+        "gastroenteropatia alergică",
+        "distrofia"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi criteriile de clasificare a formulelor de lapte-praf:",
+      "options": [
+        "după gradul de adaptare",
+        "după vârsta, la care sunt indicate",
+        "după sursa de glucide",
+        "după tehnologia de producere",
+        "după particularitatea compoziţională"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Evidenţiaţi avantajele formulelor de lapte-praf adaptate faţă de cele neadaptate:",
+      "options": [
+        "glucidele sunt reprezentate practic exclusiv de către lactoză",
+        "au un nivel scăzut de cazeină şi un conţinut sporit de proteine din zer (serice)",
+        "conţin acizi graşi polinesaturaţi în cantităţi mai mari",
+        "sunt îmbogăţite cu vitamine şi microelemente, în special cu Fe",
+        ",,imită” în întregime componenţa laptelui matern"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Evidenţiaţi dezavantajele formulelor de lapte-praf adaptate faţă de laptele matern:",
+      "options": [
+        "proteina străină poate fi alergizantă pentru copil",
+        "conţin mai puţine proteine din zer",
+        "conţin mai multă lactoză",
+        "sunt lipsite de factori antiinfecţioşi",
+        "conţin cantităţi scăzute de beta-lactoglobulină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi problemele copilului, considerate factori nefavorizanţi în alimentaţia la sân:",
+      "options": [
+        "refuzul sânului de către copil",
+        "anomaliile de dezvoltare maxilo-facială (palatoschizis, gnatoschizis)",
+        "masa mică sau foarte mică la naştere",
+        "erorile de metabolism (fenilcetonuria, galactozemia)",
+        "prematuritatea severă"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi greşelile în alimentaţia sugarului, care pot conduce la tulburări de nutriţie:",
+      "options": [
+        "alimentare cu formule de lapte-praf diluate excesiv",
+        "alimentare îndelungată la sân, cu introducere tardivă a alimentelor complementare",
+        "alimentare cu formule de lapte neadaptate (lapte de vaci)",
+        "utilizare excesivă a sucurilor şi ceaiurilor",
+        "introducere a alimentelor complementare începând cu vârsta de 6 luni"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi consecinţele introducerii precoce a complementului în alimentaţia sugarului:",
+      "options": [
+        "dezvoltarea fizică accelerată",
+        "scăderea lactaţiei şi micşorarea aportului de energie şi substanţe nutritive de către copil",
+        "risc de infecţie crescut, odată cu administrarea produselor care pot fi contaminate",
+        "risc crescut de boală diareică acută",
+        "risc crescut de alergie alimentară"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi caracteristicile cantitative ale microelementelor laptelui matern faţă de laptele de vaci:",
+      "options": [
+        "laptele matern conţine mai mult Fier decât laptele de vaci",
+        "laptele matern conţine mai mult Calciu decât laptele de vaci",
+        "laptele matern conţine mai puţin Calciu decât laptele de vaci",
+        "laptele matern conţine mai puţin Clor decât laptele de vaci",
+        "laptele matern conţine mai puţin Natriu decât laptele de vaci"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi abilităţile prezente la sugarul în vârstă de 6-12 luni şi necesare pentru consumarea alimentelor complementare:",
+      "options": [
+        "suptul şi înghiţitul",
+        "mişcările de mestecare complexe",
+        "curăţarea linguriţei cu buzele",
+        "muşcatul",
+        "mişcările laterale cu limba şi împingerea hranei către dinţi"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi prin ce se manifestă rolul imunoprotector al laptelui matern:",
+      "options": [
+        "asigură sugarului un ritm de creştere ponderală adecvată",
+        "micşorează răspândirea şi durata afecţiunilor diareice",
+        "micşorează riscul maladiilor autoimune",
+        "micşorează riscul morţii subite a sugarului",
+        "protejează de enterocolită necrotică"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi factorii de protecţie şi imunomodulatori ai laptelui uman:",
+      "options": [
+        "prolactina",
+        "lactoferina",
+        "interleukina-6",
+        "factorul Bifidum",
+        "ribonucleaza"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi factorii de protecţie şi imunomodulatori ai laptelui uman:",
+      "options": [
+        "limfocite T, B",
+        "macrofagi",
+        "anticorpi antivirus",
+        "imunoglobuline de clasa A, M",
+        "calcitonina"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte privind alimentaţia mamei care alăptează:",
+      "options": [
+        "regimul alimentar al mamei ce alăptează trebuie să fie adaptat la starea ei de nutriţie",
+        "necesităţile proteice ale femeii care alăptează sunt crescute cu 11 g/24 ore",
+        "mama care alăptează necesită suplimentare obligatorie cu Ca, Fe, P, Mg, Zn, K, Na şi vitamine",
+        "creşterea considerabilă a consumului de lichide nu va influența lactaţia",
+        "necesarul de calorii al mamei care alăptează va fi crescut cu 480-500 kkal/24 ore"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi restricţiile regimului alimentar al mamei care alăptează:",
+      "options": [
+        "nu există nici un fel de restricţii",
+        "se evită alimentele cu potenţial alergic sporit (fructe exotice, ciocolată, miere)",
+        "se evită usturoiul, condimentele picante",
+        "se exclud alimentele, la care sugarul a manifestat anterior reacţii adverse",
+        "se consumă cu precauţie ouă, peşte şi sucuri din fructe"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi afirmațiile, care caracterizează rolul protector al alimentaţiei cu lapte matern faţă de  infecţii:",
+      "options": [
+        "laptele matern este bactericid",
+        "laptele matern, spre deosebire de alte lichide, nu prezintă pericol",
+        "laptele matern conţine imunoglobulină A secretorie, care protejează de agenţi patogeni la nivel de mucoase",
+        "lactoferina din laptele matern concurează cu bacteriile pentru Fe",
+        "laptele matern conţine factori nespecifici de apărare (macrofagi, limfocite, interferoni, interleuchine, etc.)"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi factorii declanşatori ai reflexului oxitocinei:",
+      "options": [
+        "aplicarea frecventă a copilului la sân",
+        "evacuarea completă din sân a laptelui produs",
+        "excitarea receptorilor mamelonari",
+        "aplicarea la sân cât mai precoce după naştere",
+        "acţiunea factorilor emoţionali pozitivi, legaţi de copil (imaginea lui, contactul tactil etc.)"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi recomandările practice, menite să stimuleze reflexul de oxitocină, oferite mamelor ce alăptează:",
+      "options": [
+        "aplicarea cât mai frecventă la sân",
+        "alimentarea exclusivă la sân în primele 6 luni de viaţă",
+        "aflarea permanentă a mamei alături de copil",
+        "stoarcerea laptelui rămas după alimentarea sugarului",
+        "aplicarea şi poziţionarea corectă la sân"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi recomandările practice, menite să stimuleze reflexul de prolactină oferite mamelor ce alăptează:",
+      "options": [
+        "aplicarea frecventă a copilului la sân, ziua şi noaptea",
+        "evacuarea completă a laptelui produs din glanda mamară",
+        "aflarea permanentă a mamei alături de copil",
+        "poziţionarea şi aplicarea corectă la sân",
+        "interzicerea administrării altor alimente şi lichide, decât laptele matern, în primele 6 luni de viaţă",
+        "a sugarului"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi particularităţile compoziţionale ale colostrului faţă de laptele matern matur:",
+      "options": [
+        "colostrul este mai dens",
+        "colostrul are conţinut de proteine mai mare",
+        "colostrul are concentraţia de glucide mai mare",
+        "colostrul are concentraţia de vitamina A mai mare",
+        "colostrul are conţinut mai bogat în imunoglobuline"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi prin ce e important colostrul pentru copilul nou-născut:",
+      "options": [
+        "oferă nou-născutului o cantitate suficientă de nutrienţi, concentrată într-un volum mai mic",
+        "este laxativ şi ajută să se evacueze mai uşor meconiul, ce contribuie la prevenirea icterului",
+        "conţine mai puţine săruri minerale",
+        "conţine o cantitate sporită de leucocite şi macrofagi, implicaţi în apărarea antiinfecţioasă",
+        "conţine imunoglobuline într-o concentraţie mai mare"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi caracteristicile proteinelor colostrului:",
+      "options": [
+        "sunt reprezentate în special de albumine şi globuline, asemănătoare proteinelor plasmatice ale nou-năsutului",
+        "cazeina colostrului reprezintă ½ din conţinutul proteic al colostrului",
+        "aminoacizii esenţiali se conţin într-o cantitate mai mare",
+        "majoritatea proteinelor se absorb integral în tractul intestinal al nou-născutului",
+        "o bună parte din proteinele colostrului sunt reprezentate de imunoglobuline"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte privind compoziţia laptelui matern:",
+      "options": [
+        "compoziţia laptelui unei mame se potriveşte în mod special propriului ei copil",
+        "laptele matern diferă în funcţie de vârsta mamei, perioada de după naştere, faza suptului",
+        "compoziţia laptelui matern depinde întru-totul de alimentaţia mamei",
+        "conţinutul de proteine este mai mare în primele zile după naştere",
+        "conţinutul de lipide este mai mic în ,,laptele anterior”"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile corecte privind tipurile de lapte matern:",
+      "options": [
+        "laptele secretat în primele 4-5 zile după naştere se numeşte colostru",
+        "colostrul reprezintă laptele matern secretat după I lună de la naştere",
+        "laptele de tranziţie se secretă în perioada de 5-14 zile după naştere",
+        "laptele matur poate avea o compoziţie diferită, în funcţie de faza suptului",
+        "laptele matern matur este produs începând cu 2 săptămâni după naştere"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi tulburările nutriţionale întâlnite mai frecvent la vârsta pubertăţii:",
+      "options": [
+        "carenţa de calciu",
+        "anorexia nervoasă",
+        "distrofia",
+        "anemia carenţială",
+        "modificările patologice ale scheletului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați ce reprezintă ,,dieta prudentă”, recomandată pentru copiii mai mari de 2 ani:",
+      "options": [
+        "aport scăzut de colesterol (sub 100 mg/1000 kcal/zi)",
+        "dietă hipoalergică",
+        "dietă cu nivel echilibrat de glucide (60% din aportul caloric zilnic), lipide (sub 30% din aportul caloric)",
+        "dietă vegetariană",
+        "dietă cu cantitate redusă de sare"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi ce particularităţi ale alimentelor sunt recomandate pentru copiii de vârstă fragedă:",
+      "options": [
+        "se va utiliza doar carne slabă",
+        "se va prefera modul de preparare ,,la aburi” (pentru pârjoale, perişoare)",
+        "se vor prefera grăsimile de calitate (uleiuri vegetale, unt, smântână proaspătă)",
+        "se poate utiliza maioneză pentru sosuri",
+        "se vor exclude condimentele picante"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi ce tipuri de bucate se recomandă a fi incluse în alimentaţia copiilor în vârstă de 1-3 ani:",
+      "options": [
+        "supele de legume",
+        "budinca de brânză",
+        "salatele din legume/fructe proaspete",
+        "salatele din legume fierte",
+        "carnea prăjită"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicaţi ce include supravegherea alimentaţiei copiilor în instituţiile preşcolare:",
+      "options": [
+        "elaborarea raţiei alimentare pentru fiecare grup de vârstă în parte",
+        "supravegherea calităţii şi stocării produselor alimentare",
+        "supravegherea tehnologiei preparării bucatelor",
+        "aprecierea calităţii bucatelor gata preparate",
+        "efectuarea examinării medicale a angajaţilor blocului alimentar",
+        "Alimentaţia copiilor sănătoşi."
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați care glande endocrine exercită o influenţă prioritară asupra creşterii şi dezvoltării fizice a copilului în primul an de viaţă:",
+      "options": [
+        "Tiroida fătului",
+        "Timusul fătului",
+        "hormonii placentari (gonadotropinele placentare)",
+        "hormonii materni, care traversează bariera placentară",
+        "hipofiza fătului"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați care glande endocrine influenţează creşterea şi dezvoltarea fizică a copilului în perioada de dezvoltare intrauterină:",
+      "options": [
+        "tiroida",
+        "timusul",
+        "suprarenalele",
+        "glandele sexuale",
+        "hipofiza"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "3) Indicaţi criteriile de apreciere a maturizării biologice la şcolarul mic:",
+      "options": [
+        "talia",
+        "caracterul creşterii ponderale anuale",
+        "numărul dinţilor permanenţi",
+        "prezenţa semnelor sexuale secundare",
+        "\"vârsta osoasă\""
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "4)Indicați ce include metoda centilică de evaluare a dezvoltării fizice la copii:",
+      "options": [
+        "indicii autopometrici",
+        "tabelele centilice",
+        "devierile sigmale",
+        "curbele centilice",
+        "formulele orientative de apreciere a masai corporale"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "5) Indicaţi, ce se ia în considerație în estimarea complexă a dezvoltării fizice la copii:",
+      "options": [
+        "nivelul maturităţii biologice",
+        "gradul de armonie a parametrilor morfofuncţionali",
+        "acceleraţia dezvoltării fizice",
+        "talia corpului",
+        "greutatea corpului"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "6) Indicaţi rolul somatotropinei hipofizare în procesul de creştere şi dezvoltare a copiilor:",
+      "options": [
+        "are acţiune anabolică",
+        "este stimulator al creşterii",
+        "are acţiune catabolică",
+        "este reglator al imunităţii",
+        "intervine în metabolismul hidroelectrolitic"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicaţi rolul timusului în procesul de creştere şi dezvoltare a copiilor:",
+      "options": [
+        "are acţiune anabolică",
+        "este stimulator al creşterii",
+        "are acţiune catabolică",
+        "deţine un rol determinant în apărarea imună",
+        "intervine în metabolismul acizilor nucleici şi al calciului"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Indicaţi rolul hormonilor tiroidei în procesul de creştere şi dezvoltare a copiilor:",
+      "options": [
+        "are acţiune anabolică",
+        "stimulează creşterea și dezvoltarea neuropsihică",
+        "are acţiune catabolică",
+        "stimulează sinteza de ARN ribosomal şi sinteza de proteine",
+        "accelerează metabolismul bazal"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "1 Selectați opțiunea care nu reprezintă o variantă clinico-morfologică a pneumoniei comunitare la copil:",
+      "options": [
+        "Pneumonie lobulară (bronhopneumonie)",
+        "Pneumonie franc-lobară (lobară)",
+        "Pneumonie segmentară",
+        "Pneumonie interstiţială",
+        "Pneumonie cronică"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "2. Precizați stadiul patogenic care nu caracterizează evoluţia pneumoniei pneumococice la copii:",
+      "options": [
+        "A. Latenţă",
+        "B. Rezoluţie",
+        "C. Hepatizare cenuşie",
+        "D. Hepatizare roşie",
+        "E. Congestie"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "3. Indicaţi simptomul clinic specific pentru pneumonia acută necomplicată la copii:",
+      "options": [
+        "A. Expir prelungit însoţit de geamăt",
+        "B. Accentuarea zgomotelor respiratorii",
+        "C. Majorarea excursiilor respiratorii în zona afectată",
+        "D. Raluri uscate sibilante difuze",
+        "E. Raluri umede buloase mici şi crepitante localizate, ce nu dispar la tuse"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "4. Selectaţi factorul etiologic al pneumoniei franc-lobară la copii:",
+      "options": [
+        "A.  Staphilococcus aureus",
+        "B.  Haemophilus influenzae",
+        "C.  Klebsiella pneumoniae",
+        "D.  Streptococcus hemolitic",
+        "E.  Streptococcus pneumoniae"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "5.  Diagnosticul definitiv al pneumoniei comunitare la copii se stabileşte, de regulă, în baza:",
+      "options": [
+        "A. Scintigrafiei pulmonare",
+        "B.  Spirografiei",
+        "C.  Bronhoscopiei",
+        "D.  Radiografiei cutiei toracice",
+        "Bronhografiei"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "6.  Selectați semnul clinic care nu este caracteristic pneumoniei segmentare:",
+      "options": [
+        "A. Afectarea unuia sau a câtorva segmente",
+        "B. Tabloul clinic cu expresivitate generală redusă",
+        "C. Wheezing",
+        "D. Evoluție frecventă cu componentă atelectaticăE. Opacitate radiologică triunghiulară cu baza spre hil"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "7. Diagnosticul etiologic concludent al pneumoniei comunitare se  stabileşte în baza:",
+      "options": [
+        "Microscopiei sputei",
+        "Explorărilor bacteriologice calitative a  sputei",
+        "Explorărilor bacteriologice cantitative a sputei",
+        "Imunofluorescenţei  sputei",
+        "Investigaţiilor imunologice celulare"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "8. Precizați mecanismul  de  infectare în pneumonia comunitară la copii?",
+      "options": [
+        "Aerogen",
+        "Limfogen",
+        "Ascendent",
+        "Pleural",
+        "Mediastinal"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "9. Antibioticul de elecţie în pneumonia comunitară la copilul mic este:",
+      "options": [
+        "Amicacina",
+        "Biceptol",
+        "Amoxicilina",
+        "Doxaciclina",
+        "Tetraciclina"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "10. Precizați  durata optimă a antibioticoterapiei în pneumonia comunitară necomplicată la copil:",
+      "options": [
+        "1 zi  după normalizarea temperaturii",
+        "3 zile  după  normalizarea  temperaturii",
+        "5 zile după  normalizarea temperaturii",
+        "Până la  dispariţia tusei",
+        "Până la  rezorbţia totală a  opacităţilor pulmonare"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "11. Selectați agentul etiologic în pneumonia atipică la copii:",
+      "options": [
+        "Haemophilus influenzae",
+        "Mycobacterium tuberculosis",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "12. Indicați tratamentul de prima intenție în pneumonia atipică la copil:",
+      "options": [
+        "Macrolide",
+        "Cefalosporine gen. II",
+        "Cefalosporine gen. III",
+        "Aminoglicozide",
+        "Aminopeniciline"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "13. Precizați calea de administrare a antibioticelor în pneumonia comunitară necomplicată la copil:",
+      "options": [
+        "Intramusculară",
+        "Intravenosă",
+        "Orală",
+        "Intrarectală",
+        "Intrapleurală"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "14. Devierea mediastinului spre partea afectata este caracteristică în:A) HemotoraxB) PneumotoraxC) HidropneumotoraxD) Emfizem lobarE) Atelectazie pulmonară15. Investigaţia imagistică necesară pentru confirmarea pneumoniei la copii este:",
+      "options": [
+        "SpirografiaB) BronhografiaC) Radiografia pulmonarăD) PEF-metria",
+        "Scintigrafia pulmonară16. Antibioticul de prima alegere în pneumonia cu Mycoplasma pneumoniae la copii este:A) AzitromicinaB) CefatoximC) TetraciclinăD) Ampicilină",
+        "Cefalexin17. Selectați agentul patogen al pneumoniei atipice la  şcolari și adolescenţi:A) LegionellaB) Pneumocystis cariniiC) CitomegalovirusD) ToxoplasmaE) Mycoplasma pneumoniae18. Precizați antibioticul de prima alegere în tratamentul pneumoniei cu Haemophilus influenzae producătoare de beta-lactamază la copii:A) FenoximetilpenicilinăB) Amoxicilină+ acid clavulanicC) AmoxicilinăD) Ampicilină",
+        "Macrolide19. Selectați durata optimă a tratamentului cu antibiotice în pneumonia comunitară la copii:A) Până la de normalizarea temperaturii B) Până la rezorbţia totală a infiltratului C) Până la normalizarea VSHD) Dinamică clinică favorabilă şi 5 zile afebrilitate",
+        "Aсоrd comun al medic-pacient",
+        "20. Care pneumonie poate fi atribuită stării de imunodeficienţă la copii:A) PneumococicăB) StafilococicăC) Cu MicoplasmăD) Pneumocistică",
+        "ViralăComplement multiplu."
+      ],
+      "correct": 4
+    },
+    {
+      "text": "1. Enumerați criteriile de diagnostic ale pneumoniei comunitare la copil recomandate pentru sectorul primar:",
+      "options": [
+        "Tusea",
+        "Tahipnee",
+        "Prezenţa sindromului bronhoobstructiv",
+        "Tiraj intercostal şi substernal",
+        "Refuzul suptului"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "2. Enumerați factori de risc pentru declanșarea pneumoniei comunitare la copilul mic:",
+      "options": [
+        "Malnutriţia",
+        "Stările imunocompromise",
+        "Alimentaţia artificială",
+        "Rahitismul",
+        "Prematuritatea"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "3.   Indicați semnele clinice caracteristice pneumoniei comunitare  la copilul mic:",
+      "options": [
+        "Dispnee în absența sindromului obstructiv",
+        "Bătăi preinspiratorii ale aripilor nazale",
+        "Raluri umede buloase mici, localizate",
+        "Emfizem pulmonar",
+        "Tiraj"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "4. Selectați semnele clinice caracteristice pneumoniei interstiţiale la copii:",
+      "options": [
+        "Semne clinice de infecţie virală respiratorie inferioară",
+        "Tiraj intercostal şi substernal",
+        "Examen fizic pulmonar sărac",
+        "Respiraţie diminuată",
+        "Raluri crepitante localizate"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "5. Selectați afirmaţiile corecte pentru pleurezia metapneumonică la copii:",
+      "options": [
+        "Se dezvoltă concomitent cu procesul pulmonar inflamator",
+        "Apare în săptămâna a 2–3-a de la debutul pneumoniei",
+        "Exudatul pleural este seros-fibrinos",
+        "Leucocitoză marcată și VSH accelerat",
+        "Complexe imunocirculante crescute"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "6. Precizați agenții patogeni frecvenți în pneumoniile comunitare la copil:",
+      "options": [
+        "A. Streptococcus pneumoniae",
+        "B. Haemophilus influenzae",
+        "C. Mycoplasma pneumoniae",
+        "D. Enterobacteriile",
+        "E. Pseudomonas aeruginosa"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizaţi nivelul hemoglobinei la nou-născut imediat după naştere:",
+      "options": [
+        "100–140 g/l;",
+        "110–130 g/l;",
+        "120–140 g/l;",
+        "140–160 g/l;",
+        "180–240 g/l."
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Valorile hemoglobinei la sugarul sănătos nu trebuie să fie mai joase de:",
+      "options": [
+        "90 g/l;",
+        "100 g/l;",
+        "110 g/l;",
+        "120 g/l;",
+        "130 g/l."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicaţi cea mai frecventă cauză a anemiei feriprive la copilul mic:",
+      "options": [
+        "maladia cronică;",
+        "factorul alimentar;",
+        "hemoragia cronică;",
+        "dereglarea absorbţiei fierului;",
+        "bolile infecţioase."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cel mai important indice în diagnosticul anemiei feriprive este:",
+      "options": [
+        "hipocromia;",
+        "prezenţa sursei de hemoragie;",
+        "scăderea nivelului fierului seric;",
+        "raţia alimentară insuficientă în fier;",
+        "creşterea viguroasă a copilului."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Selectaţi care dintre parametri nu este redus în anemia feriprivă:",
+      "options": [
+        "saturația transferinei;",
+        "fierul seric;",
+        "feritina serică;",
+        "concentrația hemoglobinei eritrocitare;",
+        "capacitatea totală de legare a fierului."
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicația optimă în tratamentul anemiei feriprive gradul II la copil:",
+      "options": [
+        "produse vegetale;",
+        "transfuzie de sânge;",
+        "alimente din ficat",
+        "preparate de fier per os",
+        "preparate de fier parenteral."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Absorbţia fierului din preparatele medicamentoase depinde preponderent de:",
+      "options": [
+        "aciditatea sucului gastric;",
+        "activitatea amilazei salivare;",
+        "funcția secretorie gastrică;",
+        "proprietățile chimice ale compușilor de fier;",
+        "activitatea proteolitică gastrică."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Anemia „tardivă” a prematurilor este de tip:",
+      "options": [
+        "hemolitic;",
+        "feripriv;",
+        "posthemoragic;",
+        "aplastic;",
+        "ereditar."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicaţi din care produse alimentare, fierul se asimilează mai bine:",
+      "options": [
+        "carne;",
+        "fructe;",
+        "legume;",
+        "făinoase;",
+        "lactate."
+      ],
+      "correct": [
+        0,
+        4,
+        3,
+        4,
+        4,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "text": "Cauzele apariţiei anemiei fierodeficitare la copii sunt:",
+      "options": [
+        "insuficienţa fierului în produsele alimentare;",
+        "aplazia măduvei osoase;",
+        "sindromul de malabsorbţie;",
+        "cerinţele sporite ale copilului în fier;",
+        "bolile infecţioase."
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați organele în care se află depozitele de fier în organism:",
+      "options": [
+        "ganglionii limfatici;",
+        "ficatul;",
+        "rinichii;",
+        "ţesutul muscular;",
+        "splină."
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați manifestările clinice incluse în tabloul clinic al anemiei fierodeficitare la copii:",
+      "options": [
+        "paliditatea tegumentelor;",
+        "limfadenopatia;",
+        "modofocări trofice ale pielii, părului, unghiilor;",
+        "suflul sistolic la apexul cordului;",
+        "febra."
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați parametrii a căror reducere este caracteristică anemiei fierodeficitare la copii:",
+      "options": [
+        "hemoglobina;",
+        "hematocritul;",
+        "numărul de reticulocite din sângele periferic;",
+        "indicele de culoare;",
+        "moderată a numărului de eritrocite."
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați modificările caracteristice anemiei fierodeficitare la copii:",
+      "options": [
+        "diminuarea fierului seric;",
+        "reducerea capacităţii fierocaptante a plasmei;",
+        "hipercromia;",
+        "hipocromia;",
+        "prezenţa sursei de hemoragie."
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectați caracteristicile anemiei prin deficit de vitamina B12:",
+      "options": [
+        "hematopoieza de tip megaloblastic;",
+        "diminuarea numărului de reticulocite;",
+        "anemia hipercromă;",
+        "creșterea nivelului fierului seric;",
+        "anemia microcitară"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Selectați caracteristicile deficitului latent de fier:",
+      "options": [
+        "diminuarea nivelului hemoglobinei;",
+        "nivel normal al hemoglobinei;",
+        "testul cu Desferal pozitiv;",
+        "reducerea nivelului fierului seric;",
+        "reticulocitoza."
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați produsele din care fierul se absoarbe mai eficient:",
+      "options": [
+        "carne;",
+        "cereale;",
+        "peşte;",
+        "legume;",
+        "fructe."
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Indicați componentele tratamentului anemiei fierodeficitare la copii:",
+      "options": [
+        "terapia de substituţie cu plasmă;",
+        "glucocorticosteroizi;",
+        "vitamina B12;",
+        "acidul ascorbic;",
+        "preparate de fier."
+      ],
+      "correct": [
+        3,
+        4,
+        0,
+        2,
+        4,
+        0,
+        3,
+        0,
+        2,
+        4,
+        1,
+        4,
+        0,
+        1,
+        2,
+        0,
+        1,
+        3,
+        0,
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        3,
+        1,
+        2,
+        3,
+        4,
+        0,
+        4,
+        1,
+        3,
+        0,
+        2,
+        4,
+        0,
+        2,
+        3,
+        1,
+        2,
+        4,
+        0,
+        4,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Indicați manifestarea care nu este specifică hemofiliei:",
+      "options": [
+        "sângerarea de tip hematom;",
+        "hemartroze;",
+        "hemoragie tardivă posttraumatică;",
+        "peteşii şi echimoze;",
+        "număr normal de trombocite."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Precizați factorul de coagulare deficitar în hemofilia A:",
+      "options": [
+        "Factorul  IX;",
+        "Factorul  VIII;",
+        "Factorul XI;",
+        "Factorul  XII;",
+        "Factorul  V."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Selectați măsura terapeutică optimă în hemoragia la copil cu hemofilia A:",
+      "options": [
+        "plasma proaspăt congelată;",
+        "plasma nativă;",
+        "crioprecipitat;",
+        "masa eritrocitară;",
+        "masa trombocitară."
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Alegeți intervenția contraindicată în tratamentul hemofiliei:",
+      "options": [
+        "crioprecipitatul;",
+        "tamponul hemostatic;",
+        "imobilizarea de scurtă durată a membrului afectat;",
+        "aspirina;",
+        "repaosul fizic."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Stabiliți tipul de transmitere genetică caracteristic hemofiliei A:",
+      "options": [
+        "autozomal dominantă;",
+        "autozomal recesivă;",
+        "X-lincată, recesiv;",
+        "multifactorială;",
+        "dobândită."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Indicați tipul de sângerare caracteristic bolii von Willebrand:",
+      "options": [
+        "Sângerare de  tip hematom;",
+        "Sângerare de tip mixt;",
+        "sângerare tip peteşial-macular;",
+        "evoluție cu prognostic nefavorabil;",
+        "hemartroze frecvente."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Precizați elementul care nu este caracteristic bolii von Willebrand:",
+      "options": [
+        "reducerea factorului VIII: C, VIII:R",
+        "adeziunea trombocitară diminuată pe suprafaţa sticlei;",
+        "agregarea trombocitelor redusă la ristocetină;",
+        "trombocitopenia;",
+        "creşterea timpului de sângerare."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Indicați parametrul de laborator care rămâne nemodificat în hemofilie:",
+      "options": [
+        "timpul de coagulare Lee-White;",
+        "nivelul factorului VIII;",
+        "timpul de tromboplastină parţial activată;",
+        "timpul de recalcificare a plasmei;",
+        "numărul de trombocite."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectați afirmația necaracteristică pentru hemofilia A:",
+      "options": [
+        "timpul de sîngerare crescut;",
+        "timpul de coagulare crescut;",
+        "timpul de tromboplastină parţial activată crescut;",
+        "timpul de sîngerare normal;",
+        "deficitul factorului VIII."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Identificaţi cea mai frecvent întâlnită  coagulopatie:",
+      "options": [
+        "hipofibrinogenemia",
+        "hemofilia A",
+        "hemofilia B",
+        "hemofilia C",
+        "deficitul de factor V (parahemofilie)"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS1. Numiţi cea mai frecventă formă de cardiomiopatie primară la copii:",
+      "options": [
+        "Cardiomiopatia hipertrofică",
+        "Miocardita acută",
+        "Cardiomiopatia dilatativă",
+        "Cardiomiopatia restrictivă",
+        "Cardiomiopatia peripartum"
+      ],
+      "correct": [
+        3,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "text": "CS 2. Indicați metoda considerată standard de aur pentru diagnosticul miocarditei la copi:",
+      "options": [
+        "Ecocardiografia",
+        "Biopsia endomiocardică",
+        "Electrocardiograma",
+        "evaluarea biomarkerilor de leziune miocardică",
+        "Rezonanţa magnetică cardiacă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS 3. Selectaţi semnul ecocardiografic distinctiv al miocarditei acute fulminante la copil:",
+      "options": [
+        "Îngroşarea accentuată a septului interventricular",
+        "Dilatarea cavităţii ventriculului stâng",
+        "Revărsat pericardic important",
+        "Ventricul stâng hipercontractil",
+        "Dilatarea atriului drept"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS 4. Precizați cea mai frecventă cardiomiopatie primară cu etiologie genetică:",
+      "options": [
+        "Cardiomiopatia restrictivă",
+        "Ventricul stâng non-compactant",
+        "Cardiomiopatia hipertrofică",
+        "Cardiomiopatie aritmogenă de ventricul drept",
+        "Cardiomiopatia dilatativă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS 5. Menționați elementul esențial în orientarea etiologică a hipertrofiei ventriculare stângi în cardiomiopatia hipertrofică pediatrică:",
+      "options": [
+        "Vîrsta pacientului",
+        "Tulburări ale metabolismului acizilor graşi",
+        "Deficitul de carnitină",
+        "Nou-născutul de la  mamă diabetică",
+        "Citopatiile mitocondriale"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "CS 6. Numiţi cauza genetică predominantă în cardiomiopatia hipertrofică primară la copii:",
+      "options": [
+        "Mutaţii ale genelor care codifică proteinele sarcomerice",
+        "Erori metabolice înnăscute",
+        "Sindroame genetice definite",
+        "Citopatii mitocondriale",
+        "Tulburări de conducere înnăscute"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "CS 7. Stabiliți intervenția care nu este indicată în tratamentul inițial al miocarditei acute virale la copil:",
+      "options": [
+        "administrarea antiviralelor",
+        "utilizarea antiinflamatoarelor nesteroidiene",
+        "Inhibitorii enzimei de conversie a angiotensinei",
+        "Diureticele",
+        "Remedii inotrop pozitive"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "CS 8. Enumerați complicațiile majore ale miocarditei acute la sugar, cu excepția:",
+      "options": [
+        "Şocului cardiogen",
+        "Tulburărilor de ritm cardiac",
+        "Insuficienţei cardiace congestive",
+        "Cardiomiopatiei hipertrofice",
+        "Tulburărilor de conducere atrioventriculară"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CS 9. Indicați cea mai severă complicație asociată cardiomiopatiei hipertrofice la copil:",
+      "options": [
+        "Sincopa",
+        "Moartea subită",
+        "Fibrilaţia atrială",
+        "Endocardita infecţioasă",
+        "Tahicardia supraventriculară paroxistică"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "CS 10. Precizați componenta care nu face parte din conduita terapeutică uzuală a cardiomiopatiei dilatative pediatrice:",
+      "options": [
+        "Miectomia septală",
+        "tratamentul insuficienței cardiace",
+        "Anticoagulantele",
+        "Terapia antivirală",
+        "Oxigenoterapia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CS 11. Numiţi manifestarea clinică comună în cardiomiopatia dilatativă la sugar:",
+      "options": [
+        "Dispnee la alimentaţie",
+        "Sincopa",
+        "Febra",
+        "Dureri toracice",
+        "Palpitaţii"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CS 12. Selectați indicaţia pentru efectuarea monitorizării ECG Holter în cardiomiopatiile primare la copii:",
+      "options": [
+        "Formele familiale",
+        "Formele simptomatice",
+        "Orice caz cu suspiciune de cardiomiopatie primară",
+        "Cardiomiopatia hipertrofică obstructivă",
+        "Cardiomiopatie tahicardică"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CS 13. Identificați criteriul care diferențiază cardiomiopatia hipertrofică pediatrică de cea a adultului:",
+      "options": [
+        "Нipertrofie ventriculară stângă",
+        "prognostic semnificativ mai nefavorabil",
+        "Nu necesită supraveghere",
+        "absența complicaţiilor aritmice",
+        "Nu se asociază cu aritmii fatale"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CS 14. Menționați semnul clinic frecvent întâlnit la copilul mic cu cardiomiopatie hipertrofică:",
+      "options": [
+        "Intoleranţă la efort",
+        "Copil asimptomatic cu suflu mezosistolic apical",
+        "Dispnee la efort",
+        "Insuficienţă cardiacă avansată",
+        "Cianoză"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CS 15. Precizați etiologia cel mai des implicată în cardiomiopatia dilatativă pediatrică:",
+      "options": [
+        "Postmiocardită",
+        "Toxico-medicamentoasă",
+        "Nutriţională",
+        "Sarcomerică",
+        "Endocrină"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "CS 16. Numiţi patternul fiziopatologic dominant în cardiomiopatia restrictivă primară:",
+      "options": [
+        "Disfuncţie sistolică",
+        "Disfuncţie diastolică",
+        "Hipertensiunea pulmonară",
+        "Creşterea rezistenţei vasculare sistemice",
+        "Ischemia miocardică"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "CS 17. Nominalizaţi afecţiunea esențială în diagnosticul diferenţial al cardiomiopatiei restrictive:",
+      "options": [
+        "Cardiomiopatia hipertrofică",
+        "Cardiomiopatia dilatativă",
+        "Miocardita acută",
+        "Percicardita constrictivă",
+        "Boala Fabry"
+      ],
+      "correct": [
+        2,
+        3,
+        4,
+        0,
+        1,
+        3,
+        1,
+        4,
+        0,
+        1,
+        2,
+        4,
+        0,
+        2,
+        3,
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CS 18. Indicaţi prezentarea clinică cu prognostic nefavorabil în cardiomiopatia restrictivă la copii:",
+      "options": [
+        "Insuficienţa cardiacă congestivă",
+        "Hipertensiunea vasculară pulmonară",
+        "Sincopa",
+        "Aritmii supraventriculare",
+        "Hipertrofia ventriculalui drept"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "1. Indicaţi etiologia prevalentă a malformaţiilor cardiace congenitale:",
+      "options": [
+        "Factori genetici",
+        "Factori de mediu",
+        "Etiologie multifactorială",
+        "Defecte ale genomului matern",
+        "Asocierea factorilor genetici şi de mediu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "2. Selectați grupul de medicamente utilizate în închiderea medicamentoasă a canalului arterial persistent:",
+      "options": [
+        "Beta-adrenoblocante",
+        "Inhibitori ai enzimei de conversie a angiotensinei",
+        "Inhibitori ai fosfodiastrazei",
+        "Inhibitori ai prostaglandinelor",
+        "Antagonişti ai aldosteronului"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "3. Numiţi cauza care reflectă manifestările clinice în crizele de rău hipoxic la copil cu malformaţie cardiacă congenitală:",
+      "options": [
+        "Hipoxemia cronică",
+        "Acidoza metabolică",
+        "Hipoxia cerebrală acută",
+        "Hipertensiunea intracraniană",
+        "Aritmia"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "4. Precizaţi semnul clinic compensator în criza de rău hipoxic la copilul cu malformaţie cardiacă congenitală:",
+      "options": [
+        "Acidoza metabolică",
+        "Polipneea",
+        "Spasmul vascular pulmonar",
+        "Scăderea rezistenţei vasculare sistemice",
+        "Creşterea şuntului dreapta-stânga"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "5. Indicaţi localizarea caracteristică a suflului cardiac în stenoza pulmonară valvulară congenitală:",
+      "options": [
+        "Asociat cu clic de ejecţie",
+        "Parasternal stâng superior",
+        "Parasternal drept superior",
+        "Apex",
+        "Mezosternal stâng"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "6. Numiţi cel mai frecvent tip de defect septal atrial la copii:",
+      "options": [
+        "Tip ”Ostium secundum”",
+        "Tip ”Ostium primum”",
+        "Tip perimembranos",
+        "Tip sinus venos",
+        "Tip sinus coronarian"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "7. Precizaţi factorul fiziopatologic principal care influenţează şuntul stânga dreapta la copil cu malformaţie cardiacă congenitală:",
+      "options": [
+        "Dimensiunea defectului",
+        "Localizarea defectului",
+        "Rezistenţa vasculară pulmonară",
+        "Rezistenţa vasculară sistemică",
+        "Grosimea parietală ventriculară"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "8. Menţionaţi patternul fiziopatologic principal în coartaţia de aortă:",
+      "options": [
+        "Hipertrofia ventriculului stâng",
+        "Hipertensiunea arterială",
+        "Creşterea postsarcinii ventriculului stâng",
+        "Creşterea şuntului stânga-dreapta",
+        "Scăderea rezistenţei vasculare sistemice"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "9. Indicaţi malformaţia cardiacă congenitală cianogenă asociată cu flux pulmonar crescut:",
+      "options": [
+        "Tetralogia Fallot",
+        "Transpoziţia de vase mari cu defect septal ventricular larg",
+        "Stenoză pulmonară",
+        "Defect septal ventricular",
+        "Canal atrioventricular complet"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "10 Numiţi factorul fiziopatologic deteminant al manifestărilor clinice în Tetraloagia Fallot:",
+      "options": [
+        "Dimensiunea defectului septal ventricular",
+        "Severitatea hipertrofiei ventricului drept",
+        "Gradul obstrucţiei căii de ieşire a ventriculului drept",
+        "Dextropoziţia aortei",
+        "Localizarea defectului septal ventricular"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "11. Menţionaţi  procedura de elecție aplicată la nou-născuții critici cu stenoză de arteră pulmonară:",
+      "options": [
+        "Atrioseptostomia cu balon (Rashkind)",
+        "Valvuloplastia pulmonară cu balon",
+        "Dilatarea cu balon a arterei pulmonare",
+        "Implantarea dispozitivelor de închidere şi protezelor",
+        "Repoziţionarea vaselor mari"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "12 Indicaţi cel mai frecvent tip de defect septal ventricular la copii:",
+      "options": [
+        "Perimembranos",
+        "Trabecular",
+        "Infundibular",
+        "Muscular multiplu",
+        "Canal atrioventricular complet"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "13. Numiţi anomalia structurală  caracteristică anomaliei Ebstein:",
+      "options": [
+        "Stenoza congenitală a valvei mitrale",
+        "Anomalie a valvei tricuspide",
+        "Valvă aortică bicuspidă",
+        "Stenoză pulmonară supravalvulară",
+        "Persistenţa circulaţiei fetale"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "14. Enumeraţi semnul clinic diagnostic specific coarctaţiei de aortă la copii:",
+      "options": [
+        "Dispneea",
+        "Hepatomegalia",
+        "Creştere şi dezvoltare normală",
+        "Suflu continuu la baza cordului",
+        "Hipertensiune arterială"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "15. Indicați factorul fiziopatologic decisiv în stabilirea momentului corecției chirurgicale la copiii cu canal atrioventricular complet:",
+      "options": [
+        "Creşterea rezistenţei vasculare sistemice",
+        "Egalarea presiunilor intracavitare",
+        "Schimbarea direcţiei şuntului",
+        "Instalarea hipertensiunii arteriale pulmonare",
+        "Regurgitare atrioventriculară severă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "16 Numiți scopul procedurii de banding al arterei pulmonare la copilul cu malformație cardiacă congenitală cu șunt stânga-dreapta:",
+      "options": [
+        "Întreruperea fluxului pulmonar",
+        "Micşorarea fluxului pulmonar",
+        "Ameliorarea circulației sistemice",
+        "Reducerea contractilităţii miocardice",
+        "Schimbarea direcţiei şuntului interventricular",
+        "17. Enumeraţi semnul clinic caracteristic copilului cu defect septal atrial mic",
+        "Dispneea",
+        "Hepatomegalia",
+        "Creştere şi dezvoltare normală",
+        "Suflu continuu la baza cordului",
+        "Hipertensiune arterială"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "18. Indicaţi vârsta optimă pentru corecţia chirurgicală radicală a canalului atrio-ventricular la copii cu sindromul Down:",
+      "options": [
+        "Perioada de nou-născut",
+        "1-3 luni",
+        "3-6 luni",
+        "10-12 luni",
+        "1-3 ani"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "19. Selectați malformația cardiacă congenitală cel mai frecvent depistată la nou-născuții prematuri:",
+      "options": [
+        "Defect septal ventricular",
+        "Canal arterial permiabil",
+        "Foramen ovale patent",
+        "Defect septal atrial",
+        "Tetralogia Fallot"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Indicați manifestările clinice întâlnite în hemofilie:",
+      "options": [
+        "hemoragii masive;",
+        "formarea de hematoame;",
+        "apariția hemartrozelor;",
+        "echimoze şi peteşii;",
+        "debut întârziat al sângerării la 1–2 ore după traumatism."
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Confirmați diagnosticul de hemofilie pe baza următoarelor criterii:",
+      "options": [
+        "A. antecedente heredocolaterale sugestive;B. prelungirea timpului de sângerare prin metoda Duke;C. consum protrombinic diminuat;D. scăderea numărului de trombocite;E. creșterea timpului de coagulare Lee–White."
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Identificați modificările specifice hemofiliei:",
+      "options": [
+        "timp de sângerăre prelungit;",
+        "timp de coagulare Lee-White crescut;",
+        "timp tromboplastinei parţial activate sporit;",
+        "reducerea adeziunii şi agregării trombocitelor;",
+        "deficitul factorului VIII sau IX."
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Сonfirmarea tipului de hemofilie se realizează prin identificarea:",
+      "options": [
+        "Insuficienţei  factorului von Willebrand;",
+        "deficitului factorului VIII;",
+        "deficitului factorului IX;",
+        "deficitului factorului XII;",
+        "deficitul factorului XI."
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați afirmațiile valabile pentru hemofilie:",
+      "options": [
+        "Timp de sîngerare crescut;",
+        "Timp de coagulare crescut;",
+        "Timp de tromboplastină parţial activată crescut;",
+        "sîngerare de tip hematom;",
+        "afecțiune cu determinism genetic."
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Pentru boala von Willebrand  sunt specifice următoarele:",
+      "options": [
+        "reducerea adeziunii trombocitare;",
+        "deficitul factorului IX;",
+        "deficitul factorului XII;",
+        "deficitul factorului von Willebrand;",
+        "prelungirea timpului de sângerare."
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile caracteristice pentru boala von Willebrand:",
+      "options": [
+        "transmiterea recesivă, X – lincată;",
+        "transmiterea autozomal dominantă;",
+        "diminuarea adeziunii şi agregării trombocitelor;",
+        "tipul mixt de sângerare;",
+        "hemartroze frecvente."
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeţi afirmaţiile corecte pentru hemophilia B:",
+      "options": [
+        "apariția hematoamelor şi hemartrozelor;",
+        "creşterea timpului tromboplastinei parţial activate;",
+        "prognosticul pentru viaţă este favorabil;",
+        "deficitul factorului IX;",
+        "deficitul factorului XI."
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi afirmaţiile adevărate pentru  hemofilie:",
+      "options": [
+        "sângerare de tip hematom;",
+        "hemartroză – manifestare tipică;",
+        "sângerare de tip mixt;",
+        "hemofilia B este mai frecventă decât hemofilia A;",
+        "terapia de substituţie este indispensabilă"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Stabiliți parametrii coagulogramei care se modifică în hemofilie:",
+      "options": [
+        "timpul tromboplastinei parţial activate;",
+        "consumul protrombinei;",
+        "testul cu etanol;",
+        "timpul trombinic;",
+        "timpul de recalcificare a plasmei."
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați procedurile contraindicate în tratamentul hemofiliei:",
+      "options": [
+        "crioprecipitatul;",
+        "imobilizarea de scurtă durată a articulaţiei afectate;",
+        "imobilizarea prelungită a articulaţiei;",
+        "transfuziile de sânge;",
+        "concentratele liofilizate de factor VIII."
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumărați ce include programul de terapie în hemartroza acută la bolnavii cu hemofilie:",
+      "options": [
+        "perfuzii de reopoliglucină;",
+        "administrarea crioprecipitatului;",
+        "imobilizarea temporară a articulaţiei;",
+        "administrarea heparinei;",
+        "puncţia obligatorie a articulaţiei."
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Evaluarea mecanismului intrinsec al coagulării include:",
+      "options": [
+        "determinarea timpului tromboplastinei parţial activate",
+        "aprecierea timpului trombinic",
+        "determinarea timpului protrombinei",
+        "evaluarea nivelului factorului VIII",
+        "evaluarea  nivelului factorului IX"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Investigarea mecanismului extrinsec al coagulării include:",
+      "options": [
+        "aprecierea timpului protrombinei",
+        "aprecierea timpului trombinic",
+        "determinarea fibrinogenului",
+        "aprecierea activității factorului VII",
+        "determinarea toleranţei plasmei la heparină"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Indicați particularitățile definitorii ale bolii von Willebrand:",
+      "options": [
+        "moștenire autozomală",
+        "transmitere X-linkată",
+        "afectarea funcției de adeziune și agregare a trombocitelor",
+        "prelungirea duratei sângerării",
+        "predominanța sângerării de tip hematom"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Selectați manifestările clinice frecvent asociate bolii von Willebrand:",
+      "options": [
+        "sângerări gingivale",
+        "episoade de epistaxis",
+        "apariția hematoamelor",
+        "erupții cutanate eritematoase maculo-papuloase",
+        "peteşii și echimoze"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizați caracteristicile generale ale bolii von Willebrand:",
+      "options": [
+        "tipul autozomal de moştenire",
+        "afectare izolată a hemostazei primare",
+        "afectare izolată a hemostazei secundare",
+        "coagulopatie de tip mixt",
+        "transmisă X-linkat",
+        "Coagulopatii la copii."
+      ],
+      "correct": [
+        1,
+        4
+      ]
+    },
+    {
+      "text": "CM 1. Enumerați grupele incluse în clasificarea etiologică a cardiomiopatiilor primare:",
+      "options": [
+        "Genetice",
+        "Acute",
+        "Restrictive",
+        "Virale",
+        "Mixte"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 2. Indicaţi marcherii serici specifici utilizaţi în diagnosticul miocarditei acute la copii:",
+      "options": [
+        "Creatininkinaza - fracţia MB",
+        "Troponina cardiacă T",
+        "Lactatdehidrogenaza, fracțiile 1 și 2 (LDH1, LDH2)",
+        "Antistreptolizina O",
+        "Troponina cardiacă I"
+      ],
+      "correct": [
+        0,
+        3
+      ]
+    },
+    {
+      "text": "CM 3. Menționați categoriile de criterii utilizate în confirmarea diagnosticului de miocardită:",
+      "options": [
+        "Date clinice",
+        "Date epidemiologice",
+        "Dovezi ale modificărilor structurale şi funcţionale cardiace",
+        "Date obținute prin rezonanţă magnetică",
+        "Date de biopsie miocardică"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CM 4. Indicați agenții virali frecvent implicați în etiologia miocarditelor acute pediatrice:",
+      "options": [
+        "virusurile Coxsackie A",
+        "virusurile Coxsackie B",
+        "Adenovirus",
+        "Herpesvirus",
+        "Trуpanosoma cruzi"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 5. Numiți investigațiile instrumentale de primă linie utilizate în miocardita acută la copil:",
+      "options": [
+        "Radiografia cardiopulmonară",
+        "Biopsia endomiocardică",
+        "Electrocardiografia",
+        "Ecocardiografia",
+        "Rezonanţa magnetică cardiacă"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "CM 6. Precizați criteriile ecocardiografice sugestive pentru miocardita acută pediatrică:",
+      "options": [
+        "Dilatarea cavităţii ventriculului stâng",
+        "Hipo- sau akinezia peretelui ventriculului stâng",
+        "Hipertrofia peretelui ventriculului drept",
+        "Reducerea fracţiei de ejecţie",
+        "Hipertensiunea pulmunară"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 7. Numiţi complicaţiile frecvent întâlnite în evoluția miocarditei acute la copil:",
+      "options": [
+        "Cardiomiopatia dilatativă",
+        "Insuficienţă cardiacă congestivă",
+        "Crizele de „rău hipoxic”",
+        "Hipertensiunea arterială sistemică",
+        "Tulburări de ritm şi de conducere"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 8. Selectați manifestările caracteristice miocarditei acute fulminante la copilul mic:",
+      "options": [
+        "Prodrom viral de scurtă durată",
+        "Şoc cardiogen",
+        "Accentuarea cianozei",
+        "Convulsii febrile",
+        "dimensiuni cardiace normale la radiografia cardiopulmonară"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM 9. Menționați afecțiunile incluse în diagnosticul diferențial al miocarditei acute la sugar:",
+      "options": [
+        "deficitul congenital de carnitină",
+        "Hipertensiunea pulmonară primitivă",
+        "Originea anormală a arterei coronariene stângi",
+        "Bloc atrioventricular congenital",
+        "Coarctaţia de aortă"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 10. Indicați caracteristicile comune cardiomiopatiei dilatative la copil:",
+      "options": [
+        "Cea mai frecventă formă de cardiomiopatie primară",
+        "Etiologie mixtă (acută/genetică)",
+        "Debut prin accese hipoxice",
+        "Asociere cu disfuncţie sistolică a ventriculului stâng",
+        "Cea mai frecventă cauză de moarte subită cardiacă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM 11. Selectați modificările ECG sugestive pentru cardiomiopatia hipertrofică pediatrică:",
+      "options": [
+        "Modificări ale segmentului ST-T",
+        "semne de hipertrofie ventriculară stânga",
+        "semne de hipertrofie ventriculară dreapta",
+        "Interval QT lung",
+        "Tahicardia sinusală"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 12. Enumerați manifestările clinice frecvente în cardiomiopatia hipertrofică obstructivă la copii:",
+      "options": [
+        "Palpitaţiile",
+        "Dispneea de efort",
+        "Tulburările de ritm ventricular",
+        "Insuficienţa cardiacă congestivă",
+        "Sincopa"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "CM 13. Indicaţi elementele conduitei terapeutice la copilul cu cardiomiopatie hipertrofică:",
+      "options": [
+        "Restricţii moderate în activitatea fizică cu evitarea sportului de performanţă",
+        "Blocantele canalelor de calciu la copilul asimptomatic",
+        "Betaadrenoblocantele la copilul simptomatic",
+        "Profilaxia endocarditei infecţioase pe viaţă",
+        "Dieta hiposodată"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "CM 14. Indicaţi formele clinice ale cardiomiopatiei hipertrofice pediatrice:",
+      "options": [
+        "Septală",
+        "Asimetrică",
+        "Infantilă",
+        "Obstructivă",
+        "Aritmogenă"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM 15. Enumeraţi cauzele posibile ale morţii subite cardiace la copilul cu cardiomiopatie hipertrofică:",
+      "options": [
+        "Complicaţiile trombembolice",
+        "Tahicardia ventriculară nesusţinită",
+        "Fibrilaţia ventriculară",
+        "Bloc atrioventricular",
+        "Insuficienţa cardiacă acută"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 16. Numiţi factorii majori de risc pentru moarte subită cardiacă în cardiomiopatia hipertrofică pediatrică:",
+      "options": [
+        "Tahicardia ventriculară nesusţinută",
+        "Hipertrofia ventriculară stângă  > 30 mm",
+        "Antecedente familiale de moarte subită cardiacă",
+        "Tahicardia sinusală cronică",
+        "Forma obstructivă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 17. Menţionaţi variantele clinice în cardiomiopatia dilatativă la copii:",
+      "options": [
+        "Insuficienţă cardiacă congestivă",
+        "Forma asimptomatică",
+        "Şoc cardiogen",
+        "Forma aritmică",
+        "Forma obstructivă"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 18. Enumeraţi cardiomiopatiile primare pediatrice non-familiale vindecabile:",
+      "options": [
+        "Cardiomiopatia inflamatorie",
+        "Cardiomiopatia restrictivă",
+        "Cardiomiopatia indusă de tahicardie",
+        "Cardiomiopatia peripartum",
+        "cardiomiopatia asociată nou-născuților din mame diabetice"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "CM 19. Enumeraţi mecanismele fiziopatologice comune în cardiomiopatia hipertrofică la copii:",
+      "options": [
+        "Hipertrofia ventriculului stâng",
+        "Obstrucţia tractului de ejecție a ventriculului stâng",
+        "Aritmii ventriculare",
+        "Disfuncţia diastolică",
+        "Ischemia miocardului"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "CM 20. Menţionaţi afirmaţiile caracteristice cardiomiopatiei dilatative primare pediatrice:",
+      "options": [
+        "Incidenţa crescută la sugari",
+        "Etiologie infecţioasă",
+        "posibilă evoluție asimptomatică",
+        "Disfuncţie ventriculară progresivă",
+        "Frecvent idiopatică"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "CM 21 Enumerați semnele clinice frecvent întâlnite în cardiomiopatia dilatativă la copil:",
+      "options": [
+        "Cardiomegalie",
+        "accentuarea zgomotului II",
+        "Prezenţa zgomotului III",
+        "Suflu continuu la focarul pulmonarei",
+        "Suflu sitolic de regurgitare mitrală",
+        "Cardiomiopatiile la copii. Raspuns."
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "1.Numiţi simptomele asociate malformaţiilor cardiace congenitale la sugari:",
+      "options": [
+        "Dispnee",
+        "Dificultăţi în alimentaţie",
+        "Poziţia „pe vine” (squatting)",
+        "Transpiraţii excesive",
+        "Infecţii respiratorii recurente"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Numiţi peak-ul de vârstă al debutului Febrei reumatismale acute la copil:",
+      "options": [
+        "3-7 ani",
+        "5-15 ani",
+        "13-17 ani",
+        "2-10 ani",
+        "10-18 luni"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Notaţi agentul etiologic al Febrei reumatismale acute la copii:",
+      "options": [
+        "Stafilococul aureus",
+        "Streptococul epidermidis",
+        "Streptococul β-hemolitic grup A",
+        "Streptococul β-hemolitic grup B",
+        "Enterococ"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Precizaţi la câte săptămâni după suportarea unei faringoamigdalite streptococice se poate dezvolta Febra reumatismală acută:",
+      "options": [
+        "2-4 săptămâni",
+        "2-4 luni",
+        "1-2 săptămâni",
+        "3 luni",
+        "5-6 săptămâni"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Selectaţi mecanismul patogenetic de dezvoltare al Febrei reumatismale acute la copii:",
+      "options": [
+        "Autoimun",
+        "Infecţios",
+        "Necunoscut",
+        "Alergic",
+        "Imunologic"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Notați criteriul minor de diagnostic al Febrei reumatismale acute la copii:",
+      "options": [
+        "Poliartrita",
+        "Artralgii",
+        "Coreea",
+        "Noduli subcutanaţi",
+        "Eritem marginat"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Precizaţi criteriul major de diagnostic al Febrei reumatismale acute la copii:",
+      "options": [
+        "Febra",
+        "Artralgii",
+        "Leucocitoza",
+        "Creşterea intervalului PR la Electrocardiogramă",
+        "Coreea"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Numiţi durata profilaxiei secundare la copiii cu Febră reumatismală acută cu cardită:",
+      "options": [
+        "10 ani sau până la vârsta de 25 ani",
+        "5 ani sau până la vârsta de 20 ani",
+        "Toată viaţa",
+        "10 ani sau până la vârsta de 18 ani",
+        "5 ani sau până la vârsta de 18 ani"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Notaţi durata profilaxiei secundare la copiii cu Febră reumatismală acută fără cardită:",
+      "options": [
+        "10 ani sau până la vârsta de 25 ani",
+        "5 ani sau până la vârsta de 18 ani",
+        "5 ani sau până la vârsta de 25 ani",
+        "10 ani sau până la vârsta de 18 ani",
+        "Toată viaţa"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Menţionaţi caracteristicile artritei în Febra reumatismală acută la copii:",
+      "options": [
+        "Afectarea articulaţiilor mari şi medii",
+        "Afectare articulară multiplă",
+        "Afectare articulară migratorie",
+        "Artrită erozivă",
+        "Afectarea articulaţiilor mici"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Enumeraţi criteriile majore de diagnostic ale Febrei reumatismale acute la copii:",
+      "options": [
+        "Cardită",
+        "Coreea Sydenham",
+        "Eritem marginat",
+        "Artralgii",
+        "Leucocitoză"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Notaţi criteriile minore de diagnostic ale Febrei reumatismale acute la copii:",
+      "options": [
+        "Artralgii",
+        "Febră",
+        "Cardită",
+        "Creşterea intervalului PR  pe  Electrocardiogramă",
+        "Creşterea valorilor Vitezei de sedimentare a hematiilor şi Proteinei -C reactive"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi criteriile de clasificare ale Febrei reumatismale acute la copii:",
+      "options": [
+        "Conform sindromului clinic",
+        "Conform gradului de activitate",
+        "Conform evoluţiei",
+        "Conform stadiului Insuficienţei cardiace cronice (NYHA)",
+        "Conform prezenţei infecţiei streptococice"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Determinaţi caracteristicile nodulilor subcutanaţi Meynet în Febra reumatismală acută la copii:",
+      "options": [
+        "Localizarea în hipoderm",
+        "Sunt nedureroşi",
+        "Sunt proeminenţi deasupra oaselor în zonele de extensie",
+        "Sunt aderenţi",
+        "Sunt dureroşi"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizaţi caracteristicile eritemului marginat în Febra reumatismală acută la copii:",
+      "options": [
+        "Reprezintă zone eritematoase",
+        "Este localizat pe torace, porţiunile proximale ale membrelor",
+        "Este migratoriu",
+        "Se albeşte la presiune",
+        "Este pruriginos"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Menţionaţi manifestările pleuropulmonare în Febra reumatismală acută la copii:",
+      "options": [
+        "Pneumonie interstiţială",
+        "Vasculită pulmonară",
+        "Pneumonie prin aspiraţie",
+        "Pleurezie fibrinoasă",
+        "Pleurezie exudativă"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Determinaţi caracteristicile Coreei Sydenham în Febra reumatismală acută la copii:",
+      "options": [
+        "Apare mai frecvent la fete",
+        "Apare în special la vârsta de 9–14 ani",
+        "Apare după 2-6 luni de la infecţia streptococică",
+        "Apare după 2-4 săptămâni de la infecţia streptococică",
+        "Are risc de afectare de durată"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Menţionaţi caracteristicile coreei Sydenham în Febra reumatismală acută la copii:",
+      "options": [
+        "Manifestările coreei apar treptat",
+        "Mişcări involuntare, bruşte, repetitive",
+        "Mişcări coordonate ale membrilor",
+        "Grimase, zâmbete inadecvate",
+        "Mişcările sunt accentuate de emoţii şi activitate fizică"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4,
+        0,
+        1,
+        2,
+        4,
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Cs. Selectați testul care confirmă diagnosticul de boală celiacă la copii:",
+      "options": [
+        "Dozarea albuminei în meconiu",
+        "Rectoromanoscopie",
+        "Biopsia mucoasei intestinale",
+        "Dozarea clorului în sudoare",
+        "Examen baritat"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cs. Selectați intoleranța la care produs este prezentă în boala celiacă:",
+      "options": [
+        "Dizaharide",
+        "Gluten și proteinele înrudite",
+        "Lipide animale",
+        "Monozaharide",
+        "Lipide vegetale"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs. Selectați patologia în care este caracteristică steatoreea cu predominarea acizilor graşi:",
+      "options": [
+        "Alergie alimentară",
+        "Enteropatia exudativă",
+        "Insuficiență de lactază",
+        "Boala celiacă",
+        "Pancreatită acută"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cs. Selectați produsul alimentar contraindicat în boala celiacă la copii:",
+      "options": [
+        "Terci din griş",
+        "Terci din hrişcă",
+        "Terci din orez",
+        "Terci din porumb",
+        "Terci din soia"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cs. Selectați mecanismele prin care este mediată boala celiacă:",
+      "options": [
+        "Enteropatie mediată imun",
+        "Enteropatie bacteriană",
+        "Enteropatie parazitară",
+        "Enteropatie alergică",
+        "Mecanisme nedeterminate"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cs. Numiți factorii de interacțiune care nu duc la stabilirea bolii celiace:",
+      "options": [
+        "Factorul exogen – glutenul",
+        "Factorul genetic (ereditar)",
+        "Factori imunologici celulari şi umorali",
+        "Factorul enzimatic – insuficienţa de peptidaze",
+        "Factorul infecţios-parazitar"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Cs. Selectați ce reprezintă boala celiacă:",
+      "options": [
+        "Maldigestie",
+        "Malabsorbţie",
+        "Dereglare a circulaţiei limfatice intestinale",
+        "Accelerare a tranzitului intestinal",
+        "Alergie alimentară"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs. Precizați leziunea caracteristică la biopsia intestinală în boala celiacă la copii:",
+      "options": [
+        "Atrofie vilozitară intestinală totală sau subtotală",
+        "Infiltrat al mucoasei cu bazofile şi mastocite",
+        "Depozite imune din IgE, complement şi fibrină",
+        "Hipoplazia criptelor intestinale",
+        "Hipocelularitate în lamina propria"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cs. Selectați anticorpii care nu sunt implicați pentru diagnosticul de boala celiacă la copii:",
+      "options": [
+        "Anticorpi antigliadinici IgA",
+        "Anticorpi antiendomisiali IgA",
+        "Anticorpi antinucleari",
+        "Anticorpi antireticulină IgA",
+        "Anticorpi transglutaminazici"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cs. Precizați vârsta la care debutează cel mai frecvent boala celiacă la copii:",
+      "options": [
+        "Neonatală",
+        "Sub 6 luni",
+        "6-10 luni",
+        "După 12 luni",
+        "Pubertate"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cs. Selectați alimentul la diversificare implicat în apariția bolii celiace la copii:",
+      "options": [
+        "Piureu de fructe",
+        "Piureu de legume",
+        "Piureu de carne",
+        "Paste făinoase",
+        "Produse de mare"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cs. Selectați afirmaţia care nu este corectă în tratamentul bolii celiace la copii:",
+      "options": [
+        "Dietoterapia este esenţială în vindecare",
+        "Steroizii sunt frecvent utili în vindecare",
+        "Dispariţia semnelor bolii este în săptămîni-luni de tratament",
+        "Vitaminele liposolubile trebuie de suplimentat",
+        "Regimul fără gluten pentru toată viaţă"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs.  Precizați ce boală este Fibroza chistică la copii:",
+      "options": [
+        "Boală congenitală",
+        "Boală monogenică",
+        "Boală dobîndită",
+        "Aberaţie cromozomială",
+        "Boală poligenică"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs. Indicați calea de  transmitere a Fibrozei  chistice la copii:",
+      "options": [
+        "Autosomal recesivă",
+        "Autosomal dominantă",
+        "Legată de X-cromosom",
+        "Multifactorială",
+        "Este boală dobîndită"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Cs. Precizati glandele afectate în fibroza chistică la copii:",
+      "options": [
+        "Glandele endocrine secretoare de mucus",
+        "Celule Langerhans",
+        "Glande parietale stomacale",
+        "Glande exocrine secretoare de mucus",
+        "Enterocite"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Cs. Selectați forma cu debut neonatal al fibrozei chistice:",
+      "options": [
+        "Atrezia căilor biliare",
+        "Pneumonie",
+        "Ileus meconial",
+        "Icter nuclear",
+        "Displazie bronşică"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Cs. Selectați dereglarea primară în fibroza chistică, forma intestinală:",
+      "options": [
+        "Malabsorbţia",
+        "Maldigestia",
+        "Limfangiectazia intestinală",
+        "Dereglarea fluxului sanguin intestinal",
+        "Dereglarea tranzitului intestinal"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs. Precizați modificarea caracteristică în fibroza chistică la copii:",
+      "options": [
+        "Atrofie vilozitară intestinală subtotală la biopsie",
+        "Rectromanoscopie-eroziuni ale mucoasei",
+        "Coprograma-acizi graşi crescuţi",
+        "Amilaza serică crescută",
+        "Nivelul de clor în sudoare crescut"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Cs. Dselectați caracteristica diareei în fibroza chistică:",
+      "options": [
+        "Scaune apoase, frecvente, spumoase cu mucus, acide",
+        "Polifecalie, fetide, steatoreice, lipicioase, păstoase",
+        "Diareea cu sînge, mucus, puroi",
+        "Doar hemocolită",
+        "Diareea cu tenesme"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cs. Selectați patalogia pentru care este caracteristică excreţia crescută a clorului cu sudoarea:",
+      "options": [
+        "Pancreatită cronică",
+        "Boală celiacă",
+        "Enteropatie exudativă",
+        "Intoleranţă la dizaharide",
+        "Fibroza chistică"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Indicați prin ce se realizează termogeneza la copil:",
+      "options": [
+        "Activarea proceselor metabolice",
+        "Convecţie",
+        "Evaporare",
+        "Creşterea tonusului muscular",
+        "Scăderea tonusului muscular"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Indicați prin ce se realizează termoliza la copil:",
+      "options": [
+        "Radiaţie",
+        "Convecţie",
+        "Conducţie",
+        "Evaporare",
+        "Vasoconstricţie",
+        "Enumeraţi mecanismele fiziologice în termoliza la copii",
+        "Activitate musculară crescută",
+        "Frisonul",
+        "Vasodilatarea periferică",
+        "Transpiraţia",
+        "Convecţie"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi mecanismele de realizare a termogenezei la copii:",
+      "options": [
+        "Frisonul",
+        "Intensificarea proceselor metabolice",
+        "Transpiraţia excesivă",
+        "Vasoconstricţia periferică",
+        "Activitate musculară crescută"
+      ],
+      "correct": [
+        0,
+        2
+      ]
+    },
+    {
+      "text": "Selectaţi substanţele pirogene-exogene în mecanismele de producere a febrei la copii:",
+      "options": [
+        "Interleukina 8",
+        "Endotoxinele bacteriene",
+        "Leucotrienele",
+        "Medicamente",
+        "Substanţe hormonale"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Enumeraţi examenele paraclinice de primă intenţie în febră la copii:",
+      "options": [
+        "Proteina C reactivă",
+        "Aprecierea statusului imun",
+        "Radiografia pulmonară",
+        "Examenul sumar de urină",
+        "Cistografia micţională"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Selectaţi remediile antipiretice indicate la copii cu febră:",
+      "options": [
+        "Diazepamul",
+        "Paracetamolul",
+        "Acidul acetilaminosalicilic",
+        "Diclofenacul",
+        "Ibuprofenul"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Enumeraţi măsurile generale (fizicale) de combatere a febrei la copii:",
+      "options": [
+        "Oferirea de lichid suplimentar",
+        "Loţiuni cu apă caldă",
+        "Loţiuni cu alcool sau acid acetic",
+        "Aerisirea şi umidificarea mediului",
+        "Frecventarea colectivităţilor"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Precizaţi unde sunt localizaţi centrii termoreglării (termoliză și termogeneză) la copii:",
+      "options": [
+        "Cerebel",
+        "Corpul calos",
+        "Hipotalamusul anterior",
+        "Trunchiul cerebral",
+        "Hipotalamusul posterior"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Notaţi glandele endocrine care intervin în procesul de termogeneză la copii:",
+      "options": [
+        "Pancreasul",
+        "Tiroida",
+        "Hipofiza",
+        "Suprarenalele",
+        "Ficatul"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Notați în care stări febrile la copii este necesară examinarea bacteriologică :",
+      "options": [
+        "Infecţii virale acute",
+        "Dureri în abdomen cu diaree",
+        "Erupţia dinţilor",
+        "Otită acută",
+        "Dureri în regiunea lombară"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizați caracteristicele clinice ale convulsiilor febrile complexe la copii:",
+      "options": [
+        "Durează peste 15 minute",
+        "Pot genera status convulsiv",
+        "Nu se repetă în serie în aceeaşi zi",
+        "Adesea sunt unilaterale",
+        "Apar în afara unui context febril"
+      ],
+      "correct": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumerați caracteristicile clinice ale convulsiilor febrile simple la copii:",
+      "options": [
+        "Anamneza neurologică negativă",
+        "Apar în context de febră",
+        "Primar generalizate",
+        "Durează peste 15 minute",
+        "Se repetă în aceeaşi zi"
+      ],
+      "correct": [
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Indicați prin care metode au loc pierderile fiziologice de căldură la copii:",
+      "options": [
+        "Iradiere",
+        "Termogeneză",
+        "Convecţie",
+        "Evaporare",
+        "Conducţie"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați prin ce se determină variaţiile nictimerale ale temperaturii corporale la copil:",
+      "options": [
+        "Temperatura mediului",
+        "Activitatea fizică",
+        "Activitatea sistemului endocrin",
+        "Culoarea pielii",
+        "Tranzitul gastrointestinal"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Enumeraţi cauzele sindromului febril la copii:",
+      "options": [
+        "Luxaţia congenital de şold",
+        "Infecţii virale",
+        "Infecţii bacteriene",
+        "Febră metabolică",
+        "Hipocalcemia"
+      ],
+      "correct": [
+        0,
+        1
+      ]
+    },
+    {
+      "text": "Enumeraţi cauzele sindromului febril la copii sugari:",
+      "options": [
+        "Otita medie supurativă",
+        "Pneumonia",
+        "Infecţia tractului urinar",
+        "Rahitismul carențial",
+        "Anemia carenţială",
+        "Compliment Simplu",
+        "R. A",
+        "R. C",
+        "R. B",
+        "R. A",
+        "R. D",
+        "R. E",
+        "R. C",
+        "R. C",
+        "Febra şi sindromul hipertermic la copil.",
+        "R. E",
+        "10.R. B",
+        "11.R. E",
+        "12.R. C",
+        "13.R. A",
+        "14.R. A",
+        "15.R. B",
+        "Compliment multiplu",
+        "R. A,D",
+        "R. A,B,C,D",
+        "R. C,D,E",
+        "R. A,B,E",
+        "R. B,D,E",
+        "R. A,C,D",
+        "R. B,E",
+        "R. A,B,D",
+        "R. C,E",
+        "10.R. B,C,D",
+        "11.R. B,D,E",
+        "12.R. A,B,D",
+        "13.R. A,B,C",
+        "14.R. A,C,D,E 15.R: A,B,C",
+        "16.R. B,C,D",
+        "17.R. A,B,C",
+        "Malabsorbţia intestinală la copil."
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm. 1. Selectați cerealele proteinele căror induc intoleranța în boala celiacă:",
+      "options": [
+        "Grâu",
+        "Orz",
+        "Soia",
+        "Orez",
+        "Secară"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Cm. Selectați factorii patologici în rezultatul interacțiunii căror apare boala celiacă:",
+      "options": [
+        "Factorul infecţios-parazitar",
+        "Infecţia virală persistentă",
+        "Factorul genetic",
+        "Factorul toxic-gliadină",
+        "Factorul imunologic"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm. Selectați mecanismele de distrugere a enterocitelor în boala celiacă:",
+      "options": [
+        "efectului toxic al gliadinei",
+        "prin intermediul Ig E",
+        "mecanismelor imunologice",
+        "acţiunea cronică a virusurilor",
+        "acţiunea cronică a microbilor"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm. Marcați leziunile caracteristice la biopsia intestinală în boala celiacă la copii:",
+      "options": [
+        "Hipoplazia criptelor intestinale",
+        "Număr crescut de limfocite intraepiteliale",
+        "Hipocelularitate în lamina propria",
+        "Atrofia vilozitară subtotală",
+        "Doar o reacţie vasculară"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Cm Marcaţi factorii de protecție locală ai aparatului reno-urinar la  copii:",
+      "options": [
+        "Prezența IgA secretorii în urină",
+        "Staza urinară prelungită",
+        "Nivelul redus a pH-ului urinar",
+        "Fluctuațiile osmolarității urinare",
+        "Uroproteina Tamm-Horsfall"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Cm Indicaţi căile de pătrundere a infecției în rinichi la copii:",
+      "options": [
+        "a.Ascendentă(urogenitală)",
+        "b.hematogenă",
+        "c.Limfogenă",
+        "d.Aerogenă",
+        "e.Endogenă"
+      ],
+      "correct": [
+        2,
+        4
+      ]
+    },
+    {
+      "text": "3.Cm Selectaţi semnele clinice caracteristice pielonefritei acute la copii:",
+      "options": [
+        "Febră >380C, frisoane",
+        "Micțiuni dureroase",
+        "Polakiurie",
+        "Semne generale de intoxicație",
+        "Dureri lombare"
+      ],
+      "correct": [
+        1,
+        3
+      ]
+    },
+    {
+      "text": "4.Cm Confirmați indicaţiile pentru efectuarea scintigrafiei renale la copii:",
+      "options": [
+        "Infecții a tractului urinar recidivante",
+        "Infecții a  tractului urinar  atipice la  copil mai mic de 3 ani",
+        "Evaluare la  4-6 luni  după un epizod acut de infecție a tractului urinar",
+        "Agenezia renală",
+        "Epizod acut de infecție urinară necomplicată"
+      ],
+      "correct": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "5. Cm Precizați semnele clinice caracteristice cistitei acute la copii:",
+      "options": [
+        "Febră înaltă cu frisoane",
+        "Dureri lombare",
+        "Dureri suprapubiene",
+        "Disurie și polakiurie",
+        "e.    Semne generale de intoxicație"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm Selectaţi testele de laborator obligatorii în diagnosticul pielonefritei acute la copii:",
+      "options": [
+        "Analiza generală a sângelui",
+        "Excreția fermenților urinari specifici",
+        "Analiza generală a urinei",
+        "Urocultura",
+        "Aprecierea statutului imun"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm Enumerați complicațiile pielonefritei la copii:",
+      "options": [
+        "a. Carbuncul renal",
+        "b. Nefrita apostomatoasă",
+        "c. Nefrolitiaza",
+        "d. Sindrom Alport",
+        "e. Necroza papilară"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "8. Cm Enumeraţi investigațiile instrumentale utilizate pentru confirmarea diagnosticul de pielonefrită la copii:",
+      "options": [
+        "a.Urografia intravenoasă",
+        "b.Scintigrafia renală",
+        "c.Ecografia renală",
+        "d.Biopsia renală",
+        "e.Cistoscopia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "9.Cm Enumerați modificările caracteristice hemoleucogramei în pielonefrita acută la copii:",
+      "options": [
+        "Trombocitoză",
+        "Leucocitoză cu neutrofiloză",
+        "Limfocitoză cu monocităză",
+        "Granulație toxică a leucocitelor",
+        "Creșterea vitezei de sedimentare a hematiilor"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Cm Marcaţi contraindicaţiile pentru efectuarea urografiei intravenoase la copii:",
+      "options": [
+        "Șocul",
+        "Vicii cardiace decompensate",
+        "Oliguria sau anuria",
+        "Pielonefrita cronică",
+        "Colica renală"
+      ],
+      "correct": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "11. Cm Precizați  testele de laborator  pentru aprecierea funcției renale la copil cu pielonefrită:",
+      "options": [
+        "a.Densitatea urinei",
+        "b.Numărul de leucocite în câmpul microscopic",
+        "c.Ureea serică",
+        "d.Creatinita serică",
+        "e. Numărul eritrocitelor urinare în câmpul microscopic"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Cm Enumerați măsurile curative generale la copii cu pielonefrită acută:",
+      "options": [
+        "Igiena locală riguroasă",
+        "Aport hidric crescut cu micțiuni frecvente",
+        "Micțiuni rare, la ore fixe",
+        "Asigurarea tranzitului intestinal zilnic",
+        "Regim sedentar prelungit",
+        "Pielonefrita la copii."
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "1.Selectați  componentele esențiale ale substanţei minerale solide a osului la copii:",
+      "options": [
+        "Calciul",
+        "Vitamina D",
+        "Magneziul",
+        "Vitamina A",
+        "Fosforul"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "2. Enumerați organele cu cea mai mare cantitate de calciu:",
+      "options": [
+        "Ficatul",
+        "Creierul",
+        "Oasele",
+        "Sângele",
+        "Dinţii"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "3.Indicați organele în care vitamina D este transformată în metaboliți activi:",
+      "options": [
+        "Plămânii",
+        "Ficatul",
+        "Splină",
+        "Rinichii",
+        "Suprarenalele"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "4.Enumeraţi organele ţintă principale ale acţiunii calcitriolului la copil:",
+      "options": [
+        "Intestinul",
+        "Rinchii",
+        "Hipofiza",
+        "Ţesutul osos",
+        "Glanda paratiroidă"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "5.Indicaţi componentele sistemului hormonal de reglare a metabolismului  de fosfor/calciu:",
+      "options": [
+        "Adenohipofiza",
+        "Glanda paratiroidă",
+        "Suprarenalele",
+        "Glanda tiroidă",
+        "Calcitriolul"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "6. Enumeraţi efectele hormonului paratiroid în rahitismul carențial la copil:",
+      "options": [
+        "Creşte reabsorbţia renală a fosfaţilor",
+        "Creşte reabsorbţia renală de calciului",
+        "Măreşte excreţia renală a fosfaţilor",
+        "Stimulează formarea de calcitriol",
+        "Produce demineralizarea osului"
+      ],
+      "correct": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "7. Marcați factorii determinanţi ai carenţei cronice de vitamina D în rahitism la copil:",
+      "options": [
+        "Alimentaţia artificială cu formule adaptate",
+        "Dereglarea metabolismului vitaminei D",
+        "Deficit de producţie /aport a vitaminei D",
+        "Profilaxia specifică cu vitamina D",
+        "Deficit de absorbţie intestinală a vitaminei D"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "8.Selectați factorii etiologici exogeni ai rahitismului la copii:",
+      "options": [
+        "Poluarea atmosferei",
+        "Nașterea în sezonul toamnă-iarnă",
+        "Lipsa expunerii la soare",
+        "Pielea albă",
+        "Sindromul de malabsorbţie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "9.Enumerați factorii etiologici alimentari în rahitism la copii:",
+      "options": [
+        "Diversificarea corectă şi la timp",
+        "Exces de făinoase",
+        "Alimentaţia artificială cu formule adaptate",
+        "Alimentaţia artificială cu formule neadaptate",
+        "Regim vegetarian"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "10.Marcați factorii iatrogeni implicați în etiologia rahitismului la copii:",
+      "options": [
+        "Administrare îndelungată de polivitamine",
+        "Administrare de probiotice",
+        "Administrare îndelungată a costicosteroizilor",
+        "Administrarea îndelungată a fenobarbitalului",
+        "Administrarea îndelungată a diureticelor"
+      ],
+      "correct": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "11.Indicați factorii etiologici endogeni implicați în apariția rahitismului la copii:",
+      "options": [
+        "Aport alimentar insuficient de vitamina D",
+        "Sindromul de malabsorbţie",
+        "Factori genetici",
+        "Boli colestatice hepatice",
+        "Poluarea atmosferei"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "12.Indicaţi verigele fiziopatologice caracteristice rahitismului la copii:",
+      "options": [
+        "Hipocalcemia",
+        "Hipercalcemia",
+        "Hipofosfatemia",
+        "Hiperparatiroidism secundar",
+        "Hipovitaminoza D"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Selectați manifestările clinice determinate de hiperplazia ţesutului osos în rahitism la copii:",
+      "options": [
+        "Craniotabesul",
+        "Mătăniile costale",
+        "Brăţările rahitice",
+        "Plagiocefalia",
+        "Îngroşarea oaselor"
+      ],
+      "correct": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "text": "Indicați manifestările clinice de osteomalacie în rahitismul carenţial la copii:",
+      "options": [
+        "Craniotabesul",
+        "Fontanela cubordurile moi",
+        "Plagiocefalia.",
+        "Mătăniile costale",
+        "Abdomen mare, hipoton"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Marcați semnele clinice caracteristice perioadei de debut a rahitismului la copii:",
+      "options": [
+        "Hiperexcitabilitate neuromusculară",
+        "Deformări osoase",
+        "Transpiraţii abundente",
+        "Brăţări rahitice",
+        "Hipotonie musculară"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Precizați modificările osoase ale cutiei craniene în rahitism la copii:",
+      "options": [
+        "Microcefalia",
+        "Osteomalacia",
+        "Plagiocefalia",
+        "Bombarea fontenelei",
+        "Cap pătrat, macrocranie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Indicați modificările osoase ale cutiei toracice în rahitism la copii:",
+      "options": [
+        "Mătăniile condrocostale",
+        "Aplatizarea anteroposterioară a toracelui",
+        "Deformaţia osului humeral",
+        "Abdomen mare hipoton",
+        "Stern înfundat"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}
