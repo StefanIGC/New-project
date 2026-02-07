@@ -463,11 +463,31 @@
     let selectedIndices = new Set();
     let wrongAnswers = [];
     const encouragements = [
-      "Rodica, ești foarte bravo! 💖 Stefan te iubește. 🌸",
-      "Rodica, ești foarte bravo! 💗 Stefan te iubește. ✨",
-      "Rodica, ești foarte bravo! 🌷 Stefan te iubește. 💕",
-      "Rodica, ești foarte bravo! 🫶 Stefan te iubește. 🌟",
-      "Rodica, ești foarte bravo! 💞 Stefan te iubește. 🌼"
+      "Rodica, ești foarte bravo! 💖 Ștefan te iubește.",
+      "Iubu, ești minunată! 🌸 Ștefan te iubește.",
+      "Iubirea mea, ai făcut super! ✨",
+      "Rodica, zâmbetul tău e magie! 😊",
+      "Ești atât de specială! 💫",
+      "Te iubesc mult, iubi! ❤️",
+      "Ai o inimă frumoasă, Rodica! 💗",
+      "Bravo, iubirica mea! 🫶",
+      "Ești caldă și bună! 🤗",
+      "Ești foarte, foarte bravo! 🌷",
+      "Ai făcut minunat! 💖",
+      "Ștefan e mândru de tine! 🥰"
+    ];
+
+    const endMessages = [
+      "Excelent, iubi! Ești super și foarte bravo! 💖",
+      "Ai fost minunată, Rodica! Te iubesc mult! ❤️",
+      "Ce rezultat frumos! Zâmbet pentru iubu! 😊",
+      "Ai strălucit! ✨ Rodica e cea mai bravo!",
+      "Mă topesc de drag! 💞 Ai făcut grozav!",
+      "Superb, iubi! Îmbrățișări mari! 🤗",
+      "Ai fost fantastică! 🌸",
+      "Felicitări, iubirea mea! 🫶",
+      "Încă un pas frumos, iubi! 💗",
+      "Ești minunea mea! 💫"
     ];
 
     function shuffle(array) {
@@ -481,6 +501,10 @@
       return encouragements[Math.floor(Math.random() * encouragements.length)];
     }
 
+    function pickEndMessage() {
+      return endMessages[Math.floor(Math.random() * endMessages.length)];
+    }
+
     function getCorrectIndices(question) {
       if (Array.isArray(question.correct)) return question.correct.slice();
       if (typeof question.correct === "number") return [question.correct];
@@ -491,17 +515,37 @@
       const res = await fetch(testsIndexUrl, { cache: "no-store" });
       if (!res.ok) throw new Error("Nu pot încărca lista de teste.");
       testsIndex = await res.json();
+      const totalPool = testsIndex.reduce((sum, t) => sum + (t.count || 0), 0);
+      testsIndex.unshift({
+        id: "simulare-nationala",
+        name: "Test National Simulare",
+        file: null,
+        count: totalPool
+      });
     }
 
     async function loadTestById(id) {
       if (testsById.has(id)) return testsById.get(id);
       const meta = testsIndex.find(test => test.id === id);
       if (!meta) return null;
+      if (!meta.file) return null;
       const res = await fetch(`tests/${meta.file}`, { cache: "no-store" });
       if (!res.ok) throw new Error("Nu pot încărca testul selectat.");
       const data = await res.json();
       testsById.set(id, data);
       return data;
+    }
+
+    async function loadSimularePool() {
+      const pool = [];
+      for (const test of testsIndex) {
+        if (!test.file) continue;
+        const data = await loadTestById(test.id);
+        if (data && Array.isArray(data.questions)) {
+          pool.push(...data.questions);
+        }
+      }
+      return pool;
     }
 
     async function setActiveTest(id) {
@@ -513,7 +557,12 @@
       menuCountEl.textContent = meta.count;
       renderStats();
       renderLimitSelect();
-      activeTest = await loadTestById(meta.id);
+      if (!meta.file) {
+        const pool = await loadSimularePool();
+        activeTest = { id: meta.id, name: meta.name, questions: pool };
+      } else {
+        activeTest = await loadTestById(meta.id);
+      }
     }
 
     function loadState() {
@@ -696,13 +745,13 @@
       finalScoreEl.textContent = `Nota: ${score} / ${quizQuestions.length}`;
       const percent = Math.round((score / quizQuestions.length) * 100);
       if (percent >= 90) {
-        finalMessageEl.textContent = `Excelent! ${pickEncouragement()} 🎉`;
+        finalMessageEl.textContent = pickEndMessage();
       } else if (percent >= 70) {
-        finalMessageEl.textContent = `Foarte bine! ${pickEncouragement()} 💪`;
+        finalMessageEl.textContent = pickEndMessage();
       } else if (percent >= 50) {
-        finalMessageEl.textContent = `Bine! ${pickEncouragement()} 📚`;
+        finalMessageEl.textContent = pickEndMessage();
       } else {
-        finalMessageEl.textContent = `Nu te descuraja. ${pickEncouragement()} 🌈`;
+        finalMessageEl.textContent = "Nu te descuraja, iubi. Ștefan te iubește mult și mereu e lângă tine. 💗";
       }
       addStatEntry();
       renderReview();
