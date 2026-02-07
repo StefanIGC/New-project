@@ -3,52 +3,47 @@
   "name": "Iubu ❤️",
   "questions": [
     {
-      "text": "Cine este iubu? 💞✨",
+      "text": "Cine este iubu? 💞",
       "options": [
-        "Rodica ❤️😍",
-        "Rodelu 🙃",
-        "Dicuța 🙂",
-        "Miau miau 🐱"
+        "Rodica ❤️",
+        "Rodelu",
+        "Dicuța",
+        "Miau miau"
       ],
-      "correct": 0
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
-      "text": "Cine o iubește pe Rodica mult, mult, mult? 🥰💘",
+      "text": "Cine o iubește pe Rodica mult, mult, mult? 🥰",
       "options": [
         "Ștefan 💖",
-        "Dudu 🤭",
-        "Surica 🤔",
-        "Miau miau 🐾"
+        "Dudu",
+        "Surica",
+        "Miau miau"
       ],
       "correct": 0
     },
     {
-      "text": "Care e cel mai frumos zâmbet? ✨😊",
+      "text": "Care e cel mai frumos zâmbet? ✨",
       "options": [
         "Al iubiricii mele ❤️",
-        "Nici nu știu 🙈",
-        "Al lui Bubu 😅",
-        "Al lui Surica 😄"
+        "Nici nu știu",
+        "Al lui Bubu",
+        "Al lui Surica"
       ],
       "correct": 0
     },
     {
-      "text": "Ce spune Ștefan cel mai des, din inimă? 💌💗",
+      "text": "De ce Rodica e asa de dulce? 🌙",
       "options": [
-        "Te iubesc, Rodica ❤️",
-        "Poate mâine 😴",
-        "Vedem noi 🤷",
-        "Nu știu 🤔"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Ce descrie perfect o seară ideală împreună? 🌙✨",
-      "options": [
-        "Îmbrățișări și un film frumos 🎬",
-        "Râsete și povești 💬",
-        "Tăcere rece ❄️",
-        "Doar taskuri 📋"
+        "Fiindca e cusi cusi",
+        "Fiindca e cea mai dulce asa e ea",
+        "Fiindca are foarte multe iubirica in ea",
+        "Fiindca miau miau "
       ],
       "correct": [
         0,
@@ -56,25 +51,12 @@
       ]
     },
     {
-      "text": "Ce gesturi mici arată iubire zilnică? ☀️💞",
+      "text": "Rodica merită în fiecare zi… 💖",
       "options": [
-        "Un mesaj dulce dimineața 📩",
-        "O îmbrățișare neașteptată 🤗",
-        "Ignorare 🙄",
-        "Critică 😑"
-      ],
-      "correct": [
-        0,
-        1
-      ]
-    },
-    {
-      "text": "Rodica merită în fiecare zi… 💖🌸",
-      "options": [
-        "Apreciere ✨",
-        "Iubire 💗",
-        "Sprijin 🤝",
-        "Presiune 😬"
+        "Pupici",
+        "Iubire",
+        "Imbratisari",
+        "Aiaia"
       ],
       "correct": [
         0,
@@ -83,60 +65,51 @@
       ]
     },
     {
-      "text": "Ce vibe are relația ideală? 🌷💕",
+      "text": "Când s-a aprins inima lui Ștefan? 🔥",
       "options": [
-        "Sprijin și liniște 🌿",
-        "Râsete și respect 🤍",
-        "Tensiune zilnică ⚡",
-        "Distanță 🧊"
+        "Când a întâlnit-o pe Rodica ❤️",
+        "30 Decembrie 2024",
+        "Într-o zi de iarna in ajun de anu nou, langa lenin",
+        "Nu știu"
       ],
       "correct": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
-      "text": "Când s-a aprins inima lui Ștefan? 🔥❤️",
-      "options": [
-        "Când a întâlnit-o pe Rodica 💘",
-        "30 februarie 🙃",
-        "Într-o zi oarecare 😅",
-        "Nu știu 🤷"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Ce nume are testul nostru special? 💗✨",
+      "text": "Ce nume are testul nostru special? 💗",
       "options": [
         "Iubu ❤️",
-        "Examen greu 😵",
-        "Test plictisitor 😴",
-        "Random 🎲"
+        "Examen greu",
+        "Test plictisitor",
+        "Random"
       ],
       "correct": 0
     },
     {
-      "text": "Ce promisiune contează cel mai mult? 🤝💖",
+      "text": "Ce face Rodica atât de specială? ✨",
       "options": [
-        "Să fiu mereu acolo cu inima ❤️",
-        "Să uit des 🙈",
-        "Să mă cert des 😤",
-        "Să fiu mereu ocupat ⏳"
-      ],
-      "correct": 0
-    },
-    {
-      "text": "Ce face Rodica atât de specială? ✨🌟",
-      "options": [
-        "E caldă și bună 🤗",
-        "E foarte bravo 💪",
-        "Are suflet frumos 💖",
-        "E indiferentă 🧊"
+        "E caldă și bună",
+        "E foarte bravo",
+        "Are suflet frumos",
+        "Totul"
       ],
       "correct": [
         0,
         1,
-        2
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Te iubesc Foarte mult Rodica, esti iubirea mea ✨",
+      "options": [
+        "Miau miau"
+      ],
+      "correct": [
+        0
       ]
     }
   ]
