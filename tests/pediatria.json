@@ -560,8 +560,18 @@
         "Ambroxol",
         "Bromhexine",
         "Carbocisteine",
-        "Acetylcysteine",
-        "16. Specificaţi acţiunea farmacologică a salbutamolului:a) Selectiv stimulează beta2-adrenoreceptoriib) Stimulează beta1- şi beta2- adrenoreceptoriic) Stimulează alfa şi beta- adrenoreceptoriid) Inhibă alfa- adrenoreceptoriie) Inhibă beta- adrenoreceptorii"
+        "Acetylcysteine"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "16. Specificaţi acţiunea farmacologică a salbutamolului:",
+      "options": [
+        "a) Selectiv stimulează beta2-adrenoreceptorii",
+        "b) Stimulează beta1- şi beta2- adrenoreceptorii",
+        "c) Stimulează alfa şi beta- adrenoreceptorii",
+        "d) Inhibă alfa- adrenoreceptorii",
+        "e) Inhibă beta- adrenoreceptorii"
       ],
       "correct": 0
     },
