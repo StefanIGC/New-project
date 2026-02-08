@@ -87,13 +87,13 @@
       padding: 8px 12px;
       border-radius: 999px;
       font-size: 0.85rem;
-      color: var(--muted);
+      color: var(--text);
       display: inline-flex;
       gap: 8px;
       align-items: center;
     }
 
-    .chip strong { color: var(--text); }
+    .chip strong { color: inherit; }
 
     .question {
       font-size: 1.35rem;
@@ -309,6 +309,28 @@
       font-size: 0.95rem;
     }
 
+    .qa-options {
+      display: grid;
+      gap: 6px;
+      margin: 8px 0 6px 0;
+      padding: 0;
+      list-style: none;
+      font-size: 0.95rem;
+    }
+
+    .qa-option {
+      padding: 6px 10px;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.04);
+    }
+
+    .qa-option.correct {
+      border-color: rgba(34, 197, 94, 0.6);
+      background: rgba(34, 197, 94, 0.18);
+      color: #d9fbe2;
+    }
+
     .answer-badge {
       display: inline-block;
       font-size: 0.75rem;
@@ -356,12 +378,14 @@
       .review-list-container { max-height: 75vh; padding-right: 0; }
       .qa-item { padding: 14px; }
       #quiz-panel .stats { position: sticky; top: 0; z-index: 2; background: rgba(20,10,18,0.85); backdrop-filter: blur(6px); padding: 10px 0; }
+      #stats-panel .stats { gap: 10px; }
+      #stats-panel .actions { width: 100%; }
     }
   </style>
 </head>
 <body>
   <div class="app">
-    <header>
+    <header id="app-header">
       <h1>Hai Rodica ❤️</h1>
       <p class="sub">Testele sunt pentru tine. Alege un test și începe — fiecare răspuns e un pas înainte. Ești foarte bravo! 💖</p>
     </header>
@@ -457,6 +481,7 @@
     const menuPanel = document.getElementById("menu-panel");
     const quizPanel = document.getElementById("quiz-panel");
     const resultPanel = document.getElementById("result-panel");
+    const appHeader = document.getElementById("app-header");
 
     const qIndexEl = document.getElementById("q-index");
     const qTotalEl = document.getElementById("q-total");
@@ -631,6 +656,7 @@
       abandonWrap.classList.add("hidden");
       qaPanel.classList.add("hidden");
       statsPanel.classList.add("hidden");
+      appHeader.classList.remove("hidden");
       menuPanel.classList.remove("hidden");
       renderStats();
       renderTestSelect();
@@ -651,6 +677,7 @@
       scoreEl.textContent = score;
       qTotalEl.textContent = quizQuestions.length;
       menuPanel.classList.add("hidden");
+      appHeader.classList.add("hidden");
       resultPanel.classList.add("hidden");
       abandonWrap.classList.remove("hidden");
       quizPanel.classList.remove("hidden");
@@ -830,6 +857,10 @@
           year: "numeric",
           month: "short",
           day: "2-digit"
+        }),
+        time: now.toLocaleTimeString("ro-RO", {
+          hour: "2-digit",
+          minute: "2-digit"
         })
       };
       stats.push(entry);
@@ -857,7 +888,13 @@
         const correctText = correctIndices.map(i => q.options[i]).join(", ");
         const item = document.createElement("div");
         item.className = "qa-item";
-        item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}<span class=\"answer-badge\">Corect</span></div><div class=\"answer\">Răspuns corect: ${correctText}</div>`;
+        const optionsHtml = q.options.map((opt, i) => {
+          const cls = correctIndices.includes(i) ? "qa-option correct" : "qa-option";
+          return `<li class="${cls}">${opt}</li>`;
+        }).join("");
+        item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}</div>
+          <ul class=\"qa-options\">${optionsHtml}</ul>
+          <div class=\"answer\">Răspuns corect: ${correctText}</div>`;
         qaBody.appendChild(item);
       });
       menuPanel.classList.add("hidden");
@@ -867,6 +904,7 @@
     function closeQuestionsPanel() {
       qaPanel.classList.add("hidden");
       menuPanel.classList.remove("hidden");
+      appHeader.classList.remove("hidden");
     }
 
     function renderStatsPanel() {
@@ -897,7 +935,7 @@
         last.forEach((entry, idx) => {
           const item = document.createElement("div");
           item.className = "qa-item";
-          item.innerHTML = `<div class=\"question\"><strong>Încercare ${idx + 1}</strong> — ${entry.date}</div>
+          item.innerHTML = `<div class=\"question\"><strong>Încercare ${idx + 1}</strong> — ${entry.date} ${entry.time || ""}</div>
             <div class=\"answer\">Nota: ${entry.score} / ${entry.total} (${Math.round((entry.score / entry.total) * 100)}%)</div>`;
           statsBody.appendChild(item);
         });
@@ -910,6 +948,7 @@
     function closeStatsPanel() {
       statsPanel.classList.add("hidden");
       menuPanel.classList.remove("hidden");
+      appHeader.classList.remove("hidden");
     }
 
     function renderLimitSelect() {
