@@ -191,6 +191,73 @@
       font-size: 0.95rem;
     }
 
+    .dropdown {
+      position: relative;
+      width: 100%;
+    }
+
+    .dropdown-trigger {
+      width: 100%;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.14);
+      border-radius: 10px;
+      padding: 10px 12px;
+      color: var(--text);
+      font-size: 0.95rem;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    .dropdown-trigger::after {
+      content: "▾";
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    .dropdown-menu {
+      position: absolute;
+      top: calc(100% + 6px);
+      left: 0;
+      right: 0;
+      background: linear-gradient(180deg, rgba(255, 226, 240, 0.95), rgba(255, 199, 225, 0.95));
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      z-index: 5;
+      max-height: 260px;
+      overflow: auto;
+      display: none;
+    }
+
+    .dropdown.open .dropdown-menu {
+      display: block;
+    }
+
+    .dropdown-item {
+      padding: 10px 12px;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      font-size: 0.95rem;
+      color: #3b0a26;
+    }
+
+    .dropdown-item:last-child {
+      border-bottom: none;
+    }
+
+    .dropdown-item:hover {
+      background: rgba(242, 114, 182, 0.25);
+    }
+
+    .dropdown-item[aria-disabled="true"] {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
     .stats-list {
       display: grid;
       gap: 10px;
@@ -398,13 +465,17 @@
         <div>
           <div class="field" style="margin-top:16px;">
             <label for="test-select">Test disponibil</label>
-            <select id="test-select" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); border-radius: 10px; padding: 10px 12px; color: var(--text); font-size: 0.95rem;">
-            </select>
+            <div class="dropdown" id="test-dropdown">
+              <button class="dropdown-trigger" id="test-trigger" type="button">Alege un test</button>
+              <div class="dropdown-menu" id="test-menu" role="listbox"></div>
+            </div>
           </div>
           <div class="field" style="margin-top:12px;">
             <label for="limit-select">Număr întrebări în test</label>
-            <select id="limit-select" style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.14); border-radius: 10px; padding: 10px 12px; color: var(--text); font-size: 0.95rem;">
-            </select>
+            <div class="dropdown" id="limit-dropdown">
+              <button class="dropdown-trigger" id="limit-trigger" type="button">20</button>
+              <div class="dropdown-menu" id="limit-menu" role="listbox"></div>
+            </div>
           </div>
           <div class="actions" style="justify-content:center;">
             <button class="ghost" id="view-stats-btn">Vezi statistici</button>
@@ -499,9 +570,13 @@
     const finalMessageEl = document.getElementById("final-message");
     const reviewListEl = document.getElementById("review-list");
 
-    const testSelect = document.getElementById("test-select");
+    const testDropdown = document.getElementById("test-dropdown");
+    const testTrigger = document.getElementById("test-trigger");
+    const testMenu = document.getElementById("test-menu");
+    const limitDropdown = document.getElementById("limit-dropdown");
+    const limitTrigger = document.getElementById("limit-trigger");
+    const limitMenu = document.getElementById("limit-menu");
     const menuCountEl = document.getElementById("menu-q-count");
-    const limitSelect = document.getElementById("limit-select");
     const viewStatsBtn = document.getElementById("view-stats-btn");
     const viewQuestionsBtn = document.getElementById("view-questions-btn");
     const qaBody = document.getElementById("qa-body");
@@ -868,15 +943,23 @@
     }
 
     function renderTestSelect() {
-      testSelect.innerHTML = "";
+      testMenu.innerHTML = "";
       testsIndex.forEach(test => {
-        const option = document.createElement("option");
-        option.value = test.id;
-        option.textContent = `${test.name} (${test.count} întrebări)`;
-        if (activeTestMeta && test.id === activeTestMeta.id) option.selected = true;
-        testSelect.appendChild(option);
+        const item = document.createElement("div");
+        item.className = "dropdown-item";
+        item.textContent = `${test.name} (${test.count} întrebări)`;
+        item.dataset.value = test.id;
+        item.addEventListener("click", async () => {
+          await setActiveTest(test.id);
+          closeDropdowns();
+          testTrigger.textContent = `${test.name} (${test.count} întrebări)`;
+        });
+        testMenu.appendChild(item);
       });
-      if (activeTestMeta) menuCountEl.textContent = activeTestMeta.count;
+      if (activeTestMeta) {
+        menuCountEl.textContent = activeTestMeta.count;
+        testTrigger.textContent = `${activeTestMeta.name} (${activeTestMeta.count} întrebări)`;
+      }
     }
 
     function renderQuestionsModal() {
@@ -953,16 +1036,31 @@
 
     function renderLimitSelect() {
       const total = activeTestMeta ? activeTestMeta.count : 0;
-      limitSelect.innerHTML = "";
+      limitMenu.innerHTML = "";
       allowedLimits.forEach(value => {
-        const option = document.createElement("option");
         const isAll = value === "toate";
-        option.value = String(value);
-        option.textContent = isAll ? "Toate" : `${value}`;
-        if (!isAll && total && value > total) option.disabled = true;
-        if (String(questionLimit) === String(value)) option.selected = true;
-        limitSelect.appendChild(option);
+        const item = document.createElement("div");
+        item.className = "dropdown-item";
+        item.dataset.value = String(value);
+        item.textContent = isAll ? "Toate" : `${value}`;
+        if (!isAll && total && value > total) {
+          item.setAttribute("aria-disabled", "true");
+        } else {
+          item.addEventListener("click", () => {
+            questionLimit = value === "toate" ? "toate" : Number(value);
+            localStorage.setItem("med-quiz-limit", String(value));
+            limitTrigger.textContent = isAll ? "Toate" : `${value}`;
+            closeDropdowns();
+          });
+        }
+        limitMenu.appendChild(item);
       });
+      limitTrigger.textContent = questionLimit === "toate" ? "Toate" : `${questionLimit}`;
+    }
+
+    function closeDropdowns() {
+      testDropdown.classList.remove("open");
+      limitDropdown.classList.remove("open");
     }
 
     document.getElementById("reset-stats-btn").addEventListener("click", () => {
@@ -971,14 +1069,20 @@
       renderStatsPanel();
     });
 
-    testSelect.addEventListener("change", async event => {
-      await setActiveTest(event.target.value);
+    testTrigger.addEventListener("click", () => {
+      const open = testDropdown.classList.toggle("open");
+      if (open) limitDropdown.classList.remove("open");
     });
 
-    limitSelect.addEventListener("change", event => {
-      const value = event.target.value;
-      questionLimit = value === "toate" ? "toate" : Number(value);
-      localStorage.setItem("med-quiz-limit", String(value));
+    limitTrigger.addEventListener("click", () => {
+      const open = limitDropdown.classList.toggle("open");
+      if (open) testDropdown.classList.remove("open");
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!testDropdown.contains(event.target) && !limitDropdown.contains(event.target)) {
+        closeDropdowns();
+      }
     });
 
     document.getElementById("start-btn").addEventListener("click", () => {
