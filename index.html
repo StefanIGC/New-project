@@ -309,6 +309,34 @@
       font-size: 0.95rem;
     }
 
+    .answer-badge {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: rgba(34, 197, 94, 0.2);
+      border: 1px solid rgba(34, 197, 94, 0.5);
+      color: #c8facc;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    .progress {
+      height: 8px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.12);
+      overflow: hidden;
+      margin-top: 12px;
+    }
+
+    .progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      transition: width 0.25s ease;
+    }
+
     .score {
       font-size: clamp(2.4rem, 2vw + 1.6rem, 3.2rem);
       color: var(--accent-2);
@@ -321,6 +349,13 @@
       .question { font-size: 1.2rem; }
       .stats button.ghost.small { align-self: flex-start; }
       .stats.quiz-stats { flex-direction: row; align-items: center; }
+      .menu-grid { gap: 24px; }
+      .panel { padding: 20px; }
+      .actions { flex-direction: column; align-items: stretch; }
+      button.primary, button.ghost { width: 100%; justify-content: center; }
+      .review-list-container { max-height: 75vh; padding-right: 0; }
+      .qa-item { padding: 14px; }
+      #quiz-panel .stats { position: sticky; top: 0; z-index: 2; background: rgba(20,10,18,0.85); backdrop-filter: blur(6px); padding: 10px 0; }
     }
   </style>
 </head>
@@ -365,6 +400,9 @@
       <div class="stats quiz-stats">
         <div class="chip">Întrebarea <strong id="q-index">1</strong> / <span id="q-total">10</span></div>
         <div class="chip">Scor curent: <strong id="score">0</strong></div>
+      </div>
+      <div class="progress" aria-hidden="true">
+        <div class="progress-bar" id="progress-bar"></div>
       </div>
       <div class="sub" id="multi-hint" style="margin-top:12px; display:none;">Selectează toate răspunsurile corecte.</div>
       <div class="question" id="question-text"></div>
@@ -423,6 +461,7 @@
     const qIndexEl = document.getElementById("q-index");
     const qTotalEl = document.getElementById("q-total");
     const scoreEl = document.getElementById("score");
+    const progressBarEl = document.getElementById("progress-bar");
     const questionText = document.getElementById("question-text");
     const answersEl = document.getElementById("answers");
     const feedbackEl = document.getElementById("feedback");
@@ -623,6 +662,10 @@
       const correctIndices = getCorrectIndices(current);
       const isMulti = correctIndices.length > 1;
       qIndexEl.textContent = currentIndex + 1;
+      if (progressBarEl) {
+        const percent = ((currentIndex + 1) / Math.max(quizQuestions.length, 1)) * 100;
+        progressBarEl.style.width = `${percent}%`;
+      }
       questionText.textContent = current.text;
       feedbackEl.textContent = "";
       feedbackEl.className = "feedback";
@@ -675,6 +718,7 @@
         nextBtn.classList.remove("hidden");
       } else {
         button.classList.add("wrong");
+        if (navigator.vibrate) navigator.vibrate(50);
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
         feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;
         feedbackEl.classList.add("bad");
@@ -717,6 +761,7 @@
         feedbackEl.classList.add("ok");
         nextBtn.classList.remove("hidden");
       } else {
+        if (navigator.vibrate) navigator.vibrate(50);
         const correctText = correctIndices.map(i => current.options[i]).join(", ");
         feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;
         feedbackEl.classList.add("bad");
@@ -732,6 +777,7 @@
       if (currentIndex < quizQuestions.length - 1) {
         currentIndex += 1;
         renderQuestion();
+        window.scrollTo({ top: 0, behavior: "smooth" });
       } else {
         showResult();
       }
@@ -811,7 +857,7 @@
         const correctText = correctIndices.map(i => q.options[i]).join(", ");
         const item = document.createElement("div");
         item.className = "qa-item";
-        item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}</div><div class=\"answer\">Răspuns corect: ${correctText}</div>`;
+        item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}<span class=\"answer-badge\">Corect</span></div><div class=\"answer\">Răspuns corect: ${correctText}</div>`;
         qaBody.appendChild(item);
       });
       menuPanel.classList.add("hidden");
