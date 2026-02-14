@@ -11,7 +11,13 @@
         "Artrita psoriazică",
         "Guta"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Artrita psoriazică». Pentru retenție, reformulează mental: «Care patologie reumatică se poate manifesta cu artrită mutilantă? -> Artrita psoriazică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Lupusul eritematos sistemic», «Artrita reumatoidă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Criteriile de diagnostic CASPAR sunt utilizate în diagnosticul:",
@@ -22,7 +28,13 @@
         "Artritei reactive",
         "Gutei"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Artritei psoriazice». Pentru retenție, reformulează mental: «Criteriile de diagnostic CASPAR sunt utilizate în diagnosticul: -> Artritei psoriazice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Artritei reumatoide», «Lupusului eritematos sistemic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Pentru afectarea axială a artritei psoriazice este caracteristică:",
@@ -33,7 +45,13 @@
         "Absenţa afectării sacroiliace",
         "Afectarea uniformă a coloanei vertebrale"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Sacroiliita unilaterală/asimetrică». Pentru retenție, reformulează mental: «Pentru afectarea axială a artritei psoriazice este caracteristică: -> Sacroiliita unilaterală/asimetrică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sacroiliita simetrică», «Afectarea atlanto-occipitală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Distrofia unghială psoriazică poate fi manifestată prin:",
@@ -44,7 +62,13 @@
         "Fisurare progresivă",
         "Hemoragii intraunghiale"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Pitting (eroziune punctiformă)». Pentru retenție, reformulează mental: «Distrofia unghială psoriazică poate fi manifestată prin: -> Pitting (eroziune punctiformă)» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fuziune solidă», «Infecţii fungice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Osteoliza articulaţiilor interfalangiene distale, leziunile cutanate extinse şi distrofia unghială ne sugerează diagnosticul de:",
@@ -55,7 +79,13 @@
         "Osteoartroză",
         "Artrită reumatoidă"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Artrită psoriazică». Pentru retenție, reformulează mental: «Osteoliza articulaţiilor interfalangiene distale, leziunile cutanate extinse şi distrofia unghială ne sugerează diagnosticul de: -> Artrită psoriazică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Lupus eritematos sistemic», «Gută»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Diagnosticul de artrită psoriazică este stabilit cu ajutorul criteriilor:",
@@ -66,7 +96,13 @@
         "ACR",
         "Ducket Jones"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «CASPAR». Pentru retenție, reformulează mental: «Diagnosticul de artrită psoriazică este stabilit cu ajutorul criteriilor: -> CASPAR» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «BASDAI», «EULAR»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Criteriile CASPAR sunt folosite pentru diagnosticul:",
@@ -77,7 +113,13 @@
         "Atritei psoriazice",
         "Sclerodermiei"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Atritei psoriazice». Pentru retenție, reformulează mental: «Criteriile CASPAR sunt folosite pentru diagnosticul: -> Atritei psoriazice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Artritei reumatoide», «LES»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Afectarea falangelor cu aspect de “creion cu capac” este caracteristică pentru:",
@@ -88,7 +130,13 @@
         "Artrită reumatoidă",
         "Artrită psoriazică"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Artrită psoriazică». Pentru retenție, reformulează mental: «Afectarea falangelor cu aspect de “creion cu capac” este caracteristică pentru: -> Artrită psoriazică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Lupus eritematos sistemic», «Gută»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Conform criteriilor CASPAR pentru artrita psoriazică, scorul maximal aparţine următorului criteriu:",
@@ -99,7 +147,13 @@
         "Distrofie unghială psoriazică la examenul curent",
         "Dovadă radiografică de formare a osului nou juxtaarticular"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Psoriazis curent». Pentru retenție, reformulează mental: «Conform criteriilor CASPAR pentru artrita psoriazică, scorul maximal aparţine următorului criteriu: -> Psoriazis curent» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Istoric personal sau familial de psoriazis», «Test negativ pentru factorul reumatoid»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care din următoarele clase de medicamente AINS sunt recomandate pacienţilor cu artrită psoriazică?",
@@ -113,6 +167,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Coxibii», «Oxicamii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Salicilaţii», «Pirazolii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -127,6 +187,12 @@
       "correct": [
         0,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Artrita psoriazică», «Artrita reumatoidă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Guta», «Osteoartroza»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -142,6 +208,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Amiloidoza AA», «Uveita anterioară», «Nefropatia Ig A». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Meningita», «Esofagita de reflux»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -158,6 +230,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Psoriazisul pielii», «Factorul reumatoid negativ», «Istoricul de dactilită stabilită de reumatolog», «Manifestările radiologice caracteristice». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Factorul reumatoid pozitiv»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -173,6 +251,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Kinetoterapie», «Terapie imunosupresivă», «Tratament simptomatic». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Tratament antibacterian», «Terapie manuală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -189,6 +273,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Hemoleucograma», «VSH», «Fibrinogenul», «Proteina C-reactivă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Factorul reumatoid»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -204,6 +294,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Artrita septică», «Ruptură tendinoasă», «Artrită acuta microcristalină». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hiperkeratoză locală», «Hiperpigmentare locală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -219,6 +315,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Oligoartrita simetrică», «Artrita axială», «Artrita mutilantă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Osteoartroza», «Entezopatia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -234,6 +336,12 @@
         0,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Entezopatiile», «Dactilita», «Irita». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Ulceraţiile mucoaselor», «Trombocitopenia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -249,6 +357,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Psoriazisul în antecedente», «Factorul reumatoid negativ», «Manifestările radiologice specifice». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Ulceraţiile orale», «Febra»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -263,6 +377,12 @@
       "correct": [
         0,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Osteoliza», «Anchiloza osoasă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Osteosinteza», «Osteomalacia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -278,6 +398,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Entezita este o trăsătură caracteristică importantă», «Afectarea oculară se manifestă frecvent prin uveită anterioară», «Afectarea cardiacă se manifestă frecvent prin afectarea valvei aortice». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Entezita nu este caracteristică», «Afectarea oculară nu este caracteristică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -293,6 +419,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Afectarea psoriazică a unghiilor», «Dactilita cu tumefierea falangelor», «Psoriazisul pielii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Cracmentul articular», «Uveita»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -307,6 +439,12 @@
       "correct": [
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Metotrexatul», «Sulfasalazina». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Acidul alendronic», «Diclofenacul»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -321,6 +459,12 @@
       "correct": [
         0,
         1
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «VSH», «Proteina C-reactivă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fibrinogen», «Prezenţa HLA-B27»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -332,7 +476,13 @@
         "D. Se acompaniază constant de titre mari  de factori reumatoizi",
         "E. Concentraţia complexelor imune circulante, în general, este crescută"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «A. Apar înaintea manifestărilor articulare». Pentru retenție, reformulează mental: «Care dintre următoarele afirmaţii privind manifestările extraarticulare din artrita reumatoidă este FALSĂ? -> A. Apar înaintea manifestărilor articulare» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Sunt determinate de infiltrate limfoplasmocitare şi/sau procese vasculitice», «C. Apar în cazurile severe de boală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care regiune articulară este, de regulă, afectată în artrita reumatoidă:",
@@ -343,7 +493,13 @@
         "Articulaţia atlantoaxială",
         "Articulaţia acromio-claviculară"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Articulaţia atlantoaxială». Pentru retenție, reformulează mental: «Care regiune articulară este, de regulă, afectată în artrita reumatoidă: -> Articulaţia atlantoaxială» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Articulaţiile interfalangiene distale», «Articulaţia sacroiliacă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Afectarea articulară din artrita reumatoidă are următoarele caracteristici:",
@@ -354,7 +510,13 @@
         "Monoartriculară",
         "Reversibilă"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Simetrică». Pentru retenție, reformulează mental: «Afectarea articulară din artrita reumatoidă are următoarele caracteristici: -> Simetrică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Oligoarticulară», «Migratorie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care este cel mai frecvent efect advers al tratamentului cu AINS?",
@@ -365,7 +527,13 @@
         "Acţiunea neurotoxică",
         "Reacţiile alergice"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Afectarea tractului gastro-intestinal». Pentru retenție, reformulează mental: «Care este cel mai frecvent efect advers al tratamentului cu AINS? -> Afectarea tractului gastro-intestinal» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Dereglările hematopoietice», «Acţiunea nefrotoxică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "8. Care DMARD este considerat „standardul de aur” în tratamentul artritei reumatoide?",
@@ -376,7 +544,13 @@
         "Hidroxiclorochina",
         "Ciclofosfamida"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Metotrexat». Pentru retenție, reformulează mental: «8. Care DMARD este considerat „standardul de aur” în tratamentul artritei reumatoide? -> Metotrexat» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sulfasalazina», «Azatioprina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care complicaţie reno-urinară poate apărea în evoluţia severă şi îndelungată a artritei reumatoide:",
@@ -387,7 +561,13 @@
         "Pielonefrita",
         "Uretrita"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «Amiloidoza renală». Pentru retenție, reformulează mental: «Care complicaţie reno-urinară poate apărea în evoluţia severă şi îndelungată a artritei reumatoide: -> Amiloidoza renală» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Pielonefrita», «Micronefrolitiaza»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Agentul infecţios implicat în etiologia artritei reumatoide poate fi:",
@@ -398,7 +578,13 @@
         "Staph. aureus",
         "Chlamydia trachomatis"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «Virusul Epstein-Barr». Pentru retenție, reformulează mental: «Agentul infecţios implicat în etiologia artritei reumatoide poate fi: -> Virusul Epstein-Barr» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Virusul hepatitei B», «Mycoplasma hominis»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Populaţia majoritară celulară în sinovita reumatoidă este reprezentată de:",
@@ -409,7 +595,13 @@
         "Limfocite T CD4 cu memorie",
         "Macrofage"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Limfocite T CD4 cu memorie». Pentru retenție, reformulează mental: «Populaţia majoritară celulară în sinovita reumatoidă este reprezentată de: -> Limfocite T CD4 cu memorie» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Limfocite NK», «Limfocite B»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Modificarea radiologică caracteristică artritei reumatoide este:",
@@ -420,7 +612,13 @@
         "Eroziunile osoase",
         "Sechestrele osoase"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Eroziunile osoase». Pentru retenție, reformulează mental: «Modificarea radiologică caracteristică artritei reumatoide este: -> Eroziunile osoase» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sindesmofitele», «Osteoscleroza subcondrală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care din următoarele modificări radiologice apar în artrita reumatoidă?",
@@ -435,6 +633,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Osteoporoză juxtaarticulară», «Eroziuni marginale», «Anchiloze osoase». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sindesmofite», «Îngroşare periostală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -451,6 +655,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Purpură», «Polineuropatie», «Infarct miocardic», «Ulceraţii cutanate». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Keratodermie blenoragica»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -465,6 +675,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Articulaţiile interfalangiene proximale», «Articulaţiile vertebrale cervicale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Articulaţiile interfalangiene distale», «Prima articulaţie tarso-metatarsiană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -479,6 +695,12 @@
       "correct": [
         0,
         1
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Afectarea poliarticulară», «Afectarea simetrică». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Debutul brutal în 90% de cazuri», «Anorexia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -493,6 +715,12 @@
       "correct": [
         0,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Raportul femei : bărbaţi este de 2,2-2,5:1», «D. Către vârsta de 70 ani raportul femei : bărbaţi se egalează». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Raportul femei : bărbaţi este de 5:1», «C. Raportul femei : bărbaţi este de 1: 2,2-2,5»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -507,6 +735,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. Factorul reumatoid», «D. Anticorpii anti peptidă ciclică citrulinată». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Antigenele de histocompatibilitate HLA clasa II DR8», «C. Antigenele de histocompatibilitate HLA clasa II DR5»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -521,6 +755,12 @@
       "correct": [
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. HLA-DR1», «E. HLA-DR4». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. HLA-B27», «C. HLA-A»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -535,6 +775,12 @@
       "correct": [
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Factorul reumatoid, deşi posedă o sensibilitate înaltă nu este la fel de specific ca anti-CCP», «Anti-CCP posedă o specificitate de 95%». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Factorul reumatoid este pozitiv la 100% din pacienţi», «Factorul reumatoid pozitiv este absolut necesar pentru stabilirea diagnosticului de artrită reumatoidă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -549,6 +795,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Leflunomida», «Metotrexatul». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Aspirina», «Diclofenacul»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -564,6 +816,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Redoarea matinală», «Diminuarea forţei de strângere a mâinii», «Tumefierea articulaţiilor interfalangiene proximale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Dureri la palparea tendonului Achile», «Tumefierea articulaţiilor interfalangiene distale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -578,6 +836,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Articulaţiile sinoviale», «Articulaţiile interfalangiene proximale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Manubrio-sternală», «Simfiza pubiană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -593,6 +857,12 @@
         0,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Radiografia articulaţiilor palmo-plantare», «Ultrasonografia articulară», «Examenul articular prin Rezonanţă Magnetică Nucleară». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Osteodensitometria DXA», «Angiografia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -608,6 +878,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Oral», «Intramuscular», «Subcutanat». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Intravenos», «În spray nazal»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -619,7 +895,13 @@
         "D. Tulburările de conducere atrioventriculară",
         "E. Uveita acută anterioară"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. Uveita acută anterioară». Pentru retenție, reformulează mental: «1. Care este cea mai frecventă manifestare extraarticulară în artrita reactivă? -> E. Uveita acută anterioară» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Insuficienţa aortică», «B. Insuficienţa cardiacă congestivă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "2. Care marker imunogenetic joacă rol important în patogenia artritei reactive?",
@@ -630,7 +912,13 @@
         "D. HLA B17",
         "E. HLA B23"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «A. HLA B27». Pentru retenție, reformulează mental: «2. Care marker imunogenetic joacă rol important în patogenia artritei reactive? -> A. HLA B27» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. HLA DR3», «C. HLA DR4»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "3. Care articulaţie cel mai frecvent este afectată în artrita reactivă?",
@@ -641,7 +929,13 @@
         "D. Interfalangiană proximală",
         "E. Metacarpofalangiană"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «A. Sacroiliacă». Pentru retenție, reformulează mental: «3. Care articulaţie cel mai frecvent este afectată în artrita reactivă? -> A. Sacroiliacă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Radiocarpiană», «C. Interfalangiană distală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "4. Testul Schöber reprezintă:",
@@ -652,7 +946,13 @@
         "D. O metodă de apreciere a gradului de mobilitate a coloanei lombare.",
         "E. Stabileşte gradul de mobilitate al şoldurilor."
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «D. O metodă de apreciere a gradului de mobilitate a coloanei lombare.». Pentru retenție, reformulează mental: «4. Testul Schöber reprezintă: -> D. O metodă de apreciere a gradului de mobilitate a coloanei lombare.» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. O metodă de apreciere a extensiei coloanei lombare.», «B. Apreciază mişcările de rotaţie ale coloanei lombare.»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "5. Selectaţi tratamentul etiologic în artrita reactivă:",
@@ -663,7 +963,13 @@
         "D. Antimalaricele de sinteză.",
         "E. Sărurile de aur."
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. Antibioticele». Pentru retenție, reformulează mental: «5. Selectaţi tratamentul etiologic în artrita reactivă: -> C. Antibioticele» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Corticosteroizii», «B. Citostaticele»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "6. Artritele reactive se întâlnesc mai frecvent:",
@@ -674,7 +980,13 @@
         "D. În perioada de pubertate.",
         "E. În decada de vârstă între 50-60 ani."
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. La indivizi cu vârsta între 18-40 ani.». Pentru retenție, reformulează mental: «6. Artritele reactive se întâlnesc mai frecvent: -> C. La indivizi cu vârsta între 18-40 ani.» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. La indivizi cu vârsta peste 60 ani.», «B. La copii sub 5 ani.»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "9. Menţionaţi manifestarea oculară care poate fi observată în cadrul artritei reactive:",
@@ -685,7 +997,13 @@
         "D. Retinita",
         "E. Distrofia maculară"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «A. Conjunctivita». Pentru retenție, reformulează mental: «9. Menţionaţi manifestarea oculară care poate fi observată în cadrul artritei reactive: -> A. Conjunctivita» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Ulcerul cornean», «C. Cataracta»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "10. Alegeţi afirmaţia corectă în tratamentul artritelor reactive:",
@@ -696,7 +1014,13 @@
         "D. Sărurile de aur sunt utile ca primă indicaţie de tratament.",
         "E. Administrarea  sistemică de glucocorticoizi este indicată în tendinite"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «A. Sulfasalazină până la 3 g/zi poate fi benefică la pacienţii cu artrită reactivă persistentă.». Pentru retenție, reformulează mental: «10. Alegeţi afirmaţia corectă în tratamentul artritelor reactive: -> A. Sulfasalazină până la 3 g/zi poate fi benefică la pacienţii cu artrită reactivă persistentă.» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Agenţii imunosupresivi se administrează în stadiul precoce», «C. În cazurile severe se foloseşte methotrexat 150 mg/săptămână.»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "11. Care este forma cea mai frecventă de afectare articulară în artrita reactivă?",
@@ -707,7 +1031,13 @@
         "D. Oligoarticulară asimetrică",
         "E. Mutilantă"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «D. Oligoarticulară asimetrică». Pentru retenție, reformulează mental: «11. Care este forma cea mai frecventă de afectare articulară în artrita reactivă? -> D. Oligoarticulară asimetrică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Poliarticulară simetrică», «B. Axială cu anchiloză lombară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "2. Menţionaţi care din următoarele afirmaţii sunt adevărate pentru afectarea coloanei vertebrale în artrita reactivă:",
@@ -722,6 +1052,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Durere spinală inflamatorie», «D. Se pot forma sindesmofite», «E. Nu se ajunge la aspectul de coloană de bambus». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Durere cu caracter mecanic», «C. Pacienţii cu debut recent dezvoltă rapid limitarea mobilităţii coloanei»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -736,6 +1072,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Infliximab», «E. Metotrexat». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Fenilbutazonă», «C. D-Penicilamină»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -751,6 +1093,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B: Să dezvoltă la persoane cu predispoziţie genetică», «C: Se dezvoltă în rezultatul unor infecţii artritogene», «E: Se caracterizează prin proces autoimun». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A: Este o afecţiune articulară supurativă», «D: Se dezvoltă pe fundalul traumatismulul articular»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -766,6 +1114,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A: Radiografia simplă articulară», «B: Tomografia computerizată», «C: Rezonanţa magnetică nucleară». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D: Densitometria», «E: Ecografia organelor interne»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -780,6 +1134,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B: Consecinţa infecţiilor uro-genitale, care apare predominant la sexul masculin», «C: Consecutivă unei infecţii enterale, care apare în mod egal la ambele sexe». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A: Consecutivă unei infecţii enterale, care apare predominant la sexul masculin», «D: Postveneriană şi apare în mod egal la ambele sexe»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -796,6 +1156,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A: Răspuns pozitiv la antibioticoterapie», «B: Durere de spate frecventă», «C: Asociere cu uretrită», «E: Interesare frecventă a membrelor inferioare». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D: Interesare frecventă a membrelor superioare»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -810,6 +1176,12 @@
       "correct": [
         0,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A: Artrita reactivă», «C: Artrita psoriazică». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B: Guta», «D: Artrita reumatoidă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -825,6 +1197,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A: Frotiu ureteral sau cervical prin reacţia de polimerizare în lanţ», «D: Serologice: aprecierea anticorpilor specifici în sânge», «E: Cultura maselor fecale pentru agenţi enterali». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B: Hemoculturi», «C: Însămânţări ale lichidului sinovial»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -839,6 +1217,12 @@
       "correct": [
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B: Absenţa modificărilor radiologice;», «E: Osteoporoza juxtaarticulara». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A: Eroziunile marginale;», «C: Pensarea spaţiului articular;»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -853,6 +1237,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B: Talocrurale», «D: Genunchiul». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A: Şold şi umeri (articulaţiile centurilor)», «C: Coloana cervicala»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -867,6 +1257,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B: Keratodermia blenoragică palmo-plantară», «D: Balanita circinata». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A: Ulceraţii orale profunde, dureroase», «C: Keratodermia blenoragică cu leziuni extinse la pacienţii imunocompetenţi»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -882,6 +1278,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Examenul radiologic al articulaţiilor periferice», «D. Dinamica testului Schober.», «E. Apariţia de sindesmofite asimetrice la nivelul coloanei vertebrale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Testarea marcherilor inflamatorii», «C. Determinarea antigenului HLA-B27»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -896,6 +1298,12 @@
       "correct": [
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «C. Nefropatie IgA», «E. Amiloidoză renală». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Pielonefrită cronică», «B. Insuficienţă renală acută»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -911,6 +1319,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Insuficienţa aortică», «C. Tulburările de conducere atrioventriculare», «E. Leziunile mucoaselor». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Fibroza pulmonară», «D. Sindromul nefrotic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -926,6 +1340,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Entezite», «B. Spasm muscular», «C. Sacroiliită». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D. Suprasolicitare mecanică în absenţa inflamaţiei», «E. Modificarea proprietăţilor biomecanice ale osului subcondral»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -937,7 +1357,13 @@
         "Nu este caracteristică",
         "Cataracta"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Nu este caracteristică». Pentru retenție, reformulează mental: «Selectaţi afirmaţia care caracterizează afectarea oculara în gută: -> Nu este caracteristică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sclerita», «Episclerita»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care afectare renală poate fi observată în gută?",
@@ -948,7 +1374,13 @@
         "Nefrolitiaza",
         "Sindromul nefrotic"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Nefrolitiaza». Pentru retenție, reformulează mental: «Care afectare renală poate fi observată în gută? -> Nefrolitiaza» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Glomerulonefrita mesangială», «Glomerulonefrita proliferativă focală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care regiune articulară este cea mai frecvent afectată în gută?",
@@ -959,7 +1391,13 @@
         "Articulaţia genunchiului",
         "Prima articulaţie metatarsofalangiană"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Prima articulaţie metatarsofalangiană». Pentru retenție, reformulează mental: «Care regiune articulară este cea mai frecvent afectată în gută? -> Prima articulaţie metatarsofalangiană» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Articulaţiile interfalangiene distale», «Articulaţiile interfalangiene proximale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Manifestarea musculară întâlnită în gută este:",
@@ -970,7 +1408,13 @@
         "Calcinoza intramusculară",
         "Flegmonul intramuscular"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Nu este caracteristică». Pentru retenție, reformulează mental: «Manifestarea musculară întâlnită în gută este: -> Nu este caracteristică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Durerea musculară spontană», «Atrofia musculară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În mecanismul de instalare a gutei rol primordial îl are:",
@@ -981,7 +1425,13 @@
         "Inhibarea fibroblaştilor de către mastocite",
         "Împiedicarea dezvoltării fibrozei de către monocite"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «Penetrarea uraţilor în lichidul sinovial». Pentru retenție, reformulează mental: «În mecanismul de instalare a gutei rol primordial îl are: -> Penetrarea uraţilor în lichidul sinovial» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Afectarea iniţială a celulei endoteliale», «Secreţia excesivă de către fibroblaşti a fibronectinei»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Printre criteriile diagnostice pentru gută se numără:",
@@ -992,7 +1442,13 @@
         "Durerile lombare joase",
         "Durerile calcanee"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Prezenţa tofilor, ce conţin microcristale de acid uric (confirmată microscopic)». Pentru retenție, reformulează mental: «Printre criteriile diagnostice pentru gută se numără: -> Prezenţa tofilor, ce conţin microcristale de acid uric (confirmată microscopic)» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Limitarea mişcărilor în articulaţiile afectate», «Poliartrita simetrică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În tratamentul gutei sunt utilizate următoarele preparate, cu excepţia:",
@@ -1003,7 +1459,13 @@
         "Colchicinei",
         "Allopurinolului"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Imunosurpesoarelor». Pentru retenție, reformulează mental: «În tratamentul gutei sunt utilizate următoarele preparate, cu excepţia: -> Imunosurpesoarelor» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Antiinflamatoarelor steroidiene», «Antiinflamatoarelor nesteroidiene»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Artralgiile în gută pot fi explicate prin:",
@@ -1014,7 +1476,13 @@
         "Depunerea cristalelor de apatită în articulaţii",
         "Osteoporoză subcondrală"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Depunerea cristalelor de acid uric în articulaţii». Pentru retenție, reformulează mental: «Artralgiile în gută pot fi explicate prin: -> Depunerea cristalelor de acid uric în articulaţii» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Colagenarea sinovialei», «Degenerarea proteoglicanilor cartilajului articular»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Guta este o maladie determinată de anomalia înnăscută sau dobândită a metabolismului:",
@@ -1025,7 +1493,13 @@
         "d).  Electrolitic",
         "e).  Energetic"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «b). Purinic». Pentru retenție, reformulează mental: «Guta este o maladie determinată de anomalia înnăscută sau dobândită a metabolismului: -> b). Purinic» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a) Glucidic», «c). Hidric»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Eroziunea osoasă „punched-out”, confirmată radiologic, este observată în:",
@@ -1036,7 +1510,13 @@
         "d).  Artrită reumatismală",
         "e).  Gută"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «e). Gută». Pentru retenție, reformulează mental: «Eroziunea osoasă „punched-out”, confirmată radiologic, este observată în: -> e). Gută» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a). Spondilită anchilozanta», «b). Lupus eritematos sistemic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care preparate se folosesc în tratamentul accesului acut de gută?",
@@ -1051,6 +1531,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Antiinflamatoare nesteroidiene», «Colchicină», «Metilprednizolon». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Antibacteriene», «Imunosupresoarele»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1065,6 +1551,12 @@
       "correct": [
         0,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Prezenţa cristalelor caracteristice de acidul uric în lichidul sinovial», «Inflamaţie articulară care atinge apogeul într-o singură zi». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Artrita simetrică: interesarea simultană bilaterală a aceloraşi articulaţii cu durata de cel puţin 6 săptămâni», «Prezenţa factorului reumatoid»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1079,6 +1571,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Inflamaţiei sinovialei cu proliferarea sinoviocitelor», «Permeabilităţii vasculare crescute cu acumulare de lichid sinovial bogat în uraţi». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Leziunilor microvasculare», «Osteoporozei epifizare»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1093,6 +1591,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Bursa olecraniană a cotului», «Pavilionul urechii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Pleura», «Pericardul»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1107,6 +1611,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Afectarea poliartriculară», «Deformităţile labei piciorului „picior gutos”, ale mâinilor – „mâna pseudoreumatoidă”». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Afectarea simetrică», «Afectarea articulaţiilor sacroiliace»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1121,6 +1631,12 @@
       "correct": [
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Allopurinol», «Febuxostat». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D-penicilamină», «Colchicină»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1136,6 +1652,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Chist popliteu disecant», «Parapareză prin tofi în spaţiul extradural sau ligamentele galbene», «Sindrom de canal carpian sau tarsian». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Ateroscleroză a vaselor cerebrale», «Insuficienţă vertebro-bazilară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1150,6 +1672,12 @@
       "correct": [
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Microscopia lichidului sinovial», «Aprecierea acidului uric în ser şi urină». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Electromiografia», «Scintigrafia osoasă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1164,6 +1692,12 @@
       "correct": [
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Hipertensiunea arterială», «Nefrolitiaza». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fibroza pulmonară», «Glomerulonefrita»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1178,6 +1712,12 @@
       "correct": [
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Benzbromaronă», «Probenecid». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D-penicilamină», «Colchicină»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1192,6 +1732,12 @@
       "correct": [
         0,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Tofi subcutanaţi», «Tofi intradermici». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Echimoze», «Telangiectazii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1207,6 +1753,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Prezenţa cristalelor de uraţi în lichidul sinovial», «Mai mult de 1 acces de artrită acută în anamneză», «Tumefierea asimetrică a unei articulaţii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Conjunctivita», «Glomerulonefrita»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1222,6 +1774,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Antiinflamatoare nesteroidiene», «Colchicină», «Corticosteroizi». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Antibacteriene», «Imunosupresoare»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1237,6 +1795,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Vârsta copilului», «Perioada de alăptare», «Sarcina». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hipertensiunea arterială», «Tromboflebita acută»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1248,7 +1812,13 @@
         "Pulmonare",
         "Mitrale şi tricuspide"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Mitrale». Pentru retenție, reformulează mental: «Care valve cardiace se afectează mai frecvent în lupusul eritematos sistemic? -> Mitrale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Aortice», «Tricuspide»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Semnul urinar al glomerulonefritei lupice, conform criteriilor diagnostice, este:",
@@ -1259,7 +1829,13 @@
         "Uraturia",
         "Bacteriuria"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Proteinuria». Pentru retenție, reformulează mental: «Semnul urinar al glomerulonefritei lupice, conform criteriilor diagnostice, este: -> Proteinuria» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hematuria», «Leucocituria»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Celulele lupice reprezintă:",
@@ -1270,7 +1846,13 @@
         "Aglomerări de nuclee ale leucocitelor degradate",
         "Celule spumoase degradate"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Polinucleare mature ce au fagocitat nucleele leucocitelor degradate». Pentru retenție, reformulează mental: «Celulele lupice reprezintă: -> Polinucleare mature ce au fagocitat nucleele leucocitelor degradate» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Macrofage, ce au fagocitat nucleele leucocitelor degradate», «Aglomerări de limfocite»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Ce afirmaţie este caracteristică lupusului eritematos?",
@@ -1281,7 +1863,13 @@
         "IgM serică scade",
         "Prezenta anticorpilor anti-CCP"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Titrul anticorpilor ANA creşte». Pentru retenție, reformulează mental: «Ce afirmaţie este caracteristică lupusului eritematos? -> Titrul anticorpilor ANA creşte» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «IgG serică scade», «Complexe imune circulante în limite normale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Diagnosticul pozitiv de lupus eritematos sistemic necesită cel puţin câte criterii ACR (1997)?",
@@ -1292,7 +1880,13 @@
         "8 criterii",
         "11 criterii"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «4 criterii». Pentru retenție, reformulează mental: «Diagnosticul pozitiv de lupus eritematos sistemic necesită cel puţin câte criterii ACR (1997)? -> 4 criterii» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «3 criterii», «6 criterii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Indicaţi doza de corticosteroizi unui bolnav cu nefropatie lupică severă:",
@@ -1303,7 +1897,13 @@
         "3,0-4,0 g/kg/zi",
         ">4 g/kg/zi"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «1,0-2,0 mg/kg/zi». Pentru retenție, reformulează mental: «Indicaţi doza de corticosteroizi unui bolnav cu nefropatie lupică severă: -> 1,0-2,0 mg/kg/zi» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «0,1-0,5 mg/kg/zi», «0,75 mg/kg/zi»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Care fenomen este caracteristic lupusului eritematos sistemic?",
@@ -1314,7 +1914,13 @@
         "Inhibarea limfocitelor T-kiler",
         "Activarea limfocitelor T-citotoxice"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Activarea limfocitelor T-helper». Pentru retenție, reformulează mental: «Care fenomen este caracteristic lupusului eritematos sistemic? -> Activarea limfocitelor T-helper» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Activarea limfocitelor T-supresor», «Inhibarea limficitelor B»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Manifestarea cardiacă cea mai frecventă în lupusul eritematos sistemic este:",
@@ -1325,7 +1931,13 @@
         "Pericardita",
         "Aritmiile cardiace"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Pericardita». Pentru retenție, reformulează mental: «Manifestarea cardiacă cea mai frecventă în lupusul eritematos sistemic este: -> Pericardita» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Miocardita», «Endocardita lupică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Riscul de a dezvolta nefropatie lupică au pacienţii cu:",
@@ -1336,7 +1948,13 @@
         "VSH foarte crescut",
         "Trombocitopenie"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Titrul crescut de anticorpi anti ADNdc». Pentru retenție, reformulează mental: «Riscul de a dezvolta nefropatie lupică au pacienţii cu: -> Titrul crescut de anticorpi anti ADNdc» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Anomalii urinare periodice», «Hipercomplementemie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Manifestările pleuropulmonare ale lupusului eritematos sistemic se caracterizează prin:",
@@ -1351,6 +1969,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Pneumonită», «Pleurezie», «Vasculită pulmonară». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Pneumonie lobară», «Insuficienţă respiratorie obstructivă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1366,6 +1990,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Ameliorarea manifestărilor clinice», «Ameliorarea manifestărilor hematologice», «Corecţia perturbărilor imune». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Intervenţiile chirurgicale urgente», «Prevenirea perturbărilor hemostatice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1382,6 +2012,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Polineuropatie», «Hemipareze», «Convulsii», «Pseudoepilepsie». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Electroencefalogramă normală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1397,6 +2033,12 @@
         0,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Avorturi spontane repetate», «Tromboze venoase şi arteriale», «Titru crescut al anticorpilor anticardiolipinici IgG sau IgM». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Test la lues fals pozitiv», «Titru scăzut al anticorpilor anti ADNdc»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1413,6 +2055,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Titrul anticorpilor antinucleari (ANA) este crescut», «Titrul anti-ADNdc este crescut, frecvent se asociază cu nefropatia lupică», «Anticorpii anti Ro (SS-A) apar în sindromul Sjögren şi lupusul neonatal», «Anticorpii marker pentru lupus eritematos sistemic sunt anti-ADNdc şi anti-Sm». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Anticorpii anti histone nu se asociază cu lupus medicamentos»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1427,6 +2075,12 @@
       "correct": [
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Deformările articulare nu sunt caracteristice lupusului eritematos sistemic», «Necroza aseptică osoasă poate fi rezultatul tratamentului îndelungat cu corticosteroizi». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Osteoporoza nu este caracteristică lupusului eritematos sistemic», «Există o proporţionalitate între manifestările articulare şi gradul de activitate a lupusului eritematos sistemic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1441,6 +2095,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Pneumonita», «Pleurezia». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Alveolita alergică», «Bronhopneumonia bacteriană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1455,6 +2115,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Lichidul pericardic conţine mai mult de 20000 leucocite/mm3», «Lichidul pericardic conţine CIC». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Acumulări de lichid pericardic cu caracter de transsudat», «Lichidul pericardic are culoare galbenă-verzuie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1469,6 +2135,12 @@
       "correct": [
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Leucopenia», «Trombocitopenia». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Leucocitoza», «Trombocitoza»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1485,6 +2157,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Creşterea tensiunii arteriale», «Miopatia», «Crizele convulsive», «Edemul tisular periferic». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Agravarea evoluţiei lupusului eritematos sistemic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1501,6 +2179,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Ciclofosfamida», «Metotrexatul», «Azatioprina», «Mofetil micofenolatul». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Vincristina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1515,6 +2199,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Prednisolon 5-10 mg/zi», «Metotrexat 7,5-20 mg/săptămână». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Prednisolon 20-30 mg/zi», «AINS timp îndelungat»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1526,7 +2216,13 @@
         "-2.0 DS",
         "-2.5 DS"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «-2.5 DS». Pentru retenție, reformulează mental: «1. Osteoporoza este definită drept scăderea scorului T la DXA mai jos decât: -> -2.5 DS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «1.0 DS», «1.1 DS»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "2. Aprecierea riscului de fracturi osteoporotice majore se efectuează cu ajutorul:",
@@ -1537,7 +2233,13 @@
         "d. Densitometriei ultrasonografice",
         "e. Radiografiei"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «b. Instrumentului FRAX». Pentru retenție, reformulează mental: «2. Aprecierea riscului de fracturi osteoporotice majore se efectuează cu ajutorul: -> b. Instrumentului FRAX» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. Examenului clinic», «c. Densitometriei DeXA»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "3. Indicaţi expresia clinică a osteoporozei:",
@@ -1548,7 +2250,13 @@
         "d. tetania",
         "e. slăbiciunea pronunţată"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «b. fracturile de fragilitate». Pentru retenție, reformulează mental: «3. Indicaţi expresia clinică a osteoporozei: -> b. fracturile de fragilitate» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. febra», «c. durere la percuţia osoasă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "4. Un scor T de -1.1 DS la densitometrie DXA a unei paciente de 65 ani corespunde:",
@@ -1559,7 +2267,13 @@
         "d. osteoporozei severe",
         "e. valorilor crescute"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «b. osteopeniei». Pentru retenție, reformulează mental: «4. Un scor T de -1.1 DS la densitometrie DXA a unei paciente de 65 ani corespunde: -> b. osteopeniei» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. valorilor normale», «c. osteoporozei»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "5. Necesitatea zilnică a vitaminei D la persoane cu vârstă >50 ani este de:",
@@ -1570,7 +2284,13 @@
         "d. 900 unităţi internaţionale",
         "e. 1000 unităţi internaţionale"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «c. 800 unităţi internaţionale». Pentru retenție, reformulează mental: «5. Necesitatea zilnică a vitaminei D la persoane cu vârstă >50 ani este de: -> c. 800 unităţi internaţionale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. 600 unităţi internaţionale», «b. 700 unităţi internaţionale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "6. Mecanismul de acţiune al denosumabului este:",
@@ -1581,7 +2301,13 @@
         "d. modulator al acţiunii RANKL",
         "e. antagonist al osteoprotegerinei"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «c. inhibitorul RANKL». Pentru retenție, reformulează mental: «6. Mecanismul de acţiune al denosumabului este: -> c. inhibitorul RANKL» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. blocant al TNF-α», «b. antagonist IL-a»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "7. Scorul T la densitometria DXA este:",
@@ -1592,7 +2318,13 @@
         "d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex",
         "e. doza de iradiere utilizată"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «c. numărul de deviaţii standard ale densităţii minerale osoase (DMO) faţă de valoarea de vârf la un individ tânăr sănătos». Pentru retenție, reformulează mental: «7. Scorul T la densitometria DXA este: -> c. numărul de deviaţii standard ale densităţii minerale osoase (DMO) faţă de valoarea de vârf la un individ tânăr sănătos» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. masa totală a ţesutului osos», «b. riscul de fracturi de fragilitate în următorii 10 ani, exprimat în procente»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "8. Scorul Z la densitometria DEXA este:",
@@ -1603,7 +2335,13 @@
         "d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex",
         "e. doza de iradiere utilizată"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex». Pentru retenție, reformulează mental: «8. Scorul Z la densitometria DEXA este: -> d. numărul de deviaţii standard ale densităţii minerale osoase măsurate faţă de subiecţii sănătoşi de aceeaşi vârstă şi sex» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. masa totală a ţesutului osos», «b. riscul de fracturi de fragilitate în următorii 10 ani, exprimat în procente»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "9. Selectaţi care din următoarele poate fi o localizare a fracturilor osteoporotice majore:",
@@ -1614,7 +2352,13 @@
         "d. 1/3 proximală a femurului",
         "e. stern"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «d. 1/3 proximală a femurului». Pentru retenție, reformulează mental: «9. Selectaţi care din următoarele poate fi o localizare a fracturilor osteoporotice majore: -> d. 1/3 proximală a femurului» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. claviculă», «b. calcaneu»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "14.  Măsuri nefarmacologice de tratament al osteoporozei sunt:",
@@ -1629,6 +2373,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. activitatea fizică adecvată», «b. excluderea fumatului, reducerea consumului de alcool şi cafea», «d. prevenirea căderilor». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «c. reducerea exerciţiilor fizice», «e. reducerea masei corporale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1644,6 +2394,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. modulatorii selectivi ai receptorilor pentru estrogeni», «d. preparate biologice - antagoniştii RANKL», «e. bisfosfonaţii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «b. condroprotectoarele orale şi locale», «c. antiinflamatoare nesteroidiene»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1659,6 +2415,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «b. aportul insuficient de calciu», «d. deficitul de vitamina D», «e. fumatul». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. sexul feminin», «c. vârsta >65 ani»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1675,6 +2437,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «b. se acumulează puternic în ţesutul osos şi inhibă funcţia osteoclastelor», «c. la nivel tisular are loc reducerea numărului şi activităţii unităţilor de remodelare osoasă», «d. biodisponibilitate redusă la administrare orală», «e. sunt preparate de primă intenţie în tratamentul osteoporozei». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. au şi efect anabolic asupra osului»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1690,6 +2458,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. alendronat», «c. zoledronat», «e. ibandronat». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «b. etidronat», «d. clodronat»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1706,6 +2480,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. Anamnesticul pozitiv de fractură de şold la părinţi», «b. datele antropometrice», «d. cauze care ar putea duce la osteoporoză secundară», «e. densitatea minerală osoasă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «c. durata menopauzei»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1721,6 +2501,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. reprezintă masa osoasă acumulată în timpul creşterii organismului», «b. factorul genetic este principalul determinant al ei», «c. este atinsă în a 3-a decada de viaţă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «d. depinde în primul rând de factorii de mediu», «e. deobicei este mai joasă la bărbaţi»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1737,6 +2523,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. este un agent biologic», «b. poate fi folosit drept agent de primă linie în tratamentul osteoporozei», «c. are complianţă înaltă datorată regimului de administrare», «d. are rată redusă a reacţiilor adverse». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «e. este contraindicat în perioada postmenopauzală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1752,6 +2544,12 @@
         0,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. RANKL», «c. parathormon», «d. IL-1, IL-6». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «b. osteoprotegerina», «e. testosteron»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1766,6 +2564,12 @@
       "correct": [
         0,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. incidenţa creşte odată cu vârsta», «e. expresia clinică a bolii sunt fracturile de fragilitate». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «b. preponderent sunt afectaţi bărbaţii», «c. diagnosticul precoce se stabileşte cu ajutorul datelor radiologice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1781,6 +2585,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a. Accentuarea cifozei toracice», «b. Dureri pe parcursul coloanei vertebrale», «d. Scăderea în înălţime cu 2,5 cm în decurs de un an». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «c. Tumefierea articulară», «e. Dezvoltarea anemiei feriprive»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1796,6 +2606,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «b. durerea poate fi de intensitate joasă», «c. netratată, durerea cedează de obicei după 2-6 săptămâni», «d. pot duce la accentuarea cifozei toracice, scăderi în înălţime». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «a. în cele mai multe cazuri pacienţii pot identifica momentul fracturii», «e. pot fi tratate cu injecţii de polimetilmetacrilat în corpurile vertebrale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1811,6 +2627,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (reumatologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «a) Parathormonul», «b) Vitamina D», «d) Steroizii anabolizanţi». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «c) L-tiroxina», «e) Glucocorticosteroizii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     }
   ]

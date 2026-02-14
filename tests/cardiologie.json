@@ -11,7 +11,13 @@
         "complexul QRS peste 0,14 mm/sec",
         "frecvența atrială și ventriculară < 50 b/min"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «frecvența atrială și ventriculară < 50 b/min». Pentru retenție, reformulează mental: «Notați semnul ECG caracteristic în bradicardia sinusală -> frecvența atrială și ventriculară < 50 b/min» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «intervalul PQ 0,22 mm/sec», «intervalele R-R neregulate»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În tahicardia sinusală sunt prezente toate semnele ECG cu exepția:",
@@ -22,7 +28,13 @@
         "complexul QRS cu durata 0,1 mm/sec",
         "prezența undelor P înaintea fiecărui complex QRST"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «intervalul PQ 0.2 mm/sec». Pentru retenție, reformulează mental: «În tahicardia sinusală sunt prezente toate semnele ECG cu exepția: -> intervalul PQ 0.2 mm/sec» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «intervale R-R egale», «frecvența atrială și ventriculară > 100 b/min»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Precizați semnul ECG caracteristic în aritmia respiratorie:",
@@ -33,7 +45,13 @@
         "scurtarea ciclică a intervalelor R - R la inspiraţie",
         "alungirea ciclică a intervalelor R - R la inspiraţie"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «scurtarea ciclică a intervalelor R - R la inspiraţie». Pentru retenție, reformulează mental: «Precizați semnul ECG caracteristic în aritmia respiratorie: -> scurtarea ciclică a intervalelor R - R la inspiraţie» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «complexul QRS este peste 0,1 mm/sec», «unda P înaintea complexului QRS lipseşte»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cs. Menționați semnul clinic care nu este caracteristic în tahicardia supraventriculară",
@@ -45,7 +63,13 @@
         "manevrele ”vagale” opresc accesul de tahicardie",
         "accesul de tahicardie se oprește brusc"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «accesul de tahicardie începe brusc». Pentru retenție, reformulează mental: «cs. Menționați semnul clinic care nu este caracteristic în tahicardia supraventriculară -> accesul de tahicardie începe brusc» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «paroxistică:», «frecvență cardiacă înaltă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Notați semnul ECG caracteristic în tahicardia atrioventriculară reciprocă cu căi accesorii:",
@@ -56,7 +80,13 @@
         "durata complexului QRS > 0,14 sec.",
         "complex QRS de regulă aberant"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «unde P negative în DII, DIII, aVF şi pozitive în aVR în urma complexului QRS». Pentru retenție, reformulează mental: «Notați semnul ECG caracteristic în tahicardia atrioventriculară reciprocă cu căi accesorii: -> unde P negative în DII, DIII, aVF şi pozitive în aVR în urma complexului QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «interval P-Q 0,2 mm/sec», «interval R-R neregulat»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Notați semnul ECG caracteristic în tahicardia ventriculară paroxistică:",
@@ -67,7 +97,13 @@
         "interval P-Q <0,12 sec",
         "unde P negative după complexul QRS"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «complexe QRS anormale, cu modificări secundare S-T, T». Pentru retenție, reformulează mental: «Notați semnul ECG caracteristic în tahicardia ventriculară paroxistică: -> complexe QRS anormale, cu modificări secundare S-T, T» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «undă P negativă înaintea complexului QRS», «prezenţa undei delta»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Mențioanați semnul ECG caracteristic pentru extrasistolia atrială:",
@@ -78,7 +114,13 @@
         "pauză compensatorie completă",
         "unda P negativă înaintea complexului QRST"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «prezența unei contracții premature PQRST». Pentru retenție, reformulează mental: «Mențioanați semnul ECG caracteristic pentru extrasistolia atrială: -> prezența unei contracții premature PQRST» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «unde „f” între intervalele R-R», «interval P-Q sub 0,12 sec»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În extrasistolia ventriculară identificăm semnele ECG caracteristice cu exepția:",
@@ -89,7 +131,13 @@
         "unda P negativă după complexul QRS",
         "durata complexului QRS > 0,12 sec."
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «unda P negativă după complexul QRS». Pentru retenție, reformulează mental: «În extrasistolia ventriculară identificăm semnele ECG caracteristice cu exepția: -> unda P negativă după complexul QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «interval P-Q în limite normale», «segmentul ST şi unda T sunt de sens opus faţă de deflexiunea principală a QRS»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Metoda de elecție în paroxismul de tahicardie ventriculară cu instabilitate",
@@ -101,7 +149,13 @@
         "aplicarea șocului electric 50 J",
         "administrarea intramusculară a Sol. Lidocaină"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «hemodinamică gravă este:». Pentru retenție, reformulează mental: «Metoda de elecție în paroxismul de tahicardie ventriculară cu instabilitate -> hemodinamică gravă este:» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «aplicarea șocului electric 200 J», «administrarea intravenoasă a Sol. Novocainamidă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cm. Menționați afirmațiile corecte în fibrilația atrială paroxistică „vagală”:",
@@ -116,6 +170,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. se declanșează în stare de repaus», «C. este întâlnită mai frecvent la bărbați», «E. se declanșează postprandial sau în timpul somnului». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. se întâlneste mai frecvent la femei», «D. apare în timpul stresului emoțional»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -133,6 +193,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «atrioventricular:», «Digoxina», «Propronalolul», «Amiodarona». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Verapamila», «Nifedipina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -149,6 +215,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Novocainamida Metoprolol», «Amiodarona», «Propafenona», «Sotalolul». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Digoxina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -165,6 +237,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. stare sincopală», «C. absența pulsului la vasele mari», «D. sinusoidă la ECG formată din excitații ventriculare regulate», «E. frecvența contracțiilor cardiace 250-300b/min». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. unde „F” cu aspect „dinţi de ferestrău”»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -181,6 +259,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. modificare lentă a frecvenței cardiace», «B. reacție fiziologică normală la efort», «C. complexe QRS normale», «E. reacție fiziologică la stres». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «D. interval P-Q peste 0,20 sec»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -197,6 +281,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. intoxicații cu glicozide cardiace», «B. infarct miocardic inferior», «C. hipocaliemie», «D. intervenții chirurgicale pe cord». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. hipocalciemie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -212,6 +302,12 @@
         0,
         1,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. complex QRS patologic», «B. pauză compensatorie completă», «E. lipsa undei P». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «C. interval P- Q sub 0,12 sec», «D. undă P negativă, ce succedează QRS»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -226,6 +322,12 @@
       "correct": [
         0,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. se întâlneste mai frecvent la femei», «D. apare în timpul stresului emoțional». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. se declanșează în stare de repaus», «C. este întâlnită mai frecvent la bărbați»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -237,7 +339,13 @@
         "se întâlneste mai frecvent la femei",
         "se declanșează în stare de repaus"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «se declanșează în stare de repaus». Pentru retenție, reformulează mental: «Afirmația incorectă în fibrilația atrială paroxistică ”adrenergică” este: -> se declanșează în stare de repaus» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «apare în timpul efortului fizic», «este provocată de situații stresante»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Indicați medicamentul care nu se administrează pentru restabilirea ritmului sinusal la un pacient cu fibrilație atrială:",
@@ -248,7 +356,13 @@
         "Propafenona",
         "Sotalolul"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Digoxina». Pentru retenție, reformulează mental: «Indicați medicamentul care nu se administrează pentru restabilirea ritmului sinusal la un pacient cu fibrilație atrială: -> Digoxina» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Novocainamida», «Amiodarona»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cs.   Pentru calcularea scorul thromboembolic la un pacient cu fibrilație atrială nu este nevoie de un indice, notează-l:",
@@ -259,7 +373,13 @@
         "sexul feminin",
         "supraponderea"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «supraponderea». Pentru retenție, reformulează mental: «cs. Pentru calcularea scorul thromboembolic la un pacient cu fibrilație atrială nu este nevoie de un indice, notează-l: -> supraponderea» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «vârsta > 65 ani», «hipertensiunea arterială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cm. Menționați caracteristicele clinice și EKG în flutter-ul ventricular:",
@@ -273,6 +393,12 @@
       "correct": [
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «D. sinusoidă ECG formată din exitații ventriculare regulate», «E. frecvență contracțiilor cardiace 250-300b/min». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Interval PQ în limite normale», «B. unde „F” cu aspect „dinţi de ferestrău”»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -284,7 +410,13 @@
         "D.  interval P-Q peste 0,20 sec",
         "E.   ritmul se reduce la efort"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «B. reacție fiziologică normală la efort». Pentru retenție, reformulează mental: «cs.Tahicardia sinusală se caracterizează prin: -> B. reacție fiziologică normală la efort» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. frecvență cardiacă în limite 60 – 80 bătăi pe minut», «C. complexe QRS anormale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cm. Numiți cauzele fiziologice ale bradicardiei sinusale",
@@ -298,6 +430,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. somn fiziologic», «C. sportiv antrenat». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. intoxicații cu glicozide cardiace», «D. intervenții chirurgicale pe cord»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -309,7 +447,13 @@
         "insuficiența de automatism",
         "mecanismul parasistolic"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «dereglarea conducerii impulsului prin mecanismul „re-entry”». Pentru retenție, reformulează mental: «Mecanismul tahicardiei joncționale atrioventriculare este cauzat de: -> dereglarea conducerii impulsului prin mecanismul „re-entry”» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «dereglarea automatismului prin mecanismul „trigerr”», «creșterea automatismului normal»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Medicamentul de elecție în tahicardiile atrioventriculare reciproce este:",
@@ -320,7 +464,13 @@
         "Amiodarona",
         "Sotalol"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Sol. Adenozintrifosfat 10 mg în 1 secundă intravenos». Pentru retenție, reformulează mental: «Medicamentul de elecție în tahicardiile atrioventriculare reciproce este: -> Sol. Adenozintrifosfat 10 mg în 1 secundă intravenos» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Digoxina», «Etacizina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Medicamentul de elecție în tahicardia sinusală este:",
@@ -331,7 +481,13 @@
         "D.  Amiodarona",
         "E.  Sotalol"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Metoprolol». Pentru retenție, reformulează mental: «Medicamentul de elecție în tahicardia sinusală este: -> Metoprolol» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Digoxina», «Sol. Adenozintrifosfat 10 mg în 1 secundă intravenous»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Alegeți medicamentul antiaritmic de elecție în tahicardia ventriculară:",
@@ -342,7 +498,13 @@
         "Verapamil",
         "Diltiazem"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Amiodarona». Pentru retenție, reformulează mental: «Alegeți medicamentul antiaritmic de elecție în tahicardia ventriculară: -> Amiodarona» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Digoxina», «Nifedipina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "cs. Extrasistolia ventriculară ECG se manifestă prin:",
@@ -353,7 +515,13 @@
         "D. undă P negativă, ce succedează QRS",
         "E.  lipsa undei P"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. lipsa undei P». Pentru retenție, reformulează mental: «cs. Extrasistolia ventriculară ECG se manifestă prin: -> E. lipsa undei P» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. complex QRS normal», «B. pauză compensatorie incompletă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În extrasistolia atrioventriculară superioară pe ECG se înregistrează:",
@@ -364,7 +532,13 @@
         "undă P negativă în DII,DIII ce succede QRS",
         "pauză compensatorie completă"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «undă P negativă în DII,DIII ce precedează complexul QRS». Pentru retenție, reformulează mental: «În extrasistolia atrioventriculară superioară pe ECG se înregistrează: -> undă P negativă în DII,DIII ce precedează complexul QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «interval P-Q peste 0,20 sec», «complex QRS anormal»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Notați manifestările EKG în extrasistolia atrioventriculară medie:",
@@ -375,7 +549,13 @@
         "pauză compensatorie completă",
         "undă P negativă în DII,DIII ce precedează QRS"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «unda P este înglobată în complexul QRS». Pentru retenție, reformulează mental: «Notați manifestările EKG în extrasistolia atrioventriculară medie: -> unda P este înglobată în complexul QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «complex QRS anormal», «undă P negativă în DII,DIII ce succede QRS»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În extrasistolia atrioventriculară inferioară pe EKG se înregistrează:",
@@ -386,7 +566,13 @@
         "undă P negativă după complexul QRS",
         "interval PQ peste 0,2 sec"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «undă P negativă după complexul QRS». Pentru retenție, reformulează mental: «În extrasistolia atrioventriculară inferioară pe EKG se înregistrează: -> undă P negativă după complexul QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «lipsa undei P», «complex QRS anormal»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți mecanismul medicamentelor antiaritmice din clasa I",
@@ -397,7 +583,13 @@
         "beta - blocatori",
         "blocatorii canalelor de caliu"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «blocatorii canalelor de natriu». Pentru retenție, reformulează mental: «Numiți mecanismul medicamentelor antiaritmice din clasa I -> blocatorii canalelor de natriu» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «blocatorii canalelor de potasiu», «blocatorii canalelor de calciu»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți mecanismul medicamentelor antiaritmice din clasa II",
@@ -408,7 +600,13 @@
         "beta - blocatori",
         "blocatorii canalelor de caliu"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «beta - blocatori». Pentru retenție, reformulează mental: «Numiți mecanismul medicamentelor antiaritmice din clasa II -> beta - blocatori» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «blocatorii canalelor de potasiu», «blocatorii canalelor de natriu»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți mecanismul medicamentelor antiaritmice din clasa IV",
@@ -419,7 +617,13 @@
         "beta - blocatori",
         "blocatorii canalelor de caliu"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «blocatorii canalelor de calciu». Pentru retenție, reformulează mental: «Numiți mecanismul medicamentelor antiaritmice din clasa IV -> blocatorii canalelor de calciu» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «blocatorii canalelor de potasiu», «blocatorii canalelor de natriu»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți medicamentul antiaritmic, care acționează asupra canalelor IF",
@@ -442,6 +646,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Amiodarona», «Sotalol», «Ivabradina», «Metoprolol». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Nicorandil», «Răspuns C»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -456,6 +666,12 @@
       "correct": [
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «C. Bisoprolol», «D. Warfarină». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Amiodarona», «B. Sotalol»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -467,7 +683,13 @@
         "Implantare de cardiodefibrilator",
         "Transplant de cord"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Implantare de cardiodefibrilator». Pentru retenție, reformulează mental: «Pacienții cu paroxisme de tahicardie ventriculară frecventă necesită: -> Implantare de cardiodefibrilator» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Implantare de cardiostimulator», «Stimulare transesofagiană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Numiți indicii care sunt incluși în scorul CHADS2, după care se stabilește riscul trombo - embolic la un pacient cu fibrilație atrială:",
@@ -483,6 +705,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Hipertensiune arterială», «B. Insuficiență cardiacă», «C. Acccident cerebrovascular», «D. Vârsta mai mare de 65 ani». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. Boală, arterială periferică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -499,6 +727,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Diabet zaharat», «B. Insuficiență cardiacă», «C. Acccident cerebrovascular», «D. Vârsta mai mare de 75 ani». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. Hepatită virală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -514,6 +748,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Infarctul miocardic», «D. Vârsta», «E. Boală, arterială periferică». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. Insuficiență cardiacă», «C. Acccidentul cerebrovascular»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -525,7 +765,13 @@
         "D. duplete",
         "E. triplete"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «A. fiecare a 2-a bătaie este o extrasistolă». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip bigiminie: -> A. fiecare a 2-a bătaie este o extrasistolă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. fiecare a 3-a bătaie este o extrasistolă», «C. fiecare a 4-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip trigiminie:",
@@ -536,7 +782,13 @@
         "D. duplete",
         "E. triplete"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «B. fiecare a 3-a bătaie este o extrasistolă». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip trigiminie: -> B. fiecare a 3-a bătaie este o extrasistolă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. fiecare a 2-a bătaie este o extrasistolă», «C. fiecare a 4-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip cvadrigiminie:",
@@ -547,7 +799,13 @@
         "D. duplete",
         "E. triplete"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. fiecare a 4-a bătaie este o extrasistolă». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru alloritmia extrasistolica tip cvadrigiminie: -> C. fiecare a 4-a bătaie este o extrasistolă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. fiecare a 2-a bătaie este o extrasistolă», «B. fiecare a 3-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 3 extrasistole:",
@@ -558,7 +816,13 @@
         "D. duplete",
         "E.  triplete"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. triplete». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 3 extrasistole: -> E. triplete» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. fiecare a 2-a bătaie este o extrasistolă», «B. fiecare a 3-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 2 extrasistole",
@@ -569,7 +833,13 @@
         "D. duplete",
         "E. triplete"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «D. duplete». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin succesiunea a 2 extrasistole -> D. duplete» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. fiecare a 2-a bătaie este o extrasistolă», «B. fiecare a 3-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin triplete extrasistolice:",
@@ -580,7 +850,13 @@
         "D. la EKG sunt prezente 2 extrasistole succesive",
         "E. la EKG sunt prezente 3 extrasistole succesive"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. la EKG sunt prezente 3 extrasistole succesive». Pentru retenție, reformulează mental: «CS. Numiți afirmația corectă pentru aritmia manifestată la EKG prin triplete extrasistolice: -> E. la EKG sunt prezente 3 extrasistole succesive» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A.fiecare a 2-a bătaie este o extrasistolă», «B. fiecare a 3-a bătaie este o extrasistolă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Ce dereglare de conductibilitate nu poate fi diagnosticata electrocardiografic:",
@@ -591,7 +867,13 @@
         "Blocul atrioventricular de gr. III",
         "Blocul sinoatrial de gr. II"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Blocul sinoatrial de gr. I». Pentru retenție, reformulează mental: «Ce dereglare de conductibilitate nu poate fi diagnosticata electrocardiografic: -> Blocul sinoatrial de gr. I» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Blocul atrioventricular de gr.I», «Blocul complet de ramură dreaptă a fascicolului His»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Blocul sinoatrial de gradul II, electrocardiografic, se manifestă prin:",
@@ -602,7 +884,13 @@
         "contracții atriale și ventricularare frecvente",
         "alungirea intervalului PQ"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «lipsa periodică a 1,2,3 complexe PQRS». Pentru retenție, reformulează mental: «Blocul sinoatrial de gradul II, electrocardiografic, se manifestă prin: -> lipsa periodică a 1,2,3 complexe PQRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «lipsa periodică a complexelor QRS», «pauze compensatorii complete după complexul PQRST»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți dereglarea de conductibilitate caracterizată ECG prin perioade Wenckebach:",
@@ -613,7 +901,13 @@
         "bloc complet de ramură dreaptă a fasciculului His",
         "bloc de ramură stângă a fasciculului His"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «bloc sinoatrial gradul II, tip I (Mobitz I)». Pentru retenție, reformulează mental: «Numiți dereglarea de conductibilitate caracterizată ECG prin perioade Wenckebach: -> bloc sinoatrial gradul II, tip I (Mobitz I)» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «bloc atrioventricular gradul II, tip II (Mobitz II)», «bloc atrioventricular gradul III»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Semnul clinic al blocurilor sinoatrial și atrioventricular de gr. II tip II (Mobitz II) avansat este:",
@@ -624,7 +918,13 @@
         "Stări sincopale",
         "Dureri retrosternale constrictive cu iradiere sub omoplatul drept"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Stări sincopale». Pentru retenție, reformulează mental: «Semnul clinic al blocurilor sinoatrial și atrioventricular de gr. II tip II (Mobitz II) avansat este: -> Stări sincopale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Palpitații», «Dispnee de tip mixt la efort moderat»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Blocul atrioventricular gr.I se manifestă electrocardiografic prin:",
@@ -635,7 +935,13 @@
         "Intervale PQ diferite",
         "Unde delta"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Intervale egale PQ sau PR cu durata peste 0,2sec». Pentru retenție, reformulează mental: «Blocul atrioventricular gr.I se manifestă electrocardiografic prin: -> Intervale egale PQ sau PR cu durata peste 0,2sec» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Interval QRS alungit», «Unde P negative înaintea complexului QRST»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În blocul atrioventricular gr.II, electrocardiografic, se atestă:",
@@ -646,7 +952,13 @@
         "prezența undelor ”f”",
         "prezența undelor ”F”"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «lipsa periodică a complexelor QRS». Pentru retenție, reformulează mental: «În blocul atrioventricular gr.II, electrocardiografic, se atestă: -> lipsa periodică a complexelor QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «lipsa periodică a complexului PQRST», «lipsa undei P»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți semnul caracteristic pentru blocul atrioventricular de gradul III:",
@@ -657,7 +969,13 @@
         "Oprirea temporară a activității electrice a nodului sinusal",
         "Impulsurile sunt conduse retrograd de la ventricule la atrii"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Nici unul din impulsurile atriale nu se propagă spre ventricule». Pentru retenție, reformulează mental: «Numiți semnul caracteristic pentru blocul atrioventricular de gradul III: -> Nici unul din impulsurile atriale nu se propagă spre ventricule» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Încetinirea treptată a propagării impulsurilor spre ventricule», «Leziune organică a sistemului His-Purkinje»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Blocul  atrio-ventricular de gradul III electrocardiografic se manifestă prin:",
@@ -668,7 +986,13 @@
         "lipsa periodică a complexelor PQRST",
         "lipsa periodică a complexelor QRST"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «contracții atriale și ventriculare independente». Pentru retenție, reformulează mental: «Blocul atrio-ventricular de gradul III electrocardiografic se manifestă prin: -> contracții atriale și ventriculare independente» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «raportul contracțiilor atriale și celor ventriculare este de 3:1», «pauze sinusale fără unda P»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați semnul ECG carcateristic blocului complet de ramură dreaptă a",
@@ -680,7 +1004,13 @@
         "D.  unde R largi, croșetate în I, AVL, V5, V6",
         "E.  unde S largi în III, AVF, V1, V2"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «fasciculului His:». Pentru retenție, reformulează mental: «Menționați semnul ECG carcateristic blocului complet de ramură dreaptă a -> fasciculului His:» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. prezența undelor R largi, croșetate în III, AVF, V1, V2», «alungirea intervalului PQ»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați semnul ECG carcateristic blocului complet de ramură stângă a",
@@ -692,7 +1022,13 @@
         "D.  unde R largi, croșetate în I, AVL, V5, V6",
         "E.  unde S largi în I, AVL, V5, V6"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. scurtarea intervalului PQ». Pentru retenție, reformulează mental: «Menționați semnul ECG carcateristic blocului complet de ramură stângă a -> C. scurtarea intervalului PQ» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «fasciculului His:», «A. prezența undelor R largi, croșetate în III, AVF, V1, V2»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați indicația directă a cardioverterului-defibrilatorului implantabil:",
@@ -703,7 +1039,13 @@
         "Flutter atrial",
         "Bloc sinoatrial complet"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Recidive de fibrilație ventriculară la intervale variabile de timp». Pentru retenție, reformulează mental: «Menționați indicația directă a cardioverterului-defibrilatorului implantabil: -> Recidive de fibrilație ventriculară la intervale variabile de timp» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Bloc atrioventricular complet», «Fibrilație atrială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. În blocul complet de ramură stângă a fasciculului His pe ECG se atestă:",
@@ -718,6 +1060,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. durata QRS depășește 0,12 sec.», «B. complexe ventriculare de tip S în III, AVF, V1, V2», «D. complexe ventriculare de tip R în I, AVL, V5, V6». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «C. complexe ventriculare de tip S în I, AVL, V5, V6», «E. durata QRS 0,10 - 0,12 sec.»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -734,6 +1082,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. Prezența unei căi ascesorii care leagă direct atriul de ventricul», «B. Impulsului atrial se propagă concomitent pe calea nodohisiană și a f.Kent», «C. Depolarizarea precoce a ventriculelor», «D. Prezența undei delta pe traseul ECG». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. Intervalul P-Q în limitele 0,12- 0,20 sec»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -750,6 +1104,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «complexe de tip R în I, AVL, V5, V6», «axă electrică deviată brusc în stânga», «complexe de tip S în III, AVF,V1, V2», «D. durata QRS 0,1- 0,12 sec». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. ritm joncțional»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -761,7 +1121,13 @@
         "blocul sinoatrial gr.I",
         "fibrilația atrială cronică"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «blocul atrioventricular gr.III». Pentru retenție, reformulează mental: «Numiți cauza asistoliei: -> blocul atrioventricular gr.III» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «flutterul atrial», «ritm ectopic din joncțiunea atrioventriculară de mijloc»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați potențialul de repaus a automatismului normal:",
@@ -772,7 +1138,13 @@
         "Infarctul miocardic",
         "Potențial de membrană - 90 mV"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Potențial de membrană - 90 mV». Pentru retenție, reformulează mental: «Menționați potențialul de repaus a automatismului normal: -> Potențial de membrană - 90 mV» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Extensiunea fibrelor miocardice», «Schimbările echilibrului electrolitic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați mecanismele electrofiziologice a tulburărilor de ritm cu excepția",
@@ -783,7 +1155,13 @@
         "Postdepolarizări precoce",
         "Posdepolarizări tardive"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Automatism normal». Pentru retenție, reformulează mental: «Menționați mecanismele electrofiziologice a tulburărilor de ritm cu excepția -> Automatism normal» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Automatism normal crescut», «Automatism patologic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Blocurile sinoatriale gradul II tip II (Mobitz II), electrocardiografic prezintă",
@@ -794,7 +1172,13 @@
         "durata pauzei corespunde cu 2,3 sau mai multe intervale P-P normale",
         "pauza este precedată de descreșterea progresivă a intervalelor P-P"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «durata pauzei corespunde cu 2,3 sau mai multe intervale P-P normale». Pentru retenție, reformulează mental: «Blocurile sinoatriale gradul II tip II (Mobitz II), electrocardiografic prezintă -> durata pauzei corespunde cu 2,3 sau mai multe intervale P-P normale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «perioade P-P egale», «pauze compensatorii incomplete după complexul PQRST»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Sindromul Morgani – Adams – Stockes se întâlnește la pacienții cu :",
@@ -805,7 +1189,13 @@
         "flutter ventricular",
         "tahicardie ventriculară"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «bloc atrioventricular de gr. III». Pentru retenție, reformulează mental: «Sindromul Morgani – Adams – Stockes se întâlnește la pacienții cu : -> bloc atrioventricular de gr. III» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «tahiaritmie», «fibrilație atrială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați afirmația corectă pentru blocul atrioventricular de gr. I",
@@ -816,7 +1206,13 @@
         "Interval PQ sau PR sub 0,12 sec.",
         "Alungirea treptată a intervalului PQ"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Interval PQ sau PR peste 0,2 sec». Pentru retenție, reformulează mental: «Menționați afirmația corectă pentru blocul atrioventricular de gr. I -> Interval PQ sau PR peste 0,2 sec» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Nu toate impulsurile atriale sunt conduse la ventricule», «Se înregistrează frecvent la copiii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți semnul electrocardiografic caracteristic blocului atrioventricular gr. II tip I (Mobitz I):",
@@ -827,7 +1223,13 @@
         "Intervale PQ regulate",
         "Intervale RR regulate"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Prezența perioadelor Samoilov-Wenckebach». Pentru retenție, reformulează mental: «Numiți semnul electrocardiografic caracteristic blocului atrioventricular gr. II tip I (Mobitz I): -> Prezența perioadelor Samoilov-Wenckebach» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Pauză compensatorie completă», «Omiterea a 2,3 contracții ventriculare cu păstrarea contracției atriale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "În blocul atrioventricular gr. II tip II (Mobitz II) sunt caracteristice:",
@@ -838,7 +1240,13 @@
         "Pe traseul ECG se înregistrează lipsa a 1,2,3 complexe QRS",
         "Este prezentă o dereglare funcțională a sistemului His-Purkinje"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Pe traseul ECG se înregistrează lipsa a 1,2,3 complexe QRS». Pentru retenție, reformulează mental: «În blocul atrioventricular gr. II tip II (Mobitz II) sunt caracteristice: -> Pe traseul ECG se înregistrează lipsa a 1,2,3 complexe QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Perioade Samoilov-Wenckebach», «Intervale PP diferite»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Sindromul tahi – bradi necesită implantare de:",
@@ -849,7 +1257,13 @@
         "Stent bar-metalic",
         "Stent cu impregnare medicamentoasă"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Cardiostimulator». Pentru retenție, reformulează mental: «Sindromul tahi – bradi necesită implantare de: -> Cardiostimulator» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Cardioverter-defibrilator», «Valvă cardiacă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați medicamentul care poate induce sindromul Frederic:",
@@ -872,6 +1286,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Digoxina», «Metoprololul», «Amiodarona», «Amlodipina». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Spironolactona», «Răspuns A.»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -887,6 +1307,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. complexe ventriculare de tip S în III, AVF, V1, V2», «D. complexe ventriculare de tip R în I, AVL, V5, V6», «E. durata QRS 0,10 - 0,12 sec.». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. durata QRS depășește 0,12 sec.», «C. complexe ventriculare de tip S în I, AVL, V5, V6»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -898,7 +1324,13 @@
         "D. Prezența undei delta pe traseul ECG",
         "E. Intervalul P-Q în limitele 0,12- 0,20 sec"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. Intervalul P-Q în limitele 0,12- 0,20 sec». Pentru retenție, reformulează mental: «CS. Menționați afirmaţiile corecte pentru sindromul Wolff-Parkinson-White, cu excepția: -> E. Intervalul P-Q în limitele 0,12- 0,20 sec» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. Prezența unei căi ascesorii care leagă direct atriul de ventricul», «B. Impulsului atrial se propagă concomitent pe calea nodohisiană și a f.Kent»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați indicațiile pentru implantarea cardiostimulatorului permanent, cu excepția:",
@@ -909,7 +1341,13 @@
         "Bloc atrioventricular de gr. II persistent după infarct miocardic anterior acut",
         "Fibrilație ventriculară"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Fibrilație ventriculară». Pentru retenție, reformulează mental: «Menționați indicațiile pentru implantarea cardiostimulatorului permanent, cu excepția: -> Fibrilație ventriculară» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Blocul atrioventricular complet asociat cu bradicardie simptomatică», «Sindrom Frederica»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Indicați dereglările de ritm în care veți folosi electrocardiostimulare transesofagiană:",
@@ -920,7 +1358,13 @@
         "Flutter ventricuar",
         "Bloc bifascicular"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Flutter atrial». Pentru retenție, reformulează mental: «Indicați dereglările de ritm în care veți folosi electrocardiostimulare transesofagiană: -> Flutter atrial» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Tahicardie ventriculară», «Fibrilație ventriculară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Endocardita infecțioasă este o maladie:",
@@ -931,7 +1375,13 @@
         "Congenitală",
         "Ereditară"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Infecțioasă». Pentru retenție, reformulează mental: «Endocardita infecțioasă este o maladie: -> Infecțioasă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Degenerativă», «Distructivă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți autorul cărui îi aparțineprima descriere detaliată a endocarditei infecțioase:",
@@ -942,7 +1392,13 @@
         "W. Thayer",
         "S. Jaccoud"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «W. Osler». Pentru retenție, reformulează mental: «Numiți autorul cărui îi aparțineprima descriere detaliată a endocarditei infecțioase: -> W. Osler» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. Libman», «H. Schottmuller»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Tratamentul endocarditei infecțioase include următoarele medicamente în afară de:",
@@ -953,7 +1409,13 @@
         "Anticoagulante",
         "Β blocante"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Anticoagulante». Pentru retenție, reformulează mental: «Tratamentul endocarditei infecțioase include următoarele medicamente în afară de: -> Anticoagulante» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Antibiotice», «Antimicotice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți doza profilactică de Amoxacilină la pacienții cu risc înalt pentru dezvoltarea endocarditei infecțioase.",
@@ -964,7 +1426,13 @@
         "1g/zi cu 2 ore înainte de procedura stomatologică",
         "500 mg/zi în 4 prize"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «2-3g cu 1 oră înainte de procedura stomatologică». Pentru retenție, reformulează mental: «Numiți doza profilactică de Amoxacilină la pacienții cu risc înalt pentru dezvoltarea endocarditei infecțioase. -> 2-3g cu 1 oră înainte de procedura stomatologică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «500 mg/zi cu 2 ore înainte de procedura stomatologică», «500 mg/zi după procedura stomatologică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați la ce interval se permite extirparea dinților la pacienții cu endocardită infecțioasă în anticedență, pentru a preveni recurența unui nou epizod:",
@@ -975,7 +1443,13 @@
         "1 dinte în 3 zile",
         "1 dinte în 10 zile"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): separă prevenția primară (vaccinare/profilaxie) de prevenția secundară (screening), apoi alege opțiunea cu cea mai mare valoare clinică.",
+        "Ancoră clinică: opțiunea centrală este «1 dinte în 10 zile». Pentru retenție, reformulează mental: «Menționați la ce interval se permite extirparea dinților la pacienții cu endocardită infecțioasă în anticedență, pentru a preveni recurența unui nou epizod: -> 1 dinte în 10 zile» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «2 dinți în zi», «3 dinți în zi»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Endocardita infecțioasă streptococică meticilin - rezistentă se tratează în exclusivitate cu:",
@@ -986,7 +1460,13 @@
         "Gentamicină",
         "Amoxacilină"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Vancomicină». Pentru retenție, reformulează mental: «Endocardita infecțioasă streptococică meticilin - rezistentă se tratează în exclusivitate cu: -> Vancomicină» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Penicilină G», «Ceftriaxonă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai frecventă și mai gravă complicație a endocarditei infecțioase:",
@@ -997,7 +1477,13 @@
         "Encefalită",
         "Hepatită toxică"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «Insuficiență cardiacă „osleriană”». Pentru retenție, reformulează mental: «Numiți cea mai frecventă și mai gravă complicație a endocarditei infecțioase: -> Insuficiență cardiacă „osleriană”» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Evenimente embolice», «Glomerulonefrită»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai informativă analiză de laborator în endocardită infecțioasă:",
@@ -1008,7 +1494,13 @@
         "Hemocultura",
         "Urocultura"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Hemocultura». Pentru retenție, reformulează mental: «Numiți cea mai informativă analiză de laborator în endocardită infecțioasă: -> Hemocultura» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Analiza generală a sângelui», «Urea»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți agentul infecțios predominant în endocardita infecțioasă la pacienții care nu respectă igiena dentară:",
@@ -1030,6 +1522,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Streprococcus virdans», «Streptococcus bovis», «Enterococul faecalis». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Staphiylococcus epidermidis», «Staphiylococcus aureus»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1041,7 +1539,13 @@
         "1 g/zi per os",
         "500 mg/zi în 4 prize intramuscular"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «300-500 mg/zi intravenos perfuzie». Pentru retenție, reformulează mental: «Numiți doza de tratament și calea de administrarea a Daptomicinei la pacienții cu endocardită infecțioasă provocată de Staphylococcus aureus: -> 300-500 mg/zi intravenos perfuzie» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «1gr/zi intravenos bolus», «3 g/zi per os»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți doza de tratament a Vancomicinei la pacienții cu endocardită infecțioasă provocată de stafilococii meticilinrezistenți :",
@@ -1052,7 +1556,13 @@
         "500 mg/zi intravenos bolus",
         "1 g/zi intravenos bolus"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «2 g/zi intravenos perfuzie în 2 prize». Pentru retenție, reformulează mental: «Numiți doza de tratament a Vancomicinei la pacienții cu endocardită infecțioasă provocată de stafilococii meticilinrezistenți : -> 2 g/zi intravenos perfuzie în 2 prize» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «500 mg/zi intravenos perfuzie», «1 g/zi intravenos perfuzie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Grefa microbiană în endocardita infecțioasă se localiazează pe următoarele valve cu excepția:",
@@ -1063,7 +1573,13 @@
         "Protezele valvulare",
         "Valve intacte"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Valva ileocecală». Pentru retenție, reformulează mental: «Grefa microbiană în endocardita infecțioasă se localiazează pe următoarele valve cu excepția: -> Valva ileocecală» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Valvele native», «Valva Eustache»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Indicați ce embolii predomină în endocardita infecțioasă de cord drept:",
@@ -1074,7 +1590,13 @@
         "Mezinteriale",
         "Splenice"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Pulmonare cu pneumonii septice». Pentru retenție, reformulează mental: «Indicați ce embolii predomină în endocardita infecțioasă de cord drept: -> Pulmonare cu pneumonii septice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Coronariene», «Cerebrale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Notați complicațiile embolice specifice pentru endocardita infecțioasă de cord stâng cu excepția:",
@@ -1085,7 +1607,13 @@
         "Embolii coronariene",
         "Embolii pulmonare"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «Embolii pulmonare». Pentru retenție, reformulează mental: «Notați complicațiile embolice specifice pentru endocardita infecțioasă de cord stâng cu excepția: -> Embolii pulmonare» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Embolii renale», «Embolii cerebrale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți afirmațiile corecte pentru endocardita infecțioasă de proteză tardivă:",
@@ -1096,7 +1624,13 @@
         "Poartă denumirea de endocardită infecțioasă comunitară",
         "Se mai numește endocardită infecțioasă nozocomială"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Poartă denumirea de endocardită infecțioasă comunitară». Pentru retenție, reformulează mental: «Numiți afirmațiile corecte pentru endocardita infecțioasă de proteză tardivă: -> Poartă denumirea de endocardită infecțioasă comunitară» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Agențiii infecțiosi predominanți sunt stafilococii și streptococii», «Complicațiile embolice constituie un procent înalt și cauza mortalității»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți formele noi ale endocarditei infecțioase cu excepția :",
@@ -1107,7 +1641,13 @@
         "Endocardita infecțioasă a utilizatorilor de droguri intravenoase",
         "Endocardita infecțioasă a pacienților supuși hemodializei"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Endocardita infecțioasă a adolescenților». Pentru retenție, reformulează mental: «Numiți formele noi ale endocarditei infecțioase cu excepția : -> Endocardita infecțioasă a adolescenților» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Endocardita infecțioasă a dispozitivelor intracardiace», «Endocardita infecțioasă la vârstnici»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți factorul cardiac predispozanți pentru dezvoltarea endocarditei infecțioase la populația Republicii Moldova:",
@@ -1118,7 +1658,13 @@
         "Hipertensiune arterială",
         "Cardiomiopatie hipertrofică"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Valvulopatii reumatismale». Pentru retenție, reformulează mental: «Numiți factorul cardiac predispozanți pentru dezvoltarea endocarditei infecțioase la populația Republicii Moldova: -> Valvulopatii reumatismale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Valve intacte», «Miocardită»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți factorul predispozant pentru dezvoltarea endocarditei infecțioase de cord drept:",
@@ -1129,7 +1675,13 @@
         "Utilizarea drogurilor intravenos",
         "Cardiopatie reumatismală"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Utilizarea drogurilor intravenos». Pentru retenție, reformulează mental: «Numiți factorul predispozant pentru dezvoltarea endocarditei infecțioase de cord drept: -> Utilizarea drogurilor intravenos» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Extracții dentare», «Hepatită virală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai frecventă partă de intrare a  endocarditei infecțioase de cord drept:",
@@ -1140,7 +1692,13 @@
         "Igienă dentară precară",
         "Vârsta inaintată"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Utilizarea drogurilor intravenos». Pentru retenție, reformulează mental: «Numiți cea mai frecventă partă de intrare a endocarditei infecțioase de cord drept: -> Utilizarea drogurilor intravenos» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Infecții respiratorii», «Extracții dentare»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați căte săptămâni de terapie antimicrobiană necesită pacientul cu endocardită infecțioasă de proteză de etiologie stafilococică:",
@@ -1162,6 +1720,12 @@
         0,
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «1 săptămână», «2 săptămâni», «4 săptămâni». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «6 săptămâni», «8 săptămâni»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1173,7 +1737,13 @@
         "Restrictivă",
         "Alcoolică"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Dilatativă». Pentru retenție, reformulează mental: «Numiți cea mai frecventă cardiomiopatie -> Dilatativă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Aritmogenă», «Hipertrofică»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați care componentă se înrăutățește preponderent în cardiomiopatia dilatativă:",
@@ -1184,7 +1754,13 @@
         "Pulsul",
         "Rezistența periferică"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Sistola». Pentru retenție, reformulează mental: «Menționați care componentă se înrăutățește preponderent în cardiomiopatia dilatativă: -> Sistola» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Diastola», «Tensiunea arterială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valorile fracției de ejecție caracteristice pentru pacienții cu cardiomiopatie dilatativă:",
@@ -1195,7 +1771,13 @@
         "70%",
         "100%"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «25-39 %». Pentru retenție, reformulează mental: «Menționați valorile fracției de ejecție caracteristice pentru pacienții cu cardiomiopatie dilatativă: -> 25-39 %» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «50%», «60%»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați modificărea ecocardiografică caracteristică pentru cardiomiopatia dilatativă:",
@@ -1206,7 +1788,13 @@
         "Dilatarea izolată a ventriculului drept",
         "Hipertofia  septului interventricular"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Dilatarea tuturor cavităţilor cordului». Pentru retenție, reformulează mental: «Menționați modificărea ecocardiografică caracteristică pentru cardiomiopatia dilatativă: -> Dilatarea tuturor cavităţilor cordului» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Dilatarea izolată a ventriculului stâng», «Majorarea fracției de ejecție»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați componenta care se înrăutățește preponderent în cardiomiopatia hipertrofică:",
@@ -1217,7 +1805,13 @@
         "Pulsul",
         "Rezistența periferică"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Diastola». Pentru retenție, reformulează mental: «Menționați componenta care se înrăutățește preponderent în cardiomiopatia hipertrofică: -> Diastola» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Sistola», «Tensiunea arterială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați modificarea ecocardiografică caracteristică pentru cardiomiopatia hipertrofică:",
@@ -1228,7 +1822,13 @@
         "Dilatarea izolată a ventriculului drept",
         "Hipertofia  septului interventricular"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Hipertofia septului interventricular». Pentru retenție, reformulează mental: «Menționați modificarea ecocardiografică caracteristică pentru cardiomiopatia hipertrofică: -> Hipertofia septului interventricular» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Dilatarea tuturor cavităţilor cordului», «Dilatarea atriului stâng»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți substratul morfologic caracteristic cardiomiopatiei restrictive:",
@@ -1239,7 +1839,13 @@
         "Efilarea (subțierea) pereților VD",
         "Miocard spongios"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Îngroșarea marcată, difuză a endocardului parietal a VS, uneori a VD». Pentru retenție, reformulează mental: «Numiți substratul morfologic caracteristic cardiomiopatiei restrictive: -> Îngroșarea marcată, difuză a endocardului parietal a VS, uneori a VD» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hipertrofia miocardului VS», «Dezvoltarea cardiomegaliei»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți substratul morfologic caracteristic cardiomiopatiei aritmogene de ventricul drept:",
@@ -1250,7 +1856,13 @@
         "Efilarea (subțierea) pereților VD",
         "Miocard spongios"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Efilarea (subțierea) pereților VD». Pentru retenție, reformulează mental: «Numiți substratul morfologic caracteristic cardiomiopatiei aritmogene de ventricul drept: -> Efilarea (subțierea) pereților VD» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Îngroșarea marcată, difuză a endocardului parietal a VS, uneori a VD», «Hipertrofia miocardului VS»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați cardiomiopatia în care tratamentul este efectiv şi prognosticul favorabil:",
@@ -1261,7 +1873,13 @@
         "Cardiomiopatia restrictivă",
         "Cardiomiopatia aritmogenă"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Cardiomiopatie alcoolică». Pentru retenție, reformulează mental: «Menționați cardiomiopatia în care tratamentul este efectiv şi prognosticul favorabil: -> Cardiomiopatie alcoolică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Cardiomiopatie hipertrofică», «Cardiomiopatie dilatativă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Indicați ce medicamente nu veți administra în cardiomiopatia dilatativă:",
@@ -1272,7 +1890,13 @@
         "Anticoagulante",
         "Antipiretice"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Antipiretice». Pentru retenție, reformulează mental: «Indicați ce medicamente nu veți administra în cardiomiopatia dilatativă: -> Antipiretice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Diuretice», «Inhibitori ai enzimei de conversie»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați cea mai severă formă a cardiomiopatiei hipertrofice:",
@@ -1283,7 +1907,13 @@
         "Restrictivă",
         "Dilatativă"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «Obstructivă». Pentru retenție, reformulează mental: «Menționați cea mai severă formă a cardiomiopatiei hipertrofice: -> Obstructivă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Neobstructivă», «Apicală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați complicația severă a pacienților cu cardiomiopatie hipertrofică cu obstrucția tractului de ejecție:",
@@ -1294,7 +1924,13 @@
         "Fluterul atrial",
         "Anasarca"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Tahicardia ventriculară». Pentru retenție, reformulează mental: «Menționați complicația severă a pacienților cu cardiomiopatie hipertrofică cu obstrucția tractului de ejecție: -> Tahicardia ventriculară» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fibriația atrială», «Stări sincopale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați modificarea EKG caracteristică pacienților cu  cardiomiopatie dilatativă?",
@@ -1305,7 +1941,13 @@
         "Unde Q patologice inexplicabile în derivațiile pectorale",
         "Voltaj scăzut"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Unde Q patologice inexplicabile în derivațiile pectorale». Pentru retenție, reformulează mental: «Menționați modificarea EKG caracteristică pacienților cu cardiomiopatie dilatativă? -> Unde Q patologice inexplicabile în derivațiile pectorale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Bloc atrioventricular complet», «Bloc sinoatrial complet»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Ce metodă chirurgicală nu se utilizează în tratamentul pacienților cu cardiomiopatie hipertrofică obstructivă semnificativă",
@@ -1316,7 +1958,13 @@
         "Implantarea defibrilatorului – cardiovertel",
         "Mioectomia totală"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Mioectomia totală». Pentru retenție, reformulează mental: «Ce metodă chirurgicală nu se utilizează în tratamentul pacienților cu cardiomiopatie hipertrofică obstructivă semnificativă -> Mioectomia totală» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Mioectomia parțială», «Ablația septală cu alcool»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cele mai frecvent întâlnite și studiate miocardite:",
@@ -1327,7 +1975,13 @@
         "Bacteriene",
         "Prin iradiere"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Virale». Pentru retenție, reformulează mental: «Numiți cele mai frecvent întâlnite și studiate miocardite: -> Virale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fungice», «Toxice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați cea mai utilă și informativă metodă pentru diagnosticarea funcției miocardului în miocardite:",
@@ -1338,7 +1992,13 @@
         "Coronarografia",
         "Fonocardiografia"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Ecocardiografia». Pentru retenție, reformulează mental: «Menționați cea mai utilă și informativă metodă pentru diagnosticarea funcției miocardului în miocardite: -> Ecocardiografia» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Electrocardiografia», «Radiografia cordului»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți „marca” histologică a miocarditei virale - infiltratul inflamator cu predominarea:",
@@ -1349,7 +2009,13 @@
         "Celulelor polimorfonucleare",
         "Neutrofilelor"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Limfocitelor». Pentru retenție, reformulează mental: «Numiți „marca” histologică a miocarditei virale - infiltratul inflamator cu predominarea: -> Limfocitelor» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Monocitelor», «Eozinofilelor»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați semnul electrocardiografic caracteristic pentru miocardite:",
@@ -1360,7 +2026,13 @@
         "Hipertrofie AS și AD",
         "Bloc complet de ram drept a fascicolului His"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «voltajul mic al complexului QRS». Pentru retenție, reformulează mental: «Menționați semnul electrocardiografic caracteristic pentru miocardite: -> voltajul mic al complexului QRS» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «unda T negativă în toate derivațiile», «Hipertrofie VS și VD»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți criteriul standard de diagnostic al miocarditelor:",
@@ -1371,7 +2043,13 @@
         "Scintigrafia miocardului cu Technețiu – 99",
         "Teste farmacologice"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Biopsia endomiocardică». Pentru retenție, reformulează mental: «Numiți criteriul standard de diagnostic al miocarditelor: -> Biopsia endomiocardică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Ecocardiografia», «Coronarografia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați preparatul medicamentos contraindicat în miocardita acută:",
@@ -1382,7 +2060,13 @@
         "Antiinflamatoarele nesteroidiene",
         "Imunoglobulina"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Antiinflamatoarele nesteroidiene». Pentru retenție, reformulează mental: «Menționați preparatul medicamentos contraindicat în miocardita acută: -> Antiinflamatoarele nesteroidiene» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Diureticele», «Inhibitorii enzimei de conversie a angiotenzinei II»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "c.s  Numiți cea mai valoroasă metoda de evidențiere a lichidului în pericardita exudativă:",
@@ -1393,7 +2077,13 @@
         "Doppler intima media",
         "Scintigrafia cordului"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Ecocardiografia». Pentru retenție, reformulează mental: «c.s Numiți cea mai valoroasă metoda de evidențiere a lichidului în pericardita exudativă: -> Ecocardiografia» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Electrocardiografia», «Coronarografia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați câți milimetri de lichid se pot vizualiza în normă în cavitatea pericardului la EcoCG:",
@@ -1404,7 +2094,13 @@
         "50 mm",
         "100 mm"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «5 mm». Pentru retenție, reformulează mental: «Menționați câți milimetri de lichid se pot vizualiza în normă în cavitatea pericardului la EcoCG: -> 5 mm» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «1 mm», «10 mm»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai  informativă investigație paraclinică pentru stabilirea diagnosticului de valvulopatie reumatismală:",
@@ -1415,7 +2111,13 @@
         "CT cordului",
         "RMN a cordului"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Ecocardiografia». Pentru retenție, reformulează mental: «Numiți cea mai informativă investigație paraclinică pentru stabilirea diagnosticului de valvulopatie reumatismală: -> Ecocardiografia» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Electrocardiografia», «Fonocardiografia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți complicația necaracteristică pentru insuficiența mitrală:",
@@ -1426,7 +2128,13 @@
         "Hemoragie gastrică",
         "Astm cardiac"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Hemoragie gastrică». Pentru retenție, reformulează mental: «Numiți complicația necaracteristică pentru insuficiența mitrală: -> Hemoragie gastrică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Fibrilație atrială», «Edem pulmonar»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Ce medicamente nu include tratamentul insuficienței mitrale manifeste:",
@@ -1437,7 +2145,13 @@
         "Glicozide cardiace",
         "Alfa mimetice"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «Alfa mimetice». Pentru retenție, reformulează mental: «Ce medicamente nu include tratamentul insuficienței mitrale manifeste: -> Alfa mimetice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Inhibitorii enzimei de conversie», «Beta blocanți»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai frecventă cauză în dezvoltarea stenozei mitrale la populația din Republica Moldova:",
@@ -1448,7 +2162,13 @@
         "Endocardita infecțioasă",
         "Lupusul eritematos sistemic"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «Febra reumatismală acută». Pentru retenție, reformulează mental: «Numiți cea mai frecventă cauză în dezvoltarea stenozei mitrale la populația din Republica Moldova: -> Febra reumatismală acută» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Pneumonia», «Scarlatina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai frecventă dereglare de ritm în stenoza mitrală:",
@@ -1459,7 +2179,13 @@
         "Fibrilația ventriculară",
         "Bloc atrioventricular de gr.II"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Fibrilația atrială». Pentru retenție, reformulează mental: «Numiți cea mai frecventă dereglare de ritm în stenoza mitrală: -> Fibrilația atrială» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Bradicardia sinusală», «Extrasistolia ventriculară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cauza apariției crizelor anginoase tipice în stenoza mitrală",
@@ -1470,7 +2196,13 @@
         "Comprimarea arterei coronariene stângi de către AS mărit",
         "Comprimarea arterei coronariene drepte de către AD mărit"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «Comprimarea arterei coronariene stângi de către AS mărit». Pentru retenție, reformulează mental: «Numiți cauza apariției crizelor anginoase tipice în stenoza mitrală -> Comprimarea arterei coronariene stângi de către AS mărit» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Afluxul sanguin mărit către cord», «Mărirea bruscă a tensiunii în capilare»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați suprafața normală a orificiului aortic",
@@ -1481,7 +2213,13 @@
         "3,0 – 4,0 cm2",
         "4,0 – 5,0 cm2"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «2,5 – 3,0 cm2». Pentru retenție, reformulează mental: «Menționați suprafața normală a orificiului aortic -> 2,5 – 3,0 cm2» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «1,5 – 2,0 cm2», «2,0 – 2,5 cm2»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valvulopatia care provoacă hipertrofie concentrică severă de VS:",
@@ -1492,7 +2230,13 @@
         "Insuficiența valvei aortice",
         "Insuficiența valvei arterei pulmonare"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: opțiunea centrală este «Stenoza aortică». Pentru retenție, reformulează mental: «Menționați valvulopatia care provoacă hipertrofie concentrică severă de VS: -> Stenoza aortică» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Stenoza mitrală», «Insuficiența valvei mitrale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valvulopatia în care tensiunea arterială diastolică  poate atinge  valori de 60 - 0 mmHg",
@@ -1503,7 +2247,13 @@
         "Insuficiența valvei mitrale",
         "Insuficiența valvei aortale"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Insuficiența valvei aortale». Pentru retenție, reformulează mental: «Menționați valvulopatia în care tensiunea arterială diastolică poate atinge valori de 60 - 0 mmHg -> Insuficiența valvei aortale» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Stenoza aortică», «Stenoza mitrală»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valorile normale ale fracției de ejecție",
@@ -1514,7 +2264,13 @@
         "80 – 100%",
         "90 – 95 %"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «50 – 80 %». Pentru retenție, reformulează mental: «Menționați valorile normale ale fracției de ejecție -> 50 – 80 %» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «20 – 30 %», «40 – 60 %»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valorile normale a atriului drept.",
@@ -1525,7 +2281,13 @@
         "40 – 50 mm",
         "50 – 60 mm"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «20 – 40 mm». Pentru retenție, reformulează mental: «Menționați valorile normale a atriului drept. -> 20 – 40 mm» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «10 – 20 mm», «15 – 20 mm»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați valorile normale a atriului stâng.",
@@ -1536,7 +2298,13 @@
         "40 – 50 mm",
         "50 – 60 mm"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «20 – 40 mm». Pentru retenție, reformulează mental: «Menționați valorile normale a atriului stâng. -> 20 – 40 mm» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «10 – 20 mm», «15 – 20 mm»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Menționați cel mai caracteristic semn auscultativ în stenoza aortica:",
@@ -1547,7 +2315,13 @@
         "Suflu diastolic de ejectie la aortă",
         "Suflu sistolic de regurgitare la apex"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Suflu sistolic de ejectie la aortă cu propagarea pe arterele carotide». Pentru retenție, reformulează mental: «Menționați cel mai caracteristic semn auscultativ în stenoza aortica: -> Suflu sistolic de ejectie la aortă cu propagarea pe arterele carotide» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Diminuarea zgomotuluiI la apex», «Accentuarea zgomotuluiI la apex»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "Numiți cea mai frecventă cauză a apariției anginei pectorale",
@@ -1646,6 +2420,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Tromboza», «Hemoragia», «Stenoza arterei carotide». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Aterocleroza», «Restenoza»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1661,6 +2441,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «proces patologic în sistemul arterelor coronariene», «în peste 90% cazuri este expresia unui proces aterosclerotic», «reducerea circulaţiei sangvine în miocard». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «proces patologic localizat în endocard», «afecţiune întotdeauna acută»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1672,7 +2458,13 @@
         "manifestată prin crize dureroase, localizate retrosternal",
         "cauzată de tulburări ale circulaţiei coronariene"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «modificări patologice ireversibile». Pentru retenție, reformulează mental: «CS. Menționați afirmația necaracteristică pentru angina pectorală: -> modificări patologice ireversibile» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «expresia clinică a ischemiei miocardice tranzitorii», «schimbări patologice reversibile»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Notați afirmațiile adevărate pentru angina pectorală de efort:",
@@ -1687,6 +2479,12 @@
         0,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. crize de durere tranzitorie», «D. durerile sunt cauzate de creşterea necesităţilor metabolice ale miocardului», «E. durerile se jugulează timp de 5 min după administrarea nitroglicerinei sau repaus». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. durerile sunt provocate de schimbarea poziţiei corpului», «C. durerile se intensifică la palpaţia regiunii precordiale»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1702,6 +2500,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. variantă clinică a anginei pectorale instabile», «C. manifestată timp de o lună din momentul apariţiei primei crize», «E. poate regresa, stabiliza sau progresa». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. variantă clinică a infarctului miocardic acut», «D. sindromul dureros este mai intens»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1713,7 +2517,13 @@
         "D. tratamentul administrat",
         "E. sexul pacientului"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. toleranţa la efort fizic». Pentru retenție, reformulează mental: «CS. Menționați afirmația corectă pentru stabilirea clasei funcţionale a anginei pectorale de efort: -> C. toleranţa la efort fizic» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. vârsta pacientului», «B. durata bolii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Identificați definiția corectă  a patologiei în care creşte frecvenţa, intensitatea şi durata crizelor anginoase:",
@@ -1724,7 +2534,13 @@
         "D. angina pectorală de novo",
         "E. angina pectorală stabilă"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «B. angina pectorală agravată». Pentru retenție, reformulează mental: «CS. Identificați definiția corectă a patologiei în care creşte frecvenţa, intensitatea şi durata crizelor anginoase: -> B. angina pectorală agravată» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. angina pectorală silenţioasă», «C. angina pectorală spontană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Indicați care formă de angină pectorală este produsă de spasmul coronarian:",
@@ -1735,7 +2551,13 @@
         "D. angina pectorală agravată",
         "E. angina pectorală silenţioasă"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «C. angina pectorală spontană (Pinzmetal)». Pentru retenție, reformulează mental: «CS. Indicați care formă de angină pectorală este produsă de spasmul coronarian: -> C. angina pectorală spontană (Pinzmetal)» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. angina pectorală de efort», «B. angina pectorală de novo»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Menționați care afirmaţie se referă la angina de decubit:",
@@ -1749,6 +2571,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. apare imediat la culcare», «C. cedează în poziţie şezândă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. apare spre dimineaţa», «D. accesele sunt mai intense»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1764,6 +2592,12 @@
         0,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. tulburarea coagulabilităţii sangune», «C. modificarea organică a vaselor coronariene», «D. spasmul vascular». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. infecţia», «E. tulburări autoimune»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1775,7 +2609,13 @@
         "D. oxidul de azot",
         "E. tromboplastina"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «B. endotelina». Pentru retenție, reformulează mental: «CS.Menționați care factor endotelial posedă cel mai puternic efect vasoconstrictor: -> B. endotelina» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. prostaciclina», «C. angiotensina II»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Menționați cum se manifestă electrocardiografic ischemia miocardului:",
@@ -1786,7 +2626,13 @@
         "D. micşorarea amplitudinei undei P",
         "E. subdenivelarea segmentului ST"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «B. negativizarea undei T». Pentru retenție, reformulează mental: «CS. Menționați cum se manifestă electrocardiografic ischemia miocardului: -> B. negativizarea undei T» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. deformarea complexului QRS», «C. scurtarea intervalului PQ»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Menționați scopul efectuării probei cu efort fizic dozat:",
@@ -1800,6 +2646,12 @@
       "correct": [
         1,
         2
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. clasamentul anginei pectorale», «C. diagnosticul anginei pectorale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. aprecierea calităţii vieţii pacientului», «D. evaluarea pronosticului bolii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1811,7 +2663,13 @@
         "D. ecocardiografia",
         "E. coronaroangiografia"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «E. coronaroangiografia». Pentru retenție, reformulează mental: «CM. Care metodă de diagnostic determină indicaţiile şi contraindicaţiile angioplastiei coronariene şi bypass-ului aortocoronarian? -> E. coronaroangiografia» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. monitorizarea Holter», «B. testul cu efort fizic dozat»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Selectaţi grupele de remedii antianginoase tradiţionale:",
@@ -1826,6 +2684,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. nitraţii», «C. antagoniştii ionilor de Ca», «E. β-blocantele». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. diuretice», «D. statinele»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1837,7 +2701,13 @@
         "D. cefalee",
         "E. edeme pe gambe"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «D. cefalee». Pentru retenție, reformulează mental: «CS. Selectaţi cel mai frecvent efect advers al nitraţilor: -> D. cefalee» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. vertije», «B. somnolenţă»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM. Menționați care sunt contraindicaţiile pentru administrarea β-blocantelor:",
@@ -1852,6 +2722,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. bradicardia sinusală», «C. bloc AV complet», «E. hipotensiunea arterială». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. tahicardia sinusală», «D. hipertensiunea arterială»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1867,6 +2743,12 @@
         1,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. nifedipina», «C. diltiazem», «E. verapamil». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. enalapril», «D. metoprolol»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1878,7 +2760,13 @@
         "D. aspirina",
         "E. acidul nicotinic"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «D. aspirina». Pentru retenție, reformulează mental: «CS. Indicați care este remediul antiagregant de elecţie folosit în tratamentul cardiopatiei ischemice: -> D. aspirina» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. ticlopidina», «B. dipiridamolul»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS. Menționați din ce grup de remedii medicamentoase face parte Simvastatina:",
@@ -1889,7 +2777,13 @@
         "D. hipotensive",
         "E. vasodilatatoare"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: opțiunea centrală este «B. hipolipimiante». Pentru retenție, reformulează mental: «CS. Menționați din ce grup de remedii medicamentoase face parte Simvastatina: -> B. hipolipimiante» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. antiagregante», «C. metabolice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM Selectaţi complicaţiile infarctului miocardic acut:",
@@ -1904,6 +2798,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. şocul cardiogen», «B. ruptura peretelui liber ventricular sau a septului interventricular», «D. aritmii şi tulburări de conducere». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «C. hipertensiune arterială», «E. aneurism al aortei ascendente»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1918,6 +2818,12 @@
       "correct": [
         0,
         1
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. streptokinaza», «B. actilyse». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «C. heparina», «D. morfina»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1934,6 +2840,12 @@
         2,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. hemoragie activă», «C. ulcer gastric în acutizare», «D. traumatism grav recent», «E. anevrism al vaselor cerebrale». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. vârsta peste 55 ani»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1949,6 +2861,12 @@
         0,
         2,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. ruptură de muşchi papilari», «C. ruptură de cordaj», «E. ruptură de cuspă». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «B. tulburări de ritm şi de conducere», «D. calcifierea inelului mitral»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1964,6 +2882,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «B. betablocante», «C. nitraţi», «D. analgetice». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «A. trombolitice», «E. diuretice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1980,6 +2904,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «A. şocul cardiogen», «B. moartea subită», «C. tulburări de ritm şi de conducere», «D. anevrism al ventriculului stîng». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «E. fibrilatie ventriculară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -1991,7 +2921,13 @@
         "Astenia",
         "Respiratia Chyne-Stoke"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): construiește diagnosticul pe triada simptom-semne-context (vârstă, factori de risc, evoluție), nu pe un detaliu izolat.",
+        "Ancoră clinică: opțiunea centrală este «Dispneea». Pentru retenție, reformulează mental: «CS Menționați simptomul primordial al insuficienței cardiace cronice stângi: -> Dispneea» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Tusea», «Hemoptizia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Indicați cea mai frecventă cauză a insuficienței ventriculare drepte :",
@@ -2002,7 +2938,13 @@
         "Infarct miocardic acut",
         "Tulburări de conducere"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): corelează tabloul clinic cu mecanismul patologic și agentul etiologic cel mai probabil; elimină opțiunile incompatibile epidemiologic.",
+        "Ancoră clinică: opțiunea centrală este «Tromboembolismul pulmonar acut». Pentru retenție, reformulează mental: «CS Indicați cea mai frecventă cauză a insuficienței ventriculare drepte : -> Tromboembolismul pulmonar acut» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Miocardită», «Valvulopatii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați în ce patologie este recomandată clasificărea insuficienței cardiace după Killip :",
@@ -2013,7 +2955,13 @@
         "Miocardite",
         "Pericardite"
       ],
-      "correct": 2
+      "correct": 2,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Infarct miocardic acut». Pentru retenție, reformulează mental: «CS Menționați în ce patologie este recomandată clasificărea insuficienței cardiace după Killip : -> Infarct miocardic acut» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hipertensiune arterială», «Valvulopatii»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați ce presupune clasa funcţională III NYHA a insuficienței cardiace cronice conform clasificării funcționale:",
@@ -2024,7 +2972,13 @@
         "Simtomele doar în repaus",
         "Activitatea fizică uzuală este efectuată fără limitări"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Limitarea importantă a efortului fizic, fără simptome în repaus». Pentru retenție, reformulează mental: «CS Menționați ce presupune clasa funcţională III NYHA a insuficienței cardiace cronice conform clasificării funcționale: -> Limitarea importantă a efortului fizic, fără simptome în repaus» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Limitarea importantă a efortului fizic, cu simptome în repaus», «Limitarea minimală a efortului fizic»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați factorii favorizanți ai insuficientei cardiace, cu excepția:",
@@ -2035,7 +2989,13 @@
         "Ischemia miocardului",
         "Aportul scăzut în alimentație de sare și lichide"
       ],
-      "correct": 4
+      "correct": 4,
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: opțiunea centrală este «Aportul scăzut în alimentație de sare și lichide». Pentru retenție, reformulează mental: «CS Menționați factorii favorizanți ai insuficientei cardiace, cu excepția: -> Aportul scăzut în alimentație de sare și lichide» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Anemiile severe», «Infecțiile, stările febrile»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați criteriul ce stă la baza clasificarii insuficientei cardiace după NYHA :",
@@ -2046,7 +3006,13 @@
         "Astenia",
         "Tusea"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Dispneea». Pentru retenție, reformulează mental: «CS Menționați criteriul ce stă la baza clasificarii insuficientei cardiace după NYHA : -> Dispneea» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Tahicardia», «Bradicardia»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați ce preparate reduc presarcina și scad tensiunea hidrostatică în capilarele pulmonare:",
@@ -2057,7 +3023,13 @@
         "Bronholitice",
         "Antiinflamatoare nesteroidene"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Diuretice». Pentru retenție, reformulează mental: «CS Menționați ce preparate reduc presarcina și scad tensiunea hidrostatică în capilarele pulmonare: -> Diuretice» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Analgezice opioide», «Adrenomimetice»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Menționați indicaţiile pentru modificarea stilului de viaţă în insuficienţa cardiacă cronică cu excepţia :",
@@ -2068,7 +3040,13 @@
         "Monitorizarea aportului de lichide",
         "Recunoaşterea simptomatologiei"
       ],
-      "correct": 1
+      "correct": 1,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Activitate fizică intensă». Pentru retenție, reformulează mental: «CS Menționați indicaţiile pentru modificarea stilului de viaţă în insuficienţa cardiacă cronică cu excepţia : -> Activitate fizică intensă» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Monitorizarea greutăţii», «Restricţia de sodiu»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CS Enumerați masurile legate de stilul de viață a pacienților cu insuficienta cardiaca, presupun următoarele, cu excepția:",
@@ -2079,7 +3057,13 @@
         "Alimentația bogată în grăsimi şi lichide",
         "Antrenament fizic specific"
       ],
-      "correct": 3
+      "correct": 3,
+      "suggestions": [
+        "Raționament profesional (cardiologie): citește cerința exactă («principal», «de bază», «corect/incorect») și aliniază răspunsul la obiectivul clinic real al întrebării.",
+        "Ancoră clinică: opțiunea centrală este «Alimentația bogată în grăsimi şi lichide». Pentru retenție, reformulează mental: «CS Enumerați masurile legate de stilul de viață a pacienților cu insuficienta cardiaca, presupun următoarele, cu excepția: -> Alimentația bogată în grăsimi şi lichide» și verifică de ce celelalte variante nu ating criteriul cerut.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Restricția de sodiu», «Monitorizarea greutății»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
+      ]
     },
     {
       "text": "CM  Selectaţi simptomele și semnele caracteristice pentru insuficienta cardiaca stîngă:",
@@ -2093,6 +3077,12 @@
       "correct": [
         0,
         1
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Dispnee», «Tuse, hemoptizii». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hepatomegalie», «Turgescența jugulară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -2108,6 +3098,12 @@
         1,
         3,
         4
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Edeme periferice», «Hepatomegalie», «Suflu sistolic endapexian (regurgitare tricuspidiană secundară)». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Acrocianoză, transpirații», «Suflu sistolic apical (regurgitaremitralăsecundară)»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -2123,6 +3119,12 @@
         0,
         1,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): pornește de la sindromul clinic dominant și selectează investigația care confirmă diagnosticul, nu doar una orientativă sau de screening.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Electrocardiograma», «Radiografia toracică», «Ecografia cardiacă transtoracică». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Tomografia computerizată a cordului», «Ecografia cardiacă transesofagiană»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -2138,6 +3140,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): prioritizează intervenția de primă linie cu impact imediat pe prognostic, apoi diferențiază clar terapia de fond de măsurile adjuvante.",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Diuretice», «Betablocante», «Inhibitorii enzimei de conversie». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Anticolinergice selective», «Antibacteriene»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     },
     {
@@ -2154,6 +3162,12 @@
         1,
         2,
         3
+      ],
+      "suggestions": [
+        "Raționament profesional (cardiologie): identifică semnele de severitate și complicațiile care schimbă imediat conduita (monitorizare intensivă, escaladare terapeutică, transfer).",
+        "Ancoră clinică: item cu răspuns multiplu; setul corect este «Insuficiența funcțională de organe», «Aritmii și moarte subită», «Tromboze endocavitare cu emboli sistemice și pulmonare», «Ciroză hepatică de stază». În practică și la examen, bifarea parțială indică un raționament incomplet.",
+        "Capcană frecventă: variante plauzibile dar nespecifice (ex. «Hemoragie digestivă superioară»). Aplică filtrul în 3 pași: specificitate clinică, coerență fiziopatologică, prioritate terapeutică.",
+        "Consolidare pentru învățare: după alegerea răspunsului, explică în 1-2 propoziții mecanismul medical care îl susține; această etapă crește semnificativ retenția și transferul pe itemi similari."
       ]
     }
   ]

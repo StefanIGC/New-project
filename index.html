@@ -350,6 +350,9 @@
       color: #fecaca;
       border-color: rgba(239, 68, 68, 0.55);
       background: rgba(239, 68, 68, 0.14);
+      padding: 10px 14px;
+      min-height: 40px;
+      white-space: nowrap;
     }
 
     #abandon-btn:hover {
@@ -361,6 +364,9 @@
       color: #fde68a;
       border-color: rgba(250, 204, 21, 0.6);
       background: rgba(250, 204, 21, 0.16);
+      padding: 10px 14px;
+      min-height: 40px;
+      white-space: nowrap;
     }
 
     #suggestions-btn:hover {
@@ -376,6 +382,7 @@
       align-items: center;
       margin-bottom: 8px;
       min-height: 34px;
+      gap: 14px;
     }
 
     .result {
@@ -889,14 +896,13 @@
       const hasSuggestions = Array.isArray(current?.suggestions) &&
         current.suggestions.length > 0;
       if (!hasSuggestions) return;
-      const idx = Math.min(suggestionCursor, current.suggestions.length - 1);
+      const total = current.suggestions.length;
+      const idx = suggestionCursor % total;
       const oneSuggestion = current.suggestions[idx];
       suggestionsBox.innerHTML = `<div>${idx + 1}. ${oneSuggestion}</div>`;
       suggestionsBox.classList.remove("hidden");
       suggestionCursor = idx + 1;
-      suggestionsBtn.textContent = suggestionCursor < current.suggestions.length
-        ? "Sugestie următoare"
-        : "Sugestii epuizate";
+      suggestionsBtn.textContent = "Sugestie";
     }
 
     function handleAnswer(button, index, isMulti) {
