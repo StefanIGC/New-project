@@ -179,6 +179,19 @@
       font-size: 0.95rem;
     }
 
+    .suggestions-box {
+      margin-top: 14px;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(250, 204, 21, 0.45);
+      background: rgba(250, 204, 21, 0.1);
+      color: #fde68a;
+      font-size: 0.95rem;
+      line-height: 1.45;
+      display: grid;
+      gap: 8px;
+    }
+
     .feedback.ok { color: var(--ok); }
     .feedback.bad { color: var(--bad); }
 
@@ -333,17 +346,36 @@
       font-size: 0.8rem;
     }
 
-    .hidden { display: none; }
-
-    .top-actions {
-      display: flex;
-      justify-content: flex-end;
+    #abandon-btn {
+      color: #fecaca;
+      border-color: rgba(239, 68, 68, 0.55);
+      background: rgba(239, 68, 68, 0.14);
     }
 
-    .bottom-actions {
+    #abandon-btn:hover {
+      background: rgba(239, 68, 68, 0.22);
+      border-color: rgba(239, 68, 68, 0.75);
+    }
+
+    #suggestions-btn {
+      color: #fde68a;
+      border-color: rgba(250, 204, 21, 0.6);
+      background: rgba(250, 204, 21, 0.16);
+    }
+
+    #suggestions-btn:hover {
+      background: rgba(250, 204, 21, 0.24);
+      border-color: rgba(250, 204, 21, 0.8);
+    }
+
+    .hidden { display: none; }
+
+    .top-controls {
       display: flex;
-      justify-content: flex-end;
-      margin-top: 16px;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+      min-height: 34px;
     }
 
     .result {
@@ -514,8 +546,9 @@
     </section>
 
     <section class="panel hidden" id="quiz-panel">
-      <div class="bottom-actions hidden" id="abandon-wrap">
-        <button class="ghost" id="abandon-btn">Abandonează</button>
+      <div class="top-controls hidden" id="abandon-wrap">
+        <button class="ghost small" id="abandon-btn">Abandonează</button>
+        <button class="ghost small hidden" id="suggestions-btn">Sugestie</button>
       </div>
       <div class="stats quiz-stats">
         <div class="chip">Întrebarea <strong id="q-index">1</strong> / <span id="q-total">10</span></div>
@@ -530,6 +563,7 @@
       </div>
       <div class="question" id="question-text"></div>
       <div class="answers" id="answers"></div>
+      <div class="suggestions-box hidden" id="suggestions-box"></div>
       <div class="feedback" id="feedback"></div>
       <div class="actions">
         <button class="primary hidden" id="next-btn">Următoarea întrebare</button>
@@ -590,6 +624,8 @@
     const questionImages = document.getElementById("question-images");
     const answersEl = document.getElementById("answers");
     const feedbackEl = document.getElementById("feedback");
+    const suggestionsBtn = document.getElementById("suggestions-btn");
+    const suggestionsBox = document.getElementById("suggestions-box");
     const nextBtn = document.getElementById("next-btn");
     const confirmBtn = document.getElementById("confirm-btn");
     const multiHintEl = document.getElementById("multi-hint");
@@ -629,6 +665,7 @@
     let questionLimit = 20;
     let selectedIndices = new Set();
     let wrongAnswers = [];
+    let suggestionCursor = 0;
     const encouragements = [
       "Rodica, ești foarte bravo! 💖 Ștefan te iubește.",
       "Iubu, ești minunată! 🌸 Ștefan te iubește.",
@@ -819,11 +856,22 @@
       });
       feedbackEl.textContent = "";
       feedbackEl.className = "feedback";
+      suggestionsBox.innerHTML = "";
+      suggestionsBox.classList.add("hidden");
+      suggestionsBtn.classList.add("hidden");
+      suggestionCursor = 0;
       nextBtn.classList.add("hidden");
       confirmBtn.classList.add("hidden");
       multiHintEl.style.display = isMulti ? "block" : "none";
       answered = false;
       selectedIndices = new Set();
+
+      const hasSuggestions = Array.isArray(current.suggestions) &&
+        current.suggestions.length > 0;
+      if (hasSuggestions) {
+        suggestionsBtn.classList.remove("hidden");
+        suggestionsBtn.textContent = "Sugestie";
+      }
 
       answersEl.innerHTML = "";
       current.options.forEach((option, index) => {
@@ -834,6 +882,21 @@
         answersEl.appendChild(btn);
       });
       if (isMulti) confirmBtn.classList.remove("hidden");
+    }
+
+    function toggleSuggestions() {
+      const current = quizQuestions[currentIndex];
+      const hasSuggestions = Array.isArray(current?.suggestions) &&
+        current.suggestions.length > 0;
+      if (!hasSuggestions) return;
+      const idx = Math.min(suggestionCursor, current.suggestions.length - 1);
+      const oneSuggestion = current.suggestions[idx];
+      suggestionsBox.innerHTML = `<div>${idx + 1}. ${oneSuggestion}</div>`;
+      suggestionsBox.classList.remove("hidden");
+      suggestionCursor = idx + 1;
+      suggestionsBtn.textContent = suggestionCursor < current.suggestions.length
+        ? "Sugestie următoare"
+        : "Sugestii epuizate";
     }
 
     function handleAnswer(button, index, isMulti) {
@@ -1141,6 +1204,7 @@
     });
     document.getElementById("next-btn").addEventListener("click", goNext);
     confirmBtn.addEventListener("click", confirmMultiAnswer);
+    suggestionsBtn.addEventListener("click", toggleSuggestions);
     document.getElementById("menu-btn").addEventListener("click", showMenu);
     viewQuestionsBtn.addEventListener("click", async () => {
       if (!activeTest) {

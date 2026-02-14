@@ -10,7 +10,13 @@
         "Apărarea imună",
         "Secreția de hormoni"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Transportul oxigenului». Fă un flashcard: «Care este funcția principală a eritrocitelor?» -> «Transportul oxigenului».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Coagularea sângelui», «Apărarea imună»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Transportul oxigenului» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Ce structură este afectată în principal în astmul bronșic?",
@@ -20,7 +26,13 @@
         "Pleura",
         "Traheea"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Bronhiile». Fă un flashcard: «Ce structură este afectată în principal în astmul bronșic?» -> «Bronhiile».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Alveolele», «Pleura»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Bronhiile» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?",
@@ -30,7 +42,13 @@
         "110-130 bătăi/min",
         "140-160 bătăi/min"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «60-100 bătăi/min». Fă un flashcard: «Care este valoarea aproximativă normală a frecvenței cardiace la adult, în repaus?» -> «60-100 bătăi/min».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «30-50 bătăi/min», «110-130 bătăi/min»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «60-100 bătăi/min» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Ce vitamină este esențială pentru coagularea sângelui?",
@@ -40,7 +58,13 @@
         "Vitamina B12",
         "Vitamina D"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Vitamina K». Fă un flashcard: «Ce vitamină este esențială pentru coagularea sângelui?» -> «Vitamina K».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Vitamina C», «Vitamina B12»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Vitamina K» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Care este organul principal pentru detoxifierea medicamentelor?",
@@ -50,7 +74,13 @@
         "Inima",
         "Splina"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Ficatul». Fă un flashcard: «Care este organul principal pentru detoxifierea medicamentelor?» -> «Ficatul».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Rinichiul», «Inima»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Ficatul» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Ce tip de microorganism cauzează tuberculoza?",
@@ -60,7 +90,13 @@
         "Fung",
         "Parazit"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de etiologie (ce produce boala): citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Bacterie». Fă un flashcard: «Ce tip de microorganism cauzează tuberculoza?» -> «Bacterie».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Virus», «Fung»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Bacterie» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Ce arteră este implicată în infarctul miocardic?",
@@ -70,7 +106,13 @@
         "Artera femurală",
         "Artera renală"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Arterele coronare». Fă un flashcard: «Ce arteră este implicată în infarctul miocardic?» -> «Arterele coronare».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Artera carotidă», «Artera femurală»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Arterele coronare» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Care este unitatea funcțională a rinichiului?",
@@ -80,7 +122,13 @@
         "Alveola",
         "Osteonul"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Nefronul». Fă un flashcard: «Care este unitatea funcțională a rinichiului?» -> «Nefronul».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Neuronul», «Alveola»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Nefronul» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Ce hormon scade glicemia?",
@@ -90,7 +138,13 @@
         "Adrenalina",
         "Cortizolul"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Insulina». Fă un flashcard: «Ce hormon scade glicemia?» -> «Insulina».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Glucagonul», «Adrenalina»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Insulina» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     },
     {
       "text": "Care este principalul rol al plămânilor?",
@@ -100,7 +154,13 @@
         "Digestia grăsimilor",
         "Producerea de hormoni"
       ],
-      "correct": 0
+      "correct": 0,
+      "suggestions": [
+        "Abordează întrebarea ca pe un item de concept de bază: citește întâi cuvântul-cheie din enunț (ex. «principal», «de bază», «corect/incorect», «complicație», «agent etiologic»), apoi compară opțiunile strict cu cerința.",
+        "Răspunsul care trebuie fixat în memorie pentru această întrebare este: «Schimbul de gaze (O2/CO2)». Fă un flashcard: «Care este principalul rol al plămânilor?» -> «Schimbul de gaze (O2/CO2)».",
+        "Capcană frecventă la examen: alegerea unei opțiuni plauzibile dar nespecifice (de ex. «Filtrarea sângelui», «Digestia grăsimilor»). Elimină variantele care nu răspund exact formulării din enunț.",
+        "Consolidare rapidă: explică în 1 propoziție, cu voce tare, de ce «Schimbul de gaze (O2/CO2)» este corect și de ce o altă variantă nu este. Această tehnică îmbunătățește retenția pe termen lung."
+      ]
     }
   ]
 }
