@@ -101,6 +101,31 @@
       margin: 16px 0 24px 0;
     }
 
+    .question-media-wrap {
+      margin-top: 14px;
+    }
+
+    .question-media {
+      width: min(520px, 100%);
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.22);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+      background: rgba(255,255,255,0.05);
+    }
+
+    .question-media-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .qa-image {
+      width: min(420px, 100%);
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.2);
+      margin: 8px 0 10px 0;
+      display: block;
+    }
+
     .answers {
       display: grid;
       gap: 12px;
@@ -500,6 +525,9 @@
         <div class="progress-bar" id="progress-bar"></div>
       </div>
       <div class="sub" id="multi-hint" style="margin-top:12px; display:none;">Selectează toate răspunsurile corecte.</div>
+      <div class="question-media-wrap">
+        <div id="question-images" class="question-media-list"></div>
+      </div>
       <div class="question" id="question-text"></div>
       <div class="answers" id="answers"></div>
       <div class="feedback" id="feedback"></div>
@@ -559,6 +587,7 @@
     const scoreEl = document.getElementById("score");
     const progressBarEl = document.getElementById("progress-bar");
     const questionText = document.getElementById("question-text");
+    const questionImages = document.getElementById("question-images");
     const answersEl = document.getElementById("answers");
     const feedbackEl = document.getElementById("feedback");
     const nextBtn = document.getElementById("next-btn");
@@ -776,6 +805,18 @@
         progressBarEl.style.width = `${percent}%`;
       }
       questionText.textContent = current.text;
+      const imgList = Array.isArray(current.images) && current.images.length
+        ? current.images
+        : (current.image ? [current.image] : []);
+      questionImages.innerHTML = "";
+      imgList.forEach((src, i) => {
+        const img = document.createElement("img");
+        img.className = "question-media";
+        img.loading = "lazy";
+        img.alt = `Imagine întrebare ${currentIndex + 1}${imgList.length > 1 ? ` (${i + 1})` : ""}`;
+        img.src = src;
+        questionImages.appendChild(img);
+      });
       feedbackEl.textContent = "";
       feedbackEl.className = "feedback";
       nextBtn.classList.add("hidden");
@@ -982,7 +1023,10 @@
           const cls = correctIndices.includes(i) ? "qa-option correct" : "qa-option";
           return `<li class="${cls}">${opt}</li>`;
         }).join("");
+        const qaImgs = Array.isArray(q.images) && q.images.length ? q.images : (q.image ? [q.image] : []);
+        const imageHtml = qaImgs.map((src, i) => `<img class="qa-image" src="${src}" alt="Imagine întrebare ${idx + 1}${qaImgs.length > 1 ? ` (${i + 1})` : ""}" loading="lazy" />`).join("");
         item.innerHTML = `<div class=\"question\"><strong>${idx + 1}.</strong> ${q.text}</div>
+          ${imageHtml}
           <ul class=\"qa-options\">${optionsHtml}</ul>
           <div class=\"answer\">Răspuns corect: ${correctText}</div>`;
         qaBody.appendChild(item);

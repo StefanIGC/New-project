@@ -1,0 +1,271 @@
+{
+  "id": "boli-infectioase-copii",
+  "name": "Boli infectioase copii",
+  "questions": [
+    {
+      "text": "Indicați perioadele clinice ale rujeolei:",
+      "options": [
+        "Prodromală (preeruptivă)",
+        "Eruptivă",
+        "Icterică",
+        "Spasmodică",
+        "Convalescență"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Indicați terapia de urgență la etapa prespitalicească în infecția cu RS-virus, formă severă:",
+      "options": [
+        "Oxigen umidificat",
+        "Bronholitice (salbutamol)",
+        "Antivirale",
+        "Antibiotice i.m.",
+        "Multivitamine"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "text": "Alegeți grupa de vârstă cea mai afectată de virusurile paragripale:",
+      "options": [
+        "Nou-născuții",
+        "Copiii mici (1-3 ani)",
+        "Școlarii (7-11 ani)",
+        "Adolescenții",
+        "Preșcolarii"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Alegeți afirmația incorectă referitor la encefalita herpetică la copii:",
+      "options": [
+        "Se caracterizează prin evoluție gravă și decese frecvente",
+        "Prognosticul este întotdeauna nefavorabil",
+        "Letalitatea scade în urma tratamentului precoce cu aciclovir",
+        "50% dintre supraviețuitori vor rămâne cu sechele neurologice importante",
+        "Poate afecta doar nou-născuții"
+      ],
+      "correct": 4
+    },
+    {
+      "text": "Alegeți afirmațiile corecte referitor la infecția herpetică:",
+      "options": [
+        "Se disting forme congenitale și forme dobândite",
+        "Infecția herpetică afectează în mod special articulațiile",
+        "Cea mai frecventă formă clinică a infecției herpetice la copii este gingivostomatita herpetică",
+        "Encefalita herpetică reprezintă una dintre cele mai severe forme clinice ale infecției herpetice",
+        "Herpesul labial este o formă rar întâlnită"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Alegeți agentul etiologic al herpanginei:",
+      "options": [
+        "Virusul Coxsackie A",
+        "Poliovirusul",
+        "Virusul citomegalic",
+        "Virusul Epstein-Barr",
+        "Virusul varicelozosterian"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Alegeți care dintre Esch. coli diareegene mai frecvent provoacă boala diareică acută la sugari:",
+      "options": [
+        "Enteropatogenă",
+        "Enteroinvazivă",
+        "Enterotoxigenă",
+        "Enterohemoragică",
+        "Enteroagregativă"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Alegeți cele mai afectate sisteme în pertussis:",
+      "options": [
+        "Glandular",
+        "Respirator",
+        "Nervos central",
+        "Renourinar",
+        "Cardiovascular"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Alegeți complicația difteriei faringoamigdaliene, care poate evolua spre deces:",
+      "options": [
+        "Nefroza toxică",
+        "Polineuropatia",
+        "Miocardita toxică",
+        "Nefrita toxică",
+        "Hepatita toxică"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeți complicațiile rehidratării perfuzionale la copiii cu boală diareică acută:",
+      "options": [
+        "Pneumonie",
+        "Septicemie",
+        "Flebită",
+        "Traumă psihică",
+        "Pielonefrită"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "text": "Alegeți complicațiile, care sunt posibile la copiii mici cu meningită meningococică (meningoencefalită) tratată tardiv:",
+      "options": [
+        "Hidrocefalie",
+        "Piocefalie",
+        "Pareze, paralizii",
+        "Pielonefrită",
+        "Piodermie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeți condiția de apariție a rujeolei mitigate:",
+      "options": [
+        "Copii vaccinați împotriva rujeolei",
+        "La sugari",
+        "La adolescenți",
+        "După administrarea de gamaglobulină sau plasmă",
+        "După tratament cu imunodepresante"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Alegeți contingentele de pacienți cu varicelă, la care prognosticul este rezervat:",
+      "options": [
+        "Gravide",
+        "Adulți",
+        "Pacienții cu infecție HIV",
+        "Preșcolari",
+        "Copii mici"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Alegeți criteriile generale de gravitate în shigeloza la copiii de vârstă fragedă:",
+      "options": [
+        "Dereglări metabolice",
+        "Dereglări cardiovasculare",
+        "Hepatosplenomegalie",
+        "Sindromul respirator",
+        "Deshidratare severă"
+      ],
+      "correct": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "text": "Alegeți formele clinice ale herpesului mucocutanat:",
+      "options": [
+        "Eritem Rozenberg",
+        "Keratoconjunctivită herpetică",
+        "Eczemă herpetică (Kaposi-Juliusberg)",
+        "Sindromul Layell",
+        "Gingivostomatită herpetică"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Alegeți grupul de preparate care nu sunt utilizate în tratarea shigelozei la copii:",
+      "options": [
+        "Antibiotice",
+        "Enzime digestive",
+        "Antidiareice",
+        "Eubiotice",
+        "Vitamine"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeți indicația de bază în tratamentul infecției intestinale acute la copiii mici:",
+      "options": [
+        "Preparate antidiareice (Imodium, Lopedium)",
+        "Cărbune activat",
+        "Antivomitive",
+        "Rehidratare orală",
+        "Antivirale"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Alegeți indicația de bază în tratamentul specific al difteriei:",
+      "options": [
+        "Antibiotice",
+        "Imunoglobulină",
+        "Ser antidifteric",
+        "Hormoni",
+        "Plasmă"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Alegeți maladiile corespunzătoare, care trebuie diferențiate de hepatita virală A în perioada preicterică:",
+      "options": [
+        "IRA",
+        "Stări alergice",
+        "Toxiinfecții alimentare",
+        "Febră reumatismală",
+        "Apendicita"
+      ],
+      "correct": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "text": "Alegeți maladiile în cazurile, în care apare enantemul:",
+      "image": "tests/images/infectioase-q20.jpg",
+      "options": [
+        "Oreionul",
+        "Rujeola",
+        "Varicela",
+        "Pertussisul",
+        "Scarlatina"
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    }
+  ]
+}
