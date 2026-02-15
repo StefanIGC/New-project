@@ -888,7 +888,6 @@
         btn.addEventListener("click", () => handleAnswer(btn, index, isMulti));
         answersEl.appendChild(btn);
       });
-      if (isMulti) confirmBtn.classList.remove("hidden");
     }
 
     function toggleSuggestions() {
@@ -902,13 +901,11 @@
       suggestionsBox.innerHTML = `<div>${idx + 1}. ${oneSuggestion}</div>`;
       suggestionsBox.classList.remove("hidden");
       suggestionCursor = idx + 1;
-      suggestionsBtn.textContent = "Sugestie";
+      suggestionsBtn.textContent = "Următoarea sugestie";
     }
 
     function handleAnswer(button, index, isMulti) {
       if (answered) return;
-      const current = quizQuestions[currentIndex];
-      const correctIndices = getCorrectIndices(current);
       const buttons = Array.from(answersEl.children);
 
       if (isMulti) {
@@ -919,41 +916,26 @@
           selectedIndices.add(index);
           button.classList.add("selected");
         }
-        return;
+      } else {
+        buttons.forEach(btn => btn.classList.remove("selected"));
+        selectedIndices.clear();
+        selectedIndices.add(index);
+        button.classList.add("selected");
       }
 
-      answered = true;
-      buttons.forEach((btn, idx) => {
-        if (correctIndices.includes(idx)) {
-          btn.classList.add("correct");
-        }
-      });
-
-      if (correctIndices.includes(index)) {
-        score += 1;
-        scoreEl.textContent = score;
-        feedbackEl.textContent = "Corect!";
-        feedbackEl.classList.add("ok");
-        nextBtn.classList.remove("hidden");
+      if (selectedIndices.size > 0) {
+        confirmBtn.classList.remove("hidden");
       } else {
-        button.classList.add("wrong");
-        if (navigator.vibrate) navigator.vibrate(50);
-        const correctText = correctIndices.map(i => current.options[i]).join(", ");
-        feedbackEl.textContent = `Greșit. Răspuns corect: ${correctText}.`;
-        feedbackEl.classList.add("bad");
-        nextBtn.classList.remove("hidden");
-        wrongAnswers.push({
-          question: current.text,
-          correct: correctText
-        });
+        confirmBtn.classList.add("hidden");
       }
     }
 
-    function confirmMultiAnswer() {
+    function confirmAnswer() {
       if (answered) return;
       const current = quizQuestions[currentIndex];
       const correctIndices = getCorrectIndices(current).sort();
       const selected = Array.from(selectedIndices).sort();
+      if (selected.length === 0) return;
       const buttons = Array.from(answersEl.children);
       answered = true;
       confirmBtn.classList.add("hidden");
@@ -1209,7 +1191,7 @@
       startQuiz();
     });
     document.getElementById("next-btn").addEventListener("click", goNext);
-    confirmBtn.addEventListener("click", confirmMultiAnswer);
+    confirmBtn.addEventListener("click", confirmAnswer);
     suggestionsBtn.addEventListener("click", toggleSuggestions);
     document.getElementById("menu-btn").addEventListener("click", showMenu);
     viewQuestionsBtn.addEventListener("click", async () => {
